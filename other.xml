@@ -6,26 +6,26 @@
     <description>News digest covering Other.</description>
     <atom:link href="https://www.google.com" rel="self" type="application/rss+xml"/>
     <item>
-      <title>Environmental Contaminants (Microplastics)</title>
+      <title>Peptide Therapies &amp; Health Tech</title>
       <link>https://www.google.com</link>
       <description>&lt;ul&gt;
-  &lt;li&gt;&lt;b&gt;Summary:&lt;/b&gt; The Environmental Protection Agency (EPA) is moving to list microplastics as contaminants in water, reflecting increasing awareness of their potential health and environmental risks, which could have indirect implications for pharmaceutical manufacturing and safety.&lt;/li&gt;
+  &lt;li&gt;&lt;b&gt;Summary:&lt;/b&gt; Health tech companies, including &lt;b&gt;Noom&lt;/b&gt;, are expanding into peptide therapies beyond traditional weight loss drugs, capitalizing on a growing trend. This shift is accompanied by FDA scrutiny on peptide compounding and related regulatory issues.&lt;/li&gt;
   &lt;li&gt;&lt;b&gt;MoAs:&lt;/b&gt; N/A&lt;/li&gt;
-  &lt;li&gt;&lt;b&gt;Sources:&lt;/b&gt; &lt;a href="https://www.statnews.com/2026/04/02/microplastics-in-water-epa-contaminant-list/?utm_campaign=rss"&gt;Stat News&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;b&gt;Sources:&lt;/b&gt; &lt;a href="https://endpoints.news/the-peptide-fad-lures-health-tech/"&gt;Endpoints News&lt;/a&gt;, &lt;a href="https://endpoints.news/noom-plans-push-into-peptides-beyond-weight-loss-drugs/"&gt;Endpoints News&lt;/a&gt;, &lt;a href="https://www.statnews.com/pharmalot/2026/04/01/fda-compounding-peptides-iran-war-trial-recruitment/?utm_campaign=rss"&gt;STAT News&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;</description>
-      <guid isPermaLink="false">4b11945ce288563b8fb1e22717b44cc5</guid>
-      <pubDate>Thu, 02 Apr 2026 21:42:28 GMT</pubDate>
+      <guid isPermaLink="false">9743a7c7e44ea9db4d8da33d54669433</guid>
+      <pubDate>Thu, 02 Apr 2026 22:09:16 GMT</pubDate>
     </item>
     <item>
-      <title>Chemistry &amp; Molecular Properties</title>
+      <title>OpenEvidence (Prior Authorization Tech)</title>
       <link>https://www.google.com</link>
       <description>&lt;ul&gt;
-  &lt;li&gt;&lt;b&gt;Summary:&lt;/b&gt; A scientific blog post explores the concept of 'chameleonicity' in chemistry, where molecules exhibit changing properties under different conditions, which is crucial for pharmaceutical applications like drug solubility and bioavailability in drug design.&lt;/li&gt;
+  &lt;li&gt;&lt;b&gt;Summary:&lt;/b&gt; &lt;b&gt;OpenEvidence&lt;/b&gt; is expanding its technology platform into prior authorization and prescription routing, aiming to streamline administrative processes in healthcare and improve efficiency.&lt;/li&gt;
   &lt;li&gt;&lt;b&gt;MoAs:&lt;/b&gt; N/A&lt;/li&gt;
-  &lt;li&gt;&lt;b&gt;Sources:&lt;/b&gt; &lt;a href="https://www.science.org/content/blog-post/say-chameleonicity-three-times-fast-or-read-post"&gt;Science&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;b&gt;Sources:&lt;/b&gt; &lt;a href="https://endpoints.news/openevidence-moves-into-prior-authorization-and-prescriptions-routing/"&gt;Endpoints News&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;</description>
-      <guid isPermaLink="false">de213e228a5228c1d7eebeccd05a5f41</guid>
-      <pubDate>Thu, 02 Apr 2026 21:42:28 GMT</pubDate>
+      <guid isPermaLink="false">0e6cf4aa5673c0bdd5b1802621edcddc</guid>
+      <pubDate>Thu, 02 Apr 2026 22:09:16 GMT</pubDate>
     </item>
   </channel>
 </rss>
