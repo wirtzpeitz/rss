@@ -6,26 +6,26 @@
     <description>News digest covering Corporate Events.</description>
     <atom:link href="https://www.google.com" rel="self" type="application/rss+xml"/>
     <item>
-      <title>Eli Lilly Corporate Resignations</title>
+      <title>Corporate Restructuring (BioNTech)</title>
       <link>https://www.google.com</link>
       <description>&lt;ul&gt;
-  &lt;li&gt;&lt;b&gt;Summary:&lt;/b&gt; &lt;b&gt;Eli Lilly&lt;/b&gt; has seen the retirement of its chief technology officer after 35 years, part of executive changes at the company. This corporate resignation highlights leadership transitions within major biopharma firms.&lt;/li&gt;
+  &lt;li&gt;&lt;b&gt;Summary:&lt;/b&gt; &lt;b&gt;BioNTech&lt;/b&gt; is signaling the closure of its mRNA manufacturing facility in Singapore, as part of a restructuring to align capacity with reduced demand following the pandemic peak.&lt;/li&gt;
   &lt;li&gt;&lt;b&gt;MoAs:&lt;/b&gt; N/A&lt;/li&gt;
-  &lt;li&gt;&lt;b&gt;Sources:&lt;/b&gt; &lt;a href="https://endpoints.news/eli-lillys-chief-technology-officer-retires-after-35-years-astellas-strategy-exec-resigns/"&gt;Endpoints News&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;b&gt;Sources:&lt;/b&gt; &lt;a href="https://www.fiercepharma.com/pharma/biontech-telegraphs-closure-singapore-mrna-facility-amid-efforts-align-capacity"&gt;Fierce Pharma&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;</description>
-      <guid isPermaLink="false">1ee63f31919d65c4c4ce932d01d2d34d</guid>
-      <pubDate>Thu, 02 Apr 2026 11:13:53 GMT</pubDate>
+      <guid isPermaLink="false">3fd3380144653f69c4d42fba092c7426</guid>
+      <pubDate>Thu, 02 Apr 2026 21:42:28 GMT</pubDate>
     </item>
     <item>
-      <title>Biotech Takeovers (Cytokinetics/Biogen)</title>
+      <title>Corporate Acquisition (OpenLoop Health)</title>
       <link>https://www.google.com</link>
       <description>&lt;ul&gt;
-  &lt;li&gt;&lt;b&gt;Summary:&lt;/b&gt; There is ongoing speculation or news about potential takeovers involving &lt;b&gt;Cytokinetics&lt;/b&gt; and &lt;b&gt;Biogen&lt;/b&gt;, indicating consolidation trends in the biotech industry. Such M&amp;A activities could reshape the competitive landscape and impact drug development pipelines.&lt;/li&gt;
+  &lt;li&gt;&lt;b&gt;Summary:&lt;/b&gt; &lt;b&gt;OpenLoop Health&lt;/b&gt; has completed the acquisition of nutrition startup &lt;b&gt;Season Health&lt;/b&gt;, expanding its offerings in the digital health and nutrition space.&lt;/li&gt;
   &lt;li&gt;&lt;b&gt;MoAs:&lt;/b&gt; N/A&lt;/li&gt;
-  &lt;li&gt;&lt;b&gt;Sources:&lt;/b&gt; &lt;a href="https://www.statnews.com/2026/04/02/biotech-takeovers-cytokinetics-biogen/?utm_campaign=rss"&gt;STAT News&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;b&gt;Sources:&lt;/b&gt; &lt;a href="https://endpoints.news/openloop-health-has-acquired-nutrition-startup-season-health/"&gt;Endpoints News&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;</description>
-      <guid isPermaLink="false">fbf7c7f4981518c7b87720c83657d7ac</guid>
-      <pubDate>Thu, 02 Apr 2026 11:13:53 GMT</pubDate>
+      <guid isPermaLink="false">07ae2b60eb091450f0be63665d46ea79</guid>
+      <pubDate>Thu, 02 Apr 2026 21:42:28 GMT</pubDate>
     </item>
   </channel>
 </rss>
