@@ -6,37 +6,114 @@
     <description>News digest covering Industry Events.</description>
     <atom:link href="https://www.google.com" rel="self" type="application/rss+xml"/>
     <item>
-      <title>Trump 100% Pharma Tariffs</title>
+      <title>Trump 100% Drug Tariffs</title>
       <link>https://www.google.com</link>
       <description>&lt;ul&gt;
-  &lt;li&gt;&lt;b&gt;Summary:&lt;/b&gt; Former President Trump has signed an order imposing 100% tariffs on imported pharmaceuticals from countries without trade deals, with several exemptions. This policy aims to boost domestic manufacturing but may affect drug supply chains and pricing, with reports detailing the potential impacts and exceptions.&lt;/li&gt;
+  &lt;li&gt;&lt;b&gt;Summary:&lt;/b&gt; Former President Trump signs an order imposing 100% tariffs on imported drugs from countries without trade deals, with exceptions for certain drugs and countries. This policy shift, under Section 232, aims to address drug pricing but may delay European drug launches and impact pharmaceutical trade dynamics. Companies without Most-Favored-Nation (MFN) pricing agreements are targeted, raising concerns about market access and supply chain disruptions.&lt;/li&gt;
   &lt;li&gt;&lt;b&gt;MoAs:&lt;/b&gt; N/A&lt;/li&gt;
-  &lt;li&gt;&lt;b&gt;Sources:&lt;/b&gt; &lt;a href="https://www.fiercepharma.com/pharma/trump-slaps-100-duties-imported-drugs-there-are-plenty-exceptions"&gt;Fierce Pharma&lt;/a&gt;, &lt;a href="https://endpoints.news/trump-signs-order-to-put-100-pharma-tariffs-on-drugs-countries-without-trade-deals/"&gt;Endpoints News&lt;/a&gt;, &lt;a href="https://www.statnews.com/2026/04/02/trump-pharma-tariffs-100-percent-on-some-imported-drugs-exemptions/?utm_campaign=rss"&gt;Stat News&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;b&gt;Sources:&lt;/b&gt; &lt;a href="https://www.fiercepharma.com/pharma/trump-slaps-100-duties-imported-drugs-there-are-plenty-exceptions"&gt;Fierce Pharma&lt;/a&gt;, &lt;a href="https://endpoints.news/trump-signs-order-to-put-100-pharma-tariffs-on-drugs-countries-without-trade-deals/"&gt;Endpoints News&lt;/a&gt;, &lt;a href="https://www.statnews.com/2026/04/02/trump-pharma-tariffs-100-percent-on-some-imported-drugs-exemptions/?utm_campaign=rss"&gt;STAT News&lt;/a&gt;, &lt;a href="https://www.fiercepharma.com/pharma/trump-set-impose-100-tariff-drugs-companies-have-not-struck-mfn-deals"&gt;Fierce Pharma&lt;/a&gt;, &lt;a href="https://endpoints.news/trump-is-preparing-100-tariffs-on-some-drugmakers-documents-show/"&gt;Endpoints News&lt;/a&gt;, &lt;a href="https://www.statnews.com/pharmalot/2026/04/02/trump-tariff-plans-lilly-obesity-pill-layoffs/?utm_campaign=rss"&gt;STAT News&lt;/a&gt;, &lt;a href="https://www.statnews.com/2026/04/01/trump-section-232-tariffs-imported-brand-drugs/?utm_campaign=rss"&gt;STAT News&lt;/a&gt;, &lt;a href="https://www.biospace.com/business/editorial-pharmas-reluctance-to-serve-europe-to-dodge-mfn-drug-pricing-is-chilling"&gt;BioSpace&lt;/a&gt;, &lt;a href="https://www.biospace.com/business/trumps-mfn-pricing-expected-to-delay-more-european-drug-launches"&gt;BioSpace&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;</description>
-      <guid isPermaLink="false">4ec8ebcc56d61782dc413aa6b50026fe</guid>
-      <pubDate>Thu, 02 Apr 2026 21:42:28 GMT</pubDate>
+      <guid isPermaLink="false">944937fa8137f538fca83694ffb50e3e</guid>
+      <pubDate>Thu, 02 Apr 2026 22:09:16 GMT</pubDate>
     </item>
     <item>
-      <title>US-UK Pharma Trade Deal</title>
+      <title>DOJ 340B Dispute</title>
       <link>https://www.google.com</link>
       <description>&lt;ul&gt;
-  &lt;li&gt;&lt;b&gt;Summary:&lt;/b&gt; The UK government has secured a trade deal with the US that ensures zero tariffs on pharmaceuticals, as part of efforts to re-attract investment and strengthen post-Brexit trade relations in the biopharma sector.&lt;/li&gt;
+  &lt;li&gt;&lt;b&gt;Summary:&lt;/b&gt; The Department of Justice has intervened in favor of pharmaceutical companies in a legal dispute over the 340B drug discount program. This decision could influence pricing policies and access to medications for covered entities.&lt;/li&gt;
   &lt;li&gt;&lt;b&gt;MoAs:&lt;/b&gt; N/A&lt;/li&gt;
-  &lt;li&gt;&lt;b&gt;Sources:&lt;/b&gt; &lt;a href="https://www.fiercepharma.com/pharma/uk-government-signs-us-uk-pharma-deal-ensuring-0-drug-tariffs-britain-looks-re-attract"&gt;Fierce Pharma&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;b&gt;Sources:&lt;/b&gt; &lt;a href="https://endpoints.news/doj-weighs-in-favor-of-pharma-on-340b-dispute/"&gt;Endpoints News&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;</description>
-      <guid isPermaLink="false">d729ce738cf3b413d9ab4d0435dab861</guid>
-      <pubDate>Thu, 02 Apr 2026 21:42:28 GMT</pubDate>
+      <guid isPermaLink="false">266d2b36caa06b7d1d594e7ecf319751</guid>
+      <pubDate>Thu, 02 Apr 2026 22:09:16 GMT</pubDate>
     </item>
     <item>
-      <title>Drug Price Negotiations</title>
+      <title>FDA AI/Medical Device Policy</title>
       <link>https://www.google.com</link>
       <description>&lt;ul&gt;
-  &lt;li&gt;&lt;b&gt;Summary:&lt;/b&gt; Drugmakers are engaging in negotiations with the White House to reach deals on drug prices, which could influence future pricing strategies under current regulatory frameworks and address cost concerns.&lt;/li&gt;
+  &lt;li&gt;&lt;b&gt;Summary:&lt;/b&gt; The FDA is evolving its regulatory stance on AI and breakthrough medical devices, with new policies aimed at balancing innovation and safety in health technology. Discussions focus on how to expedite approvals while ensuring robust oversight.&lt;/li&gt;
   &lt;li&gt;&lt;b&gt;MoAs:&lt;/b&gt; N/A&lt;/li&gt;
-  &lt;li&gt;&lt;b&gt;Sources:&lt;/b&gt; &lt;a href="https://www.statnews.com/2026/04/02/drugmakers-white-house-negotiating-deals-drug-prices/?utm_campaign=rss"&gt;Stat News&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;b&gt;Sources:&lt;/b&gt; &lt;a href="https://www.statnews.com/2026/04/02/fda-ai-breakthrough-medical-device-stat-health-tech/?utm_campaign=rss"&gt;STAT News&lt;/a&gt;, &lt;a href="https://www.statnews.com/2026/04/02/how-fda-stance-breakthrough-ai-medical-device-evolving/?utm_campaign=rss"&gt;STAT News&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;</description>
-      <guid isPermaLink="false">536bebe45498580cad15b6396fff886b</guid>
-      <pubDate>Thu, 02 Apr 2026 21:42:28 GMT</pubDate>
+      <guid isPermaLink="false">14973dee649183367df4bcb6ee3f0c7f</guid>
+      <pubDate>Thu, 02 Apr 2026 22:09:16 GMT</pubDate>
+    </item>
+    <item>
+      <title>AI in Biotech &amp; Drug Development</title>
+      <link>https://www.google.com</link>
+      <description>&lt;ul&gt;
+  &lt;li&gt;&lt;b&gt;Summary:&lt;/b&gt; AI is increasingly central to biotech and drug development, with debates on its ethical and practical implications. Companies like &lt;b&gt;Insilico Medicine&lt;/b&gt; are leveraging AI for drug discovery, and biotech IPOs are rebounding as AI integrates into R&amp;D processes.&lt;/li&gt;
+  &lt;li&gt;&lt;b&gt;MoAs:&lt;/b&gt; N/A&lt;/li&gt;
+  &lt;li&gt;&lt;b&gt;Sources:&lt;/b&gt; &lt;a href="https://endpoints.news/rosie-the-dogs-cancer-story-stirs-an-ai-bio-debate/"&gt;Endpoints News&lt;/a&gt;, &lt;a href="https://www.statnews.com/2026/04/02/ai-deepfake-x-ray-detection-status-report-alex-hogan/?utm_campaign=rss"&gt;STAT News&lt;/a&gt;, &lt;a href="https://www.statnews.com/2026/04/01/ai-ambient-scribes-modest-time-savings-clinical-documentation/?utm_campaign=rss"&gt;STAT News&lt;/a&gt;, &lt;a href="https://www.statnews.com/2026/04/01/insilico-medicine-ceo-biotech-drug-development-ai-prognosis/?utm_campaign=rss"&gt;STAT News&lt;/a&gt;, &lt;a href="https://www.biospace.com/business/biotech-ipos-rebound-as-ai-takes-a-more-central-role-in-drug-development"&gt;BioSpace&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;</description>
+      <guid isPermaLink="false">e2f4a57d31012d17eba035c5c55259d7</guid>
+      <pubDate>Thu, 02 Apr 2026 22:09:16 GMT</pubDate>
+    </item>
+    <item>
+      <title>FDA Commissioner &amp; Policy Direction</title>
+      <link>https://www.google.com</link>
+      <description>&lt;ul&gt;
+  &lt;li&gt;&lt;b&gt;Summary:&lt;/b&gt; FDA Commissioner &lt;b&gt;Makary&lt;/b&gt; marks his one-year anniversary with a focus on accelerating new drug trial processes to counter competition from China. However, the agency's policy direction remains uncertain, leaving drugmakers anticipating regulatory shifts.&lt;/li&gt;
+  &lt;li&gt;&lt;b&gt;MoAs:&lt;/b&gt; N/A&lt;/li&gt;
+  &lt;li&gt;&lt;b&gt;Sources:&lt;/b&gt; &lt;a href="https://www.statnews.com/2026/04/01/fda-commissioner-makary-one-year-anniversary-speech-to-staff/?utm_campaign=rss"&gt;STAT News&lt;/a&gt;, &lt;a href="https://endpoints.news/to-counter-china-fda-chief-wants-to-speed-new-drug-trial-process/"&gt;Endpoints News&lt;/a&gt;, &lt;a href="https://www.biopharmadive.com/news/fda-after-turbulent-year-leaves-drugmakers-guessing-on-its-direction/815482/"&gt;BioPharma Dive&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;</description>
+      <guid isPermaLink="false">6fef2387454b002222cbfe427535c457</guid>
+      <pubDate>Thu, 02 Apr 2026 22:09:16 GMT</pubDate>
+    </item>
+    <item>
+      <title>FDA Advisory Committee Conflicts</title>
+      <link>https://www.google.com</link>
+      <description>&lt;ul&gt;
+  &lt;li&gt;&lt;b&gt;Summary:&lt;/b&gt; A government watchdog is urging the FDA to finalize guidance on conflicts of interest for advisory committees, aiming to improve transparency and reduce biases in drug approval processes.&lt;/li&gt;
+  &lt;li&gt;&lt;b&gt;MoAs:&lt;/b&gt; N/A&lt;/li&gt;
+  &lt;li&gt;&lt;b&gt;Sources:&lt;/b&gt; &lt;a href="https://www.statnews.com/pharmalot/2026/04/01/government-watchdog-urges-fda-finalize-guidance-committee-conflicts/?utm_campaign=rss"&gt;STAT News&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;</description>
+      <guid isPermaLink="false">eed942bd340e1fa5c29553f7cb78793e</guid>
+      <pubDate>Thu, 02 Apr 2026 22:09:16 GMT</pubDate>
+    </item>
+    <item>
+      <title>CRISPR Therapy Challenges</title>
+      <link>https://www.google.com</link>
+      <description>&lt;ul&gt;
+  &lt;li&gt;&lt;b&gt;Summary:&lt;/b&gt; The development of custom CRISPR therapies faces significant hurdles, including manufacturing complexities and regulatory challenges, making it harder than initially anticipated.&lt;/li&gt;
+  &lt;li&gt;&lt;b&gt;MoAs:&lt;/b&gt; N/A&lt;/li&gt;
+  &lt;li&gt;&lt;b&gt;Sources:&lt;/b&gt; &lt;a href="https://endpoints.news/making-custom-crispr-therapies-could-be-harder-than-initially-thought/"&gt;Endpoints News&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;</description>
+      <guid isPermaLink="false">26fdd9579a6821b809cf7d2faa668015</guid>
+      <pubDate>Thu, 02 Apr 2026 22:09:16 GMT</pubDate>
+    </item>
+    <item>
+      <title>Biotech Layoffs &amp; Slowdown</title>
+      <link>https://www.google.com</link>
+      <description>&lt;ul&gt;
+  &lt;li&gt;&lt;b&gt;Summary:&lt;/b&gt; The biotech industry continues to face significant challenges, with layoffs persisting and a slowdown evident in Q1 2025. This trend reflects broader economic pressures and funding constraints affecting the sector.&lt;/li&gt;
+  &lt;li&gt;&lt;b&gt;MoAs:&lt;/b&gt; N/A&lt;/li&gt;
+  &lt;li&gt;&lt;b&gt;Sources:&lt;/b&gt; &lt;a href="https://www.fiercebiotech.com/biotech/biotech-layoffs-continue-slowdown-q125"&gt;Fierce Biotech&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;</description>
+      <guid isPermaLink="false">5596fc7cc77563aa767d99c2469781a9</guid>
+      <pubDate>Thu, 02 Apr 2026 22:09:16 GMT</pubDate>
+    </item>
+    <item>
+      <title>CDC Vaccine Policy Influence</title>
+      <link>https://www.google.com</link>
+      <description>&lt;ul&gt;
+  &lt;li&gt;&lt;b&gt;Summary:&lt;/b&gt; A year after a controversial incident, the influence on &lt;b&gt;CDC&lt;/b&gt;'s vaccine policy, particularly by external figures, is examined. This highlights ongoing debates and challenges in public health decision-making.&lt;/li&gt;
+  &lt;li&gt;&lt;b&gt;MoAs:&lt;/b&gt; N/A&lt;/li&gt;
+  &lt;li&gt;&lt;b&gt;Sources:&lt;/b&gt; &lt;a href="https://www.biopharmadive.com/news/ACIP-hijacked-plane-cdc-rfk-jrs-influence-vaccine-policy-one-year-later/815611/"&gt;Biopharma Dive&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;</description>
+      <guid isPermaLink="false">7da8c769c916a080b1390ac913d155d2</guid>
+      <pubDate>Thu, 02 Apr 2026 22:09:16 GMT</pubDate>
+    </item>
+    <item>
+      <title>R&amp;D Innovation &amp; AI Skills</title>
+      <link>https://www.google.com</link>
+      <description>&lt;ul&gt;
+  &lt;li&gt;&lt;b&gt;Summary:&lt;/b&gt; The pressure to innovate in drug discovery is intensifying, with R&amp;D professionals needing to adapt to a skills-based, AI-driven economy. This involves tackling big challenges and making strategic career moves.&lt;/li&gt;
+  &lt;li&gt;&lt;b&gt;MoAs:&lt;/b&gt; N/A&lt;/li&gt;
+  &lt;li&gt;&lt;b&gt;Sources:&lt;/b&gt; &lt;a href="https://www.biospace.com/job-trends/innovation-pressure-cooker-tackling-drug-discoverys-biggest-challenges"&gt;Biospace&lt;/a&gt;, &lt;a href="https://www.biospace.com/career-advice/3-career-moves-r-d-professionals-must-make-in-a-skills-based-ai-driven-economy"&gt;Biospace&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;</description>
+      <guid isPermaLink="false">99d24a0b4e676f88376c9184cb49778e</guid>
+      <pubDate>Thu, 02 Apr 2026 22:09:16 GMT</pubDate>
     </item>
   </channel>
 </rss>
