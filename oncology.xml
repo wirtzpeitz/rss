@@ -6,26 +6,26 @@
     <description>News digest covering Oncology.</description>
     <atom:link href="https://www.google.com" rel="self" type="application/rss+xml"/>
     <item>
-      <title>Specific Drug/Asset: AstraZeneca's Apexonco</title>
+      <title>AstraZeneca EMERALD-2 Trial</title>
       <link>https://www.google.com</link>
       <description>&lt;ul&gt;
-  &lt;li&gt;&lt;b&gt;Summary:&lt;/b&gt; The theme focuses on &lt;b&gt;AstraZeneca&lt;/b&gt;'s oncology asset, &lt;b&gt;Apexonco&lt;/b&gt;. The article discusses the company's efforts to further develop and refine this asset, metaphorically described as 'polishing a second emerald,' indicating progress in its clinical development or data presentation within the oncology pipeline.&lt;/li&gt;
-  &lt;li&gt;&lt;b&gt;MoAs:&lt;/b&gt; N/A (The specific mechanism of action for 'Apexonco' is not identified from the provided context or widely known as a standard drug name. It may be a development code or a placeholder name.)&lt;/li&gt;
-  &lt;li&gt;&lt;b&gt;Sources:&lt;/b&gt; &lt;a href="https://www.oncologypipeline.com/apexonco/astra-polishes-second-emerald"&gt;Oncology Pipeline&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;b&gt;Summary:&lt;/b&gt; &lt;b&gt;AstraZeneca&lt;/b&gt; is advancing the &lt;b&gt;EMERALD-2&lt;/b&gt; trial, which evaluates &lt;b&gt;enzalutamide&lt;/b&gt;, an androgen receptor inhibitor, in metastatic castration-resistant prostate cancer. The trial is part of AstraZeneca's broader oncology portfolio, with data expected to inform treatment strategies and regulatory submissions.&lt;/li&gt;
+  &lt;li&gt;&lt;b&gt;MoAs:&lt;/b&gt; Enzalutamide is an androgen receptor antagonist that blocks androgen signaling, inhibiting tumor growth in prostate cancer.&lt;/li&gt;
+  &lt;li&gt;&lt;b&gt;Sources:&lt;/b&gt; &lt;a href="https://www.oncologypipeline.com/apexonco/astra-polishes-second-emerald"&gt;ApexOnco&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;</description>
-      <guid isPermaLink="false">8e72304fa2f2a03a72ba3df9dc8fa90e</guid>
-      <pubDate>Thu, 02 Apr 2026 10:59:41 GMT</pubDate>
+      <guid isPermaLink="false">b5aa947d787b7a88a338da2206b6bc36</guid>
+      <pubDate>Thu, 02 Apr 2026 11:13:53 GMT</pubDate>
     </item>
     <item>
-      <title>Flexible Fallback: Radiotherapeutics &amp; Isotopes in Cancer</title>
+      <title>Radiotherapeutics &amp; Cancer Isotopes</title>
       <link>https://www.google.com</link>
       <description>&lt;ul&gt;
-  &lt;li&gt;&lt;b&gt;Summary:&lt;/b&gt; This theme highlights the growing field of radiotherapeutics in oncology, detailing how radioactive isotopes are being leveraged to create targeted cancer treatments. It discusses the current momentum in this sector, where isotopes are conjugated to targeting molecules (like antibodies or small molecules) to deliver radiation directly to tumor cells, changing the treatment paradigm for certain cancers.&lt;/li&gt;
-  &lt;li&gt;&lt;b&gt;MoAs:&lt;/b&gt; N/A (The theme discusses a broad therapeutic modality—targeted radionuclide therapy—rather than a specific drug. The mechanism involves a targeting vector (e.g., antibody, ligand) delivering a radioactive isotope (e.g., Lutetium-177, Actinium-225) to cancer cells, causing DNA damage and cell death via localized radiation.)&lt;/li&gt;
+  &lt;li&gt;&lt;b&gt;Summary:&lt;/b&gt; The growing role of radiotherapeutics and isotopes in cancer treatment is highlighted, showcasing how these agents are changing oncology care by targeting tumors with precision. This approach leverages radioactive isotopes to deliver localized radiation, improving efficacy and reducing side effects.&lt;/li&gt;
+  &lt;li&gt;&lt;b&gt;MoAs:&lt;/b&gt; Radiotherapeutics involve the use of radioactive isotopes (e.g., alpha or beta emitters) that accumulate in tumor tissues via targeting mechanisms, emitting radiation to destroy cancer cells while sparing healthy tissue.&lt;/li&gt;
   &lt;li&gt;&lt;b&gt;Sources:&lt;/b&gt; &lt;a href="https://www.biospace.com/drug-development/the-radiotherapeutics-moment-how-isotopes-are-changing-cancer-treatment"&gt;BioSpace&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;</description>
-      <guid isPermaLink="false">71489881b1cfb8241a51fae0c6613770</guid>
-      <pubDate>Thu, 02 Apr 2026 10:59:41 GMT</pubDate>
+      <guid isPermaLink="false">532589b6105b2e01024d683805aaad7b</guid>
+      <pubDate>Thu, 02 Apr 2026 11:13:53 GMT</pubDate>
     </item>
   </channel>
 </rss>
