@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<rss version="2.0" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Oncology</title>
+    <link>https://www.google.com</link>
+    <description>News digest covering Oncology.</description>
+    <atom:link href="https://www.google.com" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Radiotherapeutics &amp; Isotopes</title>
+      <link>https://www.google.com</link>
+      <description>The article details the growing momentum in the field of radiotherapeutics, highlighting how novel radioactive isotopes are transforming cancer treatment paradigms. It discusses the science behind targeted radiopharmaceuticals and their potential to deliver precise radiation directly to tumor cells.
+Targeted radiopharmaceuticals (e.g., alpha- or beta-emitting isotopes conjugated to tumor-targeting molecules).
+&lt;a href="https://www.biospace.com/drug-development/the-radiotherapeutics-moment-how-isotopes-are-changing-cancer-treatment"&gt;BioSpace&lt;/a&gt;</description>
+      <guid isPermaLink="false">cb422efaa90dfdeca7e4941f128969df</guid>
+      <pubDate>Thu, 02 Apr 2026 09:39:33 GMT</pubDate>
+    </item>
+  </channel>
+</rss>
