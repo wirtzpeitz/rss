@@ -6,15 +6,15 @@
     <description>News digest covering Ophthalmology.</description>
     <atom:link href="https://www.google.com" rel="self" type="application/rss+xml"/>
     <item>
-      <title>Immunovant's FcRn Inhibitor (Phase 3 Thyroid Eye Disease)</title>
+      <title>Clinical Trial: Immunovant's FcRn Drug (Phase 3 Thyroid Eye Disease)</title>
       <link>https://www.google.com</link>
       <description>&lt;ul&gt;
-  &lt;li&gt;&lt;b&gt;Summary:&lt;/b&gt; &lt;b&gt;Immunovant&lt;/b&gt; reported that its FcRn inhibitor drug candidate did not meet primary endpoints in a pair of Phase 3 trials for &lt;b&gt;Thyroid Eye Disease&lt;/b&gt; (TED). This represents a significant clinical setback for the program in this specific autoimmune indication affecting the eyes.&lt;/li&gt;
-  &lt;li&gt;&lt;b&gt;MoAs:&lt;/b&gt; FcRn (neonatal Fc receptor) inhibitor&lt;/li&gt;
+  &lt;li&gt;&lt;b&gt;Summary:&lt;/b&gt; This theme reports on clinical trial results for &lt;b&gt;Immunovant&lt;/b&gt;'s FcRn inhibitor drug in Thyroid Eye Disease (TED). The article states the drug failed in a pair of Phase 3 trials, representing a significant clinical setback for this investigational therapy in treating this autoimmune condition affecting the eyes and surrounding tissues.&lt;/li&gt;
+  &lt;li&gt;&lt;b&gt;MoAs:&lt;/b&gt; FcRn (neonatal Fc receptor) inhibitor. This mechanism of action works by blocking the FcRn receptor, which is responsible for recycling immunoglobulin G (IgG) antibodies, thereby accelerating the degradation of pathogenic autoantibodies that drive autoimmune diseases like Thyroid Eye Disease.&lt;/li&gt;
   &lt;li&gt;&lt;b&gt;Sources:&lt;/b&gt; &lt;a href="https://endpoints.news/immunovants-fcrn-drug-fails-in-a-pair-of-phase-3-trials-in-thyroid-eye-disease/"&gt;Endpoints News&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;</description>
-      <guid isPermaLink="false">4aa22dcf13362364d246430ecf84a10a</guid>
-      <pubDate>Thu, 02 Apr 2026 10:31:10 GMT</pubDate>
+      <guid isPermaLink="false">fd1c4468a5886939bf23cff3c54eb3fd</guid>
+      <pubDate>Thu, 02 Apr 2026 10:59:41 GMT</pubDate>
     </item>
   </channel>
 </rss>
