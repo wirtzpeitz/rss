@@ -6,15 +6,15 @@
     <description>News digest covering Ophthalmology.</description>
     <atom:link href="https://www.google.com" rel="self" type="application/rss+xml"/>
     <item>
-      <title>Immunovant IMVT-1402 (batoclimab)</title>
+      <title>Immunovant (FcRn Inhibitor)</title>
       <link>https://www.google.com</link>
       <description>&lt;ul&gt;
-  &lt;li&gt;&lt;b&gt;Summary:&lt;/b&gt; &lt;b&gt;Immunovant&lt;/b&gt;'s FcRn inhibitor &lt;b&gt;IMVT-1402 (batoclimab)&lt;/b&gt; has failed to meet primary endpoints in two Phase 3 trials for thyroid eye disease. This setback impacts the development of this drug for autoimmune conditions affecting the eyes, highlighting challenges in targeting this indication.&lt;/li&gt;
-  &lt;li&gt;&lt;b&gt;MoAs:&lt;/b&gt; Batoclimab is an FcRn (neonatal Fc receptor) inhibitor that reduces circulating IgG levels by blocking FcRn-mediated IgG recycling, thereby mitigating autoimmune responses.&lt;/li&gt;
-  &lt;li&gt;&lt;b&gt;Sources:&lt;/b&gt; &lt;a href="https://endpoints.news/immunovants-fcrn-drug-fails-in-a-pair-of-phase-3-trials-in-thyroid-eye-disease/"&gt;Endpoints News&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;b&gt;Summary:&lt;/b&gt; &lt;b&gt;Immunovant&lt;/b&gt;'s FcRn inhibitor, batoclimab, fails in two Phase 3 trials for thyroid eye disease (TED), validating concerns about the drug's efficacy and the company's waning prospects. The setbacks highlight challenges in targeting autoimmune eye conditions with FcRn blockade, impacting Immunovant's clinical pipeline.&lt;/li&gt;
+  &lt;li&gt;&lt;b&gt;MoAs:&lt;/b&gt; FcRn inhibitor (batoclimab): Blocks neonatal Fc receptor to reduce IgG antibody levels&lt;/li&gt;
+  &lt;li&gt;&lt;b&gt;Sources:&lt;/b&gt; &lt;a href="https://www.fiercebiotech.com/biotech/immunovants-fcrn-inhibitor-flunks-phase-3-eye-disease-trials-validating-biotechs-waning"&gt;Fierce Biotech&lt;/a&gt;, &lt;a href="https://endpoints.news/immunovants-fcrn-drug-fails-in-a-pair-of-phase-3-trials-in-thyroid-eye-disease/"&gt;Endpoints News&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;</description>
-      <guid isPermaLink="false">ff674e13a2da8fd8486d42f625f05816</guid>
-      <pubDate>Thu, 02 Apr 2026 11:13:53 GMT</pubDate>
+      <guid isPermaLink="false">b0ae4ddf37beccdc0d7431199e4cedb5</guid>
+      <pubDate>Thu, 02 Apr 2026 22:09:16 GMT</pubDate>
     </item>
   </channel>
 </rss>
