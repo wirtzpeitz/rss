@@ -6,15 +6,48 @@
     <description>News digest covering Cardio-Renal-Metabolic.</description>
     <atom:link href="https://www.google.com" rel="self" type="application/rss+xml"/>
     <item>
-      <title>General Opinion: Cardiology Conference &amp; Industry</title>
+      <title>Eli Lilly's Obesity Pill (Orforglipron/Foundayo)</title>
       <link>https://www.google.com</link>
       <description>&lt;ul&gt;
-  &lt;li&gt;&lt;b&gt;Summary:&lt;/b&gt; The theme covers news and opinion from a major cardiology conference, likely the American College of Cardiology (ACC) meeting. It discusses topics of prevention and the role of the pharmaceutical and medical device industry (referenced as 'Maha') in this therapeutic area, highlighting the intersection of clinical science, commercial strategy, and public health.&lt;/li&gt;
-  &lt;li&gt;&lt;b&gt;MoAs:&lt;/b&gt; N/A&lt;/li&gt;
-  &lt;li&gt;&lt;b&gt;Sources:&lt;/b&gt; &lt;a href="https://www.statnews.com/2026/04/02/cardiology-conference-acc-prevention-industry-maha/?utm_campaign=rss"&gt;STAT News&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;b&gt;Summary:&lt;/b&gt; The FDA approves &lt;b&gt;Eli Lilly&lt;/b&gt;'s oral obesity pill &lt;b&gt;Foundayo&lt;/b&gt; (orforglipron), a GLP-1 receptor agonist, marking its entry into the oral GLP-1 market and intensifying competition with &lt;b&gt;Novo Nordisk&lt;/b&gt;. Analysts project blockbuster sales potential, with early estimates suggesting significant market share. The approval sets the stage for a renewed rivalry in the obesity treatment space, focusing on convenience and efficacy.&lt;/li&gt;
+  &lt;li&gt;&lt;b&gt;MoAs:&lt;/b&gt; Orforglipron (Foundayo): GLP-1 receptor agonist&lt;/li&gt;
+  &lt;li&gt;&lt;b&gt;Sources:&lt;/b&gt; &lt;a href="https://www.fiercepharma.com/pharma/lillys-obesity-pill-foundayo-gains-early-blockbuster-expectations-analyst-suggests-5m"&gt;Fierce Pharma&lt;/a&gt;, &lt;a href="https://www.biopharmadive.com/news/fda-approves-lilly-obesity-pill-orforglipron-foundayo-novo/816359/"&gt;BioPharma Dive&lt;/a&gt;, &lt;a href="https://www.biospace.com/fda/eli-lillys-oral-obesity-pill-approved-kicking-off-renewed-novo-rivalry"&gt;BioSpace&lt;/a&gt;, &lt;a href="https://www.fiercepharma.com/pharma/lilly-answers-novos-glp-1-pill-highly-anticipated-fda-nod-foundayo"&gt;Fierce Pharma&lt;/a&gt;, &lt;a href="https://www.statnews.com/2026/04/01/eli-lilly-obesity-pill-approved-orforglipron-foundayo/?utm_campaign=rss"&gt;STAT News&lt;/a&gt;, &lt;a href="https://endpoints.news/lilly-wins-approval-of-anti-obesity-pill-orforglipron-setting-up-new-battle-with-novo/"&gt;Endpoints News&lt;/a&gt;, &lt;a href="https://www.statnews.com/2026/04/02/biotech-news-foundayo-is-here-o-novo-responds/?utm_campaign=rss"&gt;STAT News&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;</description>
-      <guid isPermaLink="false">cd634d30c2f0e473e77d8e69aab784a4</guid>
-      <pubDate>Thu, 02 Apr 2026 10:59:41 GMT</pubDate>
+      <guid isPermaLink="false">bd502f75085bd51286ec6e01c355c96a</guid>
+      <pubDate>Thu, 02 Apr 2026 22:09:16 GMT</pubDate>
+    </item>
+    <item>
+      <title>Novo Nordisk vs. Lilly GLP-1 Rivalry</title>
+      <link>https://www.google.com</link>
+      <description>&lt;ul&gt;
+  &lt;li&gt;&lt;b&gt;Summary:&lt;/b&gt; The rivalry between &lt;b&gt;Novo Nordisk&lt;/b&gt; and &lt;b&gt;Eli Lilly&lt;/b&gt; in the GLP-1 obesity market escalates, with debates over efficacy claims that may require head-to-head clinical trials to resolve. &lt;b&gt;Novo&lt;/b&gt;'s Wegovy gains cardiovascular recommendations, while both companies prepare to launch oral GLP-1 pills, focusing on subtle differences in formulation and patient access. Market dynamics are shaped by pricing, subscription models, and regulatory endorsements.&lt;/li&gt;
+  &lt;li&gt;&lt;b&gt;MoAs:&lt;/b&gt; Novo Nordisk GLP-1 drugs (e.g., Wegovy) and Eli Lilly GLP-1 drugs (e.g., Foundayo): GLP-1 receptor agonists&lt;/li&gt;
+  &lt;li&gt;&lt;b&gt;Sources:&lt;/b&gt; &lt;a href="https://endpoints.news/novo-and-lilly-battle-over-glp-1-claims-only-a-head-to-head-trial-can-answer/"&gt;Endpoints News&lt;/a&gt;, &lt;a href="https://www.biospace.com/business/approvals-in-hand-lilly-and-novo-obesity-pills-will-battle-it-out-on-hairline-differences"&gt;BioSpace&lt;/a&gt;, &lt;a href="https://www.statnews.com/2026/04/01/biotech-news-novo-nordisk-subscription-model-raises-quesstions/?utm_campaign=rss"&gt;STAT News&lt;/a&gt;, &lt;a href="https://www.fiercepharma.com/pharma/novos-wegovy-nets-cardio-recommendation-separate-obesity-uk-drug-cost-gatekeeper"&gt;Fierce Pharma&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;</description>
+      <guid isPermaLink="false">9e967f60ae93bdfa7844fc05f58dfcf3</guid>
+      <pubDate>Thu, 02 Apr 2026 22:09:16 GMT</pubDate>
+    </item>
+    <item>
+      <title>Aspect Biosystems (Diabetes Cell Therapy)</title>
+      <link>https://www.google.com</link>
+      <description>&lt;ul&gt;
+  &lt;li&gt;&lt;b&gt;Summary:&lt;/b&gt; &lt;b&gt;Aspect Biosystems&lt;/b&gt; has secured $79 million in funding from the Canadian government to advance its diabetes cell therapy program. This investment supports the development of regenerative medicine approaches aimed at treating diabetes by restoring insulin-producing cell function.&lt;/li&gt;
+  &lt;li&gt;&lt;b&gt;MoAs:&lt;/b&gt; N/A&lt;/li&gt;
+  &lt;li&gt;&lt;b&gt;Sources:&lt;/b&gt; &lt;a href="https://endpoints.news/aspect-biosystems-gets-79m-from-canadian-government-for-diabetes-cell-therapy/"&gt;Endpoints News&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;</description>
+      <guid isPermaLink="false">6e2818695299c4feca32a3de9f9f9868</guid>
+      <pubDate>Thu, 02 Apr 2026 22:09:16 GMT</pubDate>
+    </item>
+    <item>
+      <title>Ambrosia (GLP-1 Pill Series B)</title>
+      <link>https://www.google.com</link>
+      <description>&lt;ul&gt;
+  &lt;li&gt;&lt;b&gt;Summary:&lt;/b&gt; &lt;b&gt;Ambrosia&lt;/b&gt; has raised a $100 million Series B round to develop next-generation small molecule GLP-1 agonists in pill form, aiming to improve upon current injectable therapies for obesity and diabetes.&lt;/li&gt;
+  &lt;li&gt;&lt;b&gt;MoAs:&lt;/b&gt; GLP-1 agonists mimic the glucagon-like peptide-1 hormone, increasing insulin secretion, decreasing glucagon release, and promoting satiety to manage blood glucose and weight.&lt;/li&gt;
+  &lt;li&gt;&lt;b&gt;Sources:&lt;/b&gt; &lt;a href="https://www.biopharmadive.com/news/ambrosia-obesity-GLP-1-pill-series-b/816317/"&gt;Biopharma Dive&lt;/a&gt;, &lt;a href="https://www.biospace.com/business/ambrosia-eyes-next-generation-small-molecule-glp-1s-with-100m-series-b"&gt;BioSpace&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;</description>
+      <guid isPermaLink="false">87f00fd3b5957ee71fe6200af0c4f484</guid>
+      <pubDate>Thu, 02 Apr 2026 22:09:16 GMT</pubDate>
     </item>
   </channel>
 </rss>
