@@ -6,15 +6,15 @@
     <description>News digest covering Ophthalmology.</description>
     <atom:link href="https://www.google.com" rel="self" type="application/rss+xml"/>
     <item>
-      <title>Clinical Trial: Immunovant's FcRn Drug (Phase 3 Thyroid Eye Disease)</title>
+      <title>Immunovant IMVT-1402 (batoclimab)</title>
       <link>https://www.google.com</link>
       <description>&lt;ul&gt;
-  &lt;li&gt;&lt;b&gt;Summary:&lt;/b&gt; This theme reports on clinical trial results for &lt;b&gt;Immunovant&lt;/b&gt;'s FcRn inhibitor drug in Thyroid Eye Disease (TED). The article states the drug failed in a pair of Phase 3 trials, representing a significant clinical setback for this investigational therapy in treating this autoimmune condition affecting the eyes and surrounding tissues.&lt;/li&gt;
-  &lt;li&gt;&lt;b&gt;MoAs:&lt;/b&gt; FcRn (neonatal Fc receptor) inhibitor. This mechanism of action works by blocking the FcRn receptor, which is responsible for recycling immunoglobulin G (IgG) antibodies, thereby accelerating the degradation of pathogenic autoantibodies that drive autoimmune diseases like Thyroid Eye Disease.&lt;/li&gt;
+  &lt;li&gt;&lt;b&gt;Summary:&lt;/b&gt; &lt;b&gt;Immunovant&lt;/b&gt;'s FcRn inhibitor &lt;b&gt;IMVT-1402 (batoclimab)&lt;/b&gt; has failed to meet primary endpoints in two Phase 3 trials for thyroid eye disease. This setback impacts the development of this drug for autoimmune conditions affecting the eyes, highlighting challenges in targeting this indication.&lt;/li&gt;
+  &lt;li&gt;&lt;b&gt;MoAs:&lt;/b&gt; Batoclimab is an FcRn (neonatal Fc receptor) inhibitor that reduces circulating IgG levels by blocking FcRn-mediated IgG recycling, thereby mitigating autoimmune responses.&lt;/li&gt;
   &lt;li&gt;&lt;b&gt;Sources:&lt;/b&gt; &lt;a href="https://endpoints.news/immunovants-fcrn-drug-fails-in-a-pair-of-phase-3-trials-in-thyroid-eye-disease/"&gt;Endpoints News&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;</description>
-      <guid isPermaLink="false">fd1c4468a5886939bf23cff3c54eb3fd</guid>
-      <pubDate>Thu, 02 Apr 2026 10:59:41 GMT</pubDate>
+      <guid isPermaLink="false">ff674e13a2da8fd8486d42f625f05816</guid>
+      <pubDate>Thu, 02 Apr 2026 11:13:53 GMT</pubDate>
     </item>
   </channel>
 </rss>
