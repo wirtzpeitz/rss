@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<rss version="2.0" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Immunology</title>
+    <link>https://www.google.com</link>
+    <description>News digest covering Immunology.</description>
+    <atom:link href="https://www.google.com" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Pfizer/BioNTech COVID-19 Vaccine</title>
+      <link>https://www.google.com</link>
+      <description>&lt;ul&gt;
+  &lt;li&gt;&lt;b&gt;Summary:&lt;/b&gt; &lt;b&gt;Pfizer&lt;/b&gt; and &lt;b&gt;BioNTech&lt;/b&gt; pause a large U.S. COVID-19 vaccine trial due to slow enrollment, reflecting dwindling demand for updated vaccines. Separately, a Belgian court rules that Poland and Romania must pay approximately $2.2 billion for missed COVID-19 vaccine deliveries, highlighting ongoing legal and supply chain challenges post-pandemic.&lt;/li&gt;
+  &lt;li&gt;&lt;b&gt;MoAs:&lt;/b&gt; Pfizer/BioNTech COVID-19 vaccine: mRNA-based vaccine inducing immune response against SARS-CoV-2&lt;/li&gt;
+  &lt;li&gt;&lt;b&gt;Sources:&lt;/b&gt; &lt;a href="https://www.biopharmadive.com/news/pfizer-biontech-to-pause-covid-vaccine-low-enrollment/816395/"&gt;BioPharma Dive&lt;/a&gt;, &lt;a href="https://www.biospace.com/drug-development/pfizer-biontech-halt-large-us-covid-19-vaccine-trial-over-slow-enrollment"&gt;BioSpace&lt;/a&gt;, &lt;a href="https://www.fiercepharma.com/pharma/poland-romania-must-pay-pfizer-22b-missed-covid-vaccine-deliveries-belgain-court-rules"&gt;Fierce Pharma&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;</description>
+      <guid isPermaLink="false">9803b1c091e1ffcc63378987e62e40f0</guid>
+      <pubDate>Thu, 02 Apr 2026 22:09:16 GMT</pubDate>
+    </item>
+    <item>
+      <title>Gilead (HIV Trial)</title>
+      <link>https://www.google.com</link>
+      <description>&lt;ul&gt;
+  &lt;li&gt;&lt;b&gt;Summary:&lt;/b&gt; &lt;b&gt;Gilead&lt;/b&gt; discontinues a Phase 2/3 trial of long-acting HIV pills following an FDA clinical hold that remains intact. The cancellation impacts Gilead's pipeline for convenient, oral HIV treatments, reflecting regulatory hurdles and the competitive landscape for antiretroviral therapies.&lt;/li&gt;
+  &lt;li&gt;&lt;b&gt;MoAs:&lt;/b&gt; N/A&lt;/li&gt;
+  &lt;li&gt;&lt;b&gt;Sources:&lt;/b&gt; &lt;a href="https://endpoints.news/gilead-ends-a-phase-2-3-trial-of-long-acting-hiv-pills/"&gt;Endpoints News&lt;/a&gt;, &lt;a href="https://www.fiercebiotech.com/biotech/gilead-cancels-midstage-hiv-trial-fdas-clinical-hold-remains-intact"&gt;Fierce Biotech&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;</description>
+      <guid isPermaLink="false">0adb46bc93580a75102b55c7be662bbe</guid>
+      <pubDate>Thu, 02 Apr 2026 22:09:16 GMT</pubDate>
+    </item>
+    <item>
+      <title>Asthma Drug in Food Allergy Research</title>
+      <link>https://www.google.com</link>
+      <description>&lt;ul&gt;
+  &lt;li&gt;&lt;b&gt;Summary:&lt;/b&gt; A 20-year-old asthma drug, likely &lt;b&gt;omalizumab (Xolair)&lt;/b&gt;, is being repurposed in food allergy research, showing promise in desensitizing patients to allergens and reducing allergic reactions.&lt;/li&gt;
+  &lt;li&gt;&lt;b&gt;MoAs:&lt;/b&gt; Omalizumab is a monoclonal antibody that binds to immunoglobulin E (IgE), preventing it from activating mast cells and basophils, thus reducing allergic responses.&lt;/li&gt;
+  &lt;li&gt;&lt;b&gt;Sources:&lt;/b&gt; &lt;a href="https://endpoints.news/how-a-20-year-old-asthma-drug-is-boosting-food-allergy-research/"&gt;Endpoints News&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;</description>
+      <guid isPermaLink="false">7125351e9821c4aba979be8a82ef1fb0</guid>
+      <pubDate>Thu, 02 Apr 2026 22:09:16 GMT</pubDate>
+    </item>
+  </channel>
+</rss>
