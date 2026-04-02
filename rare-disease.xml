@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<rss version="2.0" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Rare Disease</title>
+    <link>https://www.google.com</link>
+    <description>News digest covering Rare Disease.</description>
+    <atom:link href="https://www.google.com" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Amgen's Rare Disease Drug Safety</title>
+      <link>https://www.google.com</link>
+      <description>&lt;ul&gt;
+  &lt;li&gt;&lt;b&gt;Summary:&lt;/b&gt; The FDA has linked &lt;b&gt;Amgen&lt;/b&gt;'s rare inflammatory disease drug, likely &lt;b&gt;canakinumab&lt;/b&gt;, to eight deaths and dozens of liver injuries, raising safety concerns and potentially impacting its use and regulatory status.&lt;/li&gt;
+  &lt;li&gt;&lt;b&gt;MoAs:&lt;/b&gt; Canakinumab is a monoclonal antibody that targets interleukin-1 beta (IL-1β), inhibiting inflammation.&lt;/li&gt;
+  &lt;li&gt;&lt;b&gt;Sources:&lt;/b&gt; &lt;a href="https://www.biospace.com/fda/fda-ties-amgens-rare-inflammatory-disease-drug-to-eight-deaths-dozens-of-liver-injuries"&gt;Biospace&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;</description>
+      <guid isPermaLink="false">d0b3f07b0af8de9cecf67449a599c2ad</guid>
+      <pubDate>Thu, 02 Apr 2026 22:09:16 GMT</pubDate>
+    </item>
+  </channel>
+</rss>
