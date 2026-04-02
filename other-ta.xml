@@ -6,15 +6,15 @@
     <description>News digest covering Other TA.</description>
     <atom:link href="https://www.google.com" rel="self" type="application/rss+xml"/>
     <item>
-      <title>Gilead's Long-Acting HIV Pill Trial</title>
+      <title>Gilead's Long-Acting HIV Pill (Phase 2/3 Trial)</title>
       <link>https://www.google.com</link>
       <description>&lt;ul&gt;
-  &lt;li&gt;&lt;b&gt;Gilead&lt;/b&gt; has ended a Phase 2/3 trial evaluating its long-acting oral HIV pill regimen. The discontinuation follows the FDA's decision to maintain a clinical hold on the study. The trial was assessing a combination of investigational agents, &lt;b&gt;lenacapavir&lt;/b&gt; and &lt;b&gt;islatravir&lt;/b&gt;, aimed at providing a once-weekly oral treatment option. The hold and subsequent trial termination highlight ongoing development challenges in the long-acting HIV therapeutic space.&lt;/li&gt;
-  &lt;li&gt;Lenacapavir: Capsid inhibitor. Islatravir: Nucleoside reverse transcriptase translocation inhibitor (NRTTI).&lt;/li&gt;
-  &lt;li&gt;&lt;a href="https://endpoints.news/gilead-ends-a-phase-2-3-trial-of-long-acting-hiv-pills/"&gt;Endpoints News&lt;/a&gt;, &lt;a href="https://www.fiercebiotech.com/biotech/gilead-cancels-midstage-hiv-trial-fdas-clinical-hold-remains-intact"&gt;Fierce Biotech&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;b&gt;Summary:&lt;/b&gt; &lt;b&gt;Gilead&lt;/b&gt; has discontinued a Phase 2/3 clinical trial evaluating a long-acting oral pill regimen for HIV treatment. The termination of this trial indicates the company is halting development for this specific formulation or dosing strategy in its HIV pipeline.&lt;/li&gt;
+  &lt;li&gt;&lt;b&gt;MoAs:&lt;/b&gt; N/A (Specific antiretroviral MoA for the discontinued pill not provided)&lt;/li&gt;
+  &lt;li&gt;&lt;b&gt;Sources:&lt;/b&gt; &lt;a href="https://endpoints.news/gilead-ends-a-phase-2-3-trial-of-long-acting-hiv-pills/"&gt;Endpoints News&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;</description>
-      <guid isPermaLink="false">9103d4fd7880b423ab27d4fde5b347ca</guid>
-      <pubDate>Thu, 02 Apr 2026 10:19:39 GMT</pubDate>
+      <guid isPermaLink="false">ea53d202ba36f2638cf7264c67048ec4</guid>
+      <pubDate>Thu, 02 Apr 2026 10:31:10 GMT</pubDate>
     </item>
   </channel>
 </rss>
