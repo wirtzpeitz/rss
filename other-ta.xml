@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<rss version="2.0" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Other TA</title>
+    <link>https://www.google.com</link>
+    <description>News digest covering Other TA.</description>
+    <atom:link href="https://www.google.com" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Gilead HIV Trial Cancellation</title>
+      <link>https://www.google.com</link>
+      <description>&lt;b&gt;Gilead Sciences&lt;/b&gt; has terminated a Phase 2/3 clinical trial evaluating a long-acting oral regimen for HIV treatment and prevention. The decision follows the &lt;b&gt;FDA&lt;/b&gt;'s placement of a clinical hold on the study, which remains in effect. The cancellation represents a setback for the development of this convenient dosing option in the HIV therapeutic landscape.
+Long-acting oral antiretroviral therapy (specific MoA would depend on the drug combination, typically involving integrase strand transfer inhibitors and/or nucleoside reverse transcriptase inhibitors).
+&lt;a href="https://endpoints.news/gilead-ends-a-phase-2-3-trial-of-long-acting-hiv-pills/"&gt;Endpoints News&lt;/a&gt;, &lt;a href="https://www.fiercebiotech.com/biotech/gilead-cancels-midstage-hiv-trial-fdas-clinical-hold-remains-intact"&gt;Fierce Biotech&lt;/a&gt;</description>
+      <guid isPermaLink="false">4153a921223d0a7eaa9165a3bcb68471</guid>
+      <pubDate>Thu, 02 Apr 2026 09:39:33 GMT</pubDate>
+    </item>
+  </channel>
+</rss>
