@@ -6,26 +6,81 @@
     <description>News digest covering Oncology.</description>
     <atom:link href="https://www.google.com" rel="self" type="application/rss+xml"/>
     <item>
-      <title>AstraZeneca EMERALD-2 Trial</title>
+      <title>AstraZeneca's Imfinzi/Imjudo (EMERALD Trial)</title>
       <link>https://www.google.com</link>
       <description>&lt;ul&gt;
-  &lt;li&gt;&lt;b&gt;Summary:&lt;/b&gt; &lt;b&gt;AstraZeneca&lt;/b&gt; is advancing the &lt;b&gt;EMERALD-2&lt;/b&gt; trial, which evaluates &lt;b&gt;enzalutamide&lt;/b&gt;, an androgen receptor inhibitor, in metastatic castration-resistant prostate cancer. The trial is part of AstraZeneca's broader oncology portfolio, with data expected to inform treatment strategies and regulatory submissions.&lt;/li&gt;
-  &lt;li&gt;&lt;b&gt;MoAs:&lt;/b&gt; Enzalutamide is an androgen receptor antagonist that blocks androgen signaling, inhibiting tumor growth in prostate cancer.&lt;/li&gt;
-  &lt;li&gt;&lt;b&gt;Sources:&lt;/b&gt; &lt;a href="https://www.oncologypipeline.com/apexonco/astra-polishes-second-emerald"&gt;ApexOnco&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;b&gt;Summary:&lt;/b&gt; &lt;b&gt;AstraZeneca&lt;/b&gt; reports positive results from the &lt;b&gt;EMERALD&lt;/b&gt; trial, showing that the combination of &lt;b&gt;Imfinzi&lt;/b&gt; (durvalumab) and &lt;b&gt;Imjudo&lt;/b&gt; (tremelimumab) significantly delays liver cancer progression. This win strengthens AstraZeneca's position in immuno-oncology, with the dual checkpoint inhibitor regimen demonstrating efficacy in hepatocellular carcinoma (HCC).&lt;/li&gt;
+  &lt;li&gt;&lt;b&gt;MoAs:&lt;/b&gt; Imfinzi (durvalumab): PD-L1 inhibitor; Imjudo (tremelimumab): CTLA-4 inhibitor&lt;/li&gt;
+  &lt;li&gt;&lt;b&gt;Sources:&lt;/b&gt; &lt;a href="https://www.fiercepharma.com/pharma/another-astrazeneca-emerald-glimmers-imfinzi-imjudo-delay-liver-cancer-progression"&gt;Fierce Pharma&lt;/a&gt;, &lt;a href="https://endpoints.news/lipocines-postpartum-depression-drug-fails-astrazeneca-claims-liver-cancer-win/"&gt;Endpoints News&lt;/a&gt;, &lt;a href="https://www.oncologypipeline.com/apexonco/astra-polishes-second-emerald"&gt;ApexOnco&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;</description>
-      <guid isPermaLink="false">b5aa947d787b7a88a338da2206b6bc36</guid>
-      <pubDate>Thu, 02 Apr 2026 11:13:53 GMT</pubDate>
+      <guid isPermaLink="false">7fe5c49ddc385c3a8c201aef5ebbc4d5</guid>
+      <pubDate>Thu, 02 Apr 2026 22:09:16 GMT</pubDate>
     </item>
     <item>
-      <title>Radiotherapeutics &amp; Cancer Isotopes</title>
+      <title>ORIC Pharmaceuticals (Prostate Cancer Drug)</title>
       <link>https://www.google.com</link>
       <description>&lt;ul&gt;
-  &lt;li&gt;&lt;b&gt;Summary:&lt;/b&gt; The growing role of radiotherapeutics and isotopes in cancer treatment is highlighted, showcasing how these agents are changing oncology care by targeting tumors with precision. This approach leverages radioactive isotopes to deliver localized radiation, improving efficacy and reducing side effects.&lt;/li&gt;
-  &lt;li&gt;&lt;b&gt;MoAs:&lt;/b&gt; Radiotherapeutics involve the use of radioactive isotopes (e.g., alpha or beta emitters) that accumulate in tumor tissues via targeting mechanisms, emitting radiation to destroy cancer cells while sparing healthy tissue.&lt;/li&gt;
-  &lt;li&gt;&lt;b&gt;Sources:&lt;/b&gt; &lt;a href="https://www.biospace.com/drug-development/the-radiotherapeutics-moment-how-isotopes-are-changing-cancer-treatment"&gt;BioSpace&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;b&gt;Summary:&lt;/b&gt; &lt;b&gt;ORIC Pharmaceuticals&lt;/b&gt; announces plans to advance a prostate cancer drug to Phase 3, but investor doubts about the combination strategy lead to a stock decline. The company faces a reality check as it chases competitors like &lt;b&gt;Pfizer&lt;/b&gt;, with concerns over clinical design and market differentiation.&lt;/li&gt;
+  &lt;li&gt;&lt;b&gt;MoAs:&lt;/b&gt; N/A&lt;/li&gt;
+  &lt;li&gt;&lt;b&gt;Sources:&lt;/b&gt; &lt;a href="https://www.oncologypipeline.com/apexonco/oric-gets-reality-check"&gt;ApexOnco&lt;/a&gt;, &lt;a href="https://www.fiercebiotech.com/biotech/oric-chases-pfizer-phase-3-hailing-prostate-cancer-edge-investors-send-stock-down"&gt;Fierce Biotech&lt;/a&gt;, &lt;a href="https://endpoints.news/oric-to-advance-prostate-cancer-drug-to-phase-3-but-combo-choice-raises-doubts/"&gt;Endpoints News&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;</description>
-      <guid isPermaLink="false">532589b6105b2e01024d683805aaad7b</guid>
-      <pubDate>Thu, 02 Apr 2026 11:13:53 GMT</pubDate>
+      <guid isPermaLink="false">19f82c4141e008fe769811c19b3b7418</guid>
+      <pubDate>Thu, 02 Apr 2026 22:09:16 GMT</pubDate>
+    </item>
+    <item>
+      <title>Zai Lab &amp; Amgn (DLL3 Collaboration)</title>
+      <link>https://www.google.com</link>
+      <description>&lt;ul&gt;
+  &lt;li&gt;&lt;b&gt;Summary:&lt;/b&gt; &lt;b&gt;Zai Lab&lt;/b&gt; and &lt;b&gt;Amgen&lt;/b&gt; have teamed up to develop DLL3-targeted therapies, with Zai Lab exploring the potential of combining two DLL3-targeting approaches. This collaboration includes a milestone payment to Janux Therapeutics.&lt;/li&gt;
+  &lt;li&gt;&lt;b&gt;MoAs:&lt;/b&gt; DLL3-targeted therapies, such as bispecific T-cell engagers or antibody-drug conjugates, work by binding to DLL3 on cancer cells and engaging immune cells or delivering cytotoxic payloads.&lt;/li&gt;
+  &lt;li&gt;&lt;b&gt;Sources:&lt;/b&gt; &lt;a href="https://www.oncologypipeline.com/apexonco/zai-lab-thinks-two-dll3s-might-be-better-one"&gt;Oncology Pipeline&lt;/a&gt;, &lt;a href="https://endpoints.news/amgen-zai-lab-team-up-on-dll3-janux-gets-35m-milestone-payment/"&gt;Endpoints News&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;</description>
+      <guid isPermaLink="false">0cbea32ed22bf017b4c1c7490144ba86</guid>
+      <pubDate>Thu, 02 Apr 2026 22:09:16 GMT</pubDate>
+    </item>
+    <item>
+      <title>IO Biotech (Cancer Vaccine Failure)</title>
+      <link>https://www.google.com</link>
+      <description>&lt;ul&gt;
+  &lt;li&gt;&lt;b&gt;Summary:&lt;/b&gt; &lt;b&gt;IO Biotech&lt;/b&gt; will file for bankruptcy after the failure of its cancer vaccine in a key trial. The vaccine, which targeted specific antigens, did not meet efficacy endpoints, leading to regulatory roadblocks and shutdown.&lt;/li&gt;
+  &lt;li&gt;&lt;b&gt;MoAs:&lt;/b&gt; N/A&lt;/li&gt;
+  &lt;li&gt;&lt;b&gt;Sources:&lt;/b&gt; &lt;a href="https://endpoints.news/io-biotech-will-file-for-bankruptcy-after-failure-of-cancer-vaccine-in-key-trial/"&gt;Endpoints News&lt;/a&gt;, &lt;a href="https://www.biospace.com/business/io-shuts-down-following-regulatory-roadblocks"&gt;BioSpace&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;</description>
+      <guid isPermaLink="false">9db5af0db08878250959d3e83a59ce57</guid>
+      <pubDate>Thu, 02 Apr 2026 22:09:16 GMT</pubDate>
+    </item>
+    <item>
+      <title>FDA Oncology Approvals (March 2026)</title>
+      <link>https://www.google.com</link>
+      <description>&lt;ul&gt;
+  &lt;li&gt;&lt;b&gt;Summary:&lt;/b&gt; In March 2026, the FDA issued several decisions on oncology therapies, including approvals and rejections. Key developments likely involve new indications for established drugs or novel agents, impacting treatment paradigms in cancer care.&lt;/li&gt;
+  &lt;li&gt;&lt;b&gt;MoAs:&lt;/b&gt; N/A&lt;/li&gt;
+  &lt;li&gt;&lt;b&gt;Sources:&lt;/b&gt; &lt;a href="https://www.oncologypipeline.com/apexonco/fda-red-and-green-lights-march-2026"&gt;ApexOnco&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;</description>
+      <guid isPermaLink="false">2c9dc610e0043f1cb001922acceda08a</guid>
+      <pubDate>Thu, 02 Apr 2026 22:09:16 GMT</pubDate>
+    </item>
+    <item>
+      <title>Orca Bio (Cell Therapy Delay)</title>
+      <link>https://www.google.com</link>
+      <description>&lt;ul&gt;
+  &lt;li&gt;&lt;b&gt;Summary:&lt;/b&gt; The FDA has delayed its decision on &lt;b&gt;Orca Bio&lt;/b&gt;'s cell therapy, possibly &lt;b&gt;Orca-T&lt;/b&gt;, after the company submitted additional manufacturing data. This setback could affect the timeline for this promising oncology treatment.&lt;/li&gt;
+  &lt;li&gt;&lt;b&gt;MoAs:&lt;/b&gt; Orca Bio's cell therapy is an allogeneic T-cell immunotherapy designed to target cancer cells while minimizing graft-versus-host disease.&lt;/li&gt;
+  &lt;li&gt;&lt;b&gt;Sources:&lt;/b&gt; &lt;a href="https://endpoints.news/fda-delays-decision-on-orca-bio-cell-therapy-after-filing-more-manufacturing-data/"&gt;Endpoints News&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;</description>
+      <guid isPermaLink="false">a35daf6e5c6e9605cedf711972eb1fd5</guid>
+      <pubDate>Thu, 02 Apr 2026 22:09:16 GMT</pubDate>
+    </item>
+    <item>
+      <title>Radiopharmaceuticals/Therapeutics</title>
+      <link>https://www.google.com</link>
+      <description>&lt;ul&gt;
+  &lt;li&gt;&lt;b&gt;Summary:&lt;/b&gt; Radiopharmaceuticals are gaining momentum in cancer treatment, with isotopes like &lt;b&gt;lutetium-177&lt;/b&gt; and &lt;b&gt;radium-223&lt;/b&gt; offering targeted radiotherapy options. This "radiotherapeutics moment" is changing the landscape of oncology care.&lt;/li&gt;
+  &lt;li&gt;&lt;b&gt;MoAs:&lt;/b&gt; Lutetium Lu 177 dotatate targets somatostatin receptors on neuroendocrine tumors, delivering radiation directly to cancer cells. Radium-223 dichloride mimics calcium and targets bone metastases, emitting alpha particles to kill cancer cells.&lt;/li&gt;
+  &lt;li&gt;&lt;b&gt;Sources:&lt;/b&gt; &lt;a href="https://www.biospace.com/drug-development/the-radiotherapeutics-moment-how-isotopes-are-changing-cancer-treatment"&gt;Biospace&lt;/a&gt;, &lt;a href="https://www.biospace.com/drug-development/the-brave-new-world-of-radiotherapeutics"&gt;Biospace&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;</description>
+      <guid isPermaLink="false">f03e1ec6ec366c96e33b1f029c28e23d</guid>
+      <pubDate>Thu, 02 Apr 2026 22:09:16 GMT</pubDate>
     </item>
   </channel>
 </rss>
