@@ -6,15 +6,26 @@
     <description>News digest covering Other TA.</description>
     <atom:link href="https://www.google.com" rel="self" type="application/rss+xml"/>
     <item>
-      <title>Gilead's Long-Acting HIV Pill (Phase 2/3 Trial)</title>
+      <title>Ferring (Fertility Trials)</title>
       <link>https://www.google.com</link>
       <description>&lt;ul&gt;
-  &lt;li&gt;&lt;b&gt;Summary:&lt;/b&gt; &lt;b&gt;Gilead&lt;/b&gt; has discontinued a Phase 2/3 clinical trial evaluating a long-acting oral pill regimen for HIV treatment. The termination of this trial indicates the company is halting development for this specific formulation or dosing strategy in its HIV pipeline.&lt;/li&gt;
-  &lt;li&gt;&lt;b&gt;MoAs:&lt;/b&gt; N/A (Specific antiretroviral MoA for the discontinued pill not provided)&lt;/li&gt;
-  &lt;li&gt;&lt;b&gt;Sources:&lt;/b&gt; &lt;a href="https://endpoints.news/gilead-ends-a-phase-2-3-trial-of-long-acting-hiv-pills/"&gt;Endpoints News&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;b&gt;Summary:&lt;/b&gt; &lt;b&gt;Ferring&lt;/b&gt; has terminated two fertility trials, signaling a strategic pullback in its reproductive medicine portfolio. This move reflects challenges or shifts in the company's focus within the fertility therapeutic area.&lt;/li&gt;
+  &lt;li&gt;&lt;b&gt;MoAs:&lt;/b&gt; N/A&lt;/li&gt;
+  &lt;li&gt;&lt;b&gt;Sources:&lt;/b&gt; &lt;a href="https://www.fiercebiotech.com/biotech/ferring-pulls-further-back-fertility-2-terminated-trials"&gt;Fierce Biotech&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;</description>
-      <guid isPermaLink="false">ea53d202ba36f2638cf7264c67048ec4</guid>
-      <pubDate>Thu, 02 Apr 2026 10:31:10 GMT</pubDate>
+      <guid isPermaLink="false">6fdc6d7788d5abf9ef534ba0cede2a3d</guid>
+      <pubDate>Thu, 02 Apr 2026 22:09:16 GMT</pubDate>
+    </item>
+    <item>
+      <title>Valneva (Lyme Disease Vaccine)</title>
+      <link>https://www.google.com</link>
+      <description>&lt;ul&gt;
+  &lt;li&gt;&lt;b&gt;Summary:&lt;/b&gt; &lt;b&gt;Valneva&lt;/b&gt;, in partnership with &lt;b&gt;Pfizer&lt;/b&gt;, is developing a Lyme disease vaccine, &lt;b&gt;VLA15&lt;/b&gt;. Despite a Phase 3 miss, the CEO argues that the data doesn't tell the whole story, highlighting ongoing efforts to address the disease.&lt;/li&gt;
+  &lt;li&gt;&lt;b&gt;MoAs:&lt;/b&gt; VLA15 is a multivalent recombinant protein vaccine targeting Borrelia burgdorferi, the bacterium causing Lyme disease.&lt;/li&gt;
+  &lt;li&gt;&lt;b&gt;Sources:&lt;/b&gt; &lt;a href="https://www.fiercebiotech.com/biotech/valneva-ceo-pfizer-partnered-lyme-vaccine-why-phase-3-miss-doesnt-tell-whole-story"&gt;Fierce Biotech&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;</description>
+      <guid isPermaLink="false">668cca051442ed9a3b3d6ba63bfedc04</guid>
+      <pubDate>Thu, 02 Apr 2026 22:09:16 GMT</pubDate>
     </item>
   </channel>
 </rss>
