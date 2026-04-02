@@ -6,15 +6,26 @@
     <description>News digest covering Oncology.</description>
     <atom:link href="https://www.google.com" rel="self" type="application/rss+xml"/>
     <item>
+      <title>AstraZeneca's Apexonco (EMERALD Trial)</title>
+      <link>https://www.google.com</link>
+      <description>&lt;ul&gt;
+  &lt;li&gt;&lt;b&gt;Summary:&lt;/b&gt; The theme centers on &lt;b&gt;AstraZeneca&lt;/b&gt;'s drug candidate &lt;b&gt;Apexonco&lt;/b&gt; and its evaluation in the &lt;b&gt;EMERALD&lt;/b&gt; trial. While specific clinical data points are not detailed in the provided source, the focus is on the company's efforts to advance this oncology asset, likely involving updates or refinements to its clinical development strategy based on trial outcomes.&lt;/li&gt;
+  &lt;li&gt;&lt;b&gt;MoAs:&lt;/b&gt; N/A (Specific MoA for Apexonco not provided in source; requires internal knowledge not specified in context)&lt;/li&gt;
+  &lt;li&gt;&lt;b&gt;Sources:&lt;/b&gt; &lt;a href="https://www.oncologypipeline.com/apexonco/astra-polishes-second-emerald"&gt;Oncology Pipeline&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;</description>
+      <guid isPermaLink="false">526a7ddd00bbb99b2faff162743606e2</guid>
+      <pubDate>Thu, 02 Apr 2026 10:31:10 GMT</pubDate>
+    </item>
+    <item>
       <title>Radiotherapeutics &amp; Isotopes in Cancer</title>
       <link>https://www.google.com</link>
       <description>&lt;ul&gt;
-  &lt;li&gt;The field of radiopharmaceuticals is experiencing a significant moment, with isotopes transforming cancer treatment paradigms. These targeted radiotherapeutics deliver radiation directly to cancer cells by linking radioactive isotopes to molecules that bind to specific tumor antigens. This approach, exemplified by drugs like &lt;b&gt;Pluvicto&lt;/b&gt; (lutetium Lu 177 vipivotide tetraxetan) for prostate cancer, offers a potent mechanism for treating metastatic disease. The article highlights the growing pipeline, technological advances in isotope production, and the increasing industry investment in this modality.&lt;/li&gt;
-  &lt;li&gt;Varies by agent; typically involves a tumor-targeting ligand (e.g., PSMA binder) conjugated to a radioactive isotope (e.g., Lutetium-177) that delivers localized radiation.&lt;/li&gt;
-  &lt;li&gt;&lt;a href="https://www.biospace.com/drug-development/the-radiotherapeutics-moment-how-isotopes-are-changing-cancer-treatment"&gt;BioSpace&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;b&gt;Summary:&lt;/b&gt; This theme explores the growing field of radiotherapeutics and the use of radioactive isotopes in cancer treatment. It highlights a broader industry trend and technological advancement, describing how these targeted radiation therapies are changing the oncology treatment landscape, rather than focusing on a single company or drug trial.&lt;/li&gt;
+  &lt;li&gt;&lt;b&gt;MoAs:&lt;/b&gt; N/A&lt;/li&gt;
+  &lt;li&gt;&lt;b&gt;Sources:&lt;/b&gt; &lt;a href="https://www.biospace.com/drug-development/the-radiotherapeutics-moment-how-isotopes-are-changing-cancer-treatment"&gt;BioSpace&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;</description>
       <guid isPermaLink="false">8c2f7da86e85cc5e70812cb9b283d9cd</guid>
-      <pubDate>Thu, 02 Apr 2026 10:19:39 GMT</pubDate>
+      <pubDate>Thu, 02 Apr 2026 10:31:10 GMT</pubDate>
     </item>
   </channel>
 </rss>
