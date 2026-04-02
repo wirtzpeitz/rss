@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<rss version="2.0" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Ophthalmology</title>
+    <link>https://www.google.com</link>
+    <description>News digest covering Ophthalmology.</description>
+    <atom:link href="https://www.google.com" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Immunovant's FcRn Drug (Batoclimab)</title>
+      <link>https://www.google.com</link>
+      <description>&lt;ul&gt;
+  &lt;li&gt;&lt;b&gt;Immunovant&lt;/b&gt;'s FcRn inhibitor &lt;b&gt;batoclimab&lt;/b&gt; has failed to meet its primary endpoints in a pair of Phase 3 trials for thyroid eye disease (TED). The drug, designed to reduce pathogenic IgG antibodies, did not demonstrate a statistically significant improvement in proptosis (eye bulging) compared to placebo. This setback represents a significant clinical hurdle for the company's lead asset in a competitive landscape for TED treatments.&lt;/li&gt;
+  &lt;li&gt;FcRn (neonatal Fc receptor) inhibitor; reduces circulating IgG antibody levels.&lt;/li&gt;
+  &lt;li&gt;&lt;a href="https://endpoints.news/immunovants-fcrn-drug-fails-in-a-pair-of-phase-3-trials-in-thyroid-eye-disease/"&gt;Endpoints News&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;</description>
+      <guid isPermaLink="false">73d74f93ecc666fb76fe2d781dd9c456</guid>
+      <pubDate>Thu, 02 Apr 2026 10:19:39 GMT</pubDate>
+    </item>
+  </channel>
+</rss>
