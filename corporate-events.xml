@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<rss version="2.0" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Corporate Events</title>
+    <link>https://www.google.com</link>
+    <description>News digest covering Corporate Events.</description>
+    <atom:link href="https://www.google.com" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Corporate Event: Biotech Takeovers (Cytokinetics/Biogen)</title>
+      <link>https://www.google.com</link>
+      <description>&lt;ul&gt;
+  &lt;li&gt;&lt;b&gt;Summary:&lt;/b&gt; The theme covers corporate acquisition activity, specifically focusing on potential or actual takeovers involving &lt;b&gt;Cytokinetics&lt;/b&gt; and &lt;b&gt;Biogen&lt;/b&gt;. This represents a significant corporate event in the biotech sector, where mergers and acquisitions are strategic tools for pipeline expansion, portfolio diversification, and market consolidation.&lt;/li&gt;
+  &lt;li&gt;&lt;b&gt;MoAs:&lt;/b&gt; N/A&lt;/li&gt;
+  &lt;li&gt;&lt;b&gt;Sources:&lt;/b&gt; &lt;a href="https://www.statnews.com/2026/04/02/biotech-takeovers-cytokinetics-biogen/?utm_campaign=rss"&gt;STAT News&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;</description>
+      <guid isPermaLink="false">66c4ec1255259e62643b2b636c27008d</guid>
+      <pubDate>Thu, 02 Apr 2026 10:59:41 GMT</pubDate>
+    </item>
+  </channel>
+</rss>
