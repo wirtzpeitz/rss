@@ -6,59 +6,48 @@
     <description>News digest covering Industry Events.</description>
     <atom:link href="https://www.google.com" rel="self" type="application/rss+xml"/>
     <item>
-      <title>General Opinion: Medical Misinformation &amp; Access</title>
+      <title>Medical Misinformation &amp; Access</title>
       <link>https://www.google.com</link>
       <description>&lt;ul&gt;
-  &lt;li&gt;&lt;b&gt;Summary:&lt;/b&gt; This theme addresses broad, systemic challenges in healthcare, including the proliferation of medical misinformation, shortages of healthcare providers affecting patient access, and issues related to electronic health records. It represents a macro-level discussion on public health, information integrity, and healthcare system infrastructure.&lt;/li&gt;
+  &lt;li&gt;&lt;b&gt;Summary:&lt;/b&gt; The article discusses challenges related to medical misinformation and access to healthcare, including issues like doctor shortages and electronic health records. This broader topic affects the biopharma industry and patient outcomes, emphasizing the need for improved communication and infrastructure.&lt;/li&gt;
   &lt;li&gt;&lt;b&gt;MoAs:&lt;/b&gt; N/A&lt;/li&gt;
   &lt;li&gt;&lt;b&gt;Sources:&lt;/b&gt; &lt;a href="https://www.statnews.com/2026/04/02/medical-misinformation-doctor-access-shortage-electronic-charts-disinformation/?utm_campaign=rss"&gt;STAT News&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;</description>
-      <guid isPermaLink="false">db2ced5faecaa8ab6e36aee5e6a2347a</guid>
-      <pubDate>Thu, 02 Apr 2026 10:59:41 GMT</pubDate>
+      <guid isPermaLink="false">61da26bebb9d2132e7e4d966afeb7ee1</guid>
+      <pubDate>Thu, 02 Apr 2026 11:13:53 GMT</pubDate>
     </item>
     <item>
-      <title>Flexible Fallback: AI in Medical Imaging (Deepfake X-ray Detection)</title>
+      <title>ACC Cardiology Conference</title>
       <link>https://www.google.com</link>
       <description>&lt;ul&gt;
-  &lt;li&gt;&lt;b&gt;Summary:&lt;/b&gt; This theme explores the application of artificial intelligence in medical imaging, specifically focusing on the emerging challenge of detecting AI-generated 'deepfake' medical images, such as X-rays. It represents a discussion on technology validation, cybersecurity, and the integrity of diagnostic data in an era of advanced generative AI.&lt;/li&gt;
+  &lt;li&gt;&lt;b&gt;Summary:&lt;/b&gt; The American College of Cardiology (ACC) conference is highlighted, covering latest developments in cardiology prevention and industry trends. This event serves as a platform for presenting new research and fostering collaboration in cardiovascular medicine, including discussions on innovative therapies and guidelines.&lt;/li&gt;
+  &lt;li&gt;&lt;b&gt;MoAs:&lt;/b&gt; N/A&lt;/li&gt;
+  &lt;li&gt;&lt;b&gt;Sources:&lt;/b&gt; &lt;a href="https://www.statnews.com/2026/04/02/cardiology-conference-acc-prevention-industry-maha/?utm_campaign=rss"&gt;STAT News&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;</description>
+      <guid isPermaLink="false">3ae48c8b5e7b3b4bc65b0138e703917f</guid>
+      <pubDate>Thu, 02 Apr 2026 11:13:53 GMT</pubDate>
+    </item>
+    <item>
+      <title>AI in Medical Imaging (Deepfake Detection)</title>
+      <link>https://www.google.com</link>
+      <description>&lt;ul&gt;
+  &lt;li&gt;&lt;b&gt;Summary:&lt;/b&gt; Advances in AI for medical imaging, including deepfake detection in X-rays, are explored. This technology aims to enhance diagnostic accuracy and security in healthcare imaging, addressing concerns about data integrity and fraud in digital health systems.&lt;/li&gt;
   &lt;li&gt;&lt;b&gt;MoAs:&lt;/b&gt; N/A&lt;/li&gt;
   &lt;li&gt;&lt;b&gt;Sources:&lt;/b&gt; &lt;a href="https://www.statnews.com/2026/04/02/ai-deepfake-x-ray-detection-status-report-alex-hogan/?utm_campaign=rss"&gt;STAT News&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;</description>
-      <guid isPermaLink="false">09a5a62a9aede79317905db4577f1adf</guid>
-      <pubDate>Thu, 02 Apr 2026 10:59:41 GMT</pubDate>
+      <guid isPermaLink="false">7604fc59dcd1556294e4ce22967e59a7</guid>
+      <pubDate>Thu, 02 Apr 2026 11:13:53 GMT</pubDate>
     </item>
     <item>
-      <title>Flexible Fallback: FDA Policy on AI Medical Devices</title>
+      <title>FDA &amp; AI Medical Device Regulation</title>
       <link>https://www.google.com</link>
       <description>&lt;ul&gt;
-  &lt;li&gt;&lt;b&gt;Summary:&lt;/b&gt; The theme analyzes the evolving regulatory stance of the &lt;b&gt;U.S. Food and Drug Administration (FDA)&lt;/b&gt; regarding artificial intelligence in medical devices. It discusses how the agency's approach, including the use of designations like the Breakthrough Devices Program, is adapting to the rapid innovation in AI-driven diagnostics and therapeutics.&lt;/li&gt;
+  &lt;li&gt;&lt;b&gt;Summary:&lt;/b&gt; The evolving stance of the &lt;b&gt;FDA&lt;/b&gt; on AI-based medical devices is discussed, particularly regarding breakthrough designation and regulatory pathways. This reflects the agency's adaptation to technological innovations in healthcare, aiming to balance safety with rapid development of AI tools.&lt;/li&gt;
   &lt;li&gt;&lt;b&gt;MoAs:&lt;/b&gt; N/A&lt;/li&gt;
   &lt;li&gt;&lt;b&gt;Sources:&lt;/b&gt; &lt;a href="https://www.statnews.com/2026/04/02/how-fda-stance-breakthrough-ai-medical-device-evolving/?utm_campaign=rss"&gt;STAT News&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;</description>
-      <guid isPermaLink="false">7d8fbe1f5d12fce4e3f7d1cda090c869</guid>
-      <pubDate>Thu, 02 Apr 2026 10:59:41 GMT</pubDate>
-    </item>
-    <item>
-      <title>Flexible Fallback: Innovation in Drug Discovery</title>
-      <link>https://www.google.com</link>
-      <description>&lt;ul&gt;
-  &lt;li&gt;&lt;b&gt;Summary:&lt;/b&gt; The theme examines the intense pressure and challenges within the drug discovery process. It frames the environment as an 'innovation pressure cooker' and discusses strategies and technologies being employed to tackle some of the sector's most significant hurdles in developing new medicines.&lt;/li&gt;
-  &lt;li&gt;&lt;b&gt;MoAs:&lt;/b&gt; N/A&lt;/li&gt;
-  &lt;li&gt;&lt;b&gt;Sources:&lt;/b&gt; &lt;a href="https://www.biospace.com/job-trends/innovation-pressure-cooker-tackling-drug-discoverys-biggest-challenges"&gt;BioSpace&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;</description>
-      <guid isPermaLink="false">aea3ed83ade83b0b34ed1e7846f25eb8</guid>
-      <pubDate>Thu, 02 Apr 2026 10:59:41 GMT</pubDate>
-    </item>
-    <item>
-      <title>General Opinion: Trade Policy (Trump Tariffs on Drugs)</title>
-      <link>https://www.google.com</link>
-      <description>&lt;ul&gt;
-  &lt;li&gt;&lt;b&gt;Summary:&lt;/b&gt; This theme covers macro-economic and policy developments, specifically the potential imposition of tariffs on imported brand-name drugs under a Section 232 trade action, as associated with former President Trump. This represents a significant industry-wide event that could impact drug pricing, supply chains, and international trade relations for the pharmaceutical sector.&lt;/li&gt;
-  &lt;li&gt;&lt;b&gt;MoAs:&lt;/b&gt; N/A&lt;/li&gt;
-  &lt;li&gt;&lt;b&gt;Sources:&lt;/b&gt; &lt;a href="https://www.statnews.com/2026/04/01/trump-section-232-tariffs-imported-brand-drugs/?utm_campaign=rss"&gt;STAT News&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;</description>
-      <guid isPermaLink="false">afdda1585bc26116101dd29eb1552727</guid>
-      <pubDate>Thu, 02 Apr 2026 10:59:41 GMT</pubDate>
+      <guid isPermaLink="false">8010e1eceef78e3d80a8665198b37cb9</guid>
+      <pubDate>Thu, 02 Apr 2026 11:13:53 GMT</pubDate>
     </item>
   </channel>
 </rss>
