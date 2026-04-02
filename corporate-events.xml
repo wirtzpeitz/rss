@@ -6,26 +6,92 @@
     <description>News digest covering Corporate Events.</description>
     <atom:link href="https://www.google.com" rel="self" type="application/rss+xml"/>
     <item>
-      <title>Corporate Restructuring (BioNTech)</title>
+      <title>BioNTech Corporate Restructuring</title>
       <link>https://www.google.com</link>
       <description>&lt;ul&gt;
-  &lt;li&gt;&lt;b&gt;Summary:&lt;/b&gt; &lt;b&gt;BioNTech&lt;/b&gt; is signaling the closure of its mRNA manufacturing facility in Singapore, as part of a restructuring to align capacity with reduced demand following the pandemic peak.&lt;/li&gt;
+  &lt;li&gt;&lt;b&gt;Summary:&lt;/b&gt; &lt;b&gt;BioNTech&lt;/b&gt; announces corporate restructuring efforts, including the planned closure of its Singapore mRNA manufacturing facility, to align capacity with reduced demand post-pandemic. This move is part of broader cost-cutting measures to streamline operations and focus on core mRNA technology development.&lt;/li&gt;
   &lt;li&gt;&lt;b&gt;MoAs:&lt;/b&gt; N/A&lt;/li&gt;
   &lt;li&gt;&lt;b&gt;Sources:&lt;/b&gt; &lt;a href="https://www.fiercepharma.com/pharma/biontech-telegraphs-closure-singapore-mrna-facility-amid-efforts-align-capacity"&gt;Fierce Pharma&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;</description>
-      <guid isPermaLink="false">3fd3380144653f69c4d42fba092c7426</guid>
-      <pubDate>Thu, 02 Apr 2026 21:42:28 GMT</pubDate>
+      <guid isPermaLink="false">e684c9bebdbe7fbeec95c1232df8369e</guid>
+      <pubDate>Thu, 02 Apr 2026 22:09:16 GMT</pubDate>
     </item>
     <item>
-      <title>Corporate Acquisition (OpenLoop Health)</title>
+      <title>Drug Substance Manufacturing &amp; Pricing</title>
       <link>https://www.google.com</link>
       <description>&lt;ul&gt;
-  &lt;li&gt;&lt;b&gt;Summary:&lt;/b&gt; &lt;b&gt;OpenLoop Health&lt;/b&gt; has completed the acquisition of nutrition startup &lt;b&gt;Season Health&lt;/b&gt;, expanding its offerings in the digital health and nutrition space.&lt;/li&gt;
+  &lt;li&gt;&lt;b&gt;Summary:&lt;/b&gt; &lt;b&gt;SpectronRx&lt;/b&gt;, a drug substance manufacturer, is raising prices due to the energy crisis and has raised $85 million in funding. This move highlights corporate responses to macroeconomic pressures in pharmaceutical supply chains.&lt;/li&gt;
   &lt;li&gt;&lt;b&gt;MoAs:&lt;/b&gt; N/A&lt;/li&gt;
-  &lt;li&gt;&lt;b&gt;Sources:&lt;/b&gt; &lt;a href="https://endpoints.news/openloop-health-has-acquired-nutrition-startup-season-health/"&gt;Endpoints News&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;b&gt;Sources:&lt;/b&gt; &lt;a href="https://endpoints.news/drug-substance-maker-raises-prices-due-to-energy-crisis-spectronrx-gets-85m/"&gt;Endpoints News&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;</description>
-      <guid isPermaLink="false">07ae2b60eb091450f0be63665d46ea79</guid>
-      <pubDate>Thu, 02 Apr 2026 21:42:28 GMT</pubDate>
+      <guid isPermaLink="false">d4d7704d9537b17f50ce5e5daeedfc27</guid>
+      <pubDate>Thu, 02 Apr 2026 22:09:16 GMT</pubDate>
+    </item>
+    <item>
+      <title>Corporate Executive Changes</title>
+      <link>https://www.google.com</link>
+      <description>&lt;ul&gt;
+  &lt;li&gt;&lt;b&gt;Summary:&lt;/b&gt; &lt;b&gt;Eli Lilly&lt;/b&gt;'s chief technology officer is retiring after 35 years, and a strategy executive at &lt;b&gt;Astellas&lt;/b&gt; has resigned, indicating significant leadership transitions within major pharmaceutical firms.&lt;/li&gt;
+  &lt;li&gt;&lt;b&gt;MoAs:&lt;/b&gt; N/A&lt;/li&gt;
+  &lt;li&gt;&lt;b&gt;Sources:&lt;/b&gt; &lt;a href="https://endpoints.news/eli-lillys-chief-technology-officer-retires-after-35-years-astellas-strategy-exec-resigns/"&gt;Endpoints News&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;</description>
+      <guid isPermaLink="false">fddd6a0ba241314d8ed134bbffc57d77</guid>
+      <pubDate>Thu, 02 Apr 2026 22:09:16 GMT</pubDate>
+    </item>
+    <item>
+      <title>Biogen (CFO &amp; Deal Strategy)</title>
+      <link>https://www.google.com</link>
+      <description>&lt;ul&gt;
+  &lt;li&gt;&lt;b&gt;Summary:&lt;/b&gt; &lt;b&gt;Biogen&lt;/b&gt; is focusing on deal strategy under new CFO Kramer, targeting acquisitions in early-stage assets for immunology, rare diseases, and neuroscience. The company aims to bolster its pipeline through strategic partnerships and M&amp;A.&lt;/li&gt;
+  &lt;li&gt;&lt;b&gt;MoAs:&lt;/b&gt; N/A&lt;/li&gt;
+  &lt;li&gt;&lt;b&gt;Sources:&lt;/b&gt; &lt;a href="https://www.biopharmadive.com/news/Biogen-kramer-cfo-deal-acquisition-apellis-early-assets-immunology-rare-neuroscience/816378/"&gt;Biopharma Dive&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;</description>
+      <guid isPermaLink="false">969cbf6ec4bb4b55a309342f71194ea8</guid>
+      <pubDate>Thu, 02 Apr 2026 22:09:16 GMT</pubDate>
+    </item>
+    <item>
+      <title>Novo Nordisk Layoffs (Indiana)</title>
+      <link>https://www.google.com</link>
+      <description>&lt;ul&gt;
+  &lt;li&gt;&lt;b&gt;Summary:&lt;/b&gt; &lt;b&gt;Novo Nordisk&lt;/b&gt; is cutting 400 jobs at its Indiana facility, previously a Catalent site, despite signs of turnaround and continued investment. This move is linked to restructuring and the refiling of a drug by Scholar Rock.&lt;/li&gt;
+  &lt;li&gt;&lt;b&gt;MoAs:&lt;/b&gt; N/A&lt;/li&gt;
+  &lt;li&gt;&lt;b&gt;Sources:&lt;/b&gt; &lt;a href="https://endpoints.news/novo-cuts-400-jobs-in-indiana-as-scholar-rock-refiles-drug-linked-to-the-factory/"&gt;Endpoints News&lt;/a&gt;, &lt;a href="https://www.biospace.com/job-trends/layoffs-at-novos-ex-catalent-site-despite-signs-of-turnaround-continued-investment"&gt;BioSpace&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;</description>
+      <guid isPermaLink="false">cfb305a2b6efbdca784c1348b8f7ab41</guid>
+      <pubDate>Thu, 02 Apr 2026 22:09:16 GMT</pubDate>
+    </item>
+    <item>
+      <title>Biopharma M&amp;A &amp; Rare Disease Approvals</title>
+      <link>https://www.google.com</link>
+      <description>&lt;ul&gt;
+  &lt;li&gt;&lt;b&gt;Summary:&lt;/b&gt; &lt;b&gt;Biopharma&lt;/b&gt; merger and acquisition activity is intensifying, while the rare disease space sees three new drug approvals. This dual trend highlights strategic shifts and innovation in addressing unmet medical needs.&lt;/li&gt;
+  &lt;li&gt;&lt;b&gt;MoAs:&lt;/b&gt; N/A&lt;/li&gt;
+  &lt;li&gt;&lt;b&gt;Sources:&lt;/b&gt; &lt;a href="https://www.biospace.com/business/biopharma-m-a-heats-up-rare-diseases-win-three-approvals-wave-crashes"&gt;Biospace&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;</description>
+      <guid isPermaLink="false">34b8ec557da9ada1fbf9c1360fb4d61c</guid>
+      <pubDate>Thu, 02 Apr 2026 22:09:16 GMT</pubDate>
+    </item>
+    <item>
+      <title>Life Sciences Accelerator Program</title>
+      <link>https://www.google.com</link>
+      <description>&lt;ul&gt;
+  &lt;li&gt;&lt;b&gt;Summary:&lt;/b&gt; Eleven startups have been selected for a national life sciences accelerator program, aiming to foster innovation and support early-stage companies in the biopharma sector.&lt;/li&gt;
+  &lt;li&gt;&lt;b&gt;MoAs:&lt;/b&gt; N/A&lt;/li&gt;
+  &lt;li&gt;&lt;b&gt;Sources:&lt;/b&gt; &lt;a href="https://www.biospace.com/business/11-startups-selected-for-national-life-sciences-accelerator-program"&gt;Biospace&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;</description>
+      <guid isPermaLink="false">4b60d1496663c5f11e24d3fdd78f9e8c</guid>
+      <pubDate>Thu, 02 Apr 2026 22:09:16 GMT</pubDate>
+    </item>
+    <item>
+      <title>Pharma Deal Activity (Q1)</title>
+      <link>https://www.google.com</link>
+      <description>&lt;ul&gt;
+  &lt;li&gt;&lt;b&gt;Summary:&lt;/b&gt; In Q1, pharma deal activity reached nearly $47 billion, led by companies engaging in multiple transactions. This indicates robust M&amp;A and partnership trends in the industry.&lt;/li&gt;
+  &lt;li&gt;&lt;b&gt;MoAs:&lt;/b&gt; N/A&lt;/li&gt;
+  &lt;li&gt;&lt;b&gt;Sources:&lt;/b&gt; &lt;a href="https://www.biospace.com/business/pharma-double-dippers-lead-q1-deal-activity-to-nearly-47b"&gt;Biospace&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;</description>
+      <guid isPermaLink="false">be31e8ae859608b1a9758fb694f1b863</guid>
+      <pubDate>Thu, 02 Apr 2026 22:09:16 GMT</pubDate>
     </item>
   </channel>
 </rss>
