@@ -6,26 +6,26 @@
     <description>News digest covering Oncology.</description>
     <atom:link href="https://www.google.com" rel="self" type="application/rss+xml"/>
     <item>
-      <title>AstraZeneca's Apexonco (EMERALD Trial)</title>
+      <title>Specific Drug/Asset: AstraZeneca's Apexonco</title>
       <link>https://www.google.com</link>
       <description>&lt;ul&gt;
-  &lt;li&gt;&lt;b&gt;Summary:&lt;/b&gt; The theme centers on &lt;b&gt;AstraZeneca&lt;/b&gt;'s drug candidate &lt;b&gt;Apexonco&lt;/b&gt; and its evaluation in the &lt;b&gt;EMERALD&lt;/b&gt; trial. While specific clinical data points are not detailed in the provided source, the focus is on the company's efforts to advance this oncology asset, likely involving updates or refinements to its clinical development strategy based on trial outcomes.&lt;/li&gt;
-  &lt;li&gt;&lt;b&gt;MoAs:&lt;/b&gt; N/A (Specific MoA for Apexonco not provided in source; requires internal knowledge not specified in context)&lt;/li&gt;
+  &lt;li&gt;&lt;b&gt;Summary:&lt;/b&gt; The theme focuses on &lt;b&gt;AstraZeneca&lt;/b&gt;'s oncology asset, &lt;b&gt;Apexonco&lt;/b&gt;. The article discusses the company's efforts to further develop and refine this asset, metaphorically described as 'polishing a second emerald,' indicating progress in its clinical development or data presentation within the oncology pipeline.&lt;/li&gt;
+  &lt;li&gt;&lt;b&gt;MoAs:&lt;/b&gt; N/A (The specific mechanism of action for 'Apexonco' is not identified from the provided context or widely known as a standard drug name. It may be a development code or a placeholder name.)&lt;/li&gt;
   &lt;li&gt;&lt;b&gt;Sources:&lt;/b&gt; &lt;a href="https://www.oncologypipeline.com/apexonco/astra-polishes-second-emerald"&gt;Oncology Pipeline&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;</description>
-      <guid isPermaLink="false">526a7ddd00bbb99b2faff162743606e2</guid>
-      <pubDate>Thu, 02 Apr 2026 10:31:10 GMT</pubDate>
+      <guid isPermaLink="false">8e72304fa2f2a03a72ba3df9dc8fa90e</guid>
+      <pubDate>Thu, 02 Apr 2026 10:59:41 GMT</pubDate>
     </item>
     <item>
-      <title>Radiotherapeutics &amp; Isotopes in Cancer</title>
+      <title>Flexible Fallback: Radiotherapeutics &amp; Isotopes in Cancer</title>
       <link>https://www.google.com</link>
       <description>&lt;ul&gt;
-  &lt;li&gt;&lt;b&gt;Summary:&lt;/b&gt; This theme explores the growing field of radiotherapeutics and the use of radioactive isotopes in cancer treatment. It highlights a broader industry trend and technological advancement, describing how these targeted radiation therapies are changing the oncology treatment landscape, rather than focusing on a single company or drug trial.&lt;/li&gt;
-  &lt;li&gt;&lt;b&gt;MoAs:&lt;/b&gt; N/A&lt;/li&gt;
+  &lt;li&gt;&lt;b&gt;Summary:&lt;/b&gt; This theme highlights the growing field of radiotherapeutics in oncology, detailing how radioactive isotopes are being leveraged to create targeted cancer treatments. It discusses the current momentum in this sector, where isotopes are conjugated to targeting molecules (like antibodies or small molecules) to deliver radiation directly to tumor cells, changing the treatment paradigm for certain cancers.&lt;/li&gt;
+  &lt;li&gt;&lt;b&gt;MoAs:&lt;/b&gt; N/A (The theme discusses a broad therapeutic modality—targeted radionuclide therapy—rather than a specific drug. The mechanism involves a targeting vector (e.g., antibody, ligand) delivering a radioactive isotope (e.g., Lutetium-177, Actinium-225) to cancer cells, causing DNA damage and cell death via localized radiation.)&lt;/li&gt;
   &lt;li&gt;&lt;b&gt;Sources:&lt;/b&gt; &lt;a href="https://www.biospace.com/drug-development/the-radiotherapeutics-moment-how-isotopes-are-changing-cancer-treatment"&gt;BioSpace&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;</description>
-      <guid isPermaLink="false">8c2f7da86e85cc5e70812cb9b283d9cd</guid>
-      <pubDate>Thu, 02 Apr 2026 10:31:10 GMT</pubDate>
+      <guid isPermaLink="false">71489881b1cfb8241a51fae0c6613770</guid>
+      <pubDate>Thu, 02 Apr 2026 10:59:41 GMT</pubDate>
     </item>
   </channel>
 </rss>
