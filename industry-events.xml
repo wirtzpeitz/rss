@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<rss version="2.0" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Industry Events</title>
+    <link>https://www.google.com</link>
+    <description>News digest covering Industry Events.</description>
+    <atom:link href="https://www.google.com" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Medical Misinformation &amp; Access</title>
+      <link>https://www.google.com</link>
+      <description>The article examines the growing challenge of medical misinformation and its intersection with issues of patient access to care, including physician shortages and the role of electronic health records. It discusses how disinformation campaigns can exploit these systemic vulnerabilities, potentially impacting public health outcomes and trust in the medical system.
+N/A
+&lt;a href="https://www.statnews.com/2026/04/02/medical-misinformation-doctor-access-shortage-electronic-charts-disinformation/?utm_campaign=rss"&gt;STAT&lt;/a&gt;</description>
+      <guid isPermaLink="false">61da26bebb9d2132e7e4d966afeb7ee1</guid>
+      <pubDate>Thu, 02 Apr 2026 09:39:33 GMT</pubDate>
+    </item>
+    <item>
+      <title>Cardiology Conference (ACC)</title>
+      <link>https://www.google.com</link>
+      <description>Coverage from the American College of Cardiology (ACC) conference highlights the industry's focus on cardiovascular disease prevention. The report discusses new strategies and the role of major healthcare players in advancing preventive cardiology initiatives.
+N/A
+&lt;a href="https://www.statnews.com/2026/04/02/cardiology-conference-acc-prevention-industry-maha/?utm_campaign=rss"&gt;STAT&lt;/a&gt;</description>
+      <guid isPermaLink="false">e0904b6bf6ea8178808de5b78ae0c7ef</guid>
+      <pubDate>Thu, 02 Apr 2026 09:39:33 GMT</pubDate>
+    </item>
+    <item>
+      <title>AI in Medical Imaging</title>
+      <link>https://www.google.com</link>
+      <description>A status report explores the application of artificial intelligence in medical imaging, specifically focusing on the use of AI to detect deepfakes or manipulated X-rays. The article, by Alex Hogan, assesses the current state and potential of this technology to ensure diagnostic integrity.
+N/A
+&lt;a href="https://www.statnews.com/2026/04/02/ai-deepfake-x-ray-detection-status-report-alex-hogan/?utm_campaign=rss"&gt;STAT&lt;/a&gt;</description>
+      <guid isPermaLink="false">e89e6bb27bcba35e6ed10de7da2bb470</guid>
+      <pubDate>Thu, 02 Apr 2026 09:39:33 GMT</pubDate>
+    </item>
+    <item>
+      <title>FDA &amp; AI Medical Devices</title>
+      <link>https://www.google.com</link>
+      <description>The article analyzes the evolving regulatory stance of the &lt;b&gt;U.S. Food and Drug Administration (FDA)&lt;/b&gt; towards AI-powered medical devices. It examines how the agency's approach, including the use of its Breakthrough Devices Program, is adapting to the rapid innovation in this field to balance safety with fostering development.
+N/A
+&lt;a href="https://www.statnews.com/2026/04/02/how-fda-stance-breakthrough-ai-medical-device-evolving/?utm_campaign=rss"&gt;STAT&lt;/a&gt;</description>
+      <guid isPermaLink="false">ffe0601008fcbc38169bce4bdd562b41</guid>
+      <pubDate>Thu, 02 Apr 2026 09:39:33 GMT</pubDate>
+    </item>
+    <item>
+      <title>Drug Discovery Innovation</title>
+      <link>https://www.google.com</link>
+      <description>This piece addresses the intense pressure for innovation within drug discovery, framing it as a "pressure cooker" environment. It explores the major scientific and operational challenges facing the industry and the strategies being employed to tackle them.
+N/A
+&lt;a href="https://www.biospace.com/job-trends/innovation-pressure-cooker-tackling-drug-discoverys-biggest-challenges"&gt;BioSpace&lt;/a&gt;</description>
+      <guid isPermaLink="false">9e66a3a3d37385ca47254e1b65039f95</guid>
+      <pubDate>Thu, 02 Apr 2026 09:39:33 GMT</pubDate>
+    </item>
+    <item>
+      <title>Drug Import Tariffs (Trump Policy)</title>
+      <link>https://www.google.com</link>
+      <description>The article reports on a potential policy shift involving the use of Section 232 tariffs on imported brand-name drugs. It analyzes the implications of such a move, which could significantly impact drug pricing, supply chains, and the pharmaceutical market.
+N/A
+&lt;a href="https://www.statnews.com/2026/04/01/trump-section-232-tariffs-imported-brand-drugs/?utm_campaign=rss"&gt;STAT&lt;/a&gt;</description>
+      <guid isPermaLink="false">7841c3924f90a858e00dc0567c0a868f</guid>
+      <pubDate>Thu, 02 Apr 2026 09:39:33 GMT</pubDate>
+    </item>
+    <item>
+      <title>FDA Leadership</title>
+      <link>https://www.google.com</link>
+      <description>Marking the one-year anniversary of his tenure, &lt;b&gt;FDA Commissioner Dr. Marty Makary&lt;/b&gt; delivered a speech to agency staff. The article covers the address, reflecting on his first year in leadership and outlining his vision and priorities for the &lt;b&gt;Food and Drug Administration&lt;/b&gt; moving forward.
+N/A
+&lt;a href="https://www.statnews.com/2026/04/01/fda-commissioner-makary-one-year-anniversary-speech-to-staff/?utm_campaign=rss"&gt;STAT&lt;/a&gt;</description>
+      <guid isPermaLink="false">6e105be1cf46e6572f0284b8da348398</guid>
+      <pubDate>Thu, 02 Apr 2026 09:39:33 GMT</pubDate>
+    </item>
+  </channel>
+</rss>
