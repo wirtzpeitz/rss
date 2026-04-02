@@ -6,15 +6,26 @@
     <description>News digest covering Neurology.</description>
     <atom:link href="https://www.google.com" rel="self" type="application/rss+xml"/>
     <item>
-      <title>Alto Neuroscience ALTO-300</title>
+      <title>Alto Neuroscience (Schizophrenia Program)</title>
       <link>https://www.google.com</link>
       <description>&lt;ul&gt;
-  &lt;li&gt;&lt;b&gt;Summary:&lt;/b&gt; &lt;b&gt;Alto Neuroscience&lt;/b&gt; has discontinued the development of &lt;b&gt;ALTO-300&lt;/b&gt;, its investigational drug for cognitive impairment in schizophrenia, following a failed Phase 2 clinical trial. The program aimed to address a key unmet need in schizophrenia treatment but did not meet primary endpoints, leading to its shelving.&lt;/li&gt;
-  &lt;li&gt;&lt;b&gt;MoAs:&lt;/b&gt; ALTO-300 is a novel therapeutic targeting cognitive deficits in schizophrenia; specific MoA involves modulation of neurotransmitter systems such as glutamatergic or dopaminergic pathways, but exact mechanism not disclosed in provided context.&lt;/li&gt;
-  &lt;li&gt;&lt;b&gt;Sources:&lt;/b&gt; &lt;a href="https://endpoints.news/alto-neuroscience-shelves-schizophrenia-cognitive-impairment-program-after-phase-2-miss/"&gt;Endpoints News&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;b&gt;Summary:&lt;/b&gt; &lt;b&gt;Alto Neuroscience&lt;/b&gt; halts work on a PDE4 inhibitor after it fails to meet endpoints in a Phase 2 schizophrenia study targeting cognitive impairment. The shelving of this program underscores the difficulties in developing treatments for cognitive deficits in psychiatric disorders, affecting Alto's neuroscience pipeline.&lt;/li&gt;
+  &lt;li&gt;&lt;b&gt;MoAs:&lt;/b&gt; PDE4 inhibitor: Inhibits phosphodiesterase 4, increasing cyclic AMP (cAMP) levels to potentially improve cognitive function&lt;/li&gt;
+  &lt;li&gt;&lt;b&gt;Sources:&lt;/b&gt; &lt;a href="https://www.fiercebiotech.com/biotech/alto-halts-work-pde4-inhibitor-after-failed-phase-2-schizophrenia-study"&gt;Fierce Biotech&lt;/a&gt;, &lt;a href="https://endpoints.news/alto-neuroscience-shelves-schizophrenia-cognitive-impairment-program-after-phase-2-miss/"&gt;Endpoints News&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;</description>
-      <guid isPermaLink="false">c7273fc759f2068a184ab707eb8d9604</guid>
-      <pubDate>Thu, 02 Apr 2026 11:13:53 GMT</pubDate>
+      <guid isPermaLink="false">8198a2b6e3c033b93b31a86a9bef8f9f</guid>
+      <pubDate>Thu, 02 Apr 2026 22:09:16 GMT</pubDate>
+    </item>
+    <item>
+      <title>Korsana (Alzheimer's Reverse Merger)</title>
+      <link>https://www.google.com</link>
+      <description>&lt;ul&gt;
+  &lt;li&gt;&lt;b&gt;Summary:&lt;/b&gt; &lt;b&gt;Korsana&lt;/b&gt;, an offshoot of Paragon Biosciences, is going public via a reverse merger to fund its Alzheimer's disease work. The company is focused on developing novel assets for neurodegenerative conditions.&lt;/li&gt;
+  &lt;li&gt;&lt;b&gt;MoAs:&lt;/b&gt; N/A&lt;/li&gt;
+  &lt;li&gt;&lt;b&gt;Sources:&lt;/b&gt; &lt;a href="https://endpoints.news/paragon-offshoot-korsana-to-go-public-in-reverse-merger-for-alzheimers-work/"&gt;Endpoints News&lt;/a&gt;, &lt;a href="https://www.fiercebiotech.com/biotech/korsana-follows-debut-cyclerion-reverse-merger-focused-alzheimers-asset"&gt;Fierce Biotech&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;</description>
+      <guid isPermaLink="false">063e6333a94572990c8880188d7748ac</guid>
+      <pubDate>Thu, 02 Apr 2026 22:09:16 GMT</pubDate>
     </item>
   </channel>
 </rss>
