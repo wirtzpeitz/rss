@@ -6,15 +6,26 @@
     <description>News digest covering Corporate Events.</description>
     <atom:link href="https://www.google.com" rel="self" type="application/rss+xml"/>
     <item>
-      <title>Corporate Event: Biotech Takeovers (Cytokinetics/Biogen)</title>
+      <title>Eli Lilly Corporate Resignations</title>
       <link>https://www.google.com</link>
       <description>&lt;ul&gt;
-  &lt;li&gt;&lt;b&gt;Summary:&lt;/b&gt; The theme covers corporate acquisition activity, specifically focusing on potential or actual takeovers involving &lt;b&gt;Cytokinetics&lt;/b&gt; and &lt;b&gt;Biogen&lt;/b&gt;. This represents a significant corporate event in the biotech sector, where mergers and acquisitions are strategic tools for pipeline expansion, portfolio diversification, and market consolidation.&lt;/li&gt;
+  &lt;li&gt;&lt;b&gt;Summary:&lt;/b&gt; &lt;b&gt;Eli Lilly&lt;/b&gt; has seen the retirement of its chief technology officer after 35 years, part of executive changes at the company. This corporate resignation highlights leadership transitions within major biopharma firms.&lt;/li&gt;
+  &lt;li&gt;&lt;b&gt;MoAs:&lt;/b&gt; N/A&lt;/li&gt;
+  &lt;li&gt;&lt;b&gt;Sources:&lt;/b&gt; &lt;a href="https://endpoints.news/eli-lillys-chief-technology-officer-retires-after-35-years-astellas-strategy-exec-resigns/"&gt;Endpoints News&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;</description>
+      <guid isPermaLink="false">1ee63f31919d65c4c4ce932d01d2d34d</guid>
+      <pubDate>Thu, 02 Apr 2026 11:13:53 GMT</pubDate>
+    </item>
+    <item>
+      <title>Biotech Takeovers (Cytokinetics/Biogen)</title>
+      <link>https://www.google.com</link>
+      <description>&lt;ul&gt;
+  &lt;li&gt;&lt;b&gt;Summary:&lt;/b&gt; There is ongoing speculation or news about potential takeovers involving &lt;b&gt;Cytokinetics&lt;/b&gt; and &lt;b&gt;Biogen&lt;/b&gt;, indicating consolidation trends in the biotech industry. Such M&amp;A activities could reshape the competitive landscape and impact drug development pipelines.&lt;/li&gt;
   &lt;li&gt;&lt;b&gt;MoAs:&lt;/b&gt; N/A&lt;/li&gt;
   &lt;li&gt;&lt;b&gt;Sources:&lt;/b&gt; &lt;a href="https://www.statnews.com/2026/04/02/biotech-takeovers-cytokinetics-biogen/?utm_campaign=rss"&gt;STAT News&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;</description>
-      <guid isPermaLink="false">66c4ec1255259e62643b2b636c27008d</guid>
-      <pubDate>Thu, 02 Apr 2026 10:59:41 GMT</pubDate>
+      <guid isPermaLink="false">fbf7c7f4981518c7b87720c83657d7ac</guid>
+      <pubDate>Thu, 02 Apr 2026 11:13:53 GMT</pubDate>
     </item>
   </channel>
 </rss>
