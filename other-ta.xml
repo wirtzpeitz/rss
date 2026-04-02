@@ -6,13 +6,15 @@
     <description>News digest covering Other TA.</description>
     <atom:link href="https://www.google.com" rel="self" type="application/rss+xml"/>
     <item>
-      <title>Gilead HIV Trial Cancellation</title>
+      <title>Gilead's Long-Acting HIV Pill Trial</title>
       <link>https://www.google.com</link>
-      <description>&lt;b&gt;Gilead Sciences&lt;/b&gt; has terminated a Phase 2/3 clinical trial evaluating a long-acting oral regimen for HIV treatment and prevention. The decision follows the &lt;b&gt;FDA&lt;/b&gt;'s placement of a clinical hold on the study, which remains in effect. The cancellation represents a setback for the development of this convenient dosing option in the HIV therapeutic landscape.
-Long-acting oral antiretroviral therapy (specific MoA would depend on the drug combination, typically involving integrase strand transfer inhibitors and/or nucleoside reverse transcriptase inhibitors).
-&lt;a href="https://endpoints.news/gilead-ends-a-phase-2-3-trial-of-long-acting-hiv-pills/"&gt;Endpoints News&lt;/a&gt;, &lt;a href="https://www.fiercebiotech.com/biotech/gilead-cancels-midstage-hiv-trial-fdas-clinical-hold-remains-intact"&gt;Fierce Biotech&lt;/a&gt;</description>
-      <guid isPermaLink="false">4153a921223d0a7eaa9165a3bcb68471</guid>
-      <pubDate>Thu, 02 Apr 2026 09:39:33 GMT</pubDate>
+      <description>&lt;ul&gt;
+  &lt;li&gt;&lt;b&gt;Gilead&lt;/b&gt; has ended a Phase 2/3 trial evaluating its long-acting oral HIV pill regimen. The discontinuation follows the FDA's decision to maintain a clinical hold on the study. The trial was assessing a combination of investigational agents, &lt;b&gt;lenacapavir&lt;/b&gt; and &lt;b&gt;islatravir&lt;/b&gt;, aimed at providing a once-weekly oral treatment option. The hold and subsequent trial termination highlight ongoing development challenges in the long-acting HIV therapeutic space.&lt;/li&gt;
+  &lt;li&gt;Lenacapavir: Capsid inhibitor. Islatravir: Nucleoside reverse transcriptase translocation inhibitor (NRTTI).&lt;/li&gt;
+  &lt;li&gt;&lt;a href="https://endpoints.news/gilead-ends-a-phase-2-3-trial-of-long-acting-hiv-pills/"&gt;Endpoints News&lt;/a&gt;, &lt;a href="https://www.fiercebiotech.com/biotech/gilead-cancels-midstage-hiv-trial-fdas-clinical-hold-remains-intact"&gt;Fierce Biotech&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;</description>
+      <guid isPermaLink="false">9103d4fd7880b423ab27d4fde5b347ca</guid>
+      <pubDate>Thu, 02 Apr 2026 10:19:39 GMT</pubDate>
     </item>
   </channel>
 </rss>
