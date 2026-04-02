@@ -6,48 +6,37 @@
     <description>News digest covering Industry Events.</description>
     <atom:link href="https://www.google.com" rel="self" type="application/rss+xml"/>
     <item>
-      <title>Medical Misinformation &amp; Access</title>
+      <title>Trump 100% Pharma Tariffs</title>
       <link>https://www.google.com</link>
       <description>&lt;ul&gt;
-  &lt;li&gt;&lt;b&gt;Summary:&lt;/b&gt; The article discusses challenges related to medical misinformation and access to healthcare, including issues like doctor shortages and electronic health records. This broader topic affects the biopharma industry and patient outcomes, emphasizing the need for improved communication and infrastructure.&lt;/li&gt;
+  &lt;li&gt;&lt;b&gt;Summary:&lt;/b&gt; Former President Trump has signed an order imposing 100% tariffs on imported pharmaceuticals from countries without trade deals, with several exemptions. This policy aims to boost domestic manufacturing but may affect drug supply chains and pricing, with reports detailing the potential impacts and exceptions.&lt;/li&gt;
   &lt;li&gt;&lt;b&gt;MoAs:&lt;/b&gt; N/A&lt;/li&gt;
-  &lt;li&gt;&lt;b&gt;Sources:&lt;/b&gt; &lt;a href="https://www.statnews.com/2026/04/02/medical-misinformation-doctor-access-shortage-electronic-charts-disinformation/?utm_campaign=rss"&gt;STAT News&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;b&gt;Sources:&lt;/b&gt; &lt;a href="https://www.fiercepharma.com/pharma/trump-slaps-100-duties-imported-drugs-there-are-plenty-exceptions"&gt;Fierce Pharma&lt;/a&gt;, &lt;a href="https://endpoints.news/trump-signs-order-to-put-100-pharma-tariffs-on-drugs-countries-without-trade-deals/"&gt;Endpoints News&lt;/a&gt;, &lt;a href="https://www.statnews.com/2026/04/02/trump-pharma-tariffs-100-percent-on-some-imported-drugs-exemptions/?utm_campaign=rss"&gt;Stat News&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;</description>
-      <guid isPermaLink="false">61da26bebb9d2132e7e4d966afeb7ee1</guid>
-      <pubDate>Thu, 02 Apr 2026 11:13:53 GMT</pubDate>
+      <guid isPermaLink="false">4ec8ebcc56d61782dc413aa6b50026fe</guid>
+      <pubDate>Thu, 02 Apr 2026 21:42:28 GMT</pubDate>
     </item>
     <item>
-      <title>ACC Cardiology Conference</title>
+      <title>US-UK Pharma Trade Deal</title>
       <link>https://www.google.com</link>
       <description>&lt;ul&gt;
-  &lt;li&gt;&lt;b&gt;Summary:&lt;/b&gt; The American College of Cardiology (ACC) conference is highlighted, covering latest developments in cardiology prevention and industry trends. This event serves as a platform for presenting new research and fostering collaboration in cardiovascular medicine, including discussions on innovative therapies and guidelines.&lt;/li&gt;
+  &lt;li&gt;&lt;b&gt;Summary:&lt;/b&gt; The UK government has secured a trade deal with the US that ensures zero tariffs on pharmaceuticals, as part of efforts to re-attract investment and strengthen post-Brexit trade relations in the biopharma sector.&lt;/li&gt;
   &lt;li&gt;&lt;b&gt;MoAs:&lt;/b&gt; N/A&lt;/li&gt;
-  &lt;li&gt;&lt;b&gt;Sources:&lt;/b&gt; &lt;a href="https://www.statnews.com/2026/04/02/cardiology-conference-acc-prevention-industry-maha/?utm_campaign=rss"&gt;STAT News&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;b&gt;Sources:&lt;/b&gt; &lt;a href="https://www.fiercepharma.com/pharma/uk-government-signs-us-uk-pharma-deal-ensuring-0-drug-tariffs-britain-looks-re-attract"&gt;Fierce Pharma&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;</description>
-      <guid isPermaLink="false">3ae48c8b5e7b3b4bc65b0138e703917f</guid>
-      <pubDate>Thu, 02 Apr 2026 11:13:53 GMT</pubDate>
+      <guid isPermaLink="false">d729ce738cf3b413d9ab4d0435dab861</guid>
+      <pubDate>Thu, 02 Apr 2026 21:42:28 GMT</pubDate>
     </item>
     <item>
-      <title>AI in Medical Imaging (Deepfake Detection)</title>
+      <title>Drug Price Negotiations</title>
       <link>https://www.google.com</link>
       <description>&lt;ul&gt;
-  &lt;li&gt;&lt;b&gt;Summary:&lt;/b&gt; Advances in AI for medical imaging, including deepfake detection in X-rays, are explored. This technology aims to enhance diagnostic accuracy and security in healthcare imaging, addressing concerns about data integrity and fraud in digital health systems.&lt;/li&gt;
+  &lt;li&gt;&lt;b&gt;Summary:&lt;/b&gt; Drugmakers are engaging in negotiations with the White House to reach deals on drug prices, which could influence future pricing strategies under current regulatory frameworks and address cost concerns.&lt;/li&gt;
   &lt;li&gt;&lt;b&gt;MoAs:&lt;/b&gt; N/A&lt;/li&gt;
-  &lt;li&gt;&lt;b&gt;Sources:&lt;/b&gt; &lt;a href="https://www.statnews.com/2026/04/02/ai-deepfake-x-ray-detection-status-report-alex-hogan/?utm_campaign=rss"&gt;STAT News&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;b&gt;Sources:&lt;/b&gt; &lt;a href="https://www.statnews.com/2026/04/02/drugmakers-white-house-negotiating-deals-drug-prices/?utm_campaign=rss"&gt;Stat News&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;</description>
-      <guid isPermaLink="false">7604fc59dcd1556294e4ce22967e59a7</guid>
-      <pubDate>Thu, 02 Apr 2026 11:13:53 GMT</pubDate>
-    </item>
-    <item>
-      <title>FDA &amp; AI Medical Device Regulation</title>
-      <link>https://www.google.com</link>
-      <description>&lt;ul&gt;
-  &lt;li&gt;&lt;b&gt;Summary:&lt;/b&gt; The evolving stance of the &lt;b&gt;FDA&lt;/b&gt; on AI-based medical devices is discussed, particularly regarding breakthrough designation and regulatory pathways. This reflects the agency's adaptation to technological innovations in healthcare, aiming to balance safety with rapid development of AI tools.&lt;/li&gt;
-  &lt;li&gt;&lt;b&gt;MoAs:&lt;/b&gt; N/A&lt;/li&gt;
-  &lt;li&gt;&lt;b&gt;Sources:&lt;/b&gt; &lt;a href="https://www.statnews.com/2026/04/02/how-fda-stance-breakthrough-ai-medical-device-evolving/?utm_campaign=rss"&gt;STAT News&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;</description>
-      <guid isPermaLink="false">8010e1eceef78e3d80a8665198b37cb9</guid>
-      <pubDate>Thu, 02 Apr 2026 11:13:53 GMT</pubDate>
+      <guid isPermaLink="false">536bebe45498580cad15b6396fff886b</guid>
+      <pubDate>Thu, 02 Apr 2026 21:42:28 GMT</pubDate>
     </item>
   </channel>
 </rss>
