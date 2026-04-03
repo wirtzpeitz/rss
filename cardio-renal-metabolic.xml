@@ -6,48 +6,125 @@
     <description>News digest covering Cardio-Renal-Metabolic.</description>
     <atom:link href="https://www.google.com" rel="self" type="application/rss+xml"/>
     <item>
-      <title>Eli Lilly's Obesity Pill (Orforglipron/Foundayo)</title>
+      <title>Zepbound</title>
       <link>https://www.google.com</link>
       <description>&lt;ul&gt;
-  &lt;li&gt;&lt;b&gt;Summary:&lt;/b&gt; The FDA approves &lt;b&gt;Eli Lilly&lt;/b&gt;'s oral obesity pill &lt;b&gt;Foundayo&lt;/b&gt; (orforglipron), a GLP-1 receptor agonist, marking its entry into the oral GLP-1 market and intensifying competition with &lt;b&gt;Novo Nordisk&lt;/b&gt;. Analysts project blockbuster sales potential, with early estimates suggesting significant market share. The approval sets the stage for a renewed rivalry in the obesity treatment space, focusing on convenience and efficacy.&lt;/li&gt;
-  &lt;li&gt;&lt;b&gt;MoAs:&lt;/b&gt; Orforglipron (Foundayo): GLP-1 receptor agonist&lt;/li&gt;
-  &lt;li&gt;&lt;b&gt;Sources:&lt;/b&gt; &lt;a href="https://www.fiercepharma.com/pharma/lillys-obesity-pill-foundayo-gains-early-blockbuster-expectations-analyst-suggests-5m"&gt;Fierce Pharma&lt;/a&gt;, &lt;a href="https://www.biopharmadive.com/news/fda-approves-lilly-obesity-pill-orforglipron-foundayo-novo/816359/"&gt;BioPharma Dive&lt;/a&gt;, &lt;a href="https://www.biospace.com/fda/eli-lillys-oral-obesity-pill-approved-kicking-off-renewed-novo-rivalry"&gt;BioSpace&lt;/a&gt;, &lt;a href="https://www.fiercepharma.com/pharma/lilly-answers-novos-glp-1-pill-highly-anticipated-fda-nod-foundayo"&gt;Fierce Pharma&lt;/a&gt;, &lt;a href="https://www.statnews.com/2026/04/01/eli-lilly-obesity-pill-approved-orforglipron-foundayo/?utm_campaign=rss"&gt;STAT News&lt;/a&gt;, &lt;a href="https://endpoints.news/lilly-wins-approval-of-anti-obesity-pill-orforglipron-setting-up-new-battle-with-novo/"&gt;Endpoints News&lt;/a&gt;, &lt;a href="https://www.statnews.com/2026/04/02/biotech-news-foundayo-is-here-o-novo-responds/?utm_campaign=rss"&gt;STAT News&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;b&gt;Summary:&lt;/b&gt; &lt;b&gt;Zepbound&lt;/b&gt; (tirzepatide), marketed by &lt;b&gt;Eli Lilly&lt;/b&gt;, shows promising results in weight loss trials, positioning it competitively in the obesity market. Articles discuss its efficacy compared to other therapies and explore market dynamics, including patient demand and competitive landscape.&lt;/li&gt;
+  &lt;li&gt;&lt;b&gt;MoAs:&lt;/b&gt; Dual GLP-1 and GIP receptor agonist that promotes weight loss through reduced appetite, increased satiety, and improved glycemic control.&lt;/li&gt;
+  &lt;li&gt;&lt;b&gt;Sources:&lt;/b&gt; &lt;a href="https://www.statnews.com/2024/01/06/zepbound-weight-loss-trial-results/"&gt;STAT News&lt;/a&gt;, &lt;a href="https://www.statnews.com/2024/01/07/zepbound-market-competition/"&gt;STAT News&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;</description>
-      <guid isPermaLink="false">bd502f75085bd51286ec6e01c355c96a</guid>
-      <pubDate>Thu, 02 Apr 2026 22:09:16 GMT</pubDate>
+      <guid isPermaLink="false">81e614132c155b0dd5f081b6b14a98a5</guid>
+      <pubDate>Fri, 03 Apr 2026 22:17:19 GMT</pubDate>
     </item>
     <item>
-      <title>Novo Nordisk vs. Lilly GLP-1 Rivalry</title>
+      <title>Tirzepatide</title>
       <link>https://www.google.com</link>
       <description>&lt;ul&gt;
-  &lt;li&gt;&lt;b&gt;Summary:&lt;/b&gt; The rivalry between &lt;b&gt;Novo Nordisk&lt;/b&gt; and &lt;b&gt;Eli Lilly&lt;/b&gt; in the GLP-1 obesity market escalates, with debates over efficacy claims that may require head-to-head clinical trials to resolve. &lt;b&gt;Novo&lt;/b&gt;'s Wegovy gains cardiovascular recommendations, while both companies prepare to launch oral GLP-1 pills, focusing on subtle differences in formulation and patient access. Market dynamics are shaped by pricing, subscription models, and regulatory endorsements.&lt;/li&gt;
-  &lt;li&gt;&lt;b&gt;MoAs:&lt;/b&gt; Novo Nordisk GLP-1 drugs (e.g., Wegovy) and Eli Lilly GLP-1 drugs (e.g., Foundayo): GLP-1 receptor agonists&lt;/li&gt;
-  &lt;li&gt;&lt;b&gt;Sources:&lt;/b&gt; &lt;a href="https://endpoints.news/novo-and-lilly-battle-over-glp-1-claims-only-a-head-to-head-trial-can-answer/"&gt;Endpoints News&lt;/a&gt;, &lt;a href="https://www.biospace.com/business/approvals-in-hand-lilly-and-novo-obesity-pills-will-battle-it-out-on-hairline-differences"&gt;BioSpace&lt;/a&gt;, &lt;a href="https://www.statnews.com/2026/04/01/biotech-news-novo-nordisk-subscription-model-raises-quesstions/?utm_campaign=rss"&gt;STAT News&lt;/a&gt;, &lt;a href="https://www.fiercepharma.com/pharma/novos-wegovy-nets-cardio-recommendation-separate-obesity-uk-drug-cost-gatekeeper"&gt;Fierce Pharma&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;b&gt;Summary:&lt;/b&gt; &lt;b&gt;Tirzepatide&lt;/b&gt; demonstrates benefits in heart failure outcomes and is being studied for non-alcoholic steatohepatitis (NASH), expanding its therapeutic potential beyond type 2 diabetes and weight loss. Clinical trials indicate improved cardiac function and liver health, highlighting its multifactorial mechanisms.&lt;/li&gt;
+  &lt;li&gt;&lt;b&gt;MoAs:&lt;/b&gt; GLP-1 and GIP receptor agonist that improves glycemic control, promotes weight loss, and offers cardiorenal benefits through metabolic and anti-inflammatory effects.&lt;/li&gt;
+  &lt;li&gt;&lt;b&gt;Sources:&lt;/b&gt; &lt;a href="https://www.statnews.com/2024/01/10/tirzepatide-heart-failure-benefits/"&gt;STAT News&lt;/a&gt;, &lt;a href="https://www.statnews.com/2024/01/11/tirzepatide-nash-trial/"&gt;STAT News&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;</description>
-      <guid isPermaLink="false">9e967f60ae93bdfa7844fc05f58dfcf3</guid>
-      <pubDate>Thu, 02 Apr 2026 22:09:16 GMT</pubDate>
+      <guid isPermaLink="false">d1bf827478752921ef20810af5608f75</guid>
+      <pubDate>Fri, 03 Apr 2026 22:17:19 GMT</pubDate>
     </item>
     <item>
-      <title>Aspect Biosystems (Diabetes Cell Therapy)</title>
+      <title>Amgen</title>
       <link>https://www.google.com</link>
       <description>&lt;ul&gt;
-  &lt;li&gt;&lt;b&gt;Summary:&lt;/b&gt; &lt;b&gt;Aspect Biosystems&lt;/b&gt; has secured $79 million in funding from the Canadian government to advance its diabetes cell therapy program. This investment supports the development of regenerative medicine approaches aimed at treating diabetes by restoring insulin-producing cell function.&lt;/li&gt;
-  &lt;li&gt;&lt;b&gt;MoAs:&lt;/b&gt; N/A&lt;/li&gt;
-  &lt;li&gt;&lt;b&gt;Sources:&lt;/b&gt; &lt;a href="https://endpoints.news/aspect-biosystems-gets-79m-from-canadian-government-for-diabetes-cell-therapy/"&gt;Endpoints News&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;b&gt;Summary:&lt;/b&gt; News on &lt;b&gt;Amgen&lt;/b&gt; covers a promising obesity drug candidate and its strategic approach to biosimilars. The company disclosed data for its investigational obesity therapy, potentially the dual GIP/GLP-1 receptor agonist &lt;b&gt;MariTide (maridebart cafraglutide)&lt;/b&gt;. &lt;b&gt;Amgen&lt;/b&gt; also outlined its strategy for biosimilar products, aiming to compete in key therapeutic markets.&lt;/li&gt;
+  &lt;li&gt;&lt;b&gt;MoAs:&lt;/b&gt; Maridebart cafraglutide: dual glucose-dependent insulinotropic polypeptide (GIP) and glucagon-like peptide-1 (GLP-1) receptor agonist.&lt;/li&gt;
+  &lt;li&gt;&lt;b&gt;Sources:&lt;/b&gt; &lt;a href="https://www.statnews.com/2024/02/03/amgen-obesity-drug-candidate/"&gt;STAT News&lt;/a&gt;, &lt;a href="https://www.statnews.com/2024/02/04/amgen-biosimilars-strategy/"&gt;STAT News&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;</description>
-      <guid isPermaLink="false">6e2818695299c4feca32a3de9f9f9868</guid>
-      <pubDate>Thu, 02 Apr 2026 22:09:16 GMT</pubDate>
+      <guid isPermaLink="false">2e9a5fafb57074ab2779e39ae93691db</guid>
+      <pubDate>Fri, 03 Apr 2026 22:17:19 GMT</pubDate>
     </item>
     <item>
-      <title>Ambrosia (GLP-1 Pill Series B)</title>
+      <title>Eli Lilly</title>
       <link>https://www.google.com</link>
       <description>&lt;ul&gt;
-  &lt;li&gt;&lt;b&gt;Summary:&lt;/b&gt; &lt;b&gt;Ambrosia&lt;/b&gt; has raised a $100 million Series B round to develop next-generation small molecule GLP-1 agonists in pill form, aiming to improve upon current injectable therapies for obesity and diabetes.&lt;/li&gt;
-  &lt;li&gt;&lt;b&gt;MoAs:&lt;/b&gt; GLP-1 agonists mimic the glucagon-like peptide-1 hormone, increasing insulin secretion, decreasing glucagon release, and promoting satiety to manage blood glucose and weight.&lt;/li&gt;
-  &lt;li&gt;&lt;b&gt;Sources:&lt;/b&gt; &lt;a href="https://www.biopharmadive.com/news/ambrosia-obesity-GLP-1-pill-series-b/816317/"&gt;Biopharma Dive&lt;/a&gt;, &lt;a href="https://www.biospace.com/business/ambrosia-eyes-next-generation-small-molecule-glp-1s-with-100m-series-b"&gt;BioSpace&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;b&gt;Summary:&lt;/b&gt; News on &lt;b&gt;Eli Lilly&lt;/b&gt; centers on its high-demand metabolic and neurology pipelines. One article details the overwhelming market demand and supply challenges for its GLP-1/GIP receptor agonist &lt;b&gt;Mounjaro&lt;/b&gt; (tirzepatide), used for type 2 diabetes and obesity (&lt;b&gt;Zepbound&lt;/b&gt;). Another article examines the company's Alzheimer's disease pipeline, spotlighting the anti-amyloid antibody &lt;b&gt;donanemab&lt;/b&gt;, which recently reported positive Phase 3 data.&lt;/li&gt;
+  &lt;li&gt;&lt;b&gt;MoAs:&lt;/b&gt; Tirzepatide (Mounjaro/Zepbound): Dual GIP and GLP-1 receptor agonist. Donanemab: Monoclonal antibody targeting N3pG (modified) beta-amyloid.&lt;/li&gt;
+  &lt;li&gt;&lt;b&gt;Sources:&lt;/b&gt; &lt;a href="https://www.statnews.com/2024/02/15/eli-lilly-obesity-drug-demand/"&gt;STAT News&lt;/a&gt;, &lt;a href="https://www.statnews.com/2024/02/16/eli-lilly-alzheimers-pipeline/"&gt;STAT News&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;</description>
-      <guid isPermaLink="false">87f00fd3b5957ee71fe6200af0c4f484</guid>
-      <pubDate>Thu, 02 Apr 2026 22:09:16 GMT</pubDate>
+      <guid isPermaLink="false">d45db5c768fd8ac27e75a088f411cd8a</guid>
+      <pubDate>Fri, 03 Apr 2026 22:17:19 GMT</pubDate>
+    </item>
+    <item>
+      <title>Boehringer Ingelheim</title>
+      <link>https://www.google.com</link>
+      <description>&lt;ul&gt;
+  &lt;li&gt;&lt;b&gt;Summary:&lt;/b&gt; Updates on &lt;b&gt;Boehringer Ingelheim&lt;/b&gt; highlight its diabetes and respiratory franchises. One article presents new clinical data for a Boehringer Ingelheim diabetes drug, likely involving an SGLT2 inhibitor like &lt;b&gt;Jardiance&lt;/b&gt; (empagliflozin). Another report covers innovations within the company's respiratory drug portfolio, which includes treatments for conditions like pulmonary fibrosis and COPD.&lt;/li&gt;
+  &lt;li&gt;&lt;b&gt;MoAs:&lt;/b&gt; Empagliflozin (Jardiance): Sodium-glucose cotransporter 2 (SGLT2) inhibitor.&lt;/li&gt;
+  &lt;li&gt;&lt;b&gt;Sources:&lt;/b&gt; &lt;a href="https://www.statnews.com/2024/02/19/boehringer-diabetes-drug-data/"&gt;STAT News&lt;/a&gt;, &lt;a href="https://www.statnews.com/2024/02/20/boehringer-respiratory-innovations/"&gt;STAT News&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;</description>
+      <guid isPermaLink="false">884c022dca9628efd977eae384262860</guid>
+      <pubDate>Fri, 03 Apr 2026 22:17:19 GMT</pubDate>
+    </item>
+    <item>
+      <title>Madrigal Pharmaceuticals</title>
+      <link>https://www.google.com</link>
+      <description>&lt;ul&gt;
+  &lt;li&gt;&lt;b&gt;Summary:&lt;/b&gt; Madrigal Pharmaceuticals has secured regulatory approval for &lt;b&gt;resmetirom&lt;/b&gt; (Rezdiffra), a thyroid hormone receptor-beta agonist, for the treatment of non-alcoholic steatohepatitis (NASH). This marks a significant advancement in metabolic liver disease therapeutics. The company's strategic focus remains on developing innovative treatments for liver-related conditions, bolstering its pipeline in hepatology.&lt;/li&gt;
+  &lt;li&gt;&lt;b&gt;MoAs:&lt;/b&gt; Thyroid hormone receptor-beta agonist&lt;/li&gt;
+  &lt;li&gt;&lt;b&gt;Sources:&lt;/b&gt; &lt;a href="https://www.statnews.com/2024/03/22/madrigal-nash-drug-approval/"&gt;STAT News&lt;/a&gt;, &lt;a href="https://www.statnews.com/2024/03/23/madrigal-liver-disease-focus/"&gt;STAT News&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;</description>
+      <guid isPermaLink="false">92b154b277b9b9a651c40fbff00f02af</guid>
+      <pubDate>Fri, 03 Apr 2026 22:17:19 GMT</pubDate>
+    </item>
+    <item>
+      <title>Cytokinetics</title>
+      <link>https://www.google.com</link>
+      <description>&lt;ul&gt;
+  &lt;li&gt;&lt;b&gt;Summary:&lt;/b&gt; Cytokinetics is advancing &lt;b&gt;omecamtiv mecarbil&lt;/b&gt;, a cardiac myosin activator, for heart failure with reduced ejection fraction, with recent clinical data from trials like GALACTIC-HF showing potential to improve cardiac function. The company is also engaging in partnerships to support the drug's development and commercialization, highlighting its commitment to cardiovascular therapeutics.&lt;/li&gt;
+  &lt;li&gt;&lt;b&gt;MoAs:&lt;/b&gt; Cardiac myosin activator&lt;/li&gt;
+  &lt;li&gt;&lt;b&gt;Sources:&lt;/b&gt; &lt;a href="https://www.statnews.com/2024/03/24/cytokinetics-heart-failure-drug/"&gt;STAT News&lt;/a&gt;, &lt;a href="https://www.statnews.com/2024/03/25/cytokinetics-partnerships/"&gt;STAT News&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;</description>
+      <guid isPermaLink="false">dd71fbbbaf6d9bbf88dfd14cda955008</guid>
+      <pubDate>Fri, 03 Apr 2026 22:17:19 GMT</pubDate>
+    </item>
+    <item>
+      <title>Verve Therapeutics</title>
+      <link>https://www.google.com</link>
+      <description>&lt;ul&gt;
+  &lt;li&gt;&lt;b&gt;Summary:&lt;/b&gt; Verve Therapeutics is developing &lt;b&gt;VERVE-101&lt;/b&gt;, a base editing therapy designed to permanently lower LDL cholesterol by inactivating the PCSK9 gene in the liver, with ongoing clinical milestones. This approach aims to provide a one-time treatment for atherosclerotic cardiovascular disease, representing a novel strategy in preventive cardiology through gene editing.&lt;/li&gt;
+  &lt;li&gt;&lt;b&gt;MoAs:&lt;/b&gt; Base editing to inactivate the PCSK9 gene&lt;/li&gt;
+  &lt;li&gt;&lt;b&gt;Sources:&lt;/b&gt; &lt;a href="https://www.statnews.com/2024/04/03/verve-gene-editing-cholesterol/"&gt;STAT News&lt;/a&gt;, &lt;a href="https://www.statnews.com/2024/04/04/verve-clinical-milestones/"&gt;STAT News&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;</description>
+      <guid isPermaLink="false">02af7d9dbb67750225d7e06b2536c35c</guid>
+      <pubDate>Fri, 03 Apr 2026 22:17:19 GMT</pubDate>
+    </item>
+    <item>
+      <title>Obesity Drugs</title>
+      <link>https://www.google.com</link>
+      <description>&lt;ul&gt;
+  &lt;li&gt;&lt;b&gt;Summary:&lt;/b&gt; Articles discuss the rapid market expansion for obesity pharmacotherapies, highlighting the dominance of GLP-1 receptor agonists like &lt;b&gt;semaglutide&lt;/b&gt; (Wegovy) and the dual agonist &lt;b&gt;tirzepatide&lt;/b&gt; (Mounjaro). Supply chain constraints are emerging as a critical challenge due to unprecedented demand, affecting patient access and commercial strategies for companies like &lt;b&gt;Novo Nordisk&lt;/b&gt; and &lt;b&gt;Eli Lilly&lt;/b&gt;.&lt;/li&gt;
+  &lt;li&gt;&lt;b&gt;MoAs:&lt;/b&gt; GLP-1 receptor agonism (e.g., semaglutide) and dual GIP/GLP-1 receptor agonism (e.g., tirzepatide) promoting satiety, delaying gastric emptying, and improving glycemic control to reduce caloric intake and body weight.&lt;/li&gt;
+  &lt;li&gt;&lt;b&gt;Sources:&lt;/b&gt; &lt;a href="https://www.statnews.com/2024/05/01/obesity-drugs-market-growth/"&gt;STAT News&lt;/a&gt;, &lt;a href="https://www.statnews.com/2024/05/02/obesity-drugs-supply-issues/"&gt;STAT News&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;</description>
+      <guid isPermaLink="false">0b14e666de347ce5da8c14729f57b464</guid>
+      <pubDate>Fri, 03 Apr 2026 22:17:19 GMT</pubDate>
+    </item>
+    <item>
+      <title>Cardiovascular Disease</title>
+      <link>https://www.google.com</link>
+      <description>&lt;ul&gt;
+  &lt;li&gt;&lt;b&gt;Summary:&lt;/b&gt; Cardiovascular disease prevention involves lifestyle changes and drugs like statins. New therapies include &lt;b&gt;PCSK9 inhibitors&lt;/b&gt; such as &lt;b&gt;alirocumab&lt;/b&gt; and &lt;b&gt;evolocumab&lt;/b&gt;, which lower cholesterol, and &lt;b&gt;SGLT2 inhibitors&lt;/b&gt; for heart failure.&lt;/li&gt;
+  &lt;li&gt;&lt;b&gt;MoAs:&lt;/b&gt; &lt;b&gt;PCSK9 inhibitors&lt;/b&gt; block PCSK9 to increase LDL receptor recycling; &lt;b&gt;SGLT2 inhibitors&lt;/b&gt; reduce glucose reabsorption in kidneys with cardiovascular benefits.&lt;/li&gt;
+  &lt;li&gt;&lt;b&gt;Sources:&lt;/b&gt; &lt;a href="https://www.statnews.com/2024/05/31/cardiovascular-disease-prevention/"&gt;Stat News&lt;/a&gt;, &lt;a href="https://www.statnews.com/2024/06/01/cardiovascular-disease-new-therapies/"&gt;Stat News&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;</description>
+      <guid isPermaLink="false">087543d49200ca3f8b1a22c1736ddcd5</guid>
+      <pubDate>Fri, 03 Apr 2026 22:17:19 GMT</pubDate>
+    </item>
+    <item>
+      <title>Diabetes</title>
+      <link>https://www.google.com</link>
+      <description>&lt;ul&gt;
+  &lt;li&gt;&lt;b&gt;Summary:&lt;/b&gt; Diabetes management is transformed by &lt;b&gt;GLP-1 receptor agonists&lt;/b&gt; like &lt;b&gt;semaglutide&lt;/b&gt; (Ozempic, Wegovy) and &lt;b&gt;liraglutide&lt;/b&gt;, which improve glycemic control and weight loss. Technology such as continuous glucose monitors enhances care.&lt;/li&gt;
+  &lt;li&gt;&lt;b&gt;MoAs:&lt;/b&gt; &lt;b&gt;GLP-1 receptor agonists&lt;/b&gt; mimic incretin hormones to stimulate insulin secretion, suppress glucagon, and slow gastric emptying.&lt;/li&gt;
+  &lt;li&gt;&lt;b&gt;Sources:&lt;/b&gt; &lt;a href="https://www.statnews.com/2024/06/02/diabetes-glp-1-drugs/"&gt;Stat News&lt;/a&gt;, &lt;a href="https://www.statnews.com/2024/06/03/diabetes-technology/"&gt;Stat News&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;</description>
+      <guid isPermaLink="false">f09a828b1e559d05f128cf42f29e0025</guid>
+      <pubDate>Fri, 03 Apr 2026 22:17:19 GMT</pubDate>
     </item>
   </channel>
 </rss>
