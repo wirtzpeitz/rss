@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<rss version="2.0" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Infectious Disease</title>
+    <link>https://www.google.com</link>
+    <description>News digest covering Infectious Disease.</description>
+    <atom:link href="https://www.google.com" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Gilead Sciences</title>
+      <link>https://www.google.com</link>
+      <description>&lt;ul&gt;
+  &lt;li&gt;&lt;b&gt;Summary:&lt;/b&gt; &lt;b&gt;Gilead Sciences&lt;/b&gt; featured advancements in HIV treatment and a reinforced focus on oncology. The company highlighted progress in its HIV pipeline, which may involve long-acting regimens or novel agents like the integrase inhibitor &lt;b&gt;bictegravir&lt;/b&gt;. &lt;b&gt;Gilead&lt;/b&gt; also emphasized its strategic commitment to expanding its oncology research and development efforts.&lt;/li&gt;
+  &lt;li&gt;&lt;b&gt;MoAs:&lt;/b&gt; Bictegravir: integrase strand transfer inhibitor (INSTI).&lt;/li&gt;
+  &lt;li&gt;&lt;b&gt;Sources:&lt;/b&gt; &lt;a href="https://www.statnews.com/2024/02/01/gilead-hiv-treatment-advances/"&gt;STAT News&lt;/a&gt;, &lt;a href="https://www.statnews.com/2024/02/02/gilead-oncology-focus/"&gt;STAT News&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;</description>
+      <guid isPermaLink="false">6ebb8591949643158395d9f59b4f9bc5</guid>
+      <pubDate>Fri, 03 Apr 2026 22:17:19 GMT</pubDate>
+    </item>
+    <item>
+      <title>GlaxoSmithKline</title>
+      <link>https://www.google.com</link>
+      <description>&lt;ul&gt;
+  &lt;li&gt;&lt;b&gt;Summary:&lt;/b&gt; Coverage of &lt;b&gt;GlaxoSmithKline&lt;/b&gt; (GSK) focuses on two key therapeutic areas. One report discusses the performance and pipeline of GSK's respiratory disease portfolio, which includes drugs for asthma and COPD. The second article highlights the company's work in HIV prevention, including the long-acting injectable regimen &lt;b&gt;Cabenuva&lt;/b&gt; (cabotegravir + rilpivirine) and the investigational agent &lt;b&gt;cabotegravir&lt;/b&gt; for pre-exposure prophylaxis (PrEP).&lt;/li&gt;
+  &lt;li&gt;&lt;b&gt;MoAs:&lt;/b&gt; Cabotegravir (in Cabenuva or for PrEP): Integrase strand transfer inhibitor (INSTI). Rilpivirine (in Cabenuva): Non-nucleoside reverse transcriptase inhibitor (NNRTI).&lt;/li&gt;
+  &lt;li&gt;&lt;b&gt;Sources:&lt;/b&gt; &lt;a href="https://www.statnews.com/2024/02/13/gsk-respiratory-drugs/"&gt;STAT News&lt;/a&gt;, &lt;a href="https://www.statnews.com/2024/02/14/gsk-hiv-prevention/"&gt;STAT News&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;</description>
+      <guid isPermaLink="false">b325da3d035eba1c8304b818d6e9e3f9</guid>
+      <pubDate>Fri, 03 Apr 2026 22:17:19 GMT</pubDate>
+    </item>
+    <item>
+      <title>Vaccines</title>
+      <link>https://www.google.com</link>
+      <description>&lt;ul&gt;
+  &lt;li&gt;&lt;b&gt;Summary:&lt;/b&gt; The &lt;b&gt;mRNA&lt;/b&gt; vaccine platform, exemplified by &lt;b&gt;Pfizer-BioNTech&lt;/b&gt;'s &lt;b&gt;BNT162b2&lt;/b&gt; and &lt;b&gt;Moderna&lt;/b&gt;'s &lt;b&gt;mRNA-1273&lt;/b&gt;, has revolutionized rapid vaccine development, particularly for COVID-19. Global access issues highlight disparities in distribution and equity.&lt;/li&gt;
+  &lt;li&gt;&lt;b&gt;MoAs:&lt;/b&gt; &lt;b&gt;BNT162b2&lt;/b&gt; and &lt;b&gt;mRNA-1273&lt;/b&gt; use lipid nanoparticles to deliver mRNA encoding viral antigens, eliciting an immune response.&lt;/li&gt;
+  &lt;li&gt;&lt;b&gt;Sources:&lt;/b&gt; &lt;a href="https://www.statnews.com/2024/05/25/vaccines-mrna-platform/"&gt;Stat News&lt;/a&gt;, &lt;a href="https://www.statnews.com/2024/05/26/vaccines-global-access/"&gt;Stat News&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;</description>
+      <guid isPermaLink="false">29500917cb2554eea88ed591f5cf8a56</guid>
+      <pubDate>Fri, 03 Apr 2026 22:17:19 GMT</pubDate>
+    </item>
+    <item>
+      <title>Antibiotics</title>
+      <link>https://www.google.com</link>
+      <description>&lt;ul&gt;
+  &lt;li&gt;&lt;b&gt;Summary:&lt;/b&gt; Antibiotic resistance is a growing crisis due to overuse and a stagnant pipeline. Economic and regulatory challenges hinder new antibiotic development, threatening public health.&lt;/li&gt;
+  &lt;li&gt;&lt;b&gt;MoAs:&lt;/b&gt; N/A&lt;/li&gt;
+  &lt;li&gt;&lt;b&gt;Sources:&lt;/b&gt; &lt;a href="https://www.statnews.com/2024/05/27/antibiotics-resistance-crisis/"&gt;Stat News&lt;/a&gt;, &lt;a href="https://www.statnews.com/2024/05/28/antibiotics-pipeline-challenges/"&gt;Stat News&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;</description>
+      <guid isPermaLink="false">f11f9f51f3438ff07c01a3b266e2a43b</guid>
+      <pubDate>Fri, 03 Apr 2026 22:17:19 GMT</pubDate>
+    </item>
+    <item>
+      <title>Infectious Diseases</title>
+      <link>https://www.google.com</link>
+      <description>&lt;ul&gt;
+  &lt;li&gt;&lt;b&gt;Summary:&lt;/b&gt; This theme covers the ongoing threat of emerging infectious diseases and the development of novel antiviral therapeutics. It discusses surveillance for new pathogens, pandemic potential, and the pipeline for &lt;b&gt;antiviral drugs&lt;/b&gt; targeting a range of viral families.&lt;/li&gt;
+  &lt;li&gt;&lt;b&gt;MoAs:&lt;/b&gt; Antiviral drugs encompass various mechanisms of action including viral polymerase inhibitors, protease inhibitors, entry inhibitors, and agents that modulate host immune responses.&lt;/li&gt;
+  &lt;li&gt;&lt;b&gt;Sources:&lt;/b&gt; &lt;a href="https://www.statnews.com/2024/07/10/infectious-diseases-emerging-threats/"&gt;STAT News&lt;/a&gt;, &lt;a href="https://www.statnews.com/2024/07/11/infectious-diseases-antiviral-drugs/"&gt;STAT News&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;</description>
+      <guid isPermaLink="false">a3de9e1442e23043f141b75b1d84c572</guid>
+      <pubDate>Fri, 03 Apr 2026 22:17:19 GMT</pubDate>
+    </item>
+    <item>
+      <title>Antimicrobial Resistance</title>
+      <link>https://www.google.com</link>
+      <description>&lt;ul&gt;
+  &lt;li&gt;&lt;b&gt;Summary:&lt;/b&gt; This theme addresses the critical public health threat of antimicrobial resistance (AMR). It covers global surveillance efforts to track resistant pathogens and the urgent need for innovative antibacterial drugs, highlighting the challenges in the R&amp;D pipeline for new antibiotics.&lt;/li&gt;
+  &lt;li&gt;&lt;b&gt;MoAs:&lt;/b&gt; New antibacterial drugs target a variety of mechanisms, including novel cell wall synthesis inhibitors, protein synthesis inhibitors, and agents disrupting bacterial membrane integrity or metabolic pathways.&lt;/li&gt;
+  &lt;li&gt;&lt;b&gt;Sources:&lt;/b&gt; &lt;a href="https://www.statnews.com/2024/07/12/antimicrobial-resistance-surveillance/"&gt;STAT News&lt;/a&gt;, &lt;a href="https://www.statnews.com/2024/07/13/antimicrobial-resistance-new-drugs/"&gt;STAT News&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;</description>
+      <guid isPermaLink="false">92b5aa8a2e9272736446db6d999d118f</guid>
+      <pubDate>Fri, 03 Apr 2026 22:17:19 GMT</pubDate>
+    </item>
+  </channel>
+</rss>
