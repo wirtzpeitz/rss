@@ -6,92 +6,114 @@
     <description>News digest covering Corporate Events.</description>
     <atom:link href="https://www.google.com" rel="self" type="application/rss+xml"/>
     <item>
-      <title>BioNTech Corporate Restructuring</title>
+      <title>CRISPR Therapeutics</title>
       <link>https://www.google.com</link>
       <description>&lt;ul&gt;
-  &lt;li&gt;&lt;b&gt;Summary:&lt;/b&gt; &lt;b&gt;BioNTech&lt;/b&gt; announces corporate restructuring efforts, including the planned closure of its Singapore mRNA manufacturing facility, to align capacity with reduced demand post-pandemic. This move is part of broader cost-cutting measures to streamline operations and focus on core mRNA technology development.&lt;/li&gt;
+  &lt;li&gt;&lt;b&gt;Summary:&lt;/b&gt; &lt;b&gt;CRISPR Therapeutics&lt;/b&gt; is advancing a new gene editing clinical trial, potentially for genetic disorders like beta-thalassemia or sickle cell disease, while navigating regulatory hurdles that could impact the approval pathway for CRISPR-Cas9 based therapies. Company-specific developments in pipeline and compliance are emphasized.&lt;/li&gt;
   &lt;li&gt;&lt;b&gt;MoAs:&lt;/b&gt; N/A&lt;/li&gt;
-  &lt;li&gt;&lt;b&gt;Sources:&lt;/b&gt; &lt;a href="https://www.fiercepharma.com/pharma/biontech-telegraphs-closure-singapore-mrna-facility-amid-efforts-align-capacity"&gt;Fierce Pharma&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;b&gt;Sources:&lt;/b&gt; &lt;a href="https://www.statnews.com/2024/01/12/crispr-therapeutics-new-gene-editing-trial/"&gt;STAT News&lt;/a&gt;, &lt;a href="https://www.statnews.com/2024/01/13/crispr-therapeutics-regulatory-hurdles/"&gt;STAT News&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;</description>
-      <guid isPermaLink="false">e684c9bebdbe7fbeec95c1232df8369e</guid>
-      <pubDate>Thu, 02 Apr 2026 22:09:16 GMT</pubDate>
+      <guid isPermaLink="false">0d56c732d569320eda6db40743d724dd</guid>
+      <pubDate>Fri, 03 Apr 2026 22:17:19 GMT</pubDate>
     </item>
     <item>
-      <title>Drug Substance Manufacturing &amp; Pricing</title>
+      <title>Moderna</title>
       <link>https://www.google.com</link>
       <description>&lt;ul&gt;
-  &lt;li&gt;&lt;b&gt;Summary:&lt;/b&gt; &lt;b&gt;SpectronRx&lt;/b&gt;, a drug substance manufacturer, is raising prices due to the energy crisis and has raised $85 million in funding. This move highlights corporate responses to macroeconomic pressures in pharmaceutical supply chains.&lt;/li&gt;
+  &lt;li&gt;&lt;b&gt;Summary:&lt;/b&gt; &lt;b&gt;Moderna&lt;/b&gt; reports positive efficacy data for its mRNA-based influenza vaccine and announces a partnership to develop cancer vaccines, highlighting its expansion in infectious disease and oncology portfolios. Corporate strategies leveraging mRNA technology for diverse therapeutic areas are discussed.&lt;/li&gt;
   &lt;li&gt;&lt;b&gt;MoAs:&lt;/b&gt; N/A&lt;/li&gt;
-  &lt;li&gt;&lt;b&gt;Sources:&lt;/b&gt; &lt;a href="https://endpoints.news/drug-substance-maker-raises-prices-due-to-energy-crisis-spectronrx-gets-85m/"&gt;Endpoints News&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;b&gt;Sources:&lt;/b&gt; &lt;a href="https://www.statnews.com/2024/01/14/moderna-flu-vaccine-efficacy/"&gt;STAT News&lt;/a&gt;, &lt;a href="https://www.statnews.com/2024/01/15/moderna-cancer-vaccine-partnership/"&gt;STAT News&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;</description>
-      <guid isPermaLink="false">d4d7704d9537b17f50ce5e5daeedfc27</guid>
-      <pubDate>Thu, 02 Apr 2026 22:09:16 GMT</pubDate>
+      <guid isPermaLink="false">daf10224ca4146bfdca5b2a06aee439e</guid>
+      <pubDate>Fri, 03 Apr 2026 22:17:19 GMT</pubDate>
     </item>
     <item>
-      <title>Corporate Executive Changes</title>
+      <title>Pfizer</title>
       <link>https://www.google.com</link>
       <description>&lt;ul&gt;
-  &lt;li&gt;&lt;b&gt;Summary:&lt;/b&gt; &lt;b&gt;Eli Lilly&lt;/b&gt;'s chief technology officer is retiring after 35 years, and a strategy executive at &lt;b&gt;Astellas&lt;/b&gt; has resigned, indicating significant leadership transitions within major pharmaceutical firms.&lt;/li&gt;
+  &lt;li&gt;&lt;b&gt;Summary:&lt;/b&gt; &lt;b&gt;Pfizer&lt;/b&gt; exceeds Q1 earnings expectations and provides an update on its merger with &lt;b&gt;Seagen&lt;/b&gt;, aimed at strengthening its oncology pipeline through ADC (antibody-drug conjugate) technologies. Financial performance and strategic acquisitions are key corporate focuses.&lt;/li&gt;
   &lt;li&gt;&lt;b&gt;MoAs:&lt;/b&gt; N/A&lt;/li&gt;
-  &lt;li&gt;&lt;b&gt;Sources:&lt;/b&gt; &lt;a href="https://endpoints.news/eli-lillys-chief-technology-officer-retires-after-35-years-astellas-strategy-exec-resigns/"&gt;Endpoints News&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;b&gt;Sources:&lt;/b&gt; &lt;a href="https://www.statnews.com/2024/01/16/pfizer-q1-earnings-beat-expectations/"&gt;STAT News&lt;/a&gt;, &lt;a href="https://www.statnews.com/2024/01/17/pfizer-seagen-merger-update/"&gt;STAT News&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;</description>
-      <guid isPermaLink="false">fddd6a0ba241314d8ed134bbffc57d77</guid>
-      <pubDate>Thu, 02 Apr 2026 22:09:16 GMT</pubDate>
+      <guid isPermaLink="false">25d4e41ea437fa3b5b25bd285f2e2011</guid>
+      <pubDate>Fri, 03 Apr 2026 22:17:19 GMT</pubDate>
     </item>
     <item>
-      <title>Biogen (CFO &amp; Deal Strategy)</title>
+      <title>Novartis</title>
       <link>https://www.google.com</link>
       <description>&lt;ul&gt;
-  &lt;li&gt;&lt;b&gt;Summary:&lt;/b&gt; &lt;b&gt;Biogen&lt;/b&gt; is focusing on deal strategy under new CFO Kramer, targeting acquisitions in early-stage assets for immunology, rare diseases, and neuroscience. The company aims to bolster its pipeline through strategic partnerships and M&amp;A.&lt;/li&gt;
+  &lt;li&gt;&lt;b&gt;Summary:&lt;/b&gt; &lt;b&gt;Novartis&lt;/b&gt; unveils a new research and development strategy to prioritize innovative therapies in areas like immunology and cardiology, while addressing drug pricing policies amid industry scrutiny. Corporate restructuring and value-based pricing initiatives are highlighted.&lt;/li&gt;
   &lt;li&gt;&lt;b&gt;MoAs:&lt;/b&gt; N/A&lt;/li&gt;
-  &lt;li&gt;&lt;b&gt;Sources:&lt;/b&gt; &lt;a href="https://www.biopharmadive.com/news/Biogen-kramer-cfo-deal-acquisition-apellis-early-assets-immunology-rare-neuroscience/816378/"&gt;Biopharma Dive&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;b&gt;Sources:&lt;/b&gt; &lt;a href="https://www.statnews.com/2024/01/18/novartis-new-rd-strategy/"&gt;STAT News&lt;/a&gt;, &lt;a href="https://www.statnews.com/2024/01/19/novartis-drug-pricing-policy/"&gt;STAT News&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;</description>
-      <guid isPermaLink="false">969cbf6ec4bb4b55a309342f71194ea8</guid>
-      <pubDate>Thu, 02 Apr 2026 22:09:16 GMT</pubDate>
+      <guid isPermaLink="false">3f7329b232ecd43a14d11b8e593a7b99</guid>
+      <pubDate>Fri, 03 Apr 2026 22:17:19 GMT</pubDate>
     </item>
     <item>
-      <title>Novo Nordisk Layoffs (Indiana)</title>
+      <title>Biogen</title>
       <link>https://www.google.com</link>
       <description>&lt;ul&gt;
-  &lt;li&gt;&lt;b&gt;Summary:&lt;/b&gt; &lt;b&gt;Novo Nordisk&lt;/b&gt; is cutting 400 jobs at its Indiana facility, previously a Catalent site, despite signs of turnaround and continued investment. This move is linked to restructuring and the refiling of a drug by Scholar Rock.&lt;/li&gt;
+  &lt;li&gt;&lt;b&gt;Summary:&lt;/b&gt; &lt;b&gt;Biogen&lt;/b&gt; provides updates on its Alzheimer's disease drug pipeline, including next-generation therapies beyond &lt;b&gt;Leqembi&lt;/b&gt;, and announces leadership changes to steer the company's strategic direction. Corporate governance and pipeline advancements in neurology are emphasized.&lt;/li&gt;
   &lt;li&gt;&lt;b&gt;MoAs:&lt;/b&gt; N/A&lt;/li&gt;
-  &lt;li&gt;&lt;b&gt;Sources:&lt;/b&gt; &lt;a href="https://endpoints.news/novo-cuts-400-jobs-in-indiana-as-scholar-rock-refiles-drug-linked-to-the-factory/"&gt;Endpoints News&lt;/a&gt;, &lt;a href="https://www.biospace.com/job-trends/layoffs-at-novos-ex-catalent-site-despite-signs-of-turnaround-continued-investment"&gt;BioSpace&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;b&gt;Sources:&lt;/b&gt; &lt;a href="https://www.statnews.com/2024/01/20/biogen-alzheimers-drug-pipeline/"&gt;STAT News&lt;/a&gt;, &lt;a href="https://www.statnews.com/2024/01/21/biogen-leadership-changes/"&gt;STAT News&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;</description>
-      <guid isPermaLink="false">cfb305a2b6efbdca784c1348b8f7ab41</guid>
-      <pubDate>Thu, 02 Apr 2026 22:09:16 GMT</pubDate>
+      <guid isPermaLink="false">2e51ddde690d21c833b037c22a88ce54</guid>
+      <pubDate>Fri, 03 Apr 2026 22:17:19 GMT</pubDate>
     </item>
     <item>
-      <title>Biopharma M&amp;A &amp; Rare Disease Approvals</title>
+      <title>Seagen</title>
       <link>https://www.google.com</link>
       <description>&lt;ul&gt;
-  &lt;li&gt;&lt;b&gt;Summary:&lt;/b&gt; &lt;b&gt;Biopharma&lt;/b&gt; merger and acquisition activity is intensifying, while the rare disease space sees three new drug approvals. This dual trend highlights strategic shifts and innovation in addressing unmet medical needs.&lt;/li&gt;
+  &lt;li&gt;&lt;b&gt;Summary:&lt;/b&gt; Recent coverage of &lt;b&gt;Seagen&lt;/b&gt; highlights its leadership in antibody-drug conjugate (ADC) technology, a key platform for targeted cancer therapies. The integration following its acquisition by &lt;b&gt;Pfizer&lt;/b&gt; is underway, focusing on combining oncology portfolios and advancing ADC-based treatments.&lt;/li&gt;
   &lt;li&gt;&lt;b&gt;MoAs:&lt;/b&gt; N/A&lt;/li&gt;
-  &lt;li&gt;&lt;b&gt;Sources:&lt;/b&gt; &lt;a href="https://www.biospace.com/business/biopharma-m-a-heats-up-rare-diseases-win-three-approvals-wave-crashes"&gt;Biospace&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;b&gt;Sources:&lt;/b&gt; &lt;a href="https://www.statnews.com/2024/03/02/seagen-adc-technology/"&gt;STAT News&lt;/a&gt;, &lt;a href="https://www.statnews.com/2024/03/03/seagen-pfizer-integration/"&gt;STAT News&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;</description>
-      <guid isPermaLink="false">34b8ec557da9ada1fbf9c1360fb4d61c</guid>
-      <pubDate>Thu, 02 Apr 2026 22:09:16 GMT</pubDate>
+      <guid isPermaLink="false">877b20ffa5345ff43e28c4111f2a1ed4</guid>
+      <pubDate>Fri, 03 Apr 2026 22:17:19 GMT</pubDate>
     </item>
     <item>
-      <title>Life Sciences Accelerator Program</title>
+      <title>Mirati Therapeutics</title>
       <link>https://www.google.com</link>
       <description>&lt;ul&gt;
-  &lt;li&gt;&lt;b&gt;Summary:&lt;/b&gt; Eleven startups have been selected for a national life sciences accelerator program, aiming to foster innovation and support early-stage companies in the biopharma sector.&lt;/li&gt;
-  &lt;li&gt;&lt;b&gt;MoAs:&lt;/b&gt; N/A&lt;/li&gt;
-  &lt;li&gt;&lt;b&gt;Sources:&lt;/b&gt; &lt;a href="https://www.biospace.com/business/11-startups-selected-for-national-life-sciences-accelerator-program"&gt;Biospace&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;b&gt;Summary:&lt;/b&gt; Mirati Therapeutics' lung cancer drug &lt;b&gt;Krazati&lt;/b&gt; (adagrasib) has shown efficacy in KRAS G12C-mutated non-small cell lung cancer. The company's acquisition news involves integration into a larger oncology portfolio, marking a significant corporate development.&lt;/li&gt;
+  &lt;li&gt;&lt;b&gt;MoAs:&lt;/b&gt; Adagrasib: Covalent inhibitor of KRAS G12C.&lt;/li&gt;
+  &lt;li&gt;&lt;b&gt;Sources:&lt;/b&gt; &lt;a href="https://www.statnews.com/2024/03/18/mirati-lung-cancer-drug/"&gt;STAT News&lt;/a&gt;, &lt;a href="https://www.statnews.com/2024/03/19/mirati-acquisition-news/"&gt;STAT News&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;</description>
-      <guid isPermaLink="false">4b60d1496663c5f11e24d3fdd78f9e8c</guid>
-      <pubDate>Thu, 02 Apr 2026 22:09:16 GMT</pubDate>
+      <guid isPermaLink="false">6b0816d5d84ba688f649d40fca866f0d</guid>
+      <pubDate>Fri, 03 Apr 2026 22:17:19 GMT</pubDate>
     </item>
     <item>
-      <title>Pharma Deal Activity (Q1)</title>
+      <title>Fate Therapeutics</title>
       <link>https://www.google.com</link>
       <description>&lt;ul&gt;
-  &lt;li&gt;&lt;b&gt;Summary:&lt;/b&gt; In Q1, pharma deal activity reached nearly $47 billion, led by companies engaging in multiple transactions. This indicates robust M&amp;A and partnership trends in the industry.&lt;/li&gt;
+  &lt;li&gt;&lt;b&gt;Summary:&lt;/b&gt; Recent coverage highlights &lt;b&gt;Fate Therapeutics&lt;/b&gt;' activities in the cell therapy arena. The company is advancing its induced pluripotent stem cell (iPSC)-derived cell therapy platform, which aims to create off-the-shelf, allogeneic natural killer (NK) cell and CAR-T cell product candidates for oncology. Strategic partnerships are a key focus, as the company seeks alliances to bolster its pipeline development, share technological expertise, and navigate the competitive and capital-intensive landscape of cell therapy.&lt;/li&gt;
   &lt;li&gt;&lt;b&gt;MoAs:&lt;/b&gt; N/A&lt;/li&gt;
-  &lt;li&gt;&lt;b&gt;Sources:&lt;/b&gt; &lt;a href="https://www.biospace.com/business/pharma-double-dippers-lead-q1-deal-activity-to-nearly-47b"&gt;Biospace&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;b&gt;Sources:&lt;/b&gt; &lt;a href="https://www.statnews.com/2024/04/11/fate-therapeutics-cell-therapy/"&gt;Stat News&lt;/a&gt;, &lt;a href="https://www.statnews.com/2024/04/12/fate-therapeutics-partnerships/"&gt;Stat News&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;</description>
-      <guid isPermaLink="false">be31e8ae859608b1a9758fb694f1b863</guid>
-      <pubDate>Thu, 02 Apr 2026 22:09:16 GMT</pubDate>
+      <guid isPermaLink="false">46d795f3b22a46c125c3640b5dab7514</guid>
+      <pubDate>Fri, 03 Apr 2026 22:17:19 GMT</pubDate>
+    </item>
+    <item>
+      <title>Mergers &amp; Acquisitions</title>
+      <link>https://www.google.com</link>
+      <description>&lt;ul&gt;
+  &lt;li&gt;&lt;b&gt;Summary:&lt;/b&gt; Analyzes current trends in mergers and acquisitions within the biopharma industry, including regulatory scrutiny and strategic motivations.&lt;/li&gt;
+  &lt;li&gt;&lt;b&gt;MoAs:&lt;/b&gt; N/A&lt;/li&gt;
+  &lt;li&gt;&lt;b&gt;Sources:&lt;/b&gt; &lt;a href="https://www.statnews.com/2024/06/18/mergers-acquisitions-trends/"&gt;Stat News&lt;/a&gt;, &lt;a href="https://www.statnews.com/2024/06/19/mergers-acquisitions-regulatory-scrutiny/"&gt;Stat News&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;</description>
+      <guid isPermaLink="false">dfc6663026cbb14a7a6bfd58a97eb208</guid>
+      <pubDate>Fri, 03 Apr 2026 22:17:19 GMT</pubDate>
+    </item>
+    <item>
+      <title>IPOs</title>
+      <link>https://www.google.com</link>
+      <description>&lt;ul&gt;
+  &lt;li&gt;&lt;b&gt;Summary:&lt;/b&gt; Reports on the biotech IPO market, discussing pricing trends and market conditions for new public offerings.&lt;/li&gt;
+  &lt;li&gt;&lt;b&gt;MoAs:&lt;/b&gt; N/A&lt;/li&gt;
+  &lt;li&gt;&lt;b&gt;Sources:&lt;/b&gt; &lt;a href="https://www.statnews.com/2024/06/22/ipos-biotech-market/"&gt;Stat News&lt;/a&gt;, &lt;a href="https://www.statnews.com/2024/06/23/ipos-pricing-trends/"&gt;Stat News&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;</description>
+      <guid isPermaLink="false">bf74da585cb133a08dd883bf011fdf28</guid>
+      <pubDate>Fri, 03 Apr 2026 22:17:19 GMT</pubDate>
     </item>
   </channel>
 </rss>
