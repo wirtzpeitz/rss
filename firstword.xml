@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<rss version="2.0" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>FirstWord Pharma</title>
+    <link>https://firstwordpharma.com</link>
+    <description>Stories on FirstWord Pharma.</description>
+    <atom:link href="https://firstwordpharma.com" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Spotlight On: Key takeaways from AAD 2026</title>
+      <link>https://firstwordpharma.com/story/7161503</link>
+      <description>FirstWord highlights the latest updates emerging from AAD in psoriasis, atopic dermatitis, HS, and more…</description>
+      <guid isPermaLink="false">c1c397828b610622647c4514b420b0d5</guid>
+      <pubDate>Fri, 03 Apr 2026 16:15:52 GMT</pubDate>
+    </item>
+    <item>
+      <title>Spotlight On: ACC highlights cardiometabolic expansion across mechanisms and markets</title>
+      <link>https://firstwordpharma.com/story/7161500</link>
+      <description>This year&amp;#39;s meeting of the American College of Cardiology (ACC) painted a picture of a cardiometabolic space that is both expanding and fragmenting.</description>
+      <guid isPermaLink="false">b32be105bd72a9f32fadd43c50edb06b</guid>
+      <pubDate>Fri, 03 Apr 2026 16:15:52 GMT</pubDate>
+    </item>
+    <item>
+      <title>KOL Views Preview: Sequence vs &amp;quot;shock &amp;amp; awe&amp;quot; – is AstraZeneca&amp;#39;s quad viable in 1L HCC?</title>
+      <link>https://firstwordpharma.com/story/7159933</link>
+      <description>FirstWord will be speaking with a leading oncologist about AstraZeneca&amp;#39;s top-line EMERALD-3 results, the competitive profile of Imfinzi plus Imjudo, and how the STRIDE regimen added to standard therapy could fit into the HCC algorithm.</description>
+      <guid isPermaLink="false">b6e55d8fcda7c4f126296fb24aefb6b8</guid>
+      <pubDate>Fri, 03 Apr 2026 16:15:52 GMT</pubDate>
+    </item>
+  </channel>
+</rss>
