@@ -6,26 +6,59 @@
     <description>News digest covering Other TA.</description>
     <atom:link href="https://www.google.com" rel="self" type="application/rss+xml"/>
     <item>
-      <title>Ferring (Fertility Trials)</title>
+      <title>CSL</title>
       <link>https://www.google.com</link>
       <description>&lt;ul&gt;
-  &lt;li&gt;&lt;b&gt;Summary:&lt;/b&gt; &lt;b&gt;Ferring&lt;/b&gt; has terminated two fertility trials, signaling a strategic pullback in its reproductive medicine portfolio. This move reflects challenges or shifts in the company's focus within the fertility therapeutic area.&lt;/li&gt;
+  &lt;li&gt;&lt;b&gt;Summary:&lt;/b&gt; Coverage of &lt;b&gt;CSL&lt;/b&gt; spans its plasma-derived therapy and vaccine businesses. One report details CSL's leadership in plasma therapies for immunodeficiencies, hemophilia, and other conditions, a core segment under CSL Behring. Another article outlines progress in &lt;b&gt;CSL&lt;/b&gt;'s vaccine development pipeline, which includes seasonal influenza and other vaccines under Seqirus.&lt;/li&gt;
   &lt;li&gt;&lt;b&gt;MoAs:&lt;/b&gt; N/A&lt;/li&gt;
-  &lt;li&gt;&lt;b&gt;Sources:&lt;/b&gt; &lt;a href="https://www.fiercebiotech.com/biotech/ferring-pulls-further-back-fertility-2-terminated-trials"&gt;Fierce Biotech&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;b&gt;Sources:&lt;/b&gt; &lt;a href="https://www.statnews.com/2024/02/23/csl-plasma-therapies/"&gt;STAT News&lt;/a&gt;, &lt;a href="https://www.statnews.com/2024/02/24/csl-vaccine-development/"&gt;STAT News&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;</description>
-      <guid isPermaLink="false">6fdc6d7788d5abf9ef534ba0cede2a3d</guid>
-      <pubDate>Thu, 02 Apr 2026 22:09:16 GMT</pubDate>
+      <guid isPermaLink="false">807625414711dec6f23522384aadf389</guid>
+      <pubDate>Fri, 03 Apr 2026 22:17:19 GMT</pubDate>
     </item>
     <item>
-      <title>Valneva (Lyme Disease Vaccine)</title>
+      <title>RNA Therapeutics</title>
       <link>https://www.google.com</link>
       <description>&lt;ul&gt;
-  &lt;li&gt;&lt;b&gt;Summary:&lt;/b&gt; &lt;b&gt;Valneva&lt;/b&gt;, in partnership with &lt;b&gt;Pfizer&lt;/b&gt;, is developing a Lyme disease vaccine, &lt;b&gt;VLA15&lt;/b&gt;. Despite a Phase 3 miss, the CEO argues that the data doesn't tell the whole story, highlighting ongoing efforts to address the disease.&lt;/li&gt;
-  &lt;li&gt;&lt;b&gt;MoAs:&lt;/b&gt; VLA15 is a multivalent recombinant protein vaccine targeting Borrelia burgdorferi, the bacterium causing Lyme disease.&lt;/li&gt;
-  &lt;li&gt;&lt;b&gt;Sources:&lt;/b&gt; &lt;a href="https://www.fiercebiotech.com/biotech/valneva-ceo-pfizer-partnered-lyme-vaccine-why-phase-3-miss-doesnt-tell-whole-story"&gt;Fierce Biotech&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;b&gt;Summary:&lt;/b&gt; This theme explores the expanding universe of RNA-targeted therapeutics beyond the well-known mRNA vaccines. It covers modalities such as RNA interference (siRNA, e.g., &lt;b&gt;Alnylam's&lt;/b&gt; patisiran), antisense oligonucleotides (ASOs), and emerging RNA-targeting small molecules. The focus is on their applications in genetically defined diseases across hepatology, neurology, and cardiology, and the technological hurdles related to delivery, stability, and tissue-specific targeting that are being addressed to unlock their full therapeutic potential.&lt;/li&gt;
+  &lt;li&gt;&lt;b&gt;MoAs:&lt;/b&gt; Mechanisms include: RNA interference (siRNA) mediating sequence-specific degradation of messenger RNA (mRNA); Antisense oligonucleotides (ASOs) modulating RNA splicing or promoting RNase H-mediated degradation; Small molecules that bind and alter RNA structure/function.&lt;/li&gt;
+  &lt;li&gt;&lt;b&gt;Sources:&lt;/b&gt; &lt;a href="https://www.statnews.com/2024/04/29/rna-therapeutics-beyond-mrna/"&gt;Stat News&lt;/a&gt;, &lt;a href="https://www.statnews.com/2024/04/30/rna-targeting-small-molecules/"&gt;Stat News&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;</description>
-      <guid isPermaLink="false">668cca051442ed9a3b3d6ba63bfedc04</guid>
-      <pubDate>Thu, 02 Apr 2026 22:09:16 GMT</pubDate>
+      <guid isPermaLink="false">5047b38c1542b46e7bc53f801cb9ad4b</guid>
+      <pubDate>Fri, 03 Apr 2026 22:17:19 GMT</pubDate>
+    </item>
+    <item>
+      <title>Mental Health</title>
+      <link>https://www.google.com</link>
+      <description>&lt;ul&gt;
+  &lt;li&gt;&lt;b&gt;Summary:&lt;/b&gt; Mental health treatment is evolving with digital therapeutics and investigational psychedelics like &lt;b&gt;psilocybin&lt;/b&gt; and &lt;b&gt;MDMA&lt;/b&gt;, studied in trials such as those by &lt;b&gt;COMPASS Pathways&lt;/b&gt; and &lt;b&gt;MAPS&lt;/b&gt; for depression and PTSD.&lt;/li&gt;
+  &lt;li&gt;&lt;b&gt;MoAs:&lt;/b&gt; &lt;b&gt;Psilocybin&lt;/b&gt; acts as a serotonin receptor agonist; &lt;b&gt;MDMA&lt;/b&gt; enhances serotonin, dopamine, and norepinephrine release.&lt;/li&gt;
+  &lt;li&gt;&lt;b&gt;Sources:&lt;/b&gt; &lt;a href="https://www.statnews.com/2024/05/29/mental-health-digital-therapeutics/"&gt;Stat News&lt;/a&gt;, &lt;a href="https://www.statnews.com/2024/05/30/mental-health-psychedelics/"&gt;Stat News&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;</description>
+      <guid isPermaLink="false">0994162850b2c3b726ae7cc7d41724ef</guid>
+      <pubDate>Fri, 03 Apr 2026 22:17:19 GMT</pubDate>
+    </item>
+    <item>
+      <title>Nutrition</title>
+      <link>https://www.google.com</link>
+      <description>&lt;ul&gt;
+  &lt;li&gt;&lt;b&gt;Summary:&lt;/b&gt; This theme examines the link between nutrition, dietary supplements, and chronic disease prevention and management. It also covers the complex regulatory landscape governing health claims and the safety of nutritional products and supplements.&lt;/li&gt;
+  &lt;li&gt;&lt;b&gt;MoAs:&lt;/b&gt; N/A&lt;/li&gt;
+  &lt;li&gt;&lt;b&gt;Sources:&lt;/b&gt; &lt;a href="https://www.statnews.com/2024/07/16/nutrition-chronic-disease/"&gt;STAT News&lt;/a&gt;, &lt;a href="https://www.statnews.com/2024/07/17/nutrition-supplements-regulation/"&gt;STAT News&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;</description>
+      <guid isPermaLink="false">48611a36e6c31a1ed0ccd8621b731edd</guid>
+      <pubDate>Fri, 03 Apr 2026 22:17:19 GMT</pubDate>
+    </item>
+    <item>
+      <title>Aging</title>
+      <link>https://www.google.com</link>
+      <description>&lt;ul&gt;
+  &lt;li&gt;&lt;b&gt;Summary:&lt;/b&gt; This theme explores the biology of aging and the burgeoning field of longevity research. It includes the investigation of &lt;b&gt;senolytic drugs&lt;/b&gt; designed to selectively clear aged, dysfunctional cells (senescent cells) as a therapeutic strategy to delay age-related diseases and extend healthspan.&lt;/li&gt;
+  &lt;li&gt;&lt;b&gt;MoAs:&lt;/b&gt; Senolytic drugs typically work by inhibiting pro-survival pathways (e.g., Bcl-2, PI3K/AKT) in senescent cells, inducing apoptosis (programmed cell death) in these cells without affecting normal cells.&lt;/li&gt;
+  &lt;li&gt;&lt;b&gt;Sources:&lt;/b&gt; &lt;a href="https://www.statnews.com/2024/07/18/aging-longevity-research/"&gt;STAT News&lt;/a&gt;, &lt;a href="https://www.statnews.com/2024/07/19/aging-senolytic-drugs/"&gt;STAT News&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;</description>
+      <guid isPermaLink="false">30394d9a8eeead4c1e2a55d4e1b0b000</guid>
+      <pubDate>Fri, 03 Apr 2026 22:17:19 GMT</pubDate>
     </item>
   </channel>
 </rss>
