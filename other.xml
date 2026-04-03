@@ -6,26 +6,81 @@
     <description>News digest covering Other.</description>
     <atom:link href="https://www.google.com" rel="self" type="application/rss+xml"/>
     <item>
-      <title>Peptide Therapies &amp; Health Tech</title>
+      <title>Prime Medicine</title>
       <link>https://www.google.com</link>
       <description>&lt;ul&gt;
-  &lt;li&gt;&lt;b&gt;Summary:&lt;/b&gt; Health tech companies, including &lt;b&gt;Noom&lt;/b&gt;, are expanding into peptide therapies beyond traditional weight loss drugs, capitalizing on a growing trend. This shift is accompanied by FDA scrutiny on peptide compounding and related regulatory issues.&lt;/li&gt;
+  &lt;li&gt;&lt;b&gt;Summary:&lt;/b&gt; Prime Medicine is advancing its prime editing technology, a next-generation gene editing platform that allows for precise DNA corrections without double-strand breaks. The company's pipeline includes potential therapies for various genetic diseases, though no specific drug is highlighted in these articles, focusing instead on technological innovation and R&amp;D progress.&lt;/li&gt;
   &lt;li&gt;&lt;b&gt;MoAs:&lt;/b&gt; N/A&lt;/li&gt;
-  &lt;li&gt;&lt;b&gt;Sources:&lt;/b&gt; &lt;a href="https://endpoints.news/the-peptide-fad-lures-health-tech/"&gt;Endpoints News&lt;/a&gt;, &lt;a href="https://endpoints.news/noom-plans-push-into-peptides-beyond-weight-loss-drugs/"&gt;Endpoints News&lt;/a&gt;, &lt;a href="https://www.statnews.com/pharmalot/2026/04/01/fda-compounding-peptides-iran-war-trial-recruitment/?utm_campaign=rss"&gt;STAT News&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;b&gt;Sources:&lt;/b&gt; &lt;a href="https://www.statnews.com/2024/04/05/prime-medicine-prime-editing/"&gt;STAT News&lt;/a&gt;, &lt;a href="https://www.statnews.com/2024/04/06/prime-medicine-pipeline/"&gt;STAT News&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;</description>
-      <guid isPermaLink="false">9743a7c7e44ea9db4d8da33d54669433</guid>
-      <pubDate>Thu, 02 Apr 2026 22:09:16 GMT</pubDate>
+      <guid isPermaLink="false">1caa57b2037ce1efde3a63bc62b75047</guid>
+      <pubDate>Fri, 03 Apr 2026 22:17:19 GMT</pubDate>
     </item>
     <item>
-      <title>OpenEvidence (Prior Authorization Tech)</title>
+      <title>Clinical Trials</title>
       <link>https://www.google.com</link>
       <description>&lt;ul&gt;
-  &lt;li&gt;&lt;b&gt;Summary:&lt;/b&gt; &lt;b&gt;OpenEvidence&lt;/b&gt; is expanding its technology platform into prior authorization and prescription routing, aiming to streamline administrative processes in healthcare and improve efficiency.&lt;/li&gt;
+  &lt;li&gt;&lt;b&gt;Summary:&lt;/b&gt; Analyzes ongoing difficulties with patient recruitment and retention, including barriers related to diversity and geographic access. It also discusses the increasing adoption of decentralized trial models, leveraging telemedicine and digital health tools to enhance participation and data collection efficiency.&lt;/li&gt;
   &lt;li&gt;&lt;b&gt;MoAs:&lt;/b&gt; N/A&lt;/li&gt;
-  &lt;li&gt;&lt;b&gt;Sources:&lt;/b&gt; &lt;a href="https://endpoints.news/openevidence-moves-into-prior-authorization-and-prescriptions-routing/"&gt;Endpoints News&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;b&gt;Sources:&lt;/b&gt; &lt;a href="https://www.statnews.com/2024/05/09/clinical-trials-patient-recruitment/"&gt;STAT News&lt;/a&gt;, &lt;a href="https://www.statnews.com/2024/05/10/clinical-trials-decentralized/"&gt;STAT News&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;</description>
-      <guid isPermaLink="false">0e6cf4aa5673c0bdd5b1802621edcddc</guid>
-      <pubDate>Thu, 02 Apr 2026 22:09:16 GMT</pubDate>
+      <guid isPermaLink="false">69267750fb2121c998b07d5cef19f66b</guid>
+      <pubDate>Fri, 03 Apr 2026 22:17:19 GMT</pubDate>
+    </item>
+    <item>
+      <title>AI in Drug Discovery</title>
+      <link>https://www.google.com</link>
+      <description>&lt;ul&gt;
+  &lt;li&gt;&lt;b&gt;Summary:&lt;/b&gt; Highlights the application of artificial intelligence in de novo molecule design, using platforms from companies like &lt;b&gt;Recursion Pharmaceuticals&lt;/b&gt; to identify novel drug candidates. It also covers AI-driven optimization of clinical trial protocols, aiming to increase efficiency and success rates through predictive analytics and patient stratification.&lt;/li&gt;
+  &lt;li&gt;&lt;b&gt;MoAs:&lt;/b&gt; N/A&lt;/li&gt;
+  &lt;li&gt;&lt;b&gt;Sources:&lt;/b&gt; &lt;a href="https://www.statnews.com/2024/05/15/ai-drug-discovery-molecules/"&gt;STAT News&lt;/a&gt;, &lt;a href="https://www.statnews.com/2024/05/16/ai-clinical-trial-design/"&gt;STAT News&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;</description>
+      <guid isPermaLink="false">4659236681cb11df911a6aeb6423ec08</guid>
+      <pubDate>Fri, 03 Apr 2026 22:17:19 GMT</pubDate>
+    </item>
+    <item>
+      <title>Biomanufacturing</title>
+      <link>https://www.google.com</link>
+      <description>&lt;ul&gt;
+  &lt;li&gt;&lt;b&gt;Summary:&lt;/b&gt; Discusses industry-wide efforts by firms such as &lt;b&gt;Catalent&lt;/b&gt; and &lt;b&gt;Lonza&lt;/b&gt; to expand production capacity for biologics and cell therapies, driven by growing demand. It also explores the shift towards continuous bioprocessing technologies, which offer potential benefits in scalability, cost reduction, and product consistency compared to batch methods.&lt;/li&gt;
+  &lt;li&gt;&lt;b&gt;MoAs:&lt;/b&gt; N/A&lt;/li&gt;
+  &lt;li&gt;&lt;b&gt;Sources:&lt;/b&gt; &lt;a href="https://www.statnews.com/2024/05/17/biomanufacturing-capacity-expansion/"&gt;STAT News&lt;/a&gt;, &lt;a href="https://www.statnews.com/2024/05/18/biomanufacturing-continuous-processing/"&gt;STAT News&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;</description>
+      <guid isPermaLink="false">dd7c5161de3525804403c2b2b2433de9</guid>
+      <pubDate>Fri, 03 Apr 2026 22:17:19 GMT</pubDate>
+    </item>
+    <item>
+      <title>Telemedicine</title>
+      <link>https://www.google.com</link>
+      <description>&lt;ul&gt;
+  &lt;li&gt;&lt;b&gt;Summary:&lt;/b&gt; Reviews the sustained use of telemedicine beyond the COVID-19 pandemic, highlighting regulatory adaptations and reimbursement policies. It also examines its growing integration into the management of chronic conditions like diabetes and hypertension, improving access and patient adherence through digital health platforms.&lt;/li&gt;
+  &lt;li&gt;&lt;b&gt;MoAs:&lt;/b&gt; N/A&lt;/li&gt;
+  &lt;li&gt;&lt;b&gt;Sources:&lt;/b&gt; &lt;a href="https://www.statnews.com/2024/05/19/telemedicine-post-pandemic/"&gt;STAT News&lt;/a&gt;, &lt;a href="https://www.statnews.com/2024/05/20/telemedicine-chronic-disease-management/"&gt;STAT News&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;</description>
+      <guid isPermaLink="false">96de3a05c0dd65d0e50c78b7e3807ef1</guid>
+      <pubDate>Fri, 03 Apr 2026 22:17:19 GMT</pubDate>
+    </item>
+    <item>
+      <title>Digital Health</title>
+      <link>https://www.google.com</link>
+      <description>&lt;ul&gt;
+  &lt;li&gt;&lt;b&gt;Summary:&lt;/b&gt; Digital health advancements include wearable devices for continuous monitoring and improved patient engagement, but challenges in data privacy and security persist. Innovations are enhancing remote care and healthcare delivery.&lt;/li&gt;
+  &lt;li&gt;&lt;b&gt;MoAs:&lt;/b&gt; N/A&lt;/li&gt;
+  &lt;li&gt;&lt;b&gt;Sources:&lt;/b&gt; &lt;a href="https://www.statnews.com/2024/05/21/digital-health-wearables/"&gt;Stat News&lt;/a&gt;, &lt;a href="https://www.statnews.com/2024/05/22/digital-health-data-privacy/"&gt;Stat News&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;</description>
+      <guid isPermaLink="false">b87521ce5442fca0b9a6519d1bed104a</guid>
+      <pubDate>Fri, 03 Apr 2026 22:17:19 GMT</pubDate>
+    </item>
+    <item>
+      <title>Personalized Medicine</title>
+      <link>https://www.google.com</link>
+      <description>&lt;ul&gt;
+  &lt;li&gt;&lt;b&gt;Summary:&lt;/b&gt; Personalized medicine utilizes biomarkers and genomic data to tailor treatments, increasing efficacy and reducing adverse effects. However, cost-effectiveness remains a barrier to broader implementation.&lt;/li&gt;
+  &lt;li&gt;&lt;b&gt;MoAs:&lt;/b&gt; N/A&lt;/li&gt;
+  &lt;li&gt;&lt;b&gt;Sources:&lt;/b&gt; &lt;a href="https://www.statnews.com/2024/05/23/personalized-medicine-biomarkers/"&gt;Stat News&lt;/a&gt;, &lt;a href="https://www.statnews.com/2024/05/24/personalized-medicine-cost-effectiveness/"&gt;Stat News&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;</description>
+      <guid isPermaLink="false">c14df84dd032890c4b3d4366951747ee</guid>
+      <pubDate>Fri, 03 Apr 2026 22:17:19 GMT</pubDate>
     </item>
   </channel>
 </rss>
