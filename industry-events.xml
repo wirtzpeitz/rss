@@ -6,202 +6,81 @@
     <description>News digest covering Industry Events.</description>
     <atom:link href="https://www.google.com" rel="self" type="application/rss+xml"/>
     <item>
-      <title>CRISPR Medicine</title>
+      <title>FDA Expedited Pathway (Takeda/Denali/Stipple/Syneron)</title>
       <link>https://www.google.com</link>
       <description>&lt;ul&gt;
-  &lt;li&gt;&lt;b&gt;Summary:&lt;/b&gt; This theme examines the broader landscape of &lt;b&gt;CRISPR&lt;/b&gt;-based therapeutics beyond ex vivo cell therapy. It covers expanding therapeutic applications, such as in vivo gene editing for genetic disorders (e.g., &lt;b&gt;CRISPR Therapeutics&lt;/b&gt; and &lt;b&gt;Vertex's&lt;/b&gt; &lt;b&gt;exa-cel&lt;/b&gt; for sickle cell disease and beta-thalassemia), and the ongoing ethical, regulatory, and accessibility debates surrounding heritable edits, equitable access, and long-term safety monitoring as the technology moves into mainstream medicine.&lt;/li&gt;
+  &lt;li&gt;&lt;b&gt;Summary:&lt;/b&gt; Recent news highlights the utilization of FDA expedited pathways, such as Fast Track and Breakthrough Therapy designations, by several companies including &lt;b&gt;Takeda&lt;/b&gt;, &lt;b&gt;Denali&lt;/b&gt;, &lt;b&gt;Stipple Bio&lt;/b&gt;, and &lt;b&gt;Syneron&lt;/b&gt;. These regulatory mechanisms are designed to accelerate the development and review of drugs for serious conditions, reflecting the agency's focus on bringing innovative therapies to market more quickly. The article discusses how these designations impact development timelines and investor sentiment.&lt;/li&gt;
   &lt;li&gt;&lt;b&gt;MoAs:&lt;/b&gt; N/A&lt;/li&gt;
-  &lt;li&gt;&lt;b&gt;Sources:&lt;/b&gt; &lt;a href="https://www.statnews.com/2024/04/21/crispr-medicine-therapeutic-applications/"&gt;Stat News&lt;/a&gt;, &lt;a href="https://www.statnews.com/2024/04/22/crispr-medicine-ethical-considerations/"&gt;Stat News&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;b&gt;Sources:&lt;/b&gt; &lt;a href="https://www.biopharmadive.com/news/fda-expedited-pathway-takeda-denali-stipple-syneron/816670/"&gt;BioPharma Dive&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;</description>
-      <guid isPermaLink="false">e99de9ae23744a4aee6def2a138e27fa</guid>
-      <pubDate>Fri, 03 Apr 2026 22:17:19 GMT</pubDate>
+      <guid isPermaLink="false">8ae74bbfc6dd408e95cc36aef23d24be</guid>
+      <pubDate>Mon, 06 Apr 2026 22:02:57 GMT</pubDate>
     </item>
     <item>
-      <title>FDA Regulations</title>
+      <title>FDA Delay &amp; Biotech Impact</title>
       <link>https://www.google.com</link>
       <description>&lt;ul&gt;
-  &lt;li&gt;&lt;b&gt;Summary:&lt;/b&gt; Details proposed reforms to the accelerated approval pathway, focusing on requirements for confirmatory trials and post-market evidence generation. It also reviews new draft guidance aimed at streamlining the development and review of gene therapy products, addressing manufacturing and safety considerations for sponsors like &lt;b&gt;Spark Therapeutics&lt;/b&gt; and &lt;b&gt;Bluebird Bio&lt;/b&gt;.&lt;/li&gt;
+  &lt;li&gt;&lt;b&gt;Summary:&lt;/b&gt; Reports indicate that FDA regulatory delays are having a tangible impact on biotech companies. One article cites a delay as a factor in the closure of a startup, while another notes its influence on the timing of &lt;b&gt;Neurocrine Biosciences&lt;/b&gt;' recent acquisition of &lt;b&gt;Soleno Therapeutics&lt;/b&gt;. These instances highlight the broader challenges and uncertainties that regulatory timelines can create for biotech financing, strategic deals, and operations.&lt;/li&gt;
   &lt;li&gt;&lt;b&gt;MoAs:&lt;/b&gt; N/A&lt;/li&gt;
-  &lt;li&gt;&lt;b&gt;Sources:&lt;/b&gt; &lt;a href="https://www.statnews.com/2024/05/11/fda-accelerated-approval-reform/"&gt;STAT News&lt;/a&gt;, &lt;a href="https://www.statnews.com/2024/05/12/fda-gene-therapy-guidance/"&gt;STAT News&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;b&gt;Sources:&lt;/b&gt; &lt;a href="https://www.statnews.com/pharmalot/2026/04/06/fda-delay-biotech-close-neurocrine-deal-rare-disease/?utm_campaign=rss"&gt;STAT News&lt;/a&gt;, &lt;a href="https://www.statnews.com/2026/04/06/fda-delay-cited-in-closure-kezar-life-sciences-biotech-startup/?utm_campaign=rss"&gt;STAT News&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;</description>
-      <guid isPermaLink="false">51e0f429301474725452d7c02541d296</guid>
-      <pubDate>Fri, 03 Apr 2026 22:17:19 GMT</pubDate>
+      <guid isPermaLink="false">1e20220bf88e5588e0ee57150bfd5c81</guid>
+      <pubDate>Mon, 06 Apr 2026 22:02:57 GMT</pubDate>
     </item>
     <item>
-      <title>Drug Pricing</title>
+      <title>Colorado Orphan Drug Exemption</title>
       <link>https://www.google.com</link>
       <description>&lt;ul&gt;
-  &lt;li&gt;&lt;b&gt;Summary:&lt;/b&gt; Assesses the early impacts of the Inflation Reduction Act's drug price negotiation provisions on pharmaceutical companies and pipeline investments. It also examines the broader political and economic debates surrounding pharmaceutical pricing, including efforts to increase transparency and control costs in markets like the U.S.&lt;/li&gt;
+  &lt;li&gt;&lt;b&gt;Summary:&lt;/b&gt; Pharmaceutical companies and consumer groups are debating a proposed exemption for orphan drugs from Colorado's Prescription Drug Affordability Board (PDAB) regulations. The exemption would shield drugs designated for rare diseases from potential price controls set by the state board. Proponents argue it is necessary to encourage innovation for small patient populations, while consumer advocates contend it could undermine efforts to control overall drug costs.&lt;/li&gt;
   &lt;li&gt;&lt;b&gt;MoAs:&lt;/b&gt; N/A&lt;/li&gt;
-  &lt;li&gt;&lt;b&gt;Sources:&lt;/b&gt; &lt;a href="https://www.statnews.com/2024/05/13/drug-pricing-ira-impact/"&gt;STAT News&lt;/a&gt;, &lt;a href="https://www.statnews.com/2024/05/14/drug-pricing-negotiations/"&gt;STAT News&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;b&gt;Sources:&lt;/b&gt; &lt;a href="https://www.statnews.com/pharmalot/2026/04/06/pharma-consumer-groups-exempt-orphan-drugs-colorado-board/?utm_campaign=rss"&gt;STAT News&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;</description>
-      <guid isPermaLink="false">5f646bf7e7fab45a798173a3ee2c067a</guid>
-      <pubDate>Fri, 03 Apr 2026 22:17:19 GMT</pubDate>
+      <guid isPermaLink="false">03057b9bc638e726279be7aa5d4be258</guid>
+      <pubDate>Mon, 06 Apr 2026 22:02:57 GMT</pubDate>
     </item>
     <item>
-      <title>Biosimilars</title>
+      <title>Proposed FDA Budget</title>
       <link>https://www.google.com</link>
       <description>&lt;ul&gt;
-  &lt;li&gt;&lt;b&gt;Summary:&lt;/b&gt; Biosimilars are increasing market penetration as cost-effective alternatives to reference biologics, but patent litigation and regulatory barriers impede adoption, affecting companies like &lt;b&gt;Amgen&lt;/b&gt; and &lt;b&gt;Pfizer&lt;/b&gt;.&lt;/li&gt;
+  &lt;li&gt;&lt;b&gt;Summary:&lt;/b&gt; The proposed FDA budget aims to bolster the agency's capabilities, with Commissioner &lt;b&gt;Makary&lt;/b&gt; positioned to enhance support for US biotech innovation. This policy shift is expected to impact regulatory timelines and foster industry growth by increasing resources for drug reviews and modernizing oversight.&lt;/li&gt;
   &lt;li&gt;&lt;b&gt;MoAs:&lt;/b&gt; N/A&lt;/li&gt;
-  &lt;li&gt;&lt;b&gt;Sources:&lt;/b&gt; &lt;a href="https://www.statnews.com/2024/06/08/biosimilars-market-penetration/"&gt;Stat News&lt;/a&gt;, &lt;a href="https://www.statnews.com/2024/06/09/biosimilars-patent-litigation/"&gt;Stat News&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;b&gt;Sources:&lt;/b&gt; &lt;a href="https://endpoints.news/proposed-fda-budget-sets-makary-up-to-boost-us-biotech/"&gt;Endpoints News&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;</description>
-      <guid isPermaLink="false">eb328c6c22f17c714fd1988e9c9a4e9c</guid>
-      <pubDate>Fri, 03 Apr 2026 22:17:19 GMT</pubDate>
+      <guid isPermaLink="false">5e8c7950acfb81a6993f6dcd45fa234c</guid>
+      <pubDate>Mon, 06 Apr 2026 22:02:57 GMT</pubDate>
     </item>
     <item>
-      <title>Generics</title>
+      <title>Medicare Advantage Rates</title>
       <link>https://www.google.com</link>
       <description>&lt;ul&gt;
-  &lt;li&gt;&lt;b&gt;Summary:&lt;/b&gt; Articles discuss challenges in the generics market, including supply chain disruptions and rising quality concerns that impact drug availability and safety.&lt;/li&gt;
+  &lt;li&gt;&lt;b&gt;Summary:&lt;/b&gt; The release of Medicare Advantage rates for 2027 has positively impacted stocks of major insurers like &lt;b&gt;UnitedHealth&lt;/b&gt;, &lt;b&gt;Humana&lt;/b&gt;, and &lt;b&gt;CVS Health&lt;/b&gt;, reflecting investor optimism. Concurrently, a hospital merger in Huntsville, Alabama, underscores ongoing healthcare consolidation driven by reimbursement policies and market dynamics.&lt;/li&gt;
   &lt;li&gt;&lt;b&gt;MoAs:&lt;/b&gt; N/A&lt;/li&gt;
-  &lt;li&gt;&lt;b&gt;Sources:&lt;/b&gt; &lt;a href="https://www.statnews.com/2024/06/10/generics-supply-chain/"&gt;Stat News&lt;/a&gt;, &lt;a href="https://www.statnews.com/2024/06/11/generics-quality-concerns/"&gt;Stat News&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;b&gt;Sources:&lt;/b&gt; &lt;a href="https://www.statnews.com/2026/04/06/medicare-advantage-rates-2027-unitedhealth-humana-cvs-health-stocks-climb/?utm_campaign=rss"&gt;STAT News&lt;/a&gt;, &lt;a href="https://www.statnews.com/2026/04/06/medicare-advantage-rates-huntsville-alabama-hospital-merger/?utm_campaign=rss"&gt;STAT News&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;</description>
-      <guid isPermaLink="false">4f3ef72e27f82106715227e0112e49fe</guid>
-      <pubDate>Fri, 03 Apr 2026 22:17:19 GMT</pubDate>
+      <guid isPermaLink="false">087b751f9ef07359fea38ec04ff8ac77</guid>
+      <pubDate>Mon, 06 Apr 2026 22:02:57 GMT</pubDate>
     </item>
     <item>
-      <title>Medical Devices</title>
+      <title>Pharma Pipeline &amp; R&amp;D Trends</title>
       <link>https://www.google.com</link>
       <description>&lt;ul&gt;
-  &lt;li&gt;&lt;b&gt;Summary:&lt;/b&gt; Coverage focuses on the integration of artificial intelligence in medical devices and the growth of remote monitoring technologies, highlighting innovations and regulatory considerations.&lt;/li&gt;
+  &lt;li&gt;&lt;b&gt;Summary:&lt;/b&gt; Industry reports from &lt;b&gt;Citeline&lt;/b&gt; indicate that the pharmaceutical pipeline is stalling for the first time in decades, signaling challenges in drug development efficiency. Strategies such as lean derisking and innovative funding models are being promoted to navigate the "valley of death" and sustain R&amp;D productivity amid rising costs and complexity.&lt;/li&gt;
   &lt;li&gt;&lt;b&gt;MoAs:&lt;/b&gt; N/A&lt;/li&gt;
-  &lt;li&gt;&lt;b&gt;Sources:&lt;/b&gt; &lt;a href="https://www.statnews.com/2024/06/12/medical-devices-ai-integration/"&gt;Stat News&lt;/a&gt;, &lt;a href="https://www.statnews.com/2024/06/13/medical-devices-remote-monitoring/"&gt;Stat News&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;b&gt;Sources:&lt;/b&gt; &lt;a href="https://www.biospace.com/drug-development/pharma-pipeline-stalls-for-first-time-in-decades-citeline"&gt;BioSpace&lt;/a&gt;, &lt;a href="https://www.biospace.com/drug-development/lean-derisking-smart-ways-to-cross-drug-developments-valley-of-death"&gt;BioSpace&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;</description>
-      <guid isPermaLink="false">34cfe00c986f82a27c6b6423e9a05b36</guid>
-      <pubDate>Fri, 03 Apr 2026 22:17:19 GMT</pubDate>
+      <guid isPermaLink="false">ebf3cbc3444ecf102b17f2d9384eef26</guid>
+      <pubDate>Mon, 06 Apr 2026 22:02:57 GMT</pubDate>
     </item>
     <item>
-      <title>Health Tech</title>
+      <title>FDA Regulatory Environment</title>
       <link>https://www.google.com</link>
       <description>&lt;ul&gt;
-  &lt;li&gt;&lt;b&gt;Summary:&lt;/b&gt; Explores the landscape of health tech startups and investment trends, emphasizing digital health solutions and funding dynamics in the biopharma sector.&lt;/li&gt;
-  &lt;li&gt;&lt;b&gt;MoAs:&lt;/b&gt; N/A&lt;/li&gt;
-  &lt;li&gt;&lt;b&gt;Sources:&lt;/b&gt; &lt;a href="https://www.statnews.com/2024/06/14/health-tech-startups/"&gt;Stat News&lt;/a&gt;, &lt;a href="https://www.statnews.com/2024/06/15/health-tech-investment-trends/"&gt;Stat News&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;b&gt;Summary:&lt;/b&gt; The biotech sector is closely watching the FDA's decision on &lt;b&gt;Replimune&lt;/b&gt;'s &lt;b&gt;RP1&lt;/b&gt; as a barometer for regulatory direction in oncology. Additionally, FDA reversals in rare disease approvals highlight confusion around the use of external controls in clinical trials, affecting drug development strategies and sponsor confidence.&lt;/li&gt;
+  &lt;li&gt;&lt;b&gt;MoAs:&lt;/b&gt; RP1 is an oncolytic virus designed to selectively replicate in and destroy tumor cells while stimulating an anti-tumor immune response.&lt;/li&gt;
+  &lt;li&gt;&lt;b&gt;Sources:&lt;/b&gt; &lt;a href="https://www.biospace.com/fda/biotech-looks-to-replimune-rp1-decision-as-first-indicator-of-fda-direction"&gt;BioSpace&lt;/a&gt;, &lt;a href="https://www.biospace.com/fda/fda-reversals-in-rare-disease-space-highlight-confusion-around-external-controls"&gt;BioSpace&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;</description>
-      <guid isPermaLink="false">4fc2b2fc760900544714d13283d3e16c</guid>
-      <pubDate>Fri, 03 Apr 2026 22:17:19 GMT</pubDate>
-    </item>
-    <item>
-      <title>Pharma R&amp;D</title>
-      <link>https://www.google.com</link>
-      <description>&lt;ul&gt;
-  &lt;li&gt;&lt;b&gt;Summary:&lt;/b&gt; Discusses productivity issues in pharmaceutical research and development, along with strategies for external innovation through collaborations and acquisitions.&lt;/li&gt;
-  &lt;li&gt;&lt;b&gt;MoAs:&lt;/b&gt; N/A&lt;/li&gt;
-  &lt;li&gt;&lt;b&gt;Sources:&lt;/b&gt; &lt;a href="https://www.statnews.com/2024/06/16/pharma-rd-productivity/"&gt;Stat News&lt;/a&gt;, &lt;a href="https://www.statnews.com/2024/06/17/pharma-rd-external-innovation/"&gt;Stat News&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;</description>
-      <guid isPermaLink="false">6d3fa700e8a2de2a85723032a418155c</guid>
-      <pubDate>Fri, 03 Apr 2026 22:17:19 GMT</pubDate>
-    </item>
-    <item>
-      <title>Venture Capital</title>
-      <link>https://www.google.com</link>
-      <description>&lt;ul&gt;
-  &lt;li&gt;&lt;b&gt;Summary:&lt;/b&gt; Examines venture capital funding in biotechnology, covering investment flows and exit strategies such as IPOs or acquisitions.&lt;/li&gt;
-  &lt;li&gt;&lt;b&gt;MoAs:&lt;/b&gt; N/A&lt;/li&gt;
-  &lt;li&gt;&lt;b&gt;Sources:&lt;/b&gt; &lt;a href="https://www.statnews.com/2024/06/20/venture-capital-biotech-funding/"&gt;Stat News&lt;/a&gt;, &lt;a href="https://www.statnews.com/2024/06/21/venture-capital-exit-strategies/"&gt;Stat News&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;</description>
-      <guid isPermaLink="false">5d8e549b2499d6e8f7fa95864ff3556f</guid>
-      <pubDate>Fri, 03 Apr 2026 22:17:19 GMT</pubDate>
-    </item>
-    <item>
-      <title>Supply Chain</title>
-      <link>https://www.google.com</link>
-      <description>&lt;ul&gt;
-  &lt;li&gt;&lt;b&gt;Summary:&lt;/b&gt; Highlights issues of supply chain resilience and active pharmaceutical ingredient (API) shortages, with implications for drug manufacturing and distribution.&lt;/li&gt;
-  &lt;li&gt;&lt;b&gt;MoAs:&lt;/b&gt; N/A&lt;/li&gt;
-  &lt;li&gt;&lt;b&gt;Sources:&lt;/b&gt; &lt;a href="https://www.statnews.com/2024/06/24/supply-chain-resilience/"&gt;Stat News&lt;/a&gt;, &lt;a href="https://www.statnews.com/2024/06/25/supply-chain-api-shortages/"&gt;Stat News&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;</description>
-      <guid isPermaLink="false">3d5cd1890b3d3779863c5bfdc38a32c5</guid>
-      <pubDate>Fri, 03 Apr 2026 22:17:19 GMT</pubDate>
-    </item>
-    <item>
-      <title>Sustainability</title>
-      <link>https://www.google.com</link>
-      <description>&lt;ul&gt;
-  &lt;li&gt;&lt;b&gt;Summary:&lt;/b&gt; Covers sustainability efforts in pharma operations, including green chemistry initiatives and environmental impact reduction strategies.&lt;/li&gt;
-  &lt;li&gt;&lt;b&gt;MoAs:&lt;/b&gt; N/A&lt;/li&gt;
-  &lt;li&gt;&lt;b&gt;Sources:&lt;/b&gt; &lt;a href="https://www.statnews.com/2024/06/26/sustainability-pharma-operations/"&gt;Stat News&lt;/a&gt;, &lt;a href="https://www.statnews.com/2024/06/27/sustainability-green-chemistry/"&gt;Stat News&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;</description>
-      <guid isPermaLink="false">e24e8d3138bb54ef8cb47ab4af19d9b5</guid>
-      <pubDate>Fri, 03 Apr 2026 22:17:19 GMT</pubDate>
-    </item>
-    <item>
-      <title>Workforce Diversity</title>
-      <link>https://www.google.com</link>
-      <description>&lt;ul&gt;
-  &lt;li&gt;&lt;b&gt;Summary:&lt;/b&gt; Addresses the importance of workforce diversity in clinical trials and leadership roles, aiming for more inclusive research and corporate governance.&lt;/li&gt;
-  &lt;li&gt;&lt;b&gt;MoAs:&lt;/b&gt; N/A&lt;/li&gt;
-  &lt;li&gt;&lt;b&gt;Sources:&lt;/b&gt; &lt;a href="https://www.statnews.com/2024/06/28/workforce-diversity-clinical-trials/"&gt;Stat News&lt;/a&gt;, &lt;a href="https://www.statnews.com/2024/06/29/workforce-diversity-leadership/"&gt;Stat News&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;</description>
-      <guid isPermaLink="false">7ea1be9e34a6500071d155d8e52181d8</guid>
-      <pubDate>Fri, 03 Apr 2026 22:17:19 GMT</pubDate>
-    </item>
-    <item>
-      <title>Patient Advocacy</title>
-      <link>https://www.google.com</link>
-      <description>&lt;ul&gt;
-  &lt;li&gt;&lt;b&gt;Summary:&lt;/b&gt; This theme covers the role of patient advocacy in shaping drug development and access to medicines. Articles discuss how patient organizations are increasingly influencing research priorities, clinical trial design, and regulatory decisions, moving beyond traditional awareness campaigns to become key stakeholders in the biopharma ecosystem.&lt;/li&gt;
-  &lt;li&gt;&lt;b&gt;MoAs:&lt;/b&gt; N/A&lt;/li&gt;
-  &lt;li&gt;&lt;b&gt;Sources:&lt;/b&gt; &lt;a href="https://www.statnews.com/2024/06/30/patient-advocacy-drug-development/"&gt;STAT News&lt;/a&gt;, &lt;a href="https://www.statnews.com/2024/07/01/patient-advocacy-access-to-medicines/"&gt;STAT News&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;</description>
-      <guid isPermaLink="false">ba27f0d728772eec7fe59a9f5cfc4f68</guid>
-      <pubDate>Fri, 03 Apr 2026 22:17:19 GMT</pubDate>
-    </item>
-    <item>
-      <title>Real-World Evidence</title>
-      <link>https://www.google.com</link>
-      <description>&lt;ul&gt;
-  &lt;li&gt;&lt;b&gt;Summary:&lt;/b&gt; This theme focuses on the expanding regulatory acceptance and application of real-world evidence (RWE) in healthcare. Discussions center on regulatory frameworks for RWE, the evolution of data sources from electronic health records to wearables, and its growing role in supporting drug approvals and post-market surveillance beyond traditional randomized controlled trials.&lt;/li&gt;
-  &lt;li&gt;&lt;b&gt;MoAs:&lt;/b&gt; N/A&lt;/li&gt;
-  &lt;li&gt;&lt;b&gt;Sources:&lt;/b&gt; &lt;a href="https://www.statnews.com/2024/07/02/real-world-evidence-regulatory/"&gt;STAT News&lt;/a&gt;, &lt;a href="https://www.statnews.com/2024/07/03/real-world-evidence-data-sources/"&gt;STAT News&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;</description>
-      <guid isPermaLink="false">651a1688e50ba1d4613be9c1d8e01819</guid>
-      <pubDate>Fri, 03 Apr 2026 22:17:19 GMT</pubDate>
-    </item>
-    <item>
-      <title>Health Equity</title>
-      <link>https://www.google.com</link>
-      <description>&lt;ul&gt;
-  &lt;li&gt;&lt;b&gt;Summary:&lt;/b&gt; This theme addresses health equity in clinical research and care access. Topics include efforts to improve diversity and inclusion in clinical trial enrollment to ensure representative data, along with analyzing and addressing systemic disparities in access to medicines and healthcare services across different populations.&lt;/li&gt;
-  &lt;li&gt;&lt;b&gt;MoAs:&lt;/b&gt; N/A&lt;/li&gt;
-  &lt;li&gt;&lt;b&gt;Sources:&lt;/b&gt; &lt;a href="https://www.statnews.com/2024/07/04/health-equity-clinical-trials/"&gt;STAT News&lt;/a&gt;, &lt;a href="https://www.statnews.com/2024/07/05/health-equity-access-disparities/"&gt;STAT News&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;</description>
-      <guid isPermaLink="false">d86a1165cf646911218d0a11bae7c712</guid>
-      <pubDate>Fri, 03 Apr 2026 22:17:19 GMT</pubDate>
-    </item>
-    <item>
-      <title>Global Health</title>
-      <link>https://www.google.com</link>
-      <description>&lt;ul&gt;
-  &lt;li&gt;&lt;b&gt;Summary:&lt;/b&gt; This theme explores global health challenges, including strengthening pandemic preparedness infrastructure and combating neglected tropical diseases. It covers international collaboration, funding mechanisms, and R&amp;D strategies for diseases that disproportionately affect low- and middle-income countries.&lt;/li&gt;
-  &lt;li&gt;&lt;b&gt;MoAs:&lt;/b&gt; N/A&lt;/li&gt;
-  &lt;li&gt;&lt;b&gt;Sources:&lt;/b&gt; &lt;a href="https://www.statnews.com/2024/07/06/global-health-pandemic-preparedness/"&gt;STAT News&lt;/a&gt;, &lt;a href="https://www.statnews.com/2024/07/07/global-health-tropical-diseases/"&gt;STAT News&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;</description>
-      <guid isPermaLink="false">9fed9b070529692b2655fde4924cd7a1</guid>
-      <pubDate>Fri, 03 Apr 2026 22:17:19 GMT</pubDate>
-    </item>
-    <item>
-      <title>Pandemic Response</title>
-      <link>https://www.google.com</link>
-      <description>&lt;ul&gt;
-  &lt;li&gt;&lt;b&gt;Summary:&lt;/b&gt; This theme analyzes lessons learned from recent pandemics, focusing on vaccine development, manufacturing, and equitable distribution strategies. It examines systemic improvements needed for faster, more coordinated global responses to future public health emergencies.&lt;/li&gt;
-  &lt;li&gt;&lt;b&gt;MoAs:&lt;/b&gt; N/A&lt;/li&gt;
-  &lt;li&gt;&lt;b&gt;Sources:&lt;/b&gt; &lt;a href="https://www.statnews.com/2024/07/08/pandemic-response-lessons-learned/"&gt;STAT News&lt;/a&gt;, &lt;a href="https://www.statnews.com/2024/07/09/pandemic-response-vaccine-distribution/"&gt;STAT News&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;</description>
-      <guid isPermaLink="false">ce02ff77a71d0bf37327f5021f4454b2</guid>
-      <pubDate>Fri, 03 Apr 2026 22:17:19 GMT</pubDate>
-    </item>
-    <item>
-      <title>One Health</title>
-      <link>https://www.google.com</link>
-      <description>&lt;ul&gt;
-  &lt;li&gt;&lt;b&gt;Summary:&lt;/b&gt; This theme discusses the 'One Health' approach, which recognizes the interconnected health of humans, animals, and ecosystems. It focuses on the prevention and control of zoonotic disease spillover and the impact of environmental factors, such as climate change, on public health.&lt;/li&gt;
-  &lt;li&gt;&lt;b&gt;MoAs:&lt;/b&gt; N/A&lt;/li&gt;
-  &lt;li&gt;&lt;b&gt;Sources:&lt;/b&gt; &lt;a href="https://www.statnews.com/2024/07/14/one-health-zoonotic-diseases/"&gt;STAT News&lt;/a&gt;, &lt;a href="https://www.statnews.com/2024/07/15/one-health-environmental-health/"&gt;STAT News&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;</description>
-      <guid isPermaLink="false">f84abb80c53d75cfd3d48d2d7468a86c</guid>
-      <pubDate>Fri, 03 Apr 2026 22:17:19 GMT</pubDate>
+      <guid isPermaLink="false">461df1cd8593f6bb7ad5ae0d44e26d81</guid>
+      <pubDate>Mon, 06 Apr 2026 22:02:57 GMT</pubDate>
     </item>
   </channel>
 </rss>
