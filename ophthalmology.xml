@@ -6,15 +6,15 @@
     <description>News digest covering Ophthalmology.</description>
     <atom:link href="https://www.google.com" rel="self" type="application/rss+xml"/>
     <item>
-      <title>Immunovant (FcRn Inhibitor)</title>
+      <title>Amgen / Tepezza (Teprotumumab)</title>
       <link>https://www.google.com</link>
       <description>&lt;ul&gt;
-  &lt;li&gt;&lt;b&gt;Summary:&lt;/b&gt; &lt;b&gt;Immunovant&lt;/b&gt;'s FcRn inhibitor, batoclimab, fails in two Phase 3 trials for thyroid eye disease (TED), validating concerns about the drug's efficacy and the company's waning prospects. The setbacks highlight challenges in targeting autoimmune eye conditions with FcRn blockade, impacting Immunovant's clinical pipeline.&lt;/li&gt;
-  &lt;li&gt;&lt;b&gt;MoAs:&lt;/b&gt; FcRn inhibitor (batoclimab): Blocks neonatal Fc receptor to reduce IgG antibody levels&lt;/li&gt;
-  &lt;li&gt;&lt;b&gt;Sources:&lt;/b&gt; &lt;a href="https://www.fiercebiotech.com/biotech/immunovants-fcrn-inhibitor-flunks-phase-3-eye-disease-trials-validating-biotechs-waning"&gt;Fierce Biotech&lt;/a&gt;, &lt;a href="https://endpoints.news/immunovants-fcrn-drug-fails-in-a-pair-of-phase-3-trials-in-thyroid-eye-disease/"&gt;Endpoints News&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;b&gt;Summary:&lt;/b&gt; &lt;b&gt;Amgen&lt;/b&gt; has reported positive clinical trial results for a subcutaneous, body-injected formulation of &lt;b&gt;Tepezza&lt;/b&gt; (teprotumumab), its monoclonal antibody for Thyroid Eye Disease (TED). The new formulation demonstrated comparable efficacy and safety to the intravenous version, potentially offering greater patient convenience. This development is strategically important as Tepezza faces impending competition from biosimilars and other pipeline candidates. Amgen aims to bolster the product's lifecycle and market position with this more convenient administration option.&lt;/li&gt;
+  &lt;li&gt;&lt;b&gt;MoAs:&lt;/b&gt; Tepezza (teprotumumab): Monoclonal antibody that binds to and inhibits the insulin-like growth factor-1 receptor (IGF-1R), reducing inflammation and tissue remodeling in TED.&lt;/li&gt;
+  &lt;li&gt;&lt;b&gt;Sources:&lt;/b&gt; &lt;a href="https://www.biopharmadive.com/news/amgen-subcutaneous-tepezza-thyroid-eye-disease-results/816708/"&gt;BioPharma Dive&lt;/a&gt;, &lt;a href="https://endpoints.news/amgen-seeks-to-buoy-tepezza-with-injectable-data-in-face-of-incoming-competition/"&gt;Endpoints News&lt;/a&gt;, &lt;a href="https://www.fiercepharma.com/pharma/amgen-scores-trial-body-injected-version-tepezza"&gt;Fierce Pharma&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;</description>
-      <guid isPermaLink="false">b0ae4ddf37beccdc0d7431199e4cedb5</guid>
-      <pubDate>Thu, 02 Apr 2026 22:09:16 GMT</pubDate>
+      <guid isPermaLink="false">1b714d5b9a249e866c54caa4267fe8dc</guid>
+      <pubDate>Mon, 06 Apr 2026 22:02:57 GMT</pubDate>
     </item>
   </channel>
 </rss>
