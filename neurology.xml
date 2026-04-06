@@ -6,48 +6,15 @@
     <description>News digest covering Neurology.</description>
     <atom:link href="https://www.google.com" rel="self" type="application/rss+xml"/>
     <item>
-      <title>Leqembi</title>
+      <title>Pediatric Mental Health</title>
       <link>https://www.google.com</link>
       <description>&lt;ul&gt;
-  &lt;li&gt;&lt;b&gt;Summary:&lt;/b&gt; &lt;b&gt;Leqembi&lt;/b&gt; (lecanemab), an anti-amyloid monoclonal antibody developed by &lt;b&gt;Eisai&lt;/b&gt; and &lt;b&gt;Biogen&lt;/b&gt;, is highlighted as a transformative therapy for Alzheimer's disease, with real-world data supporting its efficacy in slowing cognitive decline, consistent with the Clarity AD trial. However, significant challenges regarding high treatment costs and patient access barriers are noted, which could impact widespread adoption.&lt;/li&gt;
-  &lt;li&gt;&lt;b&gt;MoAs:&lt;/b&gt; Anti-amyloid monoclonal antibody that binds soluble amyloid-beta protofibrils to reduce amyloid plaques in the brain.&lt;/li&gt;
-  &lt;li&gt;&lt;b&gt;Sources:&lt;/b&gt; &lt;a href="https://www.statnews.com/2024/01/01/why-leqembi-is-a-game-changer-for-alzheimers/"&gt;STAT News&lt;/a&gt;, &lt;a href="https://www.statnews.com/2024/01/02/leqembi-real-world-data-shows-promise/"&gt;STAT News&lt;/a&gt;, &lt;a href="https://www.statnews.com/2024/01/03/leqembi-cost-and-access-concerns/"&gt;STAT News&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;b&gt;Summary:&lt;/b&gt; The pediatric mental health emergency system is under scrutiny as cases of childhood psychosis rise, necessitating improved access to care and specialized interventions. Efforts are underway to address gaps in crisis management and develop tailored treatments for this vulnerable population within neurology and psychiatry.&lt;/li&gt;
+  &lt;li&gt;&lt;b&gt;MoAs:&lt;/b&gt; N/A&lt;/li&gt;
+  &lt;li&gt;&lt;b&gt;Sources:&lt;/b&gt; &lt;a href="https://www.statnews.com/2026/04/06/children-psychosis-pediatric-mental-health-emergency-system/?utm_campaign=rss"&gt;STAT News&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;</description>
-      <guid isPermaLink="false">1a301796275bf2dd0d5a06237e241b6d</guid>
-      <pubDate>Fri, 03 Apr 2026 22:17:19 GMT</pubDate>
-    </item>
-    <item>
-      <title>Donanemab</title>
-      <link>https://www.google.com</link>
-      <description>&lt;ul&gt;
-  &lt;li&gt;&lt;b&gt;Summary:&lt;/b&gt; &lt;b&gt;Donanemab&lt;/b&gt;, an investigational anti-amyloid monoclonal antibody from &lt;b&gt;Eli Lilly&lt;/b&gt;, faces an FDA approval delay despite positive clinical trial data from the TRAILBLAZER-ALZ studies showing significant slowing of Alzheimer's disease progression. Regulatory review continues as safety and efficacy are evaluated.&lt;/li&gt;
-  &lt;li&gt;&lt;b&gt;MoAs:&lt;/b&gt; Anti-amyloid monoclonal antibody that targets deposited amyloid-beta plaques to facilitate their clearance from the brain.&lt;/li&gt;
-  &lt;li&gt;&lt;b&gt;Sources:&lt;/b&gt; &lt;a href="https://www.statnews.com/2024/01/08/donanemab-fda-approval-delay/"&gt;STAT News&lt;/a&gt;, &lt;a href="https://www.statnews.com/2024/01/09/donanemab-clinical-trial-data/"&gt;STAT News&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;</description>
-      <guid isPermaLink="false">1ddbfb7b5bb21b44c257d0a0a56a0e04</guid>
-      <pubDate>Fri, 03 Apr 2026 22:17:19 GMT</pubDate>
-    </item>
-    <item>
-      <title>Neurocrine Biosciences</title>
-      <link>https://www.google.com</link>
-      <description>&lt;ul&gt;
-  &lt;li&gt;&lt;b&gt;Summary:&lt;/b&gt; Sales of &lt;b&gt;Ingrezza&lt;/b&gt; (valbenazine) for tardive dyskinesia remain strong, and Neurocrine Biosciences is advancing its pipeline in neurology and psychiatry, including potential new treatments for movement disorders.&lt;/li&gt;
-  &lt;li&gt;&lt;b&gt;MoAs:&lt;/b&gt; Valbenazine: Vesicular monoamine transporter 2 (VMAT2) inhibitor.&lt;/li&gt;
-  &lt;li&gt;&lt;b&gt;Sources:&lt;/b&gt; &lt;a href="https://www.statnews.com/2024/03/08/neurocrine-ingrezza-sales/"&gt;STAT News&lt;/a&gt;, &lt;a href="https://www.statnews.com/2024/03/09/neurocrine-pipeline-advances/"&gt;STAT News&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;</description>
-      <guid isPermaLink="false">30d5959eb0db43e869eeb425cf5f939b</guid>
-      <pubDate>Fri, 03 Apr 2026 22:17:19 GMT</pubDate>
-    </item>
-    <item>
-      <title>Alzheimer's Disease</title>
-      <link>https://www.google.com</link>
-      <description>&lt;ul&gt;
-  &lt;li&gt;&lt;b&gt;Summary:&lt;/b&gt; Coverage focuses on advances in biomarker development, such as blood-based assays and amyloid PET imaging, for early detection and monitoring of Alzheimer's disease. It also explores evolving preventive strategies, with emphasis on anti-amyloid therapies like &lt;b&gt;lecanemab&lt;/b&gt; (Leqembi) and lifestyle interventions aimed at reducing disease risk.&lt;/li&gt;
-  &lt;li&gt;&lt;b&gt;MoAs:&lt;/b&gt; Monoclonal antibodies targeting amyloid-beta plaques (e.g., lecanemab) to facilitate microglial-mediated clearance and slow neuronal damage, thereby delaying clinical decline in Alzheimer's disease.&lt;/li&gt;
-  &lt;li&gt;&lt;b&gt;Sources:&lt;/b&gt; &lt;a href="https://www.statnews.com/2024/05/03/alzheimers-disease-biomarkers/"&gt;STAT News&lt;/a&gt;, &lt;a href="https://www.statnews.com/2024/05/04/alzheimers-disease-prevention/"&gt;STAT News&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;</description>
-      <guid isPermaLink="false">5c939b0aba23201884350ed191531e2c</guid>
-      <pubDate>Fri, 03 Apr 2026 22:17:19 GMT</pubDate>
+      <guid isPermaLink="false">ef7e659632fa67ac9cd5732fa434aa03</guid>
+      <pubDate>Mon, 06 Apr 2026 22:02:57 GMT</pubDate>
     </item>
   </channel>
 </rss>
