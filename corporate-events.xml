@@ -6,114 +6,70 @@
     <description>News digest covering Corporate Events.</description>
     <atom:link href="https://www.google.com" rel="self" type="application/rss+xml"/>
     <item>
-      <title>CRISPR Therapeutics</title>
+      <title>Neurocrine Biosciences / Soleno Therapeutics Acquisition (Vykat)</title>
       <link>https://www.google.com</link>
       <description>&lt;ul&gt;
-  &lt;li&gt;&lt;b&gt;Summary:&lt;/b&gt; &lt;b&gt;CRISPR Therapeutics&lt;/b&gt; is advancing a new gene editing clinical trial, potentially for genetic disorders like beta-thalassemia or sickle cell disease, while navigating regulatory hurdles that could impact the approval pathway for CRISPR-Cas9 based therapies. Company-specific developments in pipeline and compliance are emphasized.&lt;/li&gt;
-  &lt;li&gt;&lt;b&gt;MoAs:&lt;/b&gt; N/A&lt;/li&gt;
-  &lt;li&gt;&lt;b&gt;Sources:&lt;/b&gt; &lt;a href="https://www.statnews.com/2024/01/12/crispr-therapeutics-new-gene-editing-trial/"&gt;STAT News&lt;/a&gt;, &lt;a href="https://www.statnews.com/2024/01/13/crispr-therapeutics-regulatory-hurdles/"&gt;STAT News&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;b&gt;Summary:&lt;/b&gt; &lt;b&gt;Neurocrine Biosciences&lt;/b&gt; has agreed to acquire &lt;b&gt;Soleno Therapeutics&lt;/b&gt; for approximately $2.9 billion, marking its largest M&amp;A deal to date. The acquisition centers on &lt;b&gt;Vykat&lt;/b&gt; (diazoxide choline), Soleno's lead asset for Prader-Willi syndrome, a rare genetic disorder characterized by chronic hunger and obesity. Vykat, an oral extended-release tablet, has shown positive late-stage data, and Neurocrine aims to leverage its commercial infrastructure to launch the potential blockbuster. The deal represents a strategic expansion into rare diseases for Neurocrine, which is known for its neurology and endocrine portfolio.&lt;/li&gt;
+  &lt;li&gt;&lt;b&gt;MoAs:&lt;/b&gt; Vykat (diazoxide choline): Potassium channel activator, believed to modulate neuronal activity and reduce hyperphagia.&lt;/li&gt;
+  &lt;li&gt;&lt;b&gt;Sources:&lt;/b&gt; &lt;a href="https://www.biopharmadive.com/news/neurocrine-soleno-acquire-vykat-prader-willi-drug/816686/"&gt;BioPharma Dive&lt;/a&gt;, &lt;a href="https://www.fiercepharma.com/pharma/neurocrine-strikes-29b-soleno-buyout-its-largest-ma-ever-eyeing-blockbuster-rare-disease"&gt;Fierce Pharma&lt;/a&gt;, &lt;a href="https://www.biospace.com/deals/neurocrine-nabs-rare-obesity-disorder-drug-in-surprising-2-9b-soleno-deal"&gt;BioSpace&lt;/a&gt;, &lt;a href="https://www.statnews.com/2026/04/06/neurocrine-biosciences-soleno-therapeutics-acquisition-prader-willi-vykat/?utm_campaign=rss"&gt;STAT News&lt;/a&gt;, &lt;a href="https://endpoints.news/neurocrine-pays-2-9b-for-soleno-and-its-prader-willi-medicine/"&gt;Endpoints News&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;</description>
-      <guid isPermaLink="false">0d56c732d569320eda6db40743d724dd</guid>
-      <pubDate>Fri, 03 Apr 2026 22:17:19 GMT</pubDate>
+      <guid isPermaLink="false">891a728100b7a4573a3b307ddc8e1c02</guid>
+      <pubDate>Mon, 06 Apr 2026 22:02:57 GMT</pubDate>
     </item>
     <item>
-      <title>Moderna</title>
+      <title>Takeda / Denali Partnership Termination</title>
       <link>https://www.google.com</link>
       <description>&lt;ul&gt;
-  &lt;li&gt;&lt;b&gt;Summary:&lt;/b&gt; &lt;b&gt;Moderna&lt;/b&gt; reports positive efficacy data for its mRNA-based influenza vaccine and announces a partnership to develop cancer vaccines, highlighting its expansion in infectious disease and oncology portfolios. Corporate strategies leveraging mRNA technology for diverse therapeutic areas are discussed.&lt;/li&gt;
+  &lt;li&gt;&lt;b&gt;Summary:&lt;/b&gt; &lt;b&gt;Takeda&lt;/b&gt; has terminated its partnership with &lt;b&gt;Denali Therapeutics&lt;/b&gt;, returning rights to an undisclosed dementia asset. The move is part of Takeda's ongoing restructuring efforts to refocus its R&amp;D portfolio. The partnership, initiated to develop Denali's transport vehicle technology for neurodegenerative diseases, is being dissolved as Takeda prioritizes other therapeutic areas. This decision underscores the strategic shifts within large pharma regarding high-risk, long-term neuroscience investments.&lt;/li&gt;
   &lt;li&gt;&lt;b&gt;MoAs:&lt;/b&gt; N/A&lt;/li&gt;
-  &lt;li&gt;&lt;b&gt;Sources:&lt;/b&gt; &lt;a href="https://www.statnews.com/2024/01/14/moderna-flu-vaccine-efficacy/"&gt;STAT News&lt;/a&gt;, &lt;a href="https://www.statnews.com/2024/01/15/moderna-cancer-vaccine-partnership/"&gt;STAT News&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;b&gt;Sources:&lt;/b&gt; &lt;a href="https://www.fiercebiotech.com/biotech/takeda-tears-denali-partnership-returning-dementia-asset-amid-restructuring"&gt;Fierce Biotech&lt;/a&gt;, &lt;a href="https://endpoints.news/takeda-ends-partnership-with-denali-amid-restructuring/"&gt;Endpoints News&lt;/a&gt;, &lt;a href="https://www.biospace.com/deals/takeda-breaks-up-with-denali-dumps-dementia-drug"&gt;BioSpace&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;</description>
-      <guid isPermaLink="false">daf10224ca4146bfdca5b2a06aee439e</guid>
-      <pubDate>Fri, 03 Apr 2026 22:17:19 GMT</pubDate>
+      <guid isPermaLink="false">e16930bb109f935fe4fe22316fa997db</guid>
+      <pubDate>Mon, 06 Apr 2026 22:02:57 GMT</pubDate>
     </item>
     <item>
-      <title>Pfizer</title>
+      <title>Anthropic / Coefficient Bio Acquisition</title>
       <link>https://www.google.com</link>
       <description>&lt;ul&gt;
-  &lt;li&gt;&lt;b&gt;Summary:&lt;/b&gt; &lt;b&gt;Pfizer&lt;/b&gt; exceeds Q1 earnings expectations and provides an update on its merger with &lt;b&gt;Seagen&lt;/b&gt;, aimed at strengthening its oncology pipeline through ADC (antibody-drug conjugate) technologies. Financial performance and strategic acquisitions are key corporate focuses.&lt;/li&gt;
+  &lt;li&gt;&lt;b&gt;Summary:&lt;/b&gt; AI giant &lt;b&gt;Anthropic&lt;/b&gt; has acquired stealth-mode biotechnology startup &lt;b&gt;Coefficient Bio&lt;/b&gt; for $400 million, signaling a significant move into the life sciences sector. The acquisition aims to combine Anthropic's advanced AI capabilities with Coefficient's drug discovery platform. While financial terms were disclosed, the deal highlights the growing convergence of artificial intelligence and biopharmaceutical R&amp;D as companies seek to accelerate therapeutic development.&lt;/li&gt;
   &lt;li&gt;&lt;b&gt;MoAs:&lt;/b&gt; N/A&lt;/li&gt;
-  &lt;li&gt;&lt;b&gt;Sources:&lt;/b&gt; &lt;a href="https://www.statnews.com/2024/01/16/pfizer-q1-earnings-beat-expectations/"&gt;STAT News&lt;/a&gt;, &lt;a href="https://www.statnews.com/2024/01/17/pfizer-seagen-merger-update/"&gt;STAT News&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;b&gt;Sources:&lt;/b&gt; &lt;a href="https://www.fiercebiotech.com/biotech/anthropic-acquires-stealth-ai-startup-coefficient-bio-400m-deal"&gt;Fierce Biotech&lt;/a&gt;, &lt;a href="https://endpoints.news/anthropic-pays-400m-for-biotech-praxis-epilepsy-drug-hits-in-phase-1-2-trial/"&gt;Endpoints News&lt;/a&gt;, &lt;a href="https://www.biospace.com/business/ai-giant-anthropic-leans-into-life-sciences-with-400m-coefficient-bio-catch"&gt;BioSpace&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;</description>
-      <guid isPermaLink="false">25d4e41ea437fa3b5b25bd285f2e2011</guid>
-      <pubDate>Fri, 03 Apr 2026 22:17:19 GMT</pubDate>
+      <guid isPermaLink="false">542f22b860f01382cbc560648763f1c1</guid>
+      <pubDate>Mon, 06 Apr 2026 22:02:57 GMT</pubDate>
     </item>
     <item>
-      <title>Novartis</title>
+      <title>Syneron Funding</title>
       <link>https://www.google.com</link>
       <description>&lt;ul&gt;
-  &lt;li&gt;&lt;b&gt;Summary:&lt;/b&gt; &lt;b&gt;Novartis&lt;/b&gt; unveils a new research and development strategy to prioritize innovative therapies in areas like immunology and cardiology, while addressing drug pricing policies amid industry scrutiny. Corporate restructuring and value-based pricing initiatives are highlighted.&lt;/li&gt;
+  &lt;li&gt;&lt;b&gt;Summary:&lt;/b&gt; China-based biotech &lt;b&gt;Syneron&lt;/b&gt; has raised $150 million in a new funding round to advance its peptide-based therapeutic platform. This investment adds to the $100 million raised last year, underscoring strong investor interest in novel peptide modalities for various diseases. The capital will support R&amp;D and pipeline expansion.&lt;/li&gt;
   &lt;li&gt;&lt;b&gt;MoAs:&lt;/b&gt; N/A&lt;/li&gt;
-  &lt;li&gt;&lt;b&gt;Sources:&lt;/b&gt; &lt;a href="https://www.statnews.com/2024/01/18/novartis-new-rd-strategy/"&gt;STAT News&lt;/a&gt;, &lt;a href="https://www.statnews.com/2024/01/19/novartis-drug-pricing-policy/"&gt;STAT News&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;b&gt;Sources:&lt;/b&gt; &lt;a href="https://endpoints.news/chinas-syneron-raises-150m-for-peptides-adding-to-last-years-100m/"&gt;Endpoints News&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;</description>
-      <guid isPermaLink="false">3f7329b232ecd43a14d11b8e593a7b99</guid>
-      <pubDate>Fri, 03 Apr 2026 22:17:19 GMT</pubDate>
+      <guid isPermaLink="false">79d6d30adce74473465ea8c80b277f88</guid>
+      <pubDate>Mon, 06 Apr 2026 22:02:57 GMT</pubDate>
     </item>
     <item>
-      <title>Biogen</title>
+      <title>UnitedHealth Group AI Push</title>
       <link>https://www.google.com</link>
       <description>&lt;ul&gt;
-  &lt;li&gt;&lt;b&gt;Summary:&lt;/b&gt; &lt;b&gt;Biogen&lt;/b&gt; provides updates on its Alzheimer's disease drug pipeline, including next-generation therapies beyond &lt;b&gt;Leqembi&lt;/b&gt;, and announces leadership changes to steer the company's strategic direction. Corporate governance and pipeline advancements in neurology are emphasized.&lt;/li&gt;
+  &lt;li&gt;&lt;b&gt;Summary:&lt;/b&gt; &lt;b&gt;UnitedHealth Group&lt;/b&gt; is aggressively investing in artificial intelligence to transform healthcare delivery, with initiatives focused on diagnostics, operational efficiency, and personalized patient care. This corporate push aims to leverage AI for predictive analytics and cost reduction, potentially reshaping healthcare management and outcomes.&lt;/li&gt;
   &lt;li&gt;&lt;b&gt;MoAs:&lt;/b&gt; N/A&lt;/li&gt;
-  &lt;li&gt;&lt;b&gt;Sources:&lt;/b&gt; &lt;a href="https://www.statnews.com/2024/01/20/biogen-alzheimers-drug-pipeline/"&gt;STAT News&lt;/a&gt;, &lt;a href="https://www.statnews.com/2024/01/21/biogen-leadership-changes/"&gt;STAT News&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;b&gt;Sources:&lt;/b&gt; &lt;a href="https://www.statnews.com/2026/04/06/health-news-unitedhealth-big-bet-on-ai/?utm_campaign=rss"&gt;STAT News&lt;/a&gt;, &lt;a href="https://www.statnews.com/2026/04/06/unitedhealth-group-massive-artificial-intelligence-push-patient-implications/?utm_campaign=rss"&gt;STAT News&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;</description>
-      <guid isPermaLink="false">2e51ddde690d21c833b037c22a88ce54</guid>
-      <pubDate>Fri, 03 Apr 2026 22:17:19 GMT</pubDate>
+      <guid isPermaLink="false">8deb43e06d8e0f126bc9189781e7bea9</guid>
+      <pubDate>Mon, 06 Apr 2026 22:02:57 GMT</pubDate>
     </item>
     <item>
-      <title>Seagen</title>
+      <title>Endpoints News Dealmaking Roundup</title>
       <link>https://www.google.com</link>
       <description>&lt;ul&gt;
-  &lt;li&gt;&lt;b&gt;Summary:&lt;/b&gt; Recent coverage of &lt;b&gt;Seagen&lt;/b&gt; highlights its leadership in antibody-drug conjugate (ADC) technology, a key platform for targeted cancer therapies. The integration following its acquisition by &lt;b&gt;Pfizer&lt;/b&gt; is underway, focusing on combining oncology portfolios and advancing ADC-based treatments.&lt;/li&gt;
-  &lt;li&gt;&lt;b&gt;MoAs:&lt;/b&gt; N/A&lt;/li&gt;
-  &lt;li&gt;&lt;b&gt;Sources:&lt;/b&gt; &lt;a href="https://www.statnews.com/2024/03/02/seagen-adc-technology/"&gt;STAT News&lt;/a&gt;, &lt;a href="https://www.statnews.com/2024/03/03/seagen-pfizer-integration/"&gt;STAT News&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;b&gt;Summary:&lt;/b&gt; The pharma industry is experiencing a surge in dealmaking activity, with &lt;b&gt;Blackstone&lt;/b&gt; raising a record fund for healthcare investments. &lt;b&gt;Xolair&lt;/b&gt; (omalizumab) is energizing allergy research, indicating renewed interest in immunology therapeutics. This roundup covers mergers, acquisitions, and partnerships shaping sector dynamics.&lt;/li&gt;
+  &lt;li&gt;&lt;b&gt;MoAs:&lt;/b&gt; Xolair is an anti-immunoglobulin E (IgE) monoclonal antibody that inhibits IgE-mediated allergic responses by binding to free IgE and downregulating IgE receptors.&lt;/li&gt;
+  &lt;li&gt;&lt;b&gt;Sources:&lt;/b&gt; &lt;a href="https://endpoints.news/pharmas-dealmaking-tear-blackstone-raises-record-fund-xolair-energizes-allergy-research-and-more/"&gt;Endpoints News&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;</description>
-      <guid isPermaLink="false">877b20ffa5345ff43e28c4111f2a1ed4</guid>
-      <pubDate>Fri, 03 Apr 2026 22:17:19 GMT</pubDate>
-    </item>
-    <item>
-      <title>Mirati Therapeutics</title>
-      <link>https://www.google.com</link>
-      <description>&lt;ul&gt;
-  &lt;li&gt;&lt;b&gt;Summary:&lt;/b&gt; Mirati Therapeutics' lung cancer drug &lt;b&gt;Krazati&lt;/b&gt; (adagrasib) has shown efficacy in KRAS G12C-mutated non-small cell lung cancer. The company's acquisition news involves integration into a larger oncology portfolio, marking a significant corporate development.&lt;/li&gt;
-  &lt;li&gt;&lt;b&gt;MoAs:&lt;/b&gt; Adagrasib: Covalent inhibitor of KRAS G12C.&lt;/li&gt;
-  &lt;li&gt;&lt;b&gt;Sources:&lt;/b&gt; &lt;a href="https://www.statnews.com/2024/03/18/mirati-lung-cancer-drug/"&gt;STAT News&lt;/a&gt;, &lt;a href="https://www.statnews.com/2024/03/19/mirati-acquisition-news/"&gt;STAT News&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;</description>
-      <guid isPermaLink="false">6b0816d5d84ba688f649d40fca866f0d</guid>
-      <pubDate>Fri, 03 Apr 2026 22:17:19 GMT</pubDate>
-    </item>
-    <item>
-      <title>Fate Therapeutics</title>
-      <link>https://www.google.com</link>
-      <description>&lt;ul&gt;
-  &lt;li&gt;&lt;b&gt;Summary:&lt;/b&gt; Recent coverage highlights &lt;b&gt;Fate Therapeutics&lt;/b&gt;' activities in the cell therapy arena. The company is advancing its induced pluripotent stem cell (iPSC)-derived cell therapy platform, which aims to create off-the-shelf, allogeneic natural killer (NK) cell and CAR-T cell product candidates for oncology. Strategic partnerships are a key focus, as the company seeks alliances to bolster its pipeline development, share technological expertise, and navigate the competitive and capital-intensive landscape of cell therapy.&lt;/li&gt;
-  &lt;li&gt;&lt;b&gt;MoAs:&lt;/b&gt; N/A&lt;/li&gt;
-  &lt;li&gt;&lt;b&gt;Sources:&lt;/b&gt; &lt;a href="https://www.statnews.com/2024/04/11/fate-therapeutics-cell-therapy/"&gt;Stat News&lt;/a&gt;, &lt;a href="https://www.statnews.com/2024/04/12/fate-therapeutics-partnerships/"&gt;Stat News&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;</description>
-      <guid isPermaLink="false">46d795f3b22a46c125c3640b5dab7514</guid>
-      <pubDate>Fri, 03 Apr 2026 22:17:19 GMT</pubDate>
-    </item>
-    <item>
-      <title>Mergers &amp; Acquisitions</title>
-      <link>https://www.google.com</link>
-      <description>&lt;ul&gt;
-  &lt;li&gt;&lt;b&gt;Summary:&lt;/b&gt; Analyzes current trends in mergers and acquisitions within the biopharma industry, including regulatory scrutiny and strategic motivations.&lt;/li&gt;
-  &lt;li&gt;&lt;b&gt;MoAs:&lt;/b&gt; N/A&lt;/li&gt;
-  &lt;li&gt;&lt;b&gt;Sources:&lt;/b&gt; &lt;a href="https://www.statnews.com/2024/06/18/mergers-acquisitions-trends/"&gt;Stat News&lt;/a&gt;, &lt;a href="https://www.statnews.com/2024/06/19/mergers-acquisitions-regulatory-scrutiny/"&gt;Stat News&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;</description>
-      <guid isPermaLink="false">dfc6663026cbb14a7a6bfd58a97eb208</guid>
-      <pubDate>Fri, 03 Apr 2026 22:17:19 GMT</pubDate>
-    </item>
-    <item>
-      <title>IPOs</title>
-      <link>https://www.google.com</link>
-      <description>&lt;ul&gt;
-  &lt;li&gt;&lt;b&gt;Summary:&lt;/b&gt; Reports on the biotech IPO market, discussing pricing trends and market conditions for new public offerings.&lt;/li&gt;
-  &lt;li&gt;&lt;b&gt;MoAs:&lt;/b&gt; N/A&lt;/li&gt;
-  &lt;li&gt;&lt;b&gt;Sources:&lt;/b&gt; &lt;a href="https://www.statnews.com/2024/06/22/ipos-biotech-market/"&gt;Stat News&lt;/a&gt;, &lt;a href="https://www.statnews.com/2024/06/23/ipos-pricing-trends/"&gt;Stat News&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;</description>
-      <guid isPermaLink="false">bf74da585cb133a08dd883bf011fdf28</guid>
-      <pubDate>Fri, 03 Apr 2026 22:17:19 GMT</pubDate>
+      <guid isPermaLink="false">b7ce0548a11cf429dc434a019fa22079</guid>
+      <pubDate>Mon, 06 Apr 2026 22:02:57 GMT</pubDate>
     </item>
   </channel>
 </rss>
