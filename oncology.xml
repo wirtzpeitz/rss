@@ -6,15 +6,15 @@
     <description>News digest covering Oncology.</description>
     <atom:link href="https://www.google.com" rel="self" type="application/rss+xml"/>
     <item>
-      <title>Stipple Bio Launch</title>
+      <title>Genomic Testing for Cancer Treatments</title>
       <link>https://www.google.com</link>
       <description>&lt;ul&gt;
-  &lt;li&gt;&lt;b&gt;Summary:&lt;/b&gt; Stealth-mode biotech &lt;b&gt;Stipple Bio&lt;/b&gt; has officially launched with $100 million in funding to develop next-generation antibody-drug conjugates (ADCs) for cancer. The company's platform focuses on identifying more precise protein targets on cancer cells to improve the therapeutic index and efficacy of ADC therapies. Stipple aims to address limitations in current oncology treatments by enhancing tumor selectivity and reducing off-target toxicity.&lt;/li&gt;
+  &lt;li&gt;&lt;b&gt;Summary:&lt;/b&gt; Article emphasizes the necessity of genomic tests to guide targeted cancer treatments, enabling precision medicine by identifying biomarkers for therapies like &lt;b&gt;EGFR inhibitors&lt;/b&gt; or &lt;b&gt;PD-1 blockers&lt;/b&gt;.&lt;/li&gt;
   &lt;li&gt;&lt;b&gt;MoAs:&lt;/b&gt; N/A&lt;/li&gt;
-  &lt;li&gt;&lt;b&gt;Sources:&lt;/b&gt; &lt;a href="https://www.statnews.com/2026/04/06/biotech-news-stealth-biotech-stipple-bets-on-adcs/?utm_campaign=rss"&gt;STAT News&lt;/a&gt;, &lt;a href="https://endpoints.news/stipple-bio-launches-with-100m-to-find-more-precise-targets-on-cancer-proteins/"&gt;Endpoints News&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;b&gt;Sources:&lt;/b&gt; &lt;a href="https://www.statnews.com/2026/04/07/genomic-tests-needed-for-targeted-cancer-treatments/?utm_campaign=rss"&gt;STAT News&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;</description>
-      <guid isPermaLink="false">d6b9a6dc2860d5d6ac4d582f3c4182af</guid>
-      <pubDate>Mon, 06 Apr 2026 22:02:57 GMT</pubDate>
+      <guid isPermaLink="false">6552dcf2387b87ddf8d035622f6a11c5</guid>
+      <pubDate>Tue, 07 Apr 2026 22:03:38 GMT</pubDate>
     </item>
   </channel>
 </rss>
