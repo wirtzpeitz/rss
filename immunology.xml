@@ -6,48 +6,15 @@
     <description>News digest covering Immunology.</description>
     <atom:link href="https://www.google.com" rel="self" type="application/rss+xml"/>
     <item>
-      <title>Regeneron</title>
+      <title>Sanofi/Lunsekimig (SAR445229) Clinical Results</title>
       <link>https://www.google.com</link>
       <description>&lt;ul&gt;
-  &lt;li&gt;&lt;b&gt;Summary:&lt;/b&gt; &lt;b&gt;Regeneron&lt;/b&gt; announced a new regulatory indication for its flagship immunology drug and updates on genetics research. The company gained approval for a new use of &lt;b&gt;Dupixent (dupilumab)&lt;/b&gt;, an IL-4Rα inhibitor, likely in a chronic inflammatory condition. &lt;b&gt;Regeneron&lt;/b&gt; also shared insights from its large-scale genetics research initiatives.&lt;/li&gt;
-  &lt;li&gt;&lt;b&gt;MoAs:&lt;/b&gt; Dupilumab: interleukin-4 receptor alpha (IL-4Rα) antagonist.&lt;/li&gt;
-  &lt;li&gt;&lt;b&gt;Sources:&lt;/b&gt; &lt;a href="https://www.statnews.com/2024/02/05/regeneron-dupixent-new-indication/"&gt;STAT News&lt;/a&gt;, &lt;a href="https://www.statnews.com/2024/02/06/regeneron-genetics-research/"&gt;STAT News&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;b&gt;Summary:&lt;/b&gt; &lt;b&gt;Sanofi&lt;/b&gt;'s bispecific antibody &lt;b&gt;Lunsekimig (SAR445229)&lt;/b&gt; achieved positive Phase 2 results in asthma and chronic rhinosinusitis with nasal polyps, demonstrating significant reduction in symptoms and inflammation. However, it failed to meet endpoints in an atopic dermatitis (eczema) study, highlighting differential efficacy across allergic diseases. The drug targets key cytokines involved in type 2 inflammation.&lt;/li&gt;
+  &lt;li&gt;&lt;b&gt;MoAs:&lt;/b&gt; Lunsekimig is a bispecific antibody that simultaneously inhibits interleukin-4 (IL-4) and interleukin-13 (IL-13) signaling, modulating the type 2 immune response to reduce inflammation in allergic conditions.&lt;/li&gt;
+  &lt;li&gt;&lt;b&gt;Sources:&lt;/b&gt; &lt;a href="https://www.biospace.com/drug-development/sanofi-bispecific-scores-in-asthma-rhinosinusitis-but-eczema-bet-doesnt-pay-off"&gt;BioSpace&lt;/a&gt;, &lt;a href="https://www.biopharmadive.com/news/sanofi-lunsekimig-asthma-polyps-eczema-drug-results/816794/"&gt;Biopharma Dive&lt;/a&gt;, &lt;a href="https://endpoints.news/sanofi-bispecific-sails-through-asthma-sinusitis-trials-but-disappoints-in-eczema/"&gt;Endpoints News&lt;/a&gt;, &lt;a href="https://www.fiercebiotech.com/biotech/sanofis-bispecific-scores-double-respiratory-phase-2-wins-flunks-eczema-study-0"&gt;Fierce Biotech&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;</description>
-      <guid isPermaLink="false">926693df30d789d1b9e9b96f3f562119</guid>
-      <pubDate>Fri, 03 Apr 2026 22:17:19 GMT</pubDate>
-    </item>
-    <item>
-      <title>AbbVie</title>
-      <link>https://www.google.com</link>
-      <description>&lt;ul&gt;
-  &lt;li&gt;&lt;b&gt;Summary:&lt;/b&gt; &lt;b&gt;AbbVie&lt;/b&gt; navigated biosimilar competition for its top-selling drug and advanced its neurology pipeline. The company addressed the market impact of biosimilars for its anti-TNFα blockbuster &lt;b&gt;Humira (adalimumab)&lt;/b&gt;. Simultaneously, &lt;b&gt;AbbVie&lt;/b&gt; provided updates on its neurology development programs, which may include therapies for conditions like migraine or Parkinson's disease.&lt;/li&gt;
-  &lt;li&gt;&lt;b&gt;MoAs:&lt;/b&gt; Adalimumab: tumor necrosis factor-alpha (TNFα) inhibitor.&lt;/li&gt;
-  &lt;li&gt;&lt;b&gt;Sources:&lt;/b&gt; &lt;a href="https://www.statnews.com/2024/02/09/abbvie-humira-biosimilar-competition/"&gt;STAT News&lt;/a&gt;, &lt;a href="https://www.statnews.com/2024/02/10/abbvie-neurology-pipeline/"&gt;STAT News&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;</description>
-      <guid isPermaLink="false">4e89813f34d385bc041fa9bd1f60ba76</guid>
-      <pubDate>Fri, 03 Apr 2026 22:17:19 GMT</pubDate>
-    </item>
-    <item>
-      <title>Sanofi</title>
-      <link>https://www.google.com</link>
-      <description>&lt;ul&gt;
-  &lt;li&gt;&lt;b&gt;Summary:&lt;/b&gt; Recent articles cover &lt;b&gt;Sanofi&lt;/b&gt;'s commercial and research activities. One focuses on the continued strong sales growth of its flagship immunology drug, &lt;b&gt;Dupixent&lt;/b&gt; (dupilumab), an IL-4/IL-13 receptor antagonist, highlighting its market expansion across approved indications like atopic dermatitis and asthma. Another article details &lt;b&gt;Sanofi&lt;/b&gt;'s ongoing investments and strategic focus in its vaccine research division, aiming to advance new candidates against various infectious diseases.&lt;/li&gt;
-  &lt;li&gt;&lt;b&gt;MoAs:&lt;/b&gt; Dupilumab (Dupixent): IL-4/IL-13 receptor alpha antagonist.&lt;/li&gt;
-  &lt;li&gt;&lt;b&gt;Sources:&lt;/b&gt; &lt;a href="https://www.statnews.com/2024/02/11/sanofi-dupixent-sales-growth/"&gt;STAT News&lt;/a&gt;, &lt;a href="https://www.statnews.com/2024/02/12/sanofi-vaccine-research/"&gt;STAT News&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;</description>
-      <guid isPermaLink="false">2367826b817e1fc56625525b94c89fa6</guid>
-      <pubDate>Fri, 03 Apr 2026 22:17:19 GMT</pubDate>
-    </item>
-    <item>
-      <title>Autoimmune Diseases</title>
-      <link>https://www.google.com</link>
-      <description>&lt;ul&gt;
-  &lt;li&gt;&lt;b&gt;Summary:&lt;/b&gt; Autoimmune diseases are treated with biologics targeting immune pathways, such as &lt;b&gt;adalimumab&lt;/b&gt; (anti-TNF) and &lt;b&gt;secukinumab&lt;/b&gt; (anti-IL-17). New targets include &lt;b&gt;JAK inhibitors&lt;/b&gt; like &lt;b&gt;tofacitinib&lt;/b&gt; for conditions like rheumatoid arthritis.&lt;/li&gt;
-  &lt;li&gt;&lt;b&gt;MoAs:&lt;/b&gt; &lt;b&gt;Adalimumab&lt;/b&gt; inhibits tumor necrosis factor; &lt;b&gt;secukinumab&lt;/b&gt; blocks interleukin-17; &lt;b&gt;tofacitinib&lt;/b&gt; interferes with JAK-STAT cytokine signaling.&lt;/li&gt;
-  &lt;li&gt;&lt;b&gt;Sources:&lt;/b&gt; &lt;a href="https://www.statnews.com/2024/06/04/autoimmune-diseases-biologics/"&gt;Stat News&lt;/a&gt;, &lt;a href="https://www.statnews.com/2024/06/05/autoimmune-diseases-new-targets/"&gt;Stat News&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;</description>
-      <guid isPermaLink="false">4e081be8688298c42a9b42677f129899</guid>
-      <pubDate>Fri, 03 Apr 2026 22:17:19 GMT</pubDate>
+      <guid isPermaLink="false">512b2216c657d772164c8f46ef4984d2</guid>
+      <pubDate>Tue, 07 Apr 2026 22:03:38 GMT</pubDate>
     </item>
   </channel>
 </rss>
