@@ -6,59 +6,103 @@
     <description>News digest covering Industry Events.</description>
     <atom:link href="https://www.google.com" rel="self" type="application/rss+xml"/>
     <item>
-      <title>AbbVie Humira &amp; TrumpRx</title>
+      <title>PhRMA CEO Steve Ubl Departure</title>
       <link>https://www.google.com</link>
       <description>&lt;ul&gt;
-  &lt;li&gt;&lt;b&gt;Summary:&lt;/b&gt; The White House has added &lt;b&gt;AbbVie&lt;/b&gt;'s &lt;b&gt;Humira (adalimumab)&lt;/b&gt; to the TrumpRx program alongside cheaper biosimilars, offering it at a steep discount amid tariff threats. This policy move aims to increase access to the TNF inhibitor while promoting biosimilar competition in autoimmune disease treatment.&lt;/li&gt;
-  &lt;li&gt;&lt;b&gt;MoAs:&lt;/b&gt; Humira (adalimumab) is a monoclonal antibody that binds to tumor necrosis factor-alpha (TNFα), inhibiting its interaction with p55 and p75 cell surface receptors, thereby reducing inflammation in conditions like rheumatoid arthritis, psoriasis, and inflammatory bowel disease.&lt;/li&gt;
-  &lt;li&gt;&lt;b&gt;Sources:&lt;/b&gt; &lt;a href="https://endpoints.news/white-house-adds-abbvies-humira-to-trumprx-alongside-cheaper-biosimilars/"&gt;Endpoints News&lt;/a&gt;, &lt;a href="https://www.biospace.com/policy/abbvie-puts-humira-on-trumprx-at-steep-discount-as-tariff-threat-solidifies"&gt;BioSpace&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;</description>
-      <guid isPermaLink="false">b2416c9987f0f1ab49c8db10e5c78352</guid>
-      <pubDate>Tue, 07 Apr 2026 22:03:38 GMT</pubDate>
-    </item>
-    <item>
-      <title>FDA Budget &amp; Regulatory Proposals</title>
-      <link>https://www.google.com</link>
-      <description>&lt;ul&gt;
-  &lt;li&gt;&lt;b&gt;Summary:&lt;/b&gt; The &lt;b&gt;FDA&lt;/b&gt; has proposed its 2027 budget, seeking legislative authority for permanent rare disease vouchers, easier entry to clinical trials, expanded regulation of post-approval manufacturing changes, and enhanced crackdown on misleading direct-to-consumer drug ads. These proposals aim to streamline drug development and strengthen regulatory oversight in the biopharma industry.&lt;/li&gt;
+  &lt;li&gt;&lt;b&gt;Summary:&lt;/b&gt; Steve Ubl is set to step down as CEO of the Pharmaceutical Research and Manufacturers of America (&lt;b&gt;PhRMA&lt;/b&gt;) after more than a decade in the role. His departure marks a significant change in leadership for the major biopharma industry lobbying group, with sources indicating a search for a successor is underway.&lt;/li&gt;
   &lt;li&gt;&lt;b&gt;MoAs:&lt;/b&gt; N/A&lt;/li&gt;
-  &lt;li&gt;&lt;b&gt;Sources:&lt;/b&gt; &lt;a href="https://www.statnews.com/2026/04/07/fda-trump-budget-generics-clinical-trials-us-manufacturing/?utm_campaign=rss"&gt;STAT News&lt;/a&gt;, &lt;a href="https://www.biospace.com/fda/fdas-2027-budget-proposes-permanent-rare-disease-vouchers-easier-entry-to-clinic"&gt;BioSpace&lt;/a&gt;, &lt;a href="https://www.fiercepharma.com/marketing/fda-seeks-legislative-teeth-bite-back-against-misleading-dtc-drug-ads"&gt;Fierce Pharma&lt;/a&gt;, &lt;a href="https://www.biospace.com/fda/fda-seeks-expanded-authority-to-regulate-postapproval-manufacturing-changes"&gt;BioSpace&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;b&gt;Sources:&lt;/b&gt; &lt;a href="https://www.fiercepharma.com/pharma/steven-ubl-set-depart-after-decade-plus-ceo-phrma"&gt;Fierce Pharma&lt;/a&gt;, &lt;a href="https://www.statnews.com/2026/04/08/phrma-ceo-steve-ubl-step-down/?utm_campaign=rss"&gt;STAT News&lt;/a&gt;, &lt;a href="https://endpoints.news/phrma-head-steve-ubl-to-step-down-according-to-sources/"&gt;Endpoints News&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;</description>
-      <guid isPermaLink="false">11269bd86978f69933935b333d75492a</guid>
-      <pubDate>Tue, 07 Apr 2026 22:03:38 GMT</pubDate>
+      <guid isPermaLink="false">83329ff18bb60a00b53736932e694719</guid>
+      <pubDate>Wed, 08 Apr 2026 22:05:54 GMT</pubDate>
     </item>
     <item>
-      <title>Insulin Cap Impact Study</title>
+      <title>Jeito Capital Fundraising</title>
       <link>https://www.google.com</link>
       <description>&lt;ul&gt;
-  &lt;li&gt;&lt;b&gt;Summary:&lt;/b&gt; A study suggests that the $35 monthly insulin cap has increased patient access to &lt;b&gt;insulin&lt;/b&gt;, highlighting the positive effects of pricing policies on diabetes management and affordability.&lt;/li&gt;
-  &lt;li&gt;&lt;b&gt;MoAs:&lt;/b&gt; Insulin is a peptide hormone that binds to the insulin receptor, promoting glucose uptake and storage, and inhibiting hepatic glucose production.&lt;/li&gt;
-  &lt;li&gt;&lt;b&gt;Sources:&lt;/b&gt; &lt;a href="https://endpoints.news/study-suggests-35-monthly-insulin-cap-has-increased-patient-access/"&gt;Endpoints News&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;</description>
-      <guid isPermaLink="false">3abf6021a740731022fbf36bdf76de97</guid>
-      <pubDate>Tue, 07 Apr 2026 22:03:38 GMT</pubDate>
-    </item>
-    <item>
-      <title>Health Tech Funding &amp; AI Regulation</title>
-      <link>https://www.google.com</link>
-      <description>&lt;ul&gt;
-  &lt;li&gt;&lt;b&gt;Summary:&lt;/b&gt; Coverage of Q1 funding trends in health tech and regulatory discussions on AI, including &lt;b&gt;UnitedHealth Group&lt;/b&gt;'s AI investments and state-level efforts to regulate healthcare chatbots.&lt;/li&gt;
+  &lt;li&gt;&lt;b&gt;Summary:&lt;/b&gt; &lt;b&gt;Jeito Capital&lt;/b&gt; has raised €1.2 billion, marking the largest fundraise ever for an independent European biopharma-focused venture capital firm. The fund aims to support private biotech companies in maintaining control over their destinies, emphasizing long-term investment in innovative therapies.&lt;/li&gt;
   &lt;li&gt;&lt;b&gt;MoAs:&lt;/b&gt; N/A&lt;/li&gt;
-  &lt;li&gt;&lt;b&gt;Sources:&lt;/b&gt; &lt;a href="https://endpoints.news/whats-familiar-in-health-techs-q1-funding-totals/"&gt;Endpoints News&lt;/a&gt;, &lt;a href="https://www.statnews.com/2026/04/07/unitedhealth-group-ai-bet-states-regulating-chatbots-health-tech/?utm_campaign=rss"&gt;STAT News&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;b&gt;Sources:&lt;/b&gt; &lt;a href="https://www.biopharmadive.com/news/jeito-capital-biopharma-venture-fund-billion/816946/"&gt;BioPharma Dive&lt;/a&gt;, &lt;a href="https://www.fiercebiotech.com/biotech/jeito-hails-12b-largest-raise-ever-independent-biopharma-focused-european-fund"&gt;Fierce Biotech&lt;/a&gt;, &lt;a href="https://endpoints.news/european-vc-jeito-gets-1-2b-to-help-private-biotechs-control-their-destiny/"&gt;Endpoints News&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;</description>
-      <guid isPermaLink="false">38c3b612695a4926644c5476ffd5cb39</guid>
-      <pubDate>Tue, 07 Apr 2026 22:03:38 GMT</pubDate>
+      <guid isPermaLink="false">ad67575680bbf67730433eb35a7ea6b9</guid>
+      <pubDate>Wed, 08 Apr 2026 22:05:54 GMT</pubDate>
     </item>
     <item>
-      <title>Pharmalot Roundup (Adam Feuerstein)</title>
+      <title>Shionogi / BARDA Antibiotic Plant</title>
       <link>https://www.google.com</link>
       <description>&lt;ul&gt;
-  &lt;li&gt;&lt;b&gt;Summary:&lt;/b&gt; News roundup covers FDA support for domestic production, a &lt;b&gt;Gilead&lt;/b&gt; deal, &lt;b&gt;Merck&lt;/b&gt; HIV updates, and &lt;b&gt;Anthropic&lt;/b&gt;'s role, reflecting broader industry dynamics and regulatory developments.&lt;/li&gt;
-  &lt;li&gt;&lt;b&gt;MoAs:&lt;/b&gt; N/A&lt;/li&gt;
-  &lt;li&gt;&lt;b&gt;Sources:&lt;/b&gt; &lt;a href="https://www.statnews.com/pharmalot/2026/04/07/fda-backs-domestic-production-gilead-deal-merck-hiv-anthropic/?utm_campaign=rss"&gt;STAT News&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;b&gt;Summary:&lt;/b&gt; &lt;b&gt;Shionogi&lt;/b&gt; has received an initial $119 million from the Biomedical Advanced Research and Development Authority (&lt;b&gt;BARDA&lt;/b&gt;) to build a U.S.-based antibiotic manufacturing plant. This partnership aims to strengthen domestic supply chains for critical antibiotics, such as &lt;b&gt;cefiderocol&lt;/b&gt;, amid rising antimicrobial resistance.&lt;/li&gt;
+  &lt;li&gt;&lt;b&gt;MoAs:&lt;/b&gt; Cefiderocol is a siderophore cephalosporin antibiotic that uses iron transport systems to penetrate bacterial cells and inhibit cell wall synthesis.&lt;/li&gt;
+  &lt;li&gt;&lt;b&gt;Sources:&lt;/b&gt; &lt;a href="https://www.fiercepharma.com/manufacturing/shionogi-nabs-initial-119m-barda-build-us-antibiotic-plant"&gt;Fierce Pharma&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;</description>
-      <guid isPermaLink="false">4a5cfb57e0766def977a4c6807e7f7ea</guid>
-      <pubDate>Tue, 07 Apr 2026 22:03:38 GMT</pubDate>
+      <guid isPermaLink="false">345efd6dbc3efd4285f352e21ae3a091</guid>
+      <pubDate>Wed, 08 Apr 2026 22:05:54 GMT</pubDate>
+    </item>
+    <item>
+      <title>FDA DTC Ad Powers &amp; EU AMR Fight</title>
+      <link>https://www.google.com</link>
+      <description>&lt;ul&gt;
+  &lt;li&gt;&lt;b&gt;Summary:&lt;/b&gt; The &lt;b&gt;FDA&lt;/b&gt; is seeking expanded authority over direct-to-consumer (DTC) drug advertising, while the &lt;b&gt;European Union&lt;/b&gt; pledges intensified efforts to combat antimicrobial resistance (AMR), representing significant regulatory and public health policy developments.&lt;/li&gt;
+  &lt;li&gt;&lt;b&gt;MoAs:&lt;/b&gt; N/A&lt;/li&gt;
+  &lt;li&gt;&lt;b&gt;Sources:&lt;/b&gt; &lt;a href="https://www.statnews.com/pharmalot/2026/04/08/fda-seeks-new-powers-dtc-ads-eu-pledges-fight-amr/?utm_campaign=rss"&gt;STAT News&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;</description>
+      <guid isPermaLink="false">1f381ed19db1713a5ef6e6ece9841a45</guid>
+      <pubDate>Wed, 08 Apr 2026 22:05:54 GMT</pubDate>
+    </item>
+    <item>
+      <title>AI Scribes &amp; Healthcare Costs</title>
+      <link>https://www.google.com</link>
+      <description>&lt;ul&gt;
+  &lt;li&gt;&lt;b&gt;Summary:&lt;/b&gt; The adoption of &lt;b&gt;AI scribes&lt;/b&gt; in healthcare is raising concerns about increased costs. Insurers and providers agree that these automated documentation tools, while enhancing efficiency, may drive higher expenditures due to overutilization or billing complexities. The articles explore the economic implications and future outlook for AI in medical documentation.&lt;/li&gt;
+  &lt;li&gt;&lt;b&gt;MoAs:&lt;/b&gt; N/A&lt;/li&gt;
+  &lt;li&gt;&lt;b&gt;Sources:&lt;/b&gt; &lt;a href="https://www.statnews.com/2026/04/08/are-scribes-raising-health-care-costs-ai-prognosis/?utm_campaign=rss"&gt;STAT News&lt;/a&gt;, &lt;a href="https://www.statnews.com/2026/04/08/insurers-providers-agree-ai-scribes-raise-health-care-costs/?utm_campaign=rss"&gt;STAT News&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;</description>
+      <guid isPermaLink="false">68fc2075ba3ffea195e2a563d7aade34</guid>
+      <pubDate>Wed, 08 Apr 2026 22:05:54 GMT</pubDate>
+    </item>
+    <item>
+      <title>Cell &amp; Gene Therapy Manufacturing</title>
+      <link>https://www.google.com</link>
+      <description>&lt;ul&gt;
+  &lt;li&gt;&lt;b&gt;Summary:&lt;/b&gt; As &lt;b&gt;cell and gene therapy (CGT)&lt;/b&gt; manufacturing scales up, automation and collaboration are becoming essential. The industry is focusing on streamlining production to meet demand, reduce costs, and ensure quality. Partnerships between companies and technology providers are critical for advancing manufacturing capabilities for these complex therapies.&lt;/li&gt;
+  &lt;li&gt;&lt;b&gt;MoAs:&lt;/b&gt; N/A&lt;/li&gt;
+  &lt;li&gt;&lt;b&gt;Sources:&lt;/b&gt; &lt;a href="https://www.biospace.com/drug-delivery/as-cgt-manufacturing-scales-up-automation-and-collaboration-become-essential"&gt;Biospace&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;</description>
+      <guid isPermaLink="false">3e6eeb6410c7f20ea56e5d3c5ecb120e</guid>
+      <pubDate>Wed, 08 Apr 2026 22:05:54 GMT</pubDate>
+    </item>
+    <item>
+      <title>Biotech Opinion: Return to Basics</title>
+      <link>https://www.google.com</link>
+      <description>&lt;ul&gt;
+  &lt;li&gt;&lt;b&gt;Summary:&lt;/b&gt; An opinion piece argues that to survive the current downturn, &lt;b&gt;biotech companies&lt;/b&gt; must return to basics by focusing on robust science, prudent financial management, and clear clinical pathways. This back-to-fundamentals approach is deemed crucial for long-term sustainability in a challenging market environment.&lt;/li&gt;
+  &lt;li&gt;&lt;b&gt;MoAs:&lt;/b&gt; N/A&lt;/li&gt;
+  &lt;li&gt;&lt;b&gt;Sources:&lt;/b&gt; &lt;a href="https://www.biospace.com/business/opinion-to-survive-the-downturn-biotechs-must-return-to-basics"&gt;Biospace&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;</description>
+      <guid isPermaLink="false">ac2d091e0660c3a905d932dec6f06fea</guid>
+      <pubDate>Wed, 08 Apr 2026 22:05:54 GMT</pubDate>
+    </item>
+    <item>
+      <title>Abortion Pill Mifepristone</title>
+      <link>https://www.google.com</link>
+      <description>&lt;ul&gt;
+  &lt;li&gt;&lt;b&gt;Summary:&lt;/b&gt; A recent judge ruling affects the mailing of the &lt;b&gt;abortion pill mifepristone&lt;/b&gt;, impacting access to medical abortion. The decision has regulatory and legal implications for distribution, highlighting ongoing debates in reproductive health policy and industry-wide regulatory shifts.&lt;/li&gt;
+  &lt;li&gt;&lt;b&gt;MoAs:&lt;/b&gt; Mifepristone is a progesterone receptor antagonist, blocking progesterone action to induce abortion when used with misoprostol.&lt;/li&gt;
+  &lt;li&gt;&lt;b&gt;Sources:&lt;/b&gt; &lt;a href="https://www.statnews.com/2026/04/07/abortion-pill-mifepristone-by-mail-judge-ruling/?utm_campaign=rss"&gt;STAT News&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;</description>
+      <guid isPermaLink="false">9d509e9ede7d1c537268d07cce8d7cee</guid>
+      <pubDate>Wed, 08 Apr 2026 22:05:54 GMT</pubDate>
+    </item>
+    <item>
+      <title>CAP Report on Healthcare Costs</title>
+      <link>https://www.google.com</link>
+      <description>&lt;ul&gt;
+  &lt;li&gt;&lt;b&gt;Summary:&lt;/b&gt; The &lt;b&gt;College of American Pathologists (CAP)&lt;/b&gt; has released a report advocating for lower healthcare costs through improved affordability, hospital practices, and reduced prior authorization burdens. The report addresses systemic pricing and access issues, calling for policy changes to alleviate financial pressures on patients and providers.&lt;/li&gt;
+  &lt;li&gt;&lt;b&gt;MoAs:&lt;/b&gt; N/A&lt;/li&gt;
+  &lt;li&gt;&lt;b&gt;Sources:&lt;/b&gt; &lt;a href="https://www.statnews.com/2026/04/08/cap-report-lower-health-care-costs-affordability-hospitals-prior-authorization/?utm_campaign=rss"&gt;STAT News&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;</description>
+      <guid isPermaLink="false">d4246c4c468576d4ce4864638db1565d</guid>
+      <pubDate>Wed, 08 Apr 2026 22:05:54 GMT</pubDate>
     </item>
   </channel>
 </rss>
