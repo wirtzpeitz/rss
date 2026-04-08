@@ -6,15 +6,37 @@
     <description>News digest covering Cardio-Renal-Metabolic.</description>
     <atom:link href="https://www.google.com" rel="self" type="application/rss+xml"/>
     <item>
-      <title>Novo Nordisk High-Dose Wegovy Launch</title>
+      <title>23andMe &amp; GLP-1 Genetics</title>
       <link>https://www.google.com</link>
       <description>&lt;ul&gt;
-  &lt;li&gt;&lt;b&gt;Summary:&lt;/b&gt; &lt;b&gt;Novo Nordisk&lt;/b&gt; has launched a high-dose formulation of &lt;b&gt;Wegovy (semaglutide)&lt;/b&gt; in the US, offering a new option for weight management with potentially improved efficacy. The launch underscores the growing market for GLP-1 agonists in obesity and metabolic disorders.&lt;/li&gt;
-  &lt;li&gt;&lt;b&gt;MoAs:&lt;/b&gt; Wegovy (semaglutide) is a glucagon-like peptide-1 (GLP-1) receptor agonist that mimics incretin hormones to increase insulin secretion, decrease glucagon release, slow gastric emptying, and promote satiety, leading to weight loss and glycemic control.&lt;/li&gt;
-  &lt;li&gt;&lt;b&gt;Sources:&lt;/b&gt; &lt;a href="https://www.statnews.com/2026/04/07/biotech-news-novo-launches-high-dose-wegovy/?utm_campaign=rss"&gt;STAT News&lt;/a&gt;, &lt;a href="https://endpoints.news/novo-launches-high-dose-wegovy-in-the-us-evotec-pressured-to-list-its-us-unit/"&gt;Endpoints News&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;b&gt;Summary:&lt;/b&gt; &lt;b&gt;23andMe&lt;/b&gt; is investigating genetic variations associated with weight loss responses to &lt;b&gt;GLP-1&lt;/b&gt; receptor agonists, such as semaglutide, to personalize obesity and diabetes management strategies.&lt;/li&gt;
+  &lt;li&gt;&lt;b&gt;MoAs:&lt;/b&gt; GLP-1 receptor agonists (e.g., semaglutide, liraglutide) work by activating GLP-1 receptors to increase insulin secretion, decrease glucagon release, slow gastric emptying, and reduce appetite, thereby improving glycemic control and promoting weight loss.&lt;/li&gt;
+  &lt;li&gt;&lt;b&gt;Sources:&lt;/b&gt; &lt;a href="https://www.statnews.com/2026/04/08/23andme-genetic-changes-weight-loss-glp1/?utm_campaign=rss"&gt;STAT News&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;</description>
-      <guid isPermaLink="false">e7b1cee3f2c606bb172b55e35858b14e</guid>
-      <pubDate>Tue, 07 Apr 2026 22:03:38 GMT</pubDate>
+      <guid isPermaLink="false">d6ea73ea57e847a54304632d6b197b1a</guid>
+      <pubDate>Wed, 08 Apr 2026 22:05:54 GMT</pubDate>
+    </item>
+    <item>
+      <title>Eli Lilly's Foundayo (Fondaparinux) Launch</title>
+      <link>https://www.google.com</link>
+      <description>&lt;ul&gt;
+  &lt;li&gt;&lt;b&gt;Summary:&lt;/b&gt; &lt;b&gt;Eli Lilly&lt;/b&gt; has launched &lt;b&gt;Foundayo (fondaparinux)&lt;/b&gt;, an anticoagulant, following regulatory approval. This launch intensifies competition in the thrombosis market, particularly with &lt;b&gt;Novo Nordisk&lt;/b&gt;, amid ongoing merger and acquisition trends and tariff impacts. Foundayo is indicated for venous thromboembolism prevention in surgical patients, expanding Lilly's cardiovascular portfolio.&lt;/li&gt;
+  &lt;li&gt;&lt;b&gt;MoAs:&lt;/b&gt; Fondaparinux is a selective factor Xa inhibitor, preventing thrombin formation and blood clot development.&lt;/li&gt;
+  &lt;li&gt;&lt;b&gt;Sources:&lt;/b&gt; &lt;a href="https://www.biospace.com/business/lillys-foundayo-nod-launches-new-battle-with-novo-m-a-mania-continues-tariffs-hit-pharma"&gt;Biospace&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;</description>
+      <guid isPermaLink="false">6792d96ae7de794d0c187cb181925c11</guid>
+      <pubDate>Wed, 08 Apr 2026 22:05:54 GMT</pubDate>
+    </item>
+    <item>
+      <title>Hypertension Control Community Teams</title>
+      <link>https://www.google.com</link>
+      <description>&lt;ul&gt;
+  &lt;li&gt;&lt;b&gt;Summary:&lt;/b&gt; A community team approach is emphasized for better &lt;b&gt;hypertension&lt;/b&gt; control, involving healthcare providers, community workers, and patients. This strategy aims to improve treatment adherence and monitoring, reducing cardiovascular risks associated with high blood pressure through collaborative care models.&lt;/li&gt;
+  &lt;li&gt;&lt;b&gt;MoAs:&lt;/b&gt; N/A&lt;/li&gt;
+  &lt;li&gt;&lt;b&gt;Sources:&lt;/b&gt; &lt;a href="https://www.statnews.com/2026/04/08/hypertension-control-community-team-approach/?utm_campaign=rss"&gt;STAT News&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;</description>
+      <guid isPermaLink="false">09b4a2b7edf99dd0aed50d02fd58e73c</guid>
+      <pubDate>Wed, 08 Apr 2026 22:05:54 GMT</pubDate>
     </item>
   </channel>
 </rss>
