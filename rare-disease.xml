@@ -6,15 +6,15 @@
     <description>News digest covering Rare Disease.</description>
     <atom:link href="https://www.google.com" rel="self" type="application/rss+xml"/>
     <item>
-      <title>Medical Nutrition &amp; Insurance</title>
+      <title>Duchenne Muscular Dystrophy Exon Skipping</title>
       <link>https://www.google.com</link>
       <description>&lt;ul&gt;
-  &lt;li&gt;&lt;b&gt;Summary:&lt;/b&gt; Issues surrounding insurance coverage for medical nutrition therapies in mitochondrial disease are being highlighted, with patients facing barriers to accessing essential nutritional support. This rare disorder often requires specialized diets, prompting advocacy for policy changes to improve reimbursement and patient outcomes.&lt;/li&gt;
-  &lt;li&gt;&lt;b&gt;MoAs:&lt;/b&gt; N/A&lt;/li&gt;
-  &lt;li&gt;&lt;b&gt;Sources:&lt;/b&gt; &lt;a href="https://www.statnews.com/2026/04/06/medical-nutrition-mitochondrial-disease-insurance-coverage/?utm_campaign=rss"&gt;STAT News&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;b&gt;Summary:&lt;/b&gt; A breakthrough in exon skipping therapy for &lt;b&gt;Duchenne muscular dystrophy (DMD)&lt;/b&gt; is highlighted, focusing on a mother's advocacy. Exon skipping approaches, such as antisense oligonucleotides like eteplirsen, aim to skip specific exons in the dystrophin gene to produce functional protein and slow disease progression. The article discusses recent advancements and patient-centric perspectives.&lt;/li&gt;
+  &lt;li&gt;&lt;b&gt;MoAs:&lt;/b&gt; Exon skipping drugs work by binding to pre-mRNA to promote exclusion of mutated exons, allowing production of partially functional dystrophin protein.&lt;/li&gt;
+  &lt;li&gt;&lt;b&gt;Sources:&lt;/b&gt; &lt;a href="https://www.statnews.com/2026/04/08/duchenne-exon-skipping-breakthrough-one-mother-quest/?utm_campaign=rss"&gt;STAT News&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;</description>
-      <guid isPermaLink="false">2e518cc94aac1252333b29efc470e97d</guid>
-      <pubDate>Mon, 06 Apr 2026 22:02:57 GMT</pubDate>
+      <guid isPermaLink="false">ccf4957aa217a7e193d102bbf019ff64</guid>
+      <pubDate>Wed, 08 Apr 2026 22:05:54 GMT</pubDate>
     </item>
   </channel>
 </rss>
