@@ -6,70 +6,136 @@
     <description>News digest covering Corporate Events.</description>
     <atom:link href="https://www.google.com" rel="self" type="application/rss+xml"/>
     <item>
-      <title>Gilead/Tubulis Acquisition</title>
+      <title>Gilead Sciences Deal Strategy</title>
       <link>https://www.google.com</link>
       <description>&lt;ul&gt;
-  &lt;li&gt;&lt;b&gt;Summary:&lt;/b&gt; &lt;b&gt;Gilead Sciences&lt;/b&gt; has acquired &lt;b&gt;Tubulis&lt;/b&gt;, an antibody-drug conjugate (ADC) specialist, in a deal worth up to $5 billion to bolster its oncology pipeline. The acquisition aims to enhance Gilead's capabilities in developing next-generation ADCs for cancer treatment, following a trend of industry consolidation in the ADC space.&lt;/li&gt;
+  &lt;li&gt;&lt;b&gt;Summary:&lt;/b&gt; &lt;b&gt;Gilead Sciences&lt;/b&gt; is emphasizing a strategic shift towards fewer large M&amp;A deals, instead focusing on partnerships and bolt-on acquisitions to expand its oncology and autoimmune pipelines. Recent deals with companies like &lt;b&gt;Arcellx&lt;/b&gt; and &lt;b&gt;Ouro&lt;/b&gt; highlight this approach, as Gilead aims to diversify beyond its HIV franchise.&lt;/li&gt;
   &lt;li&gt;&lt;b&gt;MoAs:&lt;/b&gt; N/A&lt;/li&gt;
-  &lt;li&gt;&lt;b&gt;Sources:&lt;/b&gt; &lt;a href="https://www.biopharmadive.com/news/gilead-tubulis-acquire-deal-adc-cancer/816823/"&gt;Biopharma Dive&lt;/a&gt;, &lt;a href="https://www.biospace.com/business/gilead-swallows-another-partner-paying-up-to-5-b-for-adc-specialist-tubulis"&gt;BioSpace&lt;/a&gt;, &lt;a href="https://www.oncologypipeline.com/apexonco/gilead-buys-what-it-tried-tubulis"&gt;Oncology Pipeline (ApexOnco)&lt;/a&gt;, &lt;a href="https://www.statnews.com/2026/04/07/gilead-sciences-acquisition-tubulis-adcs-chemotherapy-cancer/?utm_campaign=rss"&gt;STAT News&lt;/a&gt;, &lt;a href="https://www.fiercebiotech.com/biotech/gilead-inks-5b-tubulis-buyout-bolster-oncology-adc-pipeline"&gt;Fierce Biotech&lt;/a&gt;, &lt;a href="https://endpoints.news/gilead-continues-dealmaking-streak-with-3-15b-tubulis-buy-for-adcs/"&gt;Endpoints News&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;b&gt;Sources:&lt;/b&gt; &lt;a href="https://www.biopharmadive.com/news/gilead-deal-strategy-arcellx-ouro-tubulis-cancer-autoimmune/816935/"&gt;BioPharma Dive&lt;/a&gt;, &lt;a href="https://www.biospace.com/business/gilead-less-m-a-happy-now-but-door-still-open-for-compelling-opportunities"&gt;BioSpace&lt;/a&gt;, &lt;a href="https://endpoints.news/gilead-takes-another-big-swing-at-expanding-beyond-hiv/"&gt;Endpoints News&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;</description>
-      <guid isPermaLink="false">ecefa39dab48f9c94f0971a697e1905d</guid>
-      <pubDate>Tue, 07 Apr 2026 22:03:38 GMT</pubDate>
+      <guid isPermaLink="false">fd16f12d093e5db2e9e086df79f62378</guid>
+      <pubDate>Wed, 08 Apr 2026 22:05:54 GMT</pubDate>
     </item>
     <item>
-      <title>Merck/Terns Acquisition</title>
+      <title>Novavax Corporate Governance</title>
       <link>https://www.google.com</link>
       <description>&lt;ul&gt;
-  &lt;li&gt;&lt;b&gt;Summary:&lt;/b&gt; &lt;b&gt;Merck&lt;/b&gt; has acquired &lt;b&gt;Terns Pharmaceuticals&lt;/b&gt; for a price 13% lower than its initial offer, influenced by clinical data for Terns' leukemia drug. The deal strengthens Merck's hematology portfolio, focusing on treatments for lower-risk myelodysplastic syndromes or related conditions.&lt;/li&gt;
+  &lt;li&gt;&lt;b&gt;Summary:&lt;/b&gt; &lt;b&gt;Novavax&lt;/b&gt; faces corporate governance challenges as shareholder &lt;b&gt;Shah Capital&lt;/b&gt; pushes for changes, including opposition to the CEO's pay package and calls for new leadership. The activist investor has sent a letter to the board ahead of a shareholder vote, highlighting ongoing struggles post-COVID-19 vaccine market shifts.&lt;/li&gt;
   &lt;li&gt;&lt;b&gt;MoAs:&lt;/b&gt; N/A&lt;/li&gt;
-  &lt;li&gt;&lt;b&gt;Sources:&lt;/b&gt; &lt;a href="https://www.biopharmadive.com/news/merck-terns-bidders-acquire-deal-lower-leukemia-drug/816811/"&gt;Biopharma Dive&lt;/a&gt;, &lt;a href="https://endpoints.news/terns-sold-to-merck-for-13-lower-than-pharmas-initial-offer-because-of-clinical-data/"&gt;Endpoints News&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;b&gt;Sources:&lt;/b&gt; &lt;a href="https://www.biopharmadive.com/news/novavax-shah-capital-board-letter-vote/816938/"&gt;BioPharma Dive&lt;/a&gt;, &lt;a href="https://www.biospace.com/business/novavax-shareholder-vows-to-fight-ceo-pay-package-end-dogmatic-leadership"&gt;BioSpace&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;</description>
-      <guid isPermaLink="false">c0d21f7a37323ffacffc71d164811829</guid>
-      <pubDate>Tue, 07 Apr 2026 22:03:38 GMT</pubDate>
+      <guid isPermaLink="false">d276ccff8794b4eb4cdb5928b69b22e1</guid>
+      <pubDate>Wed, 08 Apr 2026 22:05:54 GMT</pubDate>
     </item>
     <item>
-      <title>Vertex/Halozyme Drug Delivery Deal</title>
+      <title>Sidewinder Therapeutics (Bispecific ADCs)</title>
       <link>https://www.google.com</link>
       <description>&lt;ul&gt;
-  &lt;li&gt;&lt;b&gt;Summary:&lt;/b&gt; &lt;b&gt;Vertex Pharmaceuticals&lt;/b&gt; has entered a $15 million drug delivery deal with &lt;b&gt;Halozyme&lt;/b&gt;, leveraging Halozyme's recently acquired Elektrofi technology to improve the subcutaneous administration of Vertex's therapies, potentially enhancing patient convenience and compliance.&lt;/li&gt;
+  &lt;li&gt;&lt;b&gt;Summary:&lt;/b&gt; &lt;b&gt;Sidewinder Therapeutics&lt;/b&gt; has secured $137 million in financing led by &lt;b&gt;OrbiMed&lt;/b&gt; to advance its platform of bispecific antibody-drug conjugates (ADCs). The funding will support the development of novel cancer therapies that combine tumor targeting with payload delivery, aiming to improve efficacy and reduce toxicity.&lt;/li&gt;
   &lt;li&gt;&lt;b&gt;MoAs:&lt;/b&gt; N/A&lt;/li&gt;
-  &lt;li&gt;&lt;b&gt;Sources:&lt;/b&gt; &lt;a href="https://www.fiercepharma.com/pharma/vertex-taps-halozyme-and-its-recently-acquired-elektrofi-tech-15m-drug-delivery-deal"&gt;Fierce Pharma&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;b&gt;Sources:&lt;/b&gt; &lt;a href="https://www.biopharmadive.com/news/sidewinder-bispecific-antibody-drug-conjugates-orbimed-financing/816942/"&gt;BioPharma Dive&lt;/a&gt;, &lt;a href="https://endpoints.news/adc-biotech-sidewinder-collects-137m-for-bispecific-approach/"&gt;Endpoints News&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;</description>
-      <guid isPermaLink="false">9f711c4dbaf2c0f98ce870084b0497fb</guid>
-      <pubDate>Tue, 07 Apr 2026 22:03:38 GMT</pubDate>
+      <guid isPermaLink="false">7325e8deddda545f2bd6b2564614185f</guid>
+      <pubDate>Wed, 08 Apr 2026 22:05:54 GMT</pubDate>
     </item>
     <item>
-      <title>Merck/Gardasil Partnership Adjustment</title>
+      <title>Terns Pharmaceuticals / Merck Deal</title>
       <link>https://www.google.com</link>
       <description>&lt;ul&gt;
-  &lt;li&gt;&lt;b&gt;Summary:&lt;/b&gt; Due to a demand shortfall for &lt;b&gt;Gardasil&lt;/b&gt;, &lt;b&gt;Merck&lt;/b&gt; and its China partner &lt;b&gt;Zhifei&lt;/b&gt; have adjusted their partnership terms, reflecting market dynamics and supply challenges for the HPV vaccine used in cervical cancer prevention programs.&lt;/li&gt;
-  &lt;li&gt;&lt;b&gt;MoAs:&lt;/b&gt; Gardasil is a prophylactic vaccine that induces immunity against human papillomavirus (HPV) types 6, 11, 16, and 18 by stimulating antibody production, preventing HPV infection and related cancers.&lt;/li&gt;
-  &lt;li&gt;&lt;b&gt;Sources:&lt;/b&gt; &lt;a href="https://www.fiercepharma.com/pharma/gardasil-demand-shortfall-merck-and-china-partner-zhifei-adjust-their-partnership"&gt;Fierce Pharma&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;b&gt;Summary:&lt;/b&gt; &lt;b&gt;Merck&lt;/b&gt; has reduced its offer to &lt;b&gt;Terns Pharmaceuticals&lt;/b&gt; by $1 billion after reviewing updated leukemia data for Terns' drug candidate, likely &lt;b&gt;TERN-701&lt;/b&gt; for chronic myeloid leukemia. The revised deal terms reflect concerns about the drug's competitiveness in a crowded market, impacting the potential partnership.&lt;/li&gt;
+  &lt;li&gt;&lt;b&gt;MoAs:&lt;/b&gt; TERN-701 is a BCR-ABL tyrosine kinase inhibitor targeting the BCR-ABL fusion protein in chronic myeloid leukemia.&lt;/li&gt;
+  &lt;li&gt;&lt;b&gt;Sources:&lt;/b&gt; &lt;a href="https://www.statnews.com/2026/04/08/biotech-news-terns-drug-may-not-be-as-competitive-as-initially-believed/?utm_campaign=rss"&gt;STAT News&lt;/a&gt;, &lt;a href="https://www.biospace.com/business/merck-chopped-1b-off-terns-offer-after-seeing-updated-leukemia-data"&gt;BioSpace&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;</description>
-      <guid isPermaLink="false">c416e0b63cb9a27d64aa80344eeef356</guid>
-      <pubDate>Tue, 07 Apr 2026 22:03:38 GMT</pubDate>
+      <guid isPermaLink="false">f65c4f69cdc8ab365d416cf38319c3f1</guid>
+      <pubDate>Wed, 08 Apr 2026 22:05:54 GMT</pubDate>
     </item>
     <item>
-      <title>Eli Lilly Asset Potential</title>
+      <title>Amgen CEO Pay</title>
       <link>https://www.google.com</link>
       <description>&lt;ul&gt;
-  &lt;li&gt;&lt;b&gt;Summary:&lt;/b&gt; Article discusses &lt;b&gt;Eli Lilly&lt;/b&gt;'s potential new assets or deals that could enhance its pipeline or market position, possibly involving undisclosed therapeutic candidates or strategic acquisitions.&lt;/li&gt;
+  &lt;li&gt;&lt;b&gt;Summary:&lt;/b&gt; &lt;b&gt;Amgen&lt;/b&gt; CEO Robert Bradway's compensation for 2025 charted a slight increase to $24.7 million, following a significant bump in the previous year, reflecting ongoing corporate governance discussions.&lt;/li&gt;
   &lt;li&gt;&lt;b&gt;MoAs:&lt;/b&gt; N/A&lt;/li&gt;
-  &lt;li&gt;&lt;b&gt;Sources:&lt;/b&gt; &lt;a href="https://endpoints.news/did-eli-lilly-just-strike-another-gold-mine/"&gt;Endpoints News&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;b&gt;Sources:&lt;/b&gt; &lt;a href="https://www.fiercepharma.com/pharma/after-big-bump-last-year-amgen-ceo-bradways-2025-pay-charts-slight-increase-247m"&gt;Fierce Pharma&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;</description>
-      <guid isPermaLink="false">dfb3a6e687570988bd4ff65d85646be4</guid>
-      <pubDate>Tue, 07 Apr 2026 22:03:38 GMT</pubDate>
+      <guid isPermaLink="false">c586d9da412ee42e757ab9b60a02d661</guid>
+      <pubDate>Wed, 08 Apr 2026 22:05:54 GMT</pubDate>
     </item>
     <item>
-      <title>BioNTech Singapore HQ Closure</title>
+      <title>Merck Vaccine Supply Deal in China</title>
       <link>https://www.google.com</link>
       <description>&lt;ul&gt;
-  &lt;li&gt;&lt;b&gt;Summary:&lt;/b&gt; &lt;b&gt;BioNTech&lt;/b&gt; is closing its Singapore headquarters after a comprehensive review, indicating strategic realignment or cost-cutting measures in response to market conditions.&lt;/li&gt;
+  &lt;li&gt;&lt;b&gt;Summary:&lt;/b&gt; &lt;b&gt;Merck&lt;/b&gt; has adjusted its vaccine supply agreement in China, concurrently with &lt;b&gt;Soleno&lt;/b&gt; Therapeutics withdrawing a European Union application, highlighting strategic shifts in global vaccine distribution and regulatory engagements.&lt;/li&gt;
   &lt;li&gt;&lt;b&gt;MoAs:&lt;/b&gt; N/A&lt;/li&gt;
-  &lt;li&gt;&lt;b&gt;Sources:&lt;/b&gt; &lt;a href="https://endpoints.news/biontech-to-shutter-singapore-hq-after-comprehensive-review/"&gt;Endpoints News&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;b&gt;Sources:&lt;/b&gt; &lt;a href="https://endpoints.news/merck-adjusts-its-vaccine-supply-deal-in-china-soleno-withdraws-eu-application/"&gt;Endpoints News&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;</description>
-      <guid isPermaLink="false">5fbca5735224ceab6d86c8ca17e2a42e</guid>
-      <pubDate>Tue, 07 Apr 2026 22:03:38 GMT</pubDate>
+      <guid isPermaLink="false">b416abb9933063ce254dbe992aac82ff</guid>
+      <pubDate>Wed, 08 Apr 2026 22:05:54 GMT</pubDate>
+    </item>
+    <item>
+      <title>Novo Nordisk Wegovy Pricing</title>
+      <link>https://www.google.com</link>
+      <description>&lt;ul&gt;
+  &lt;li&gt;&lt;b&gt;Summary:&lt;/b&gt; &lt;b&gt;Novo Nordisk&lt;/b&gt; is navigating pricing strategies for its weight-loss drug &lt;b&gt;Wegovy&lt;/b&gt; (semaglutide), amid market competition and payer dynamics, with implications for accessibility and revenue in the obesity therapeutics space.&lt;/li&gt;
+  &lt;li&gt;&lt;b&gt;MoAs:&lt;/b&gt; Wegovy (semaglutide) is a GLP-1 receptor agonist that mimics incretin hormones to stimulate insulin secretion, suppress glucagon, slow gastric emptying, and promote satiety, leading to improved glycemic control and weight loss.&lt;/li&gt;
+  &lt;li&gt;&lt;b&gt;Sources:&lt;/b&gt; &lt;a href="https://www.biopharmadive.com/news/novo-wegovy-price-insmed-acip-charter-biogen-vertex/816812/"&gt;BioPharma Dive&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;</description>
+      <guid isPermaLink="false">6bdc72bf68d3acec9af5931bad16f5ff</guid>
+      <pubDate>Wed, 08 Apr 2026 22:05:54 GMT</pubDate>
+    </item>
+    <item>
+      <title>Pfizer Remote Work / Office Space</title>
+      <link>https://www.google.com</link>
+      <description>&lt;ul&gt;
+  &lt;li&gt;&lt;b&gt;Summary:&lt;/b&gt; &lt;b&gt;Pfizer&lt;/b&gt; is transitioning employees to remote work and vacating underutilized office space in San Francisco, part of a broader corporate real estate optimization and flexible work policy adaptation.&lt;/li&gt;
+  &lt;li&gt;&lt;b&gt;MoAs:&lt;/b&gt; N/A&lt;/li&gt;
+  &lt;li&gt;&lt;b&gt;Sources:&lt;/b&gt; &lt;a href="https://www.fiercepharma.com/pharma/pfizer-walks-away-underutilized-office-space-san-francisco-transitions-employees-remote"&gt;Fierce Pharma&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;</description>
+      <guid isPermaLink="false">cc21237c5ae4bfc8845623a466c5e851</guid>
+      <pubDate>Wed, 08 Apr 2026 22:05:54 GMT</pubDate>
+    </item>
+    <item>
+      <title>Cognito Therapeutics Partnership</title>
+      <link>https://www.google.com</link>
+      <description>&lt;ul&gt;
+  &lt;li&gt;&lt;b&gt;Summary:&lt;/b&gt; &lt;b&gt;Cognito Therapeutics&lt;/b&gt; has partnered with a nonprofit organization to remove the term 'dementia' from its communications and scientific materials, focusing on non-pharmacological neuromodulation approaches for cognitive disorders.&lt;/li&gt;
+  &lt;li&gt;&lt;b&gt;MoAs:&lt;/b&gt; N/A&lt;/li&gt;
+  &lt;li&gt;&lt;b&gt;Sources:&lt;/b&gt; &lt;a href="https://www.fiercepharma.com/marketing/cognito-tx-partners-nonprofit-drop-dementia-its-comms-scientific-materials"&gt;Fierce Pharma&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;</description>
+      <guid isPermaLink="false">1c8ac67feae3cf77f93b008176bab396</guid>
+      <pubDate>Wed, 08 Apr 2026 22:05:54 GMT</pubDate>
+    </item>
+    <item>
+      <title>Talkspace &amp; Universal Health Services Deal</title>
+      <link>https://www.google.com</link>
+      <description>&lt;ul&gt;
+  &lt;li&gt;&lt;b&gt;Summary:&lt;/b&gt; The deal between &lt;b&gt;Talkspace&lt;/b&gt; and &lt;b&gt;Universal Health Services&lt;/b&gt; integrates teletherapy services into hospital systems, expanding access to mental health care through digital health partnerships.&lt;/li&gt;
+  &lt;li&gt;&lt;b&gt;MoAs:&lt;/b&gt; N/A&lt;/li&gt;
+  &lt;li&gt;&lt;b&gt;Sources:&lt;/b&gt; &lt;a href="https://endpoints.news/inside-the-talkspace-universal-health-services-deal/"&gt;Endpoints News&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;</description>
+      <guid isPermaLink="false">4b5ad8389d4d9e82f8980a26f9eb1adf</guid>
+      <pubDate>Wed, 08 Apr 2026 22:05:54 GMT</pubDate>
+    </item>
+    <item>
+      <title>Invivyd Marketing Campaign</title>
+      <link>https://www.google.com</link>
+      <description>&lt;ul&gt;
+  &lt;li&gt;&lt;b&gt;Summary:&lt;/b&gt; &lt;b&gt;Invivyd&lt;/b&gt; launched the 'Antibodies for Any Body' marketing campaign featuring Olympic skier &lt;b&gt;Lindsey Vonn&lt;/b&gt; to promote its monoclonal antibody therapies for infectious diseases, emphasizing broad patient applicability.&lt;/li&gt;
+  &lt;li&gt;&lt;b&gt;MoAs:&lt;/b&gt; N/A&lt;/li&gt;
+  &lt;li&gt;&lt;b&gt;Sources:&lt;/b&gt; &lt;a href="https://www.fiercepharma.com/marketing/invivyd-launches-antibodies-any-body-campaign-olympic-skier-lindsey-vonn"&gt;Fierce Pharma&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;</description>
+      <guid isPermaLink="false">0ca018f7722261d1e70158f39dd4dc99</guid>
+      <pubDate>Wed, 08 Apr 2026 22:05:54 GMT</pubDate>
+    </item>
+    <item>
+      <title>Dare Bioscience &amp; Women's Health</title>
+      <link>https://www.google.com</link>
+      <description>&lt;ul&gt;
+  &lt;li&gt;&lt;b&gt;Summary:&lt;/b&gt; &lt;b&gt;Dare Bioscience&lt;/b&gt;'s CEO is advocating for increased investment in women's health, starting with her company. The article highlights challenges in funding for women's health startups and emphasizes the need for more resources in this underserved area, reflecting broader corporate strategy to address healthcare gaps.&lt;/li&gt;
+  &lt;li&gt;&lt;b&gt;MoAs:&lt;/b&gt; N/A&lt;/li&gt;
+  &lt;li&gt;&lt;b&gt;Sources:&lt;/b&gt; &lt;a href="https://www.biospace.com/business/dares-ceo-wants-everyone-to-invest-in-womens-health-starting-with-her-company"&gt;Biospace&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;</description>
+      <guid isPermaLink="false">100b6b6dfdf19a69d8c403c147bd2c3f</guid>
+      <pubDate>Wed, 08 Apr 2026 22:05:54 GMT</pubDate>
     </item>
   </channel>
 </rss>
