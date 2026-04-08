@@ -6,15 +6,26 @@
     <description>News digest covering Immunology.</description>
     <atom:link href="https://www.google.com" rel="self" type="application/rss+xml"/>
     <item>
-      <title>Sanofi/Lunsekimig (SAR445229) Clinical Results</title>
+      <title>Insmed's Brinsupri (Brensocatib)</title>
       <link>https://www.google.com</link>
       <description>&lt;ul&gt;
-  &lt;li&gt;&lt;b&gt;Summary:&lt;/b&gt; &lt;b&gt;Sanofi&lt;/b&gt;'s bispecific antibody &lt;b&gt;Lunsekimig (SAR445229)&lt;/b&gt; achieved positive Phase 2 results in asthma and chronic rhinosinusitis with nasal polyps, demonstrating significant reduction in symptoms and inflammation. However, it failed to meet endpoints in an atopic dermatitis (eczema) study, highlighting differential efficacy across allergic diseases. The drug targets key cytokines involved in type 2 inflammation.&lt;/li&gt;
-  &lt;li&gt;&lt;b&gt;MoAs:&lt;/b&gt; Lunsekimig is a bispecific antibody that simultaneously inhibits interleukin-4 (IL-4) and interleukin-13 (IL-13) signaling, modulating the type 2 immune response to reduce inflammation in allergic conditions.&lt;/li&gt;
-  &lt;li&gt;&lt;b&gt;Sources:&lt;/b&gt; &lt;a href="https://www.biospace.com/drug-development/sanofi-bispecific-scores-in-asthma-rhinosinusitis-but-eczema-bet-doesnt-pay-off"&gt;BioSpace&lt;/a&gt;, &lt;a href="https://www.biopharmadive.com/news/sanofi-lunsekimig-asthma-polyps-eczema-drug-results/816794/"&gt;Biopharma Dive&lt;/a&gt;, &lt;a href="https://endpoints.news/sanofi-bispecific-sails-through-asthma-sinusitis-trials-but-disappoints-in-eczema/"&gt;Endpoints News&lt;/a&gt;, &lt;a href="https://www.fiercebiotech.com/biotech/sanofis-bispecific-scores-double-respiratory-phase-2-wins-flunks-eczema-study-0"&gt;Fierce Biotech&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;b&gt;Summary:&lt;/b&gt; &lt;b&gt;Insmed&lt;/b&gt;'s drug &lt;b&gt;Brinsupri (brensocatib)&lt;/b&gt; has failed in a mid-stage study for hidradenitis suppurativa, leading the company to shelve plans in this skin disease. The drug, a dipeptidyl peptidase 1 inhibitor, did not meet efficacy endpoints, prompting a refocus on its core development in chronic lung conditions like bronchiectasis.&lt;/li&gt;
+  &lt;li&gt;&lt;b&gt;MoAs:&lt;/b&gt; Brensocatib is a dipeptidyl peptidase 1 (DPP1) inhibitor, which targets neutrophil serine proteases to reduce inflammation.&lt;/li&gt;
+  &lt;li&gt;&lt;b&gt;Sources:&lt;/b&gt; &lt;a href="https://www.fiercepharma.com/pharma/insmeds-brinsupri-flops-hidradenitis-suppurativa-study"&gt;Fierce Pharma&lt;/a&gt;, &lt;a href="https://www.biospace.com/drug-development/insmed-scraps-skin-plans-for-lung-disease-drug-as-competitors-make-headway"&gt;BioSpace&lt;/a&gt;, &lt;a href="https://endpoints.news/insmed-shelves-brinsupri-in-skin-disease-after-mid-stage-flop/"&gt;Endpoints News&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;</description>
-      <guid isPermaLink="false">512b2216c657d772164c8f46ef4984d2</guid>
-      <pubDate>Tue, 07 Apr 2026 22:03:38 GMT</pubDate>
+      <guid isPermaLink="false">f75d242cdeda6e8d80f9961cf89f90b1</guid>
+      <pubDate>Wed, 08 Apr 2026 22:05:54 GMT</pubDate>
+    </item>
+    <item>
+      <title>Johnson &amp; Johnson's Tremfya (Guselkumab)</title>
+      <link>https://www.google.com</link>
+      <description>&lt;ul&gt;
+  &lt;li&gt;&lt;b&gt;Summary:&lt;/b&gt; &lt;b&gt;Johnson &amp; Johnson&lt;/b&gt;'s &lt;b&gt;Tremfya (guselkumab)&lt;/b&gt; has retaken the crown for highest TV ad spending among drugs, outpacing competitors like &lt;b&gt;AbbVie&lt;/b&gt;'s Humira. The IL-23 inhibitor, used for psoriasis and psoriatic arthritis, is being aggressively marketed to maintain its position in the competitive immunology market.&lt;/li&gt;
+  &lt;li&gt;&lt;b&gt;MoAs:&lt;/b&gt; Guselkumab is a monoclonal antibody that selectively inhibits interleukin-23 (IL-23), a cytokine involved in inflammatory and immune responses.&lt;/li&gt;
+  &lt;li&gt;&lt;b&gt;Sources:&lt;/b&gt; &lt;a href="https://www.fiercepharma.com/marketing/jjs-tremfya-retakes-tv-drug-ad-spending-crown-abbvie"&gt;Fierce Pharma&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;</description>
+      <guid isPermaLink="false">9d71f3c92d9d0936680acae2fbcb0fd1</guid>
+      <pubDate>Wed, 08 Apr 2026 22:05:54 GMT</pubDate>
     </item>
   </channel>
 </rss>
