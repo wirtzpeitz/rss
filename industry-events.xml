@@ -6,103 +6,92 @@
     <description>News digest covering Industry Events.</description>
     <atom:link href="https://www.google.com" rel="self" type="application/rss+xml"/>
     <item>
-      <title>PhRMA CEO Steve Ubl Departure</title>
+      <title>AbbVie 340B Drug Discount Lawsuits</title>
       <link>https://www.google.com</link>
       <description>&lt;ul&gt;
-  &lt;li&gt;&lt;b&gt;Summary:&lt;/b&gt; Steve Ubl is set to step down as CEO of the Pharmaceutical Research and Manufacturers of America (&lt;b&gt;PhRMA&lt;/b&gt;) after more than a decade in the role. His departure marks a significant change in leadership for the major biopharma industry lobbying group, with sources indicating a search for a successor is underway.&lt;/li&gt;
+  &lt;li&gt;&lt;b&gt;Summary:&lt;/b&gt; &lt;b&gt;AbbVie&lt;/b&gt; has filed a lawsuit challenging the 340B drug discount program, arguing that outdated guidance needs revision and proposing a new interpretation of "patient" eligibility, which could impact drug pricing and access for covered entities.&lt;/li&gt;
   &lt;li&gt;&lt;b&gt;MoAs:&lt;/b&gt; N/A&lt;/li&gt;
-  &lt;li&gt;&lt;b&gt;Sources:&lt;/b&gt; &lt;a href="https://www.fiercepharma.com/pharma/steven-ubl-set-depart-after-decade-plus-ceo-phrma"&gt;Fierce Pharma&lt;/a&gt;, &lt;a href="https://www.statnews.com/2026/04/08/phrma-ceo-steve-ubl-step-down/?utm_campaign=rss"&gt;STAT News&lt;/a&gt;, &lt;a href="https://endpoints.news/phrma-head-steve-ubl-to-step-down-according-to-sources/"&gt;Endpoints News&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;b&gt;Sources:&lt;/b&gt; &lt;a href="https://endpoints.news/abbvie-suggests-new-interpretation-of-patient-is-necessary-in-340b-lawsuit/"&gt;Endpoints News&lt;/a&gt;, &lt;a href="https://www.fiercepharma.com/pharma/abbvie-challenges-outdated-340b-drug-discount-program-guidance-new-suit"&gt;Fierce Pharma&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;</description>
-      <guid isPermaLink="false">83329ff18bb60a00b53736932e694719</guid>
-      <pubDate>Wed, 08 Apr 2026 22:05:54 GMT</pubDate>
+      <guid isPermaLink="false">c71a5cbfe621608fab28aa3a2f88eb98</guid>
+      <pubDate>Thu, 09 Apr 2026 22:04:12 GMT</pubDate>
     </item>
     <item>
-      <title>Jeito Capital Fundraising</title>
+      <title>Shionogi / BARDA Contract</title>
       <link>https://www.google.com</link>
       <description>&lt;ul&gt;
-  &lt;li&gt;&lt;b&gt;Summary:&lt;/b&gt; &lt;b&gt;Jeito Capital&lt;/b&gt; has raised €1.2 billion, marking the largest fundraise ever for an independent European biopharma-focused venture capital firm. The fund aims to support private biotech companies in maintaining control over their destinies, emphasizing long-term investment in innovative therapies.&lt;/li&gt;
+  &lt;li&gt;&lt;b&gt;Summary:&lt;/b&gt; &lt;b&gt;Shionogi&lt;/b&gt; has entered into a contract with &lt;b&gt;BARDA&lt;/b&gt; to support the development or procurement of medical countermeasures, likely focusing on antiviral or antibacterial agents for public health preparedness against infectious disease threats.&lt;/li&gt;
   &lt;li&gt;&lt;b&gt;MoAs:&lt;/b&gt; N/A&lt;/li&gt;
-  &lt;li&gt;&lt;b&gt;Sources:&lt;/b&gt; &lt;a href="https://www.biopharmadive.com/news/jeito-capital-biopharma-venture-fund-billion/816946/"&gt;BioPharma Dive&lt;/a&gt;, &lt;a href="https://www.fiercebiotech.com/biotech/jeito-hails-12b-largest-raise-ever-independent-biopharma-focused-european-fund"&gt;Fierce Biotech&lt;/a&gt;, &lt;a href="https://endpoints.news/european-vc-jeito-gets-1-2b-to-help-private-biotechs-control-their-destiny/"&gt;Endpoints News&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;b&gt;Sources:&lt;/b&gt; &lt;a href="https://endpoints.news/shionogis-barda-contract-scinai-finalizes-cdmo-unit-setup/"&gt;Endpoints News&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;</description>
-      <guid isPermaLink="false">ad67575680bbf67730433eb35a7ea6b9</guid>
-      <pubDate>Wed, 08 Apr 2026 22:05:54 GMT</pubDate>
+      <guid isPermaLink="false">ed634c3f48f14f699ff9c6bd2003413d</guid>
+      <pubDate>Thu, 09 Apr 2026 22:04:12 GMT</pubDate>
     </item>
     <item>
-      <title>Shionogi / BARDA Antibiotic Plant</title>
+      <title>FDA &amp; AI Device Regulation</title>
       <link>https://www.google.com</link>
       <description>&lt;ul&gt;
-  &lt;li&gt;&lt;b&gt;Summary:&lt;/b&gt; &lt;b&gt;Shionogi&lt;/b&gt; has received an initial $119 million from the Biomedical Advanced Research and Development Authority (&lt;b&gt;BARDA&lt;/b&gt;) to build a U.S.-based antibiotic manufacturing plant. This partnership aims to strengthen domestic supply chains for critical antibiotics, such as &lt;b&gt;cefiderocol&lt;/b&gt;, amid rising antimicrobial resistance.&lt;/li&gt;
-  &lt;li&gt;&lt;b&gt;MoAs:&lt;/b&gt; Cefiderocol is a siderophore cephalosporin antibiotic that uses iron transport systems to penetrate bacterial cells and inhibit cell wall synthesis.&lt;/li&gt;
-  &lt;li&gt;&lt;b&gt;Sources:&lt;/b&gt; &lt;a href="https://www.fiercepharma.com/manufacturing/shionogi-nabs-initial-119m-barda-build-us-antibiotic-plant"&gt;Fierce Pharma&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;</description>
-      <guid isPermaLink="false">345efd6dbc3efd4285f352e21ae3a091</guid>
-      <pubDate>Wed, 08 Apr 2026 22:05:54 GMT</pubDate>
-    </item>
-    <item>
-      <title>FDA DTC Ad Powers &amp; EU AMR Fight</title>
-      <link>https://www.google.com</link>
-      <description>&lt;ul&gt;
-  &lt;li&gt;&lt;b&gt;Summary:&lt;/b&gt; The &lt;b&gt;FDA&lt;/b&gt; is seeking expanded authority over direct-to-consumer (DTC) drug advertising, while the &lt;b&gt;European Union&lt;/b&gt; pledges intensified efforts to combat antimicrobial resistance (AMR), representing significant regulatory and public health policy developments.&lt;/li&gt;
+  &lt;li&gt;&lt;b&gt;Summary:&lt;/b&gt; The &lt;b&gt;FDA&lt;/b&gt; has rejected a proposal to deregulate &lt;b&gt;AI&lt;/b&gt;-based medical devices in health technology, maintaining regulatory oversight to ensure safety and efficacy. This decision underscores the agency's cautious approach towards emerging technologies in healthcare.&lt;/li&gt;
   &lt;li&gt;&lt;b&gt;MoAs:&lt;/b&gt; N/A&lt;/li&gt;
-  &lt;li&gt;&lt;b&gt;Sources:&lt;/b&gt; &lt;a href="https://www.statnews.com/pharmalot/2026/04/08/fda-seeks-new-powers-dtc-ads-eu-pledges-fight-amr/?utm_campaign=rss"&gt;STAT News&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;b&gt;Sources:&lt;/b&gt; &lt;a href="https://www.statnews.com/2026/04/09/fda-rejects-proposal-to-deregulate-ai-devices-health-tech/?utm_campaign=rss"&gt;STAT News&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;</description>
-      <guid isPermaLink="false">1f381ed19db1713a5ef6e6ece9841a45</guid>
-      <pubDate>Wed, 08 Apr 2026 22:05:54 GMT</pubDate>
+      <guid isPermaLink="false">79b1ed3718a047e7a817ff68243a6179</guid>
+      <pubDate>Thu, 09 Apr 2026 22:04:12 GMT</pubDate>
     </item>
     <item>
-      <title>AI Scribes &amp; Healthcare Costs</title>
+      <title>Advanced Therapies &amp; Automation</title>
       <link>https://www.google.com</link>
       <description>&lt;ul&gt;
-  &lt;li&gt;&lt;b&gt;Summary:&lt;/b&gt; The adoption of &lt;b&gt;AI scribes&lt;/b&gt; in healthcare is raising concerns about increased costs. Insurers and providers agree that these automated documentation tools, while enhancing efficiency, may drive higher expenditures due to overutilization or billing complexities. The articles explore the economic implications and future outlook for AI in medical documentation.&lt;/li&gt;
+  &lt;li&gt;&lt;b&gt;Summary:&lt;/b&gt; Industry experts discuss the growing role of automation and collaboration in shaping the future of advanced therapies, such as cell and gene therapies. This trend aims to improve manufacturing scalability, efficiency, and consistency in these complex treatments.&lt;/li&gt;
   &lt;li&gt;&lt;b&gt;MoAs:&lt;/b&gt; N/A&lt;/li&gt;
-  &lt;li&gt;&lt;b&gt;Sources:&lt;/b&gt; &lt;a href="https://www.statnews.com/2026/04/08/are-scribes-raising-health-care-costs-ai-prognosis/?utm_campaign=rss"&gt;STAT News&lt;/a&gt;, &lt;a href="https://www.statnews.com/2026/04/08/insurers-providers-agree-ai-scribes-raise-health-care-costs/?utm_campaign=rss"&gt;STAT News&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;b&gt;Sources:&lt;/b&gt; &lt;a href="https://www.biospace.com/drug-delivery/automation-collaboration-and-the-future-of-advanced-therapies"&gt;BioSpace&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;</description>
-      <guid isPermaLink="false">68fc2075ba3ffea195e2a563d7aade34</guid>
-      <pubDate>Wed, 08 Apr 2026 22:05:54 GMT</pubDate>
+      <guid isPermaLink="false">b8a90e593f8dd6014aa135c37deda44a</guid>
+      <pubDate>Thu, 09 Apr 2026 22:04:12 GMT</pubDate>
     </item>
     <item>
-      <title>Cell &amp; Gene Therapy Manufacturing</title>
+      <title>General Policy &amp; Opinion (Adam Feuerstein)</title>
       <link>https://www.google.com</link>
       <description>&lt;ul&gt;
-  &lt;li&gt;&lt;b&gt;Summary:&lt;/b&gt; As &lt;b&gt;cell and gene therapy (CGT)&lt;/b&gt; manufacturing scales up, automation and collaboration are becoming essential. The industry is focusing on streamlining production to meet demand, reduce costs, and ensure quality. Partnerships between companies and technology providers are critical for advancing manufacturing capabilities for these complex therapies.&lt;/li&gt;
+  &lt;li&gt;&lt;b&gt;Summary:&lt;/b&gt; This theme covers analysis and commentary on healthcare policy developments, including discussions on affordability plans and advocacy shifts within the industry, as reported by STAT News columnist Adam Feuerstein.&lt;/li&gt;
   &lt;li&gt;&lt;b&gt;MoAs:&lt;/b&gt; N/A&lt;/li&gt;
-  &lt;li&gt;&lt;b&gt;Sources:&lt;/b&gt; &lt;a href="https://www.biospace.com/drug-delivery/as-cgt-manufacturing-scales-up-automation-and-collaboration-become-essential"&gt;Biospace&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;b&gt;Sources:&lt;/b&gt; &lt;a href="https://www.statnews.com/2026/04/09/health-care-affordability-plan-cap-steve-ubl-exits-phrma-dc-diagnosis/?utm_campaign=rss"&gt;STAT News&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;</description>
-      <guid isPermaLink="false">3e6eeb6410c7f20ea56e5d3c5ecb120e</guid>
-      <pubDate>Wed, 08 Apr 2026 22:05:54 GMT</pubDate>
+      <guid isPermaLink="false">e22323e229d95d3248f0e98f0779b765</guid>
+      <pubDate>Thu, 09 Apr 2026 22:04:12 GMT</pubDate>
     </item>
     <item>
-      <title>Biotech Opinion: Return to Basics</title>
+      <title>Mental Health Chatbots</title>
       <link>https://www.google.com</link>
       <description>&lt;ul&gt;
-  &lt;li&gt;&lt;b&gt;Summary:&lt;/b&gt; An opinion piece argues that to survive the current downturn, &lt;b&gt;biotech companies&lt;/b&gt; must return to basics by focusing on robust science, prudent financial management, and clear clinical pathways. This back-to-fundamentals approach is deemed crucial for long-term sustainability in a challenging market environment.&lt;/li&gt;
+  &lt;li&gt;&lt;b&gt;Summary:&lt;/b&gt; This theme explores the widespread adoption of mental health chatbots in the healthcare sector, examining their current proliferation, potential impacts, and future directions in biopharma and patient care.&lt;/li&gt;
   &lt;li&gt;&lt;b&gt;MoAs:&lt;/b&gt; N/A&lt;/li&gt;
-  &lt;li&gt;&lt;b&gt;Sources:&lt;/b&gt; &lt;a href="https://www.biospace.com/business/opinion-to-survive-the-downturn-biotechs-must-return-to-basics"&gt;Biospace&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;b&gt;Sources:&lt;/b&gt; &lt;a href="https://endpoints.news/everyone-has-a-mental-health-chatbot-now-what/"&gt;Endpoints News&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;</description>
-      <guid isPermaLink="false">ac2d091e0660c3a905d932dec6f06fea</guid>
-      <pubDate>Wed, 08 Apr 2026 22:05:54 GMT</pubDate>
+      <guid isPermaLink="false">ca548a246421001a9cabcbb827abc9ad</guid>
+      <pubDate>Thu, 09 Apr 2026 22:04:12 GMT</pubDate>
     </item>
     <item>
-      <title>Abortion Pill Mifepristone</title>
+      <title>Biopharma Job Market Report</title>
       <link>https://www.google.com</link>
       <description>&lt;ul&gt;
-  &lt;li&gt;&lt;b&gt;Summary:&lt;/b&gt; A recent judge ruling affects the mailing of the &lt;b&gt;abortion pill mifepristone&lt;/b&gt;, impacting access to medical abortion. The decision has regulatory and legal implications for distribution, highlighting ongoing debates in reproductive health policy and industry-wide regulatory shifts.&lt;/li&gt;
-  &lt;li&gt;&lt;b&gt;MoAs:&lt;/b&gt; Mifepristone is a progesterone receptor antagonist, blocking progesterone action to induce abortion when used with misoprostol.&lt;/li&gt;
-  &lt;li&gt;&lt;b&gt;Sources:&lt;/b&gt; &lt;a href="https://www.statnews.com/2026/04/07/abortion-pill-mifepristone-by-mail-judge-ruling/?utm_campaign=rss"&gt;STAT News&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;</description>
-      <guid isPermaLink="false">9d509e9ede7d1c537268d07cce8d7cee</guid>
-      <pubDate>Wed, 08 Apr 2026 22:05:54 GMT</pubDate>
-    </item>
-    <item>
-      <title>CAP Report on Healthcare Costs</title>
-      <link>https://www.google.com</link>
-      <description>&lt;ul&gt;
-  &lt;li&gt;&lt;b&gt;Summary:&lt;/b&gt; The &lt;b&gt;College of American Pathologists (CAP)&lt;/b&gt; has released a report advocating for lower healthcare costs through improved affordability, hospital practices, and reduced prior authorization burdens. The report addresses systemic pricing and access issues, calling for policy changes to alleviate financial pressures on patients and providers.&lt;/li&gt;
+  &lt;li&gt;&lt;b&gt;Summary:&lt;/b&gt; This theme provides an overview of employment trends in the biopharma industry for Q1 2026, analyzing job market dynamics, sectoral shifts, and broader economic implications.&lt;/li&gt;
   &lt;li&gt;&lt;b&gt;MoAs:&lt;/b&gt; N/A&lt;/li&gt;
-  &lt;li&gt;&lt;b&gt;Sources:&lt;/b&gt; &lt;a href="https://www.statnews.com/2026/04/08/cap-report-lower-health-care-costs-affordability-hospitals-prior-authorization/?utm_campaign=rss"&gt;STAT News&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;b&gt;Sources:&lt;/b&gt; &lt;a href="https://www.biospace.com/job-trends/report-biopharma-job-market-report-q1-2026"&gt;BioSpace&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;</description>
-      <guid isPermaLink="false">d4246c4c468576d4ce4864638db1565d</guid>
-      <pubDate>Wed, 08 Apr 2026 22:05:54 GMT</pubDate>
+      <guid isPermaLink="false">be707b494258507eff5caef146793920</guid>
+      <pubDate>Thu, 09 Apr 2026 22:04:12 GMT</pubDate>
+    </item>
+    <item>
+      <title>Medicare Advantage Policy</title>
+      <link>https://www.google.com</link>
+      <description>&lt;ul&gt;
+  &lt;li&gt;&lt;b&gt;Summary:&lt;/b&gt; This theme analyzes recent policy updates affecting Medicare Advantage, including rate adjustments and regulatory changes, and their impact on health insurers and the broader healthcare landscape.&lt;/li&gt;
+  &lt;li&gt;&lt;b&gt;MoAs:&lt;/b&gt; N/A&lt;/li&gt;
+  &lt;li&gt;&lt;b&gt;Sources:&lt;/b&gt; &lt;a href="https://www.statnews.com/2026/04/09/medicare-advantage-rates-latest-trump-policy-helps-health-insurers/?utm_campaign=rss"&gt;STAT News&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;</description>
+      <guid isPermaLink="false">1acc534a517d6f83e3343776c26fe502</guid>
+      <pubDate>Thu, 09 Apr 2026 22:04:12 GMT</pubDate>
     </item>
   </channel>
 </rss>
