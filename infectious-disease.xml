@@ -6,15 +6,15 @@
     <description>News digest covering Infectious Disease.</description>
     <atom:link href="https://www.google.com" rel="self" type="application/rss+xml"/>
     <item>
-      <title>Merck Experimental HIV Prevention Pill</title>
+      <title>Invivyd / Measles Antibody Drug</title>
       <link>https://www.google.com</link>
       <description>&lt;ul&gt;
-  &lt;li&gt;&lt;b&gt;Summary:&lt;/b&gt; &lt;b&gt;Merck&lt;/b&gt; is developing an experimental HIV prevention pill reportedly costing five dollars per year, aiming to expand access to pre-exposure prophylaxis (PrEP) in high-risk populations.&lt;/li&gt;
-  &lt;li&gt;&lt;b&gt;MoAs:&lt;/b&gt; Based on internal knowledge, potential mechanisms include inhibition of HIV reverse transcriptase or integrase, common in antiretroviral therapies, but specific MoA is undisclosed.&lt;/li&gt;
-  &lt;li&gt;&lt;b&gt;Sources:&lt;/b&gt; &lt;a href="https://www.statnews.com/pharmalot/2026/04/07/merck-experimental-hiv-prevention-pill-made-for-five-dollars-year/?utm_campaign=rss"&gt;STAT News&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;b&gt;Summary:&lt;/b&gt; &lt;b&gt;Invivyd&lt;/b&gt; is advancing the development of a monoclonal antibody drug for measles, aimed at providing passive immunization or treatment, particularly in scenarios where vaccination is inadequate or for high-risk populations.&lt;/li&gt;
+  &lt;li&gt;&lt;b&gt;MoAs:&lt;/b&gt; The antibody drug neutralizes the measles virus by binding to viral hemagglutinin or fusion proteins, blocking viral entry and spread in host cells.&lt;/li&gt;
+  &lt;li&gt;&lt;b&gt;Sources:&lt;/b&gt; &lt;a href="https://www.biopharmadive.com/news/invivyd-measles-antibody-drug-vaccines/817086/"&gt;BioPharma Dive&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;</description>
-      <guid isPermaLink="false">5e3c73037414a8a0f700b3fddf2b353a</guid>
-      <pubDate>Tue, 07 Apr 2026 22:03:38 GMT</pubDate>
+      <guid isPermaLink="false">f72471c9533fbfb9bd9bc018f530dbd9</guid>
+      <pubDate>Thu, 09 Apr 2026 22:04:12 GMT</pubDate>
     </item>
   </channel>
 </rss>
