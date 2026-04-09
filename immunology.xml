@@ -6,26 +6,15 @@
     <description>News digest covering Immunology.</description>
     <atom:link href="https://www.google.com" rel="self" type="application/rss+xml"/>
     <item>
-      <title>Insmed's Brinsupri (Brensocatib)</title>
+      <title>CAR-T Therapy for Autoimmune Diseases</title>
       <link>https://www.google.com</link>
       <description>&lt;ul&gt;
-  &lt;li&gt;&lt;b&gt;Summary:&lt;/b&gt; &lt;b&gt;Insmed&lt;/b&gt;'s drug &lt;b&gt;Brinsupri (brensocatib)&lt;/b&gt; has failed in a mid-stage study for hidradenitis suppurativa, leading the company to shelve plans in this skin disease. The drug, a dipeptidyl peptidase 1 inhibitor, did not meet efficacy endpoints, prompting a refocus on its core development in chronic lung conditions like bronchiectasis.&lt;/li&gt;
-  &lt;li&gt;&lt;b&gt;MoAs:&lt;/b&gt; Brensocatib is a dipeptidyl peptidase 1 (DPP1) inhibitor, which targets neutrophil serine proteases to reduce inflammation.&lt;/li&gt;
-  &lt;li&gt;&lt;b&gt;Sources:&lt;/b&gt; &lt;a href="https://www.fiercepharma.com/pharma/insmeds-brinsupri-flops-hidradenitis-suppurativa-study"&gt;Fierce Pharma&lt;/a&gt;, &lt;a href="https://www.biospace.com/drug-development/insmed-scraps-skin-plans-for-lung-disease-drug-as-competitors-make-headway"&gt;BioSpace&lt;/a&gt;, &lt;a href="https://endpoints.news/insmed-shelves-brinsupri-in-skin-disease-after-mid-stage-flop/"&gt;Endpoints News&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;b&gt;Summary:&lt;/b&gt; &lt;b&gt;CAR-T therapy&lt;/b&gt; is making significant strides in treating autoimmune diseases, with clinical advances demonstrating durable remission by selectively depleting pathogenic B cells or other immune cells involved in autoimmunity.&lt;/li&gt;
+  &lt;li&gt;&lt;b&gt;MoAs:&lt;/b&gt; CAR-T therapy involves engineering patient T cells to express chimeric antigen receptors targeting specific antigens (e.g., CD19 on B cells), leading to targeted cell lysis and modulation of autoimmune responses.&lt;/li&gt;
+  &lt;li&gt;&lt;b&gt;Sources:&lt;/b&gt; &lt;a href="https://www.statnews.com/2026/04/09/autoimmune-diseases-car-t-therapy-advances/?utm_campaign=rss"&gt;STAT News&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;</description>
-      <guid isPermaLink="false">f75d242cdeda6e8d80f9961cf89f90b1</guid>
-      <pubDate>Wed, 08 Apr 2026 22:05:54 GMT</pubDate>
-    </item>
-    <item>
-      <title>Johnson &amp; Johnson's Tremfya (Guselkumab)</title>
-      <link>https://www.google.com</link>
-      <description>&lt;ul&gt;
-  &lt;li&gt;&lt;b&gt;Summary:&lt;/b&gt; &lt;b&gt;Johnson &amp; Johnson&lt;/b&gt;'s &lt;b&gt;Tremfya (guselkumab)&lt;/b&gt; has retaken the crown for highest TV ad spending among drugs, outpacing competitors like &lt;b&gt;AbbVie&lt;/b&gt;'s Humira. The IL-23 inhibitor, used for psoriasis and psoriatic arthritis, is being aggressively marketed to maintain its position in the competitive immunology market.&lt;/li&gt;
-  &lt;li&gt;&lt;b&gt;MoAs:&lt;/b&gt; Guselkumab is a monoclonal antibody that selectively inhibits interleukin-23 (IL-23), a cytokine involved in inflammatory and immune responses.&lt;/li&gt;
-  &lt;li&gt;&lt;b&gt;Sources:&lt;/b&gt; &lt;a href="https://www.fiercepharma.com/marketing/jjs-tremfya-retakes-tv-drug-ad-spending-crown-abbvie"&gt;Fierce Pharma&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;</description>
-      <guid isPermaLink="false">9d71f3c92d9d0936680acae2fbcb0fd1</guid>
-      <pubDate>Wed, 08 Apr 2026 22:05:54 GMT</pubDate>
+      <guid isPermaLink="false">6ebe1588023eb464006dc61b442b5cb0</guid>
+      <pubDate>Thu, 09 Apr 2026 22:04:12 GMT</pubDate>
     </item>
   </channel>
 </rss>
