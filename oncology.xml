@@ -6,15 +6,37 @@
     <description>News digest covering Oncology.</description>
     <atom:link href="https://www.google.com" rel="self" type="application/rss+xml"/>
     <item>
-      <title>Genomic Testing for Cancer Treatments</title>
+      <title>Macrogenics Clinical Hold Lifted</title>
       <link>https://www.google.com</link>
       <description>&lt;ul&gt;
-  &lt;li&gt;&lt;b&gt;Summary:&lt;/b&gt; Article emphasizes the necessity of genomic tests to guide targeted cancer treatments, enabling precision medicine by identifying biomarkers for therapies like &lt;b&gt;EGFR inhibitors&lt;/b&gt; or &lt;b&gt;PD-1 blockers&lt;/b&gt;.&lt;/li&gt;
+  &lt;li&gt;&lt;b&gt;Summary:&lt;/b&gt; The &lt;b&gt;FDA&lt;/b&gt; has lifted a clinical hold on &lt;b&gt;Macrogenics&lt;/b&gt;' oncology trial, allowing the company to resume development of its antibody-based cancer therapies, while &lt;b&gt;Oxford&lt;/b&gt; and &lt;b&gt;Bristol-Myers Squibb&lt;/b&gt; announce a separate collaboration in the field.&lt;/li&gt;
   &lt;li&gt;&lt;b&gt;MoAs:&lt;/b&gt; N/A&lt;/li&gt;
-  &lt;li&gt;&lt;b&gt;Sources:&lt;/b&gt; &lt;a href="https://www.statnews.com/2026/04/07/genomic-tests-needed-for-targeted-cancer-treatments/?utm_campaign=rss"&gt;STAT News&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;b&gt;Sources:&lt;/b&gt; &lt;a href="https://endpoints.news/fda-lifts-macrogenics-hold-oxford-and-bristol-myers-team-up/"&gt;Endpoints News&lt;/a&gt;, &lt;a href="https://www.oncologypipeline.com/apexonco/timely-lift-macrogenics"&gt;ApexOnco&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;</description>
-      <guid isPermaLink="false">6552dcf2387b87ddf8d035622f6a11c5</guid>
-      <pubDate>Tue, 07 Apr 2026 22:03:38 GMT</pubDate>
+      <guid isPermaLink="false">d781146c2737cee33402d221053bd236</guid>
+      <pubDate>Thu, 09 Apr 2026 22:04:12 GMT</pubDate>
+    </item>
+    <item>
+      <title>Merck / TROP2</title>
+      <link>https://www.google.com</link>
+      <description>&lt;ul&gt;
+  &lt;li&gt;&lt;b&gt;Summary:&lt;/b&gt; &lt;b&gt;Merck&lt;/b&gt; is making a significant strategic bet on &lt;b&gt;TROP2&lt;/b&gt;-targeting therapies, potentially including antibody-drug conjugates like &lt;b&gt;sacituzumab govitecan&lt;/b&gt;. This move aims to expand &lt;b&gt;Merck&lt;/b&gt;'s oncology portfolio in areas such as breast and lung cancers.&lt;/li&gt;
+  &lt;li&gt;&lt;b&gt;MoAs:&lt;/b&gt; TROP2-targeting antibody-drug conjugates (e.g., sacituzumab govitecan) deliver cytotoxic payloads to cancer cells expressing TROP2, inducing cell death.&lt;/li&gt;
+  &lt;li&gt;&lt;b&gt;Sources:&lt;/b&gt; &lt;a href="https://www.oncologypipeline.com/apexonco/revealed-mercks-double-bet-trop2"&gt;ApexOnco&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;</description>
+      <guid isPermaLink="false">c23dd650fca98672f86656ff3fa2d20f</guid>
+      <pubDate>Thu, 09 Apr 2026 22:04:12 GMT</pubDate>
+    </item>
+    <item>
+      <title>Novartis-backed Sidewinder Therapeutics</title>
+      <link>https://www.google.com</link>
+      <description>&lt;ul&gt;
+  &lt;li&gt;&lt;b&gt;Summary:&lt;/b&gt; &lt;b&gt;Sidewinder Therapeutics&lt;/b&gt;, backed by &lt;b&gt;Novartis&lt;/b&gt;, has raised $137 million in a Series B funding round to advance therapies for difficult-to-treat tumors. The funding supports the development of innovative oncology treatments targeting resistant cancers.&lt;/li&gt;
+  &lt;li&gt;&lt;b&gt;MoAs:&lt;/b&gt; N/A&lt;/li&gt;
+  &lt;li&gt;&lt;b&gt;Sources:&lt;/b&gt; &lt;a href="https://www.biospace.com/business/novartis-backed-sidewinder-collects-137m-series-b-to-strike-at-difficult-to-treat-tumors"&gt;BioSpace&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;</description>
+      <guid isPermaLink="false">60787de9b91041e39683b10aef60ba60</guid>
+      <pubDate>Thu, 09 Apr 2026 22:04:12 GMT</pubDate>
     </item>
   </channel>
 </rss>
