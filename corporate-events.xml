@@ -6,70 +6,114 @@
     <description>News digest covering Corporate Events.</description>
     <atom:link href="https://www.google.com" rel="self" type="application/rss+xml"/>
     <item>
-      <title>Garda / Assertio Deal (Rolvedon)</title>
+      <title>GSK Leucovorin Withdrawal</title>
       <link>https://www.google.com</link>
       <description>&lt;ul&gt;
-  &lt;li&gt;&lt;b&gt;Summary:&lt;/b&gt; &lt;b&gt;Garda&lt;/b&gt; has acquired &lt;b&gt;Assertio&lt;/b&gt; and the chemotherapy-induced neutropenia treatment &lt;b&gt;Rolvedon&lt;/b&gt; (eflapegrastim) in a $125 million deal, strengthening its oncology supportive care portfolio.&lt;/li&gt;
-  &lt;li&gt;&lt;b&gt;MoAs:&lt;/b&gt; Rolvedon is a long-acting granulocyte colony-stimulating factor (G-CSF) analog that binds to G-CSF receptors on neutrophil precursors, stimulating production and maturation to prevent infections during myelosuppressive chemotherapy.&lt;/li&gt;
-  &lt;li&gt;&lt;b&gt;Sources:&lt;/b&gt; &lt;a href="https://www.fiercepharma.com/pharma/garda-snaps-assertio-and-chemo-infection-treatment-rolvedon-125m-deal"&gt;Fierce Pharma&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;b&gt;Summary:&lt;/b&gt; &lt;b&gt;GSK&lt;/b&gt; has withdrawn its application for &lt;b&gt;leucovorin&lt;/b&gt; (folinic acid) after the FDA previously highlighted it as a potential autism treatment. This marks the second withdrawal, citing strategic or regulatory issues, raising questions about drug repurposing and challenges in autism therapeutics development.&lt;/li&gt;
+  &lt;li&gt;&lt;b&gt;MoAs:&lt;/b&gt; &lt;b&gt;Leucovorin&lt;/b&gt;: Reduced folate that acts as a coenzyme in DNA synthesis and repair, potentially modulating folate metabolism in neurological contexts.&lt;/li&gt;
+  &lt;li&gt;&lt;b&gt;Sources:&lt;/b&gt; &lt;a href="https://www.statnews.com/2026/04/10/health-news-gsk-says-goodbye-to-leucovorin-again/?utm_campaign=rss"&gt;StatNews&lt;/a&gt;, &lt;a href="https://www.biospace.com/business/gsk-again-pulls-application-for-leucovorin-touted-by-fda-as-potential-autism-treatment"&gt;Biospace&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;</description>
-      <guid isPermaLink="false">e790891ed9583d53abe628d3bcfd04fa</guid>
-      <pubDate>Thu, 09 Apr 2026 22:04:12 GMT</pubDate>
+      <guid isPermaLink="false">f250727e8c9a449aa23d52ce33c9cc5b</guid>
+      <pubDate>Fri, 10 Apr 2026 22:04:53 GMT</pubDate>
     </item>
     <item>
-      <title>Roche / C4 Therapeutics Partnership</title>
+      <title>Novartis Restructuring &amp; Job Cuts</title>
       <link>https://www.google.com</link>
       <description>&lt;ul&gt;
-  &lt;li&gt;&lt;b&gt;Summary:&lt;/b&gt; &lt;b&gt;Roche&lt;/b&gt; and &lt;b&gt;C4 Therapeutics&lt;/b&gt; have expanded their existing partnership, with &lt;b&gt;Roche&lt;/b&gt; paying $20 million upfront and committing up to $1 billion in milestones for access to molecular glue protein degraders. This collaboration aims to advance novel oncology therapies leveraging &lt;b&gt;C4 Therapeutics&lt;/b&gt;' degrader platform.&lt;/li&gt;
+  &lt;li&gt;&lt;b&gt;Summary:&lt;/b&gt; &lt;b&gt;Novartis&lt;/b&gt; is cutting 114 more jobs at its New Jersey headquarters as part of ongoing restructuring efforts to streamline operations and reduce costs. This reflects broader industry trends as companies adjust to market pressures and focus on core therapeutic areas.&lt;/li&gt;
   &lt;li&gt;&lt;b&gt;MoAs:&lt;/b&gt; N/A&lt;/li&gt;
-  &lt;li&gt;&lt;b&gt;Sources:&lt;/b&gt; &lt;a href="https://endpoints.news/roche-dips-into-dacs-with-existing-partner-c4-therapeutics-for-20m-upfront/"&gt;Endpoints News&lt;/a&gt;, &lt;a href="https://www.biospace.com/deals/roche-sticks-with-c4t-adding-up-to-1b-for-molecular-glue-partnership"&gt;BioSpace&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;b&gt;Sources:&lt;/b&gt; &lt;a href="https://www.fiercepharma.com/pharma/novartis-cuts-114-more-jobs-new-jersey-hq-restructuring-reverberates"&gt;Fierce Pharma&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;</description>
-      <guid isPermaLink="false">ab6f57d5041e1cc5df7868a8af207c0c</guid>
-      <pubDate>Thu, 09 Apr 2026 22:04:12 GMT</pubDate>
+      <guid isPermaLink="false">120229bd048667ac31e21468e1f21fe3</guid>
+      <pubDate>Fri, 10 Apr 2026 22:04:53 GMT</pubDate>
     </item>
     <item>
-      <title>AI Biotech Ailux</title>
+      <title>GLP-1 &amp; Novo Nordisk Leadership Change</title>
       <link>https://www.google.com</link>
       <description>&lt;ul&gt;
-  &lt;li&gt;&lt;b&gt;Summary:&lt;/b&gt; China-based &lt;b&gt;AI&lt;/b&gt; biotech &lt;b&gt;Ailux&lt;/b&gt; has hired a Chief Scientific Officer and is targeting entry into clinical trials by 2027. The company is leveraging artificial intelligence to accelerate drug discovery and development.&lt;/li&gt;
+  &lt;li&gt;&lt;b&gt;Summary:&lt;/b&gt; &lt;b&gt;Novo Nordisk&lt;/b&gt; is undergoing leadership changes as a key GLP-1 drug development executive retires and an obesity leader joins &lt;b&gt;Boehringer Ingelheim&lt;/b&gt;. This shift occurs amid &lt;b&gt;Novo Nordisk&lt;/b&gt;'s dominance in the GLP-1 market with drugs like &lt;b&gt;semaglutide&lt;/b&gt;, potentially impacting the company's strategy and innovation pipeline in metabolic diseases.&lt;/li&gt;
   &lt;li&gt;&lt;b&gt;MoAs:&lt;/b&gt; N/A&lt;/li&gt;
-  &lt;li&gt;&lt;b&gt;Sources:&lt;/b&gt; &lt;a href="https://endpoints.news/china-based-ai-biotech-ailux-hires-cso-eyes-clinic-in-2027/"&gt;Endpoints News&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;b&gt;Sources:&lt;/b&gt; &lt;a href="https://endpoints.news/novo-glp-1-luminary-retires-as-it-loses-an-obesity-leader-to-boehringer-ingelheim/"&gt;Endpoints News&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;</description>
-      <guid isPermaLink="false">7624761c5598bd6c6367da237d261547</guid>
-      <pubDate>Thu, 09 Apr 2026 22:04:12 GMT</pubDate>
+      <guid isPermaLink="false">2a8817b4e803eb3604a8d7583b45093a</guid>
+      <pubDate>Fri, 10 Apr 2026 22:04:53 GMT</pubDate>
     </item>
     <item>
-      <title>PhRMA Lobbyist Steve Ubl Exit</title>
+      <title>Gilead &amp; Kymera Partnership</title>
       <link>https://www.google.com</link>
       <description>&lt;ul&gt;
-  &lt;li&gt;&lt;b&gt;Summary:&lt;/b&gt; &lt;b&gt;Steve Ubl&lt;/b&gt;, the long-standing leader of the pharmaceutical lobbying group &lt;b&gt;PhRMA&lt;/b&gt;, is stepping down by year-end. His exit comes amid ongoing industry discussions on topics such as genetics, &lt;b&gt;GLP-1&lt;/b&gt; drugs, &lt;b&gt;AbbVie&lt;/b&gt;, and the 340B drug pricing program.&lt;/li&gt;
+  &lt;li&gt;&lt;b&gt;Summary:&lt;/b&gt; &lt;b&gt;Gilead Sciences&lt;/b&gt; has exercised a $54 million option to partner with &lt;b&gt;Kymera Therapeutics&lt;/b&gt; on protein degradation therapies for oncology and inflammation. Concurrently, &lt;b&gt;Vivatides&lt;/b&gt; secured funding for a cold-chain-free &lt;b&gt;semaglutide&lt;/b&gt; version in the EU. This collaboration highlights the growing interest in targeted protein degradation as a novel therapeutic approach.&lt;/li&gt;
   &lt;li&gt;&lt;b&gt;MoAs:&lt;/b&gt; N/A&lt;/li&gt;
-  &lt;li&gt;&lt;b&gt;Sources:&lt;/b&gt; &lt;a href="https://www.statnews.com/pharmalot/2026/04/09/pharma-top-lobbyist-step-down-genes-glp1-abbvie-340b/?utm_campaign=rss"&gt;STAT News&lt;/a&gt;, &lt;a href="https://www.biospace.com/policy/phmras-long-standing-leader-steve-ubl-to-leave-lobby-group-by-year-end"&gt;BioSpace&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;b&gt;Sources:&lt;/b&gt; &lt;a href="https://endpoints.news/vivatides-gets-54m-wegovy-drops-cold-chain-in-eu-gilead-takes-kymera-option/"&gt;Endpoints News&lt;/a&gt;, &lt;a href="https://www.biopharmadive.com/news/rfk-acip-vivatides-gilead-roche-c4-kymera-shionogi/817047/"&gt;Biopharmadive&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;</description>
-      <guid isPermaLink="false">447077554be4726c56f440982ad2b8a1</guid>
-      <pubDate>Thu, 09 Apr 2026 22:04:12 GMT</pubDate>
+      <guid isPermaLink="false">6241cb123234ce6678a1bd0316af15aa</guid>
+      <pubDate>Fri, 10 Apr 2026 22:04:53 GMT</pubDate>
     </item>
     <item>
-      <title>Innovent CDMO Expansion</title>
+      <title>Bayer Pharma Pricing Outlook</title>
       <link>https://www.google.com</link>
       <description>&lt;ul&gt;
-  &lt;li&gt;&lt;b&gt;Summary:&lt;/b&gt; &lt;b&gt;Innovent&lt;/b&gt;'s contract development and manufacturing organization (CDMO) unit has received regulatory approval to produce biologics at a large-scale plant in China. This expansion enhances &lt;b&gt;Innovent&lt;/b&gt;'s capacity to support global biopharmaceutical manufacturing.&lt;/li&gt;
+  &lt;li&gt;&lt;b&gt;Summary:&lt;/b&gt; A &lt;b&gt;Bayer&lt;/b&gt; pharmaceutical executive predicts that price spreads between the U.S. and Europe will narrow due to market and regulatory pressures, indicating strategic shifts in global pricing strategies.&lt;/li&gt;
   &lt;li&gt;&lt;b&gt;MoAs:&lt;/b&gt; N/A&lt;/li&gt;
-  &lt;li&gt;&lt;b&gt;Sources:&lt;/b&gt; &lt;a href="https://www.biospace.com/drug-delivery/innovents-cdmo-gets-green-light-to-make-biologics-at-large-chinese-plant"&gt;BioSpace&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;b&gt;Sources:&lt;/b&gt; &lt;a href="https://endpoints.news/bayer-pharma-executive-predicts-us-europe-price-spreads-will-narrow/"&gt;Endpoints News&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;</description>
-      <guid isPermaLink="false">b933baca0d0d4a8128b241b5c71d3a00</guid>
-      <pubDate>Thu, 09 Apr 2026 22:04:12 GMT</pubDate>
+      <guid isPermaLink="false">6f5f2fe8462e282e15b106c88fd775a3</guid>
+      <pubDate>Fri, 10 Apr 2026 22:04:53 GMT</pubDate>
     </item>
     <item>
-      <title>Gilead / Kymera Partnership (Protein Degrader)</title>
+      <title>Gilead &amp; Targeted Protein Degradation</title>
       <link>https://www.google.com</link>
       <description>&lt;ul&gt;
-  &lt;li&gt;&lt;b&gt;Summary:&lt;/b&gt; &lt;b&gt;Gilead Sciences&lt;/b&gt; has partnered with &lt;b&gt;Kymera Therapeutics&lt;/b&gt;, paying $45 million upfront for a preclinical protein degrader to enhance &lt;b&gt;Gilead&lt;/b&gt;'s oncology pipeline. The collaboration focuses on developing targeted protein degradation therapies for cancer.&lt;/li&gt;
+  &lt;li&gt;&lt;b&gt;Summary:&lt;/b&gt; &lt;b&gt;Gilead Sciences&lt;/b&gt; is advancing its research into targeted protein degradation, a novel therapeutic modality with potential applications across multiple disease areas, including oncology.&lt;/li&gt;
   &lt;li&gt;&lt;b&gt;MoAs:&lt;/b&gt; N/A&lt;/li&gt;
-  &lt;li&gt;&lt;b&gt;Sources:&lt;/b&gt; &lt;a href="https://www.fiercebiotech.com/biotech/gilead-pays-kymera-45m-glue-preclinical-protein-degrader-burgeoning-oncology-pipeline"&gt;Fierce Biotech&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;b&gt;Sources:&lt;/b&gt; &lt;a href="https://www.oncologypipeline.com/apexonco/gilead-next-target-degradation"&gt;ApexOnco&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;</description>
-      <guid isPermaLink="false">a796bd2eb3f22e27742856b2db0f9067</guid>
-      <pubDate>Thu, 09 Apr 2026 22:04:12 GMT</pubDate>
+      <guid isPermaLink="false">2db3bbafc5cacc830e71deeaa0935754</guid>
+      <pubDate>Fri, 10 Apr 2026 22:04:53 GMT</pubDate>
+    </item>
+    <item>
+      <title>Abbott Health Choices Survey</title>
+      <link>https://www.google.com</link>
+      <description>&lt;ul&gt;
+  &lt;li&gt;&lt;b&gt;Summary:&lt;/b&gt; A survey by &lt;b&gt;Abbott&lt;/b&gt; indicates that information overload, confusion, and cost are negatively affecting health choices among consumers, highlighting barriers to optimal healthcare decision-making.&lt;/li&gt;
+  &lt;li&gt;&lt;b&gt;MoAs:&lt;/b&gt; N/A&lt;/li&gt;
+  &lt;li&gt;&lt;b&gt;Sources:&lt;/b&gt; &lt;a href="https://www.fiercepharma.com/marketing/abbott-survey-finds-information-overload-confusion-and-cost-hitting-health-choices"&gt;Fierce Pharma&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;</description>
+      <guid isPermaLink="false">8fd0f996a5421fc7a43f390514d754e7</guid>
+      <pubDate>Fri, 10 Apr 2026 22:04:53 GMT</pubDate>
+    </item>
+    <item>
+      <title>Envision Healthcare Comms Hiring</title>
+      <link>https://www.google.com</link>
+      <description>&lt;ul&gt;
+  &lt;li&gt;&lt;b&gt;Summary:&lt;/b&gt; &lt;b&gt;Envision Healthcare&lt;/b&gt; has hired Nick Jones, a former alum of &lt;b&gt;ConcertAI&lt;/b&gt; and &lt;b&gt;IQVIA&lt;/b&gt;, as its new President of Medical Communications to strengthen its communications capabilities.&lt;/li&gt;
+  &lt;li&gt;&lt;b&gt;MoAs:&lt;/b&gt; N/A&lt;/li&gt;
+  &lt;li&gt;&lt;b&gt;Sources:&lt;/b&gt; &lt;a href="https://www.fiercepharma.com/marketing/envision-hires-concertai-iqvia-alum-nick-jones-its-med-comms-president"&gt;Fierce Pharma&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;</description>
+      <guid isPermaLink="false">1fbe96f0ee77076c36f8aabebd6492bb</guid>
+      <pubDate>Fri, 10 Apr 2026 22:04:53 GMT</pubDate>
+    </item>
+    <item>
+      <title>Novartis Community Health Initiatives</title>
+      <link>https://www.google.com</link>
+      <description>&lt;ul&gt;
+  &lt;li&gt;&lt;b&gt;Summary:&lt;/b&gt; &lt;b&gt;Novartis&lt;/b&gt; is expanding its community health footprint with initiatives aimed at tackling heart disease and cancer through local outreach and education programs.&lt;/li&gt;
+  &lt;li&gt;&lt;b&gt;MoAs:&lt;/b&gt; N/A&lt;/li&gt;
+  &lt;li&gt;&lt;b&gt;Sources:&lt;/b&gt; &lt;a href="https://www.fiercepharma.com/marketing/novartis-pumps-community-health-footprint-tackle-heart-disease-and-cancer"&gt;Fierce Pharma&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;</description>
+      <guid isPermaLink="false">9404b80b42764df6a83a2a0206d1534b</guid>
+      <pubDate>Fri, 10 Apr 2026 22:04:53 GMT</pubDate>
+    </item>
+    <item>
+      <title>Pharma &amp; Biotech Job Moves</title>
+      <link>https://www.google.com</link>
+      <description>&lt;ul&gt;
+  &lt;li&gt;&lt;b&gt;Summary:&lt;/b&gt; Recent personnel changes in the pharmaceutical and biotech industries include leadership and talent shifts at companies such as &lt;b&gt;Sanofi&lt;/b&gt;, &lt;b&gt;Biocryst&lt;/b&gt;, and &lt;b&gt;Zymeworks&lt;/b&gt;, reflecting ongoing corporate restructuring and strategic hires to drive innovation and growth.&lt;/li&gt;
+  &lt;li&gt;&lt;b&gt;MoAs:&lt;/b&gt; N/A&lt;/li&gt;
+  &lt;li&gt;&lt;b&gt;Sources:&lt;/b&gt; &lt;a href="https://www.statnews.com/pharmalot/2026/04/10/pharma-biotech-jobs-sanofi-biocryst-zymeworks/?utm_campaign=rss"&gt;STAT News&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;</description>
+      <guid isPermaLink="false">4a7f563e52d585fc91cb2f742807c4c9</guid>
+      <pubDate>Fri, 10 Apr 2026 22:04:53 GMT</pubDate>
     </item>
   </channel>
 </rss>
