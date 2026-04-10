@@ -6,37 +6,26 @@
     <description>News digest covering Oncology.</description>
     <atom:link href="https://www.google.com" rel="self" type="application/rss+xml"/>
     <item>
-      <title>Macrogenics Clinical Hold Lifted</title>
+      <title>Replimune RP1 Melanoma Drug FDA Rejection</title>
       <link>https://www.google.com</link>
       <description>&lt;ul&gt;
-  &lt;li&gt;&lt;b&gt;Summary:&lt;/b&gt; The &lt;b&gt;FDA&lt;/b&gt; has lifted a clinical hold on &lt;b&gt;Macrogenics&lt;/b&gt;' oncology trial, allowing the company to resume development of its antibody-based cancer therapies, while &lt;b&gt;Oxford&lt;/b&gt; and &lt;b&gt;Bristol-Myers Squibb&lt;/b&gt; announce a separate collaboration in the field.&lt;/li&gt;
-  &lt;li&gt;&lt;b&gt;MoAs:&lt;/b&gt; N/A&lt;/li&gt;
-  &lt;li&gt;&lt;b&gt;Sources:&lt;/b&gt; &lt;a href="https://endpoints.news/fda-lifts-macrogenics-hold-oxford-and-bristol-myers-team-up/"&gt;Endpoints News&lt;/a&gt;, &lt;a href="https://www.oncologypipeline.com/apexonco/timely-lift-macrogenics"&gt;ApexOnco&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;b&gt;Summary:&lt;/b&gt; &lt;b&gt;Replimune&lt;/b&gt;'s oncolytic virus therapy &lt;b&gt;RP1&lt;/b&gt; for advanced melanoma has been rejected by the FDA for a second time, based on unresolved concerns about clinical trial data. The agency cited issues with the CERPASS trial, which evaluated &lt;b&gt;RP1&lt;/b&gt; in combination with the PD-1 inhibitor &lt;b&gt;cemiplimab&lt;/b&gt; versus &lt;b&gt;cemiplimab&lt;/b&gt; alone, questioning the trial design and efficacy endpoints. This complete response letter delays approval in the competitive melanoma treatment landscape, impacting &lt;b&gt;Replimune&lt;/b&gt;'s development timeline.&lt;/li&gt;
+  &lt;li&gt;&lt;b&gt;MoAs:&lt;/b&gt; &lt;b&gt;RP1&lt;/b&gt;: Genetically engineered herpes simplex virus type 1 that selectively replicates in and lyses tumor cells, while stimulating anti-tumor immune responses.&lt;/li&gt;
+  &lt;li&gt;&lt;b&gt;Sources:&lt;/b&gt; &lt;a href="https://www.biospace.com/fda/replimunes-advanced-melanoma-drug-rebuffed-by-fda-for-second-time"&gt;Biospace&lt;/a&gt;, &lt;a href="https://www.biopharmadive.com/news/replimune-fda-reject-melanoma-rp1/816659/"&gt;Biopharmadive&lt;/a&gt;, &lt;a href="https://endpoints.news/fda-rejects-replimune-cancer-therapy-saying-company-didnt-resolve-trial-doubts/"&gt;Endpoints News&lt;/a&gt;, &lt;a href="https://www.statnews.com/2026/04/10/skin-cancer-replimune-fda-approval/?utm_campaign=rss"&gt;StatNews&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;</description>
-      <guid isPermaLink="false">d781146c2737cee33402d221053bd236</guid>
-      <pubDate>Thu, 09 Apr 2026 22:04:12 GMT</pubDate>
+      <guid isPermaLink="false">ffa66250c2d0c9082e7cbd8e0a8e2727</guid>
+      <pubDate>Fri, 10 Apr 2026 22:04:53 GMT</pubDate>
     </item>
     <item>
-      <title>Merck / TROP2</title>
+      <title>OriCell CAR-T Therapy &amp; Financing</title>
       <link>https://www.google.com</link>
       <description>&lt;ul&gt;
-  &lt;li&gt;&lt;b&gt;Summary:&lt;/b&gt; &lt;b&gt;Merck&lt;/b&gt; is making a significant strategic bet on &lt;b&gt;TROP2&lt;/b&gt;-targeting therapies, potentially including antibody-drug conjugates like &lt;b&gt;sacituzumab govitecan&lt;/b&gt;. This move aims to expand &lt;b&gt;Merck&lt;/b&gt;'s oncology portfolio in areas such as breast and lung cancers.&lt;/li&gt;
-  &lt;li&gt;&lt;b&gt;MoAs:&lt;/b&gt; TROP2-targeting antibody-drug conjugates (e.g., sacituzumab govitecan) deliver cytotoxic payloads to cancer cells expressing TROP2, inducing cell death.&lt;/li&gt;
-  &lt;li&gt;&lt;b&gt;Sources:&lt;/b&gt; &lt;a href="https://www.oncologypipeline.com/apexonco/revealed-mercks-double-bet-trop2"&gt;ApexOnco&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;b&gt;Summary:&lt;/b&gt; &lt;b&gt;OriCell&lt;/b&gt;, a China-based biotech, has raised $40 million in additional financing as it prepares for an initial public offering. The company is developing CAR-T therapies targeting glypican-3 (GPC3) for hepatocellular carcinoma (liver cancer), with the funds supporting clinical trials and expansion. This highlights growing interest in CAR-T for solid tumors and China's role in the global biopharma market.&lt;/li&gt;
+  &lt;li&gt;&lt;b&gt;MoAs:&lt;/b&gt; &lt;b&gt;OriCell CAR-T therapy&lt;/b&gt;: Chimeric antigen receptor T-cells engineered to target GPC3 on liver cancer cells, leading to targeted cell killing.&lt;/li&gt;
+  &lt;li&gt;&lt;b&gt;Sources:&lt;/b&gt; &lt;a href="https://www.biopharmadive.com/news/oricell-car-t-liver-cancer-china-ipo-financing/817199/"&gt;Biopharmadive&lt;/a&gt;, &lt;a href="https://endpoints.news/china-based-car-t-company-oricell-raises-40m-more-as-it-looks-to-go-public/"&gt;Endpoints News&lt;/a&gt;, &lt;a href="https://www.fiercebiotech.com/biotech/chinas-oricell-raises-100m-carcinoma-car-t-plans-ahead-ipo-push"&gt;Fierce Biotech&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;</description>
-      <guid isPermaLink="false">c23dd650fca98672f86656ff3fa2d20f</guid>
-      <pubDate>Thu, 09 Apr 2026 22:04:12 GMT</pubDate>
-    </item>
-    <item>
-      <title>Novartis-backed Sidewinder Therapeutics</title>
-      <link>https://www.google.com</link>
-      <description>&lt;ul&gt;
-  &lt;li&gt;&lt;b&gt;Summary:&lt;/b&gt; &lt;b&gt;Sidewinder Therapeutics&lt;/b&gt;, backed by &lt;b&gt;Novartis&lt;/b&gt;, has raised $137 million in a Series B funding round to advance therapies for difficult-to-treat tumors. The funding supports the development of innovative oncology treatments targeting resistant cancers.&lt;/li&gt;
-  &lt;li&gt;&lt;b&gt;MoAs:&lt;/b&gt; N/A&lt;/li&gt;
-  &lt;li&gt;&lt;b&gt;Sources:&lt;/b&gt; &lt;a href="https://www.biospace.com/business/novartis-backed-sidewinder-collects-137m-series-b-to-strike-at-difficult-to-treat-tumors"&gt;BioSpace&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;</description>
-      <guid isPermaLink="false">60787de9b91041e39683b10aef60ba60</guid>
-      <pubDate>Thu, 09 Apr 2026 22:04:12 GMT</pubDate>
+      <guid isPermaLink="false">ce4438e8b83887bb96df3bdd891b70eb</guid>
+      <pubDate>Fri, 10 Apr 2026 22:04:53 GMT</pubDate>
     </item>
   </channel>
 </rss>
