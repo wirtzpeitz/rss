@@ -6,92 +6,81 @@
     <description>News digest covering Industry Events.</description>
     <atom:link href="https://www.google.com" rel="self" type="application/rss+xml"/>
     <item>
-      <title>ACIP Vaccine Safety Panel Updates</title>
+      <title>Replimune - FDA Rejection (RP1)</title>
       <link>https://www.google.com</link>
       <description>&lt;ul&gt;
-  &lt;li&gt;&lt;b&gt;Summary:&lt;/b&gt; The U.S. Department of Health and Human Services has updated the charter for the &lt;b&gt;Advisory Committee on Immunization Practices (ACIP)&lt;/b&gt; to increase emphasis on vaccine safety, following legal setbacks and public discourse. The revised charter aims to enhance transparency and safety monitoring, potentially influencing future vaccine recommendations and public health policies.&lt;/li&gt;
-  &lt;li&gt;&lt;b&gt;MoAs:&lt;/b&gt; N/A&lt;/li&gt;
-  &lt;li&gt;&lt;b&gt;Sources:&lt;/b&gt; &lt;a href="https://www.fiercepharma.com/pharma/hhs-after-legal-setback-updates-acip-charter-put-more-emphasis-vaccine-safety"&gt;Fierce Pharma&lt;/a&gt;, &lt;a href="https://endpoints.news/plan-for-remade-acip-panel-adds-focus-on-vaccine-safety-matching-kennedys-push/"&gt;Endpoints News&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;b&gt;Summary:&lt;/b&gt; &lt;b&gt;Replimune&lt;/b&gt; faces a second FDA rejection for &lt;b&gt;RP1&lt;/b&gt;, an oncolytic virus therapy, citing concerns that put the company on a challenging regulatory path. The decision highlights hurdles in advancing novel cancer immunotherapies.&lt;/li&gt;
+  &lt;li&gt;&lt;b&gt;MoAs:&lt;/b&gt; RP1 is an oncolytic herpes simplex virus type 1 engineered to express GM-CSF and an anti-CTLA-4 antibody, enhancing immune activation against tumors.&lt;/li&gt;
+  &lt;li&gt;&lt;b&gt;Sources:&lt;/b&gt; &lt;a href="https://www.oncologypipeline.com/apexonco/replimunes-fight-fda-deepens"&gt;ApexOnco&lt;/a&gt;, &lt;a href="https://www.biospace.com/business/second-rejection-for-tumor-destroyer-puts-replimune-on-a-challenging-path"&gt;BioSpace&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;</description>
-      <guid isPermaLink="false">5ae31722d4085ca415f4b90fd803ce45</guid>
-      <pubDate>Fri, 10 Apr 2026 22:04:53 GMT</pubDate>
+      <guid isPermaLink="false">3901605d02e7b40c36061a4b1a1330e6</guid>
+      <pubDate>Mon, 13 Apr 2026 22:04:10 GMT</pubDate>
     </item>
     <item>
-      <title>FDA Enforcement &amp; Actions</title>
+      <title>FDA Regulatory &amp; Policy</title>
       <link>https://www.google.com</link>
       <description>&lt;ul&gt;
-  &lt;li&gt;&lt;b&gt;Summary:&lt;/b&gt; The FDA faces criticism for insufficient enforcement against illegal vaping products, per a GAO report, and has accused &lt;b&gt;Amneal&lt;/b&gt; and &lt;b&gt;BioCorRx&lt;/b&gt; of false and misleading drug promotions. Additionally, the agency is re-evaluating access to a pregnancy pill after court rulings, underscoring regulatory challenges in product oversight and compliance.&lt;/li&gt;
+  &lt;li&gt;&lt;b&gt;Summary:&lt;/b&gt; The FDA is urging clinical trial sponsors to report study results to enhance transparency, narrowing its search for a new biologics and vaccines leader, and navigating evolving regulations with associated growing pains. The &lt;b&gt;FDA&lt;/b&gt;'s Complete Response Letter (CRL) transparency policy is also noted to boost biopharma accountability.&lt;/li&gt;
   &lt;li&gt;&lt;b&gt;MoAs:&lt;/b&gt; N/A&lt;/li&gt;
-  &lt;li&gt;&lt;b&gt;Sources:&lt;/b&gt; &lt;a href="https://www.statnews.com/2026/04/10/illegal-vapes-gao-report-shows-insufficient-enforcement-fda/?utm_campaign=rss"&gt;StatNews&lt;/a&gt;, &lt;a href="https://www.fiercepharma.com/marketing/fda-accuses-amneal-biocorrx-false-and-misleading-promotions"&gt;Fierce Pharma&lt;/a&gt;, &lt;a href="https://www.biospace.com/fda/fda-probes-pregnancy-pill-anew-after-court-keeps-mail-access-alive"&gt;Biospace&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;b&gt;Sources:&lt;/b&gt; &lt;a href="https://www.fiercebiotech.com/biotech/fda-urges-clinical-trial-sponsors-report-results-their-studies"&gt;Fierce Biotech&lt;/a&gt;, &lt;a href="https://endpoints.news/fda-narrows-in-on-search-for-new-biologics-and-vaccines-leader/"&gt;Endpoints News&lt;/a&gt;, &lt;a href="https://www.biospace.com/fda/fda-flexibility-isnt-absent-but-evolving-regulations-come-with-growing-pains"&gt;BioSpace&lt;/a&gt;, &lt;a href="https://www.biospace.com/fda/fdas-crl-transparency-policy-is-boosting-biopharma-accountability"&gt;BioSpace&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;</description>
-      <guid isPermaLink="false">74e0993069e125eb213e988d45c46074</guid>
-      <pubDate>Fri, 10 Apr 2026 22:04:53 GMT</pubDate>
+      <guid isPermaLink="false">eb78c305af039e92c7b4208f47d9d7cd</guid>
+      <pubDate>Mon, 13 Apr 2026 22:04:10 GMT</pubDate>
     </item>
     <item>
-      <title>China CRISPR Therapy Competition</title>
+      <title>Medicare &amp; CMS Policy</title>
       <link>https://www.google.com</link>
       <description>&lt;ul&gt;
-  &lt;li&gt;&lt;b&gt;Summary:&lt;/b&gt; Chinese biotechs are advancing CRISPR-based gene therapies, indicating that U.S. drugmakers will face increased competition. Companies like &lt;b&gt;EdiGene&lt;/b&gt; are developing treatments for genetic disorders using CRISPR technology, potentially disrupting the global gene editing market and driving innovation.&lt;/li&gt;
+  &lt;li&gt;&lt;b&gt;Summary:&lt;/b&gt; CMS is launching a chronic care pilot program to improve access for Medicare participants, and there are developments in Medicare Advantage policies, including discussions on medical underwriting under the Trump administration.&lt;/li&gt;
   &lt;li&gt;&lt;b&gt;MoAs:&lt;/b&gt; N/A&lt;/li&gt;
-  &lt;li&gt;&lt;b&gt;Sources:&lt;/b&gt; &lt;a href="https://endpoints.news/china-biotechs-crispr-therapy-suggests-us-drugmakers-will-face-competition/"&gt;Endpoints News&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;b&gt;Sources:&lt;/b&gt; &lt;a href="https://www.statnews.com/2026/04/13/cms-access-medicare-chronic-care-pilot-program-participants/?utm_campaign=rss"&gt;STAT News&lt;/a&gt;, &lt;a href="https://www.statnews.com/2026/04/13/trump-goes-soft-on-medicare-advantage-medical-underwriting-chart/?utm_campaign=rss"&gt;STAT News&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;</description>
-      <guid isPermaLink="false">cc077163c7576cdd83f78002fd3fdea5</guid>
-      <pubDate>Fri, 10 Apr 2026 22:04:53 GMT</pubDate>
+      <guid isPermaLink="false">8243f1c5f71a4676d4051e13d63f1d7d</guid>
+      <pubDate>Mon, 13 Apr 2026 22:04:10 GMT</pubDate>
     </item>
     <item>
-      <title>USP &amp; Vulnerable Medicines Supply Chain</title>
+      <title>Supply Chain &amp; USP</title>
       <link>https://www.google.com</link>
       <description>&lt;ul&gt;
-  &lt;li&gt;&lt;b&gt;Summary:&lt;/b&gt; The &lt;b&gt;U.S. Pharmacopeia (USP)&lt;/b&gt; has flagged ongoing challenges in sourcing starting materials for vulnerable medicines, highlighting supply chain constraints that could impact drug availability and security.&lt;/li&gt;
-  &lt;li&gt;&lt;b&gt;MoAs:&lt;/b&gt; N/A&lt;/li&gt;
-  &lt;li&gt;&lt;b&gt;Sources:&lt;/b&gt; &lt;a href="https://www.fiercepharma.com/manufacturing/usp-flags-hamstrung-starting-material-sourcing-latest-us-vulnerable-medicines-update"&gt;Fierce Pharma&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;b&gt;Summary:&lt;/b&gt; The U.S. Pharmacopeia (USP) has added &lt;b&gt;Tamiflu&lt;/b&gt; (oseltamivir) and &lt;b&gt;Trulicity&lt;/b&gt; (dulaglutide) to its list of vulnerable medicines due to supply chain concerns, with upstream analysis reshaping risk assessments for these critical drugs.&lt;/li&gt;
+  &lt;li&gt;&lt;b&gt;MoAs:&lt;/b&gt; Tamiflu: Neuraminidase inhibitor for influenza. Trulicity: GLP-1 receptor agonist for type 2 diabetes.&lt;/li&gt;
+  &lt;li&gt;&lt;b&gt;Sources:&lt;/b&gt; &lt;a href="https://www.biospace.com/business/usp-adds-tamiflu-trulicity-to-vulnerable-list-as-upstream-analysis-reshapes-supply-concerns"&gt;BioSpace&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;</description>
-      <guid isPermaLink="false">728068de6bf1c4882543d4a66a79391c</guid>
-      <pubDate>Fri, 10 Apr 2026 22:04:53 GMT</pubDate>
+      <guid isPermaLink="false">aed2d8c2bae4be36f440166cc34f4336</guid>
+      <pubDate>Mon, 13 Apr 2026 22:04:10 GMT</pubDate>
     </item>
     <item>
-      <title>Pharma R&amp;D Budgets 2025</title>
+      <title>White House Policy Impact</title>
       <link>https://www.google.com</link>
       <description>&lt;ul&gt;
-  &lt;li&gt;&lt;b&gt;Summary:&lt;/b&gt; An analysis of top 10 pharmaceutical companies' R&amp;D budgets for 2025 reveals industry-wide investment trends and strategic priorities in drug development and innovation.&lt;/li&gt;
+  &lt;li&gt;&lt;b&gt;Summary:&lt;/b&gt; White House policies are raising concerns for small biotech companies, as highlighted by the CEO of &lt;b&gt;Rhythm&lt;/b&gt;, who describes them as "incredibly worrisome" for innovation and growth in the sector.&lt;/li&gt;
   &lt;li&gt;&lt;b&gt;MoAs:&lt;/b&gt; N/A&lt;/li&gt;
-  &lt;li&gt;&lt;b&gt;Sources:&lt;/b&gt; &lt;a href="https://www.fiercepharma.com/pharma/top-10-pharma-rd-budgets-2025"&gt;Fierce Pharma&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;b&gt;Sources:&lt;/b&gt; &lt;a href="https://endpoints.news/white-house-policies-are-incredibly-worrisome-for-small-biotechs-rhythm-ceo-says/"&gt;Endpoints News&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;</description>
-      <guid isPermaLink="false">3ae8d0da4e0180102f9085307f5c8e25</guid>
-      <pubDate>Fri, 10 Apr 2026 22:04:53 GMT</pubDate>
+      <guid isPermaLink="false">2c255ff0be77fdd2756374030b14041f</guid>
+      <pubDate>Mon, 13 Apr 2026 22:04:10 GMT</pubDate>
     </item>
     <item>
-      <title>Venture Capital Investment Trends</title>
+      <title>Sponsored Content</title>
       <link>https://www.google.com</link>
       <description>&lt;ul&gt;
-  &lt;li&gt;&lt;b&gt;Summary:&lt;/b&gt; After years of focusing primarily on their existing portfolios, venture capital firms in the biotech sector are now ramping up investments in new companies, indicating a strategic shift towards fresh opportunities and increased funding for early-stage innovations.&lt;/li&gt;
+  &lt;li&gt;&lt;b&gt;Summary:&lt;/b&gt; Sponsored content explores strategies for rethinking dermatology trial design to achieve late-stage success and discusses how connected medical devices are enabling smarter, more personalized healthcare delivery.&lt;/li&gt;
   &lt;li&gt;&lt;b&gt;MoAs:&lt;/b&gt; N/A&lt;/li&gt;
-  &lt;li&gt;&lt;b&gt;Sources:&lt;/b&gt; &lt;a href="https://endpoints.news/biotech-vcs-ramp-up-checks-on-new-bets-after-years-of-focusing-on-existing-portfolios/"&gt;Endpoints News&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;b&gt;Sources:&lt;/b&gt; &lt;a href="https://www.biopharmadive.com/spons/rethinking-dermatology-trial-design-for-late-stage-success/816592/"&gt;BioPharma Dive&lt;/a&gt;, &lt;a href="https://www.biopharmadive.com/spons/connected-medical-devices-smarter-care-starts-here/816854/"&gt;BioPharma Dive&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;</description>
-      <guid isPermaLink="false">4753645209741d91006ad30b6df48f89</guid>
-      <pubDate>Fri, 10 Apr 2026 22:04:53 GMT</pubDate>
+      <guid isPermaLink="false">e3bd990474a9c15048cdd206a4d66457</guid>
+      <pubDate>Mon, 13 Apr 2026 22:04:10 GMT</pubDate>
     </item>
     <item>
-      <title>AI in Pharma Data Alignment (Opinion)</title>
+      <title>FDA Leadership</title>
       <link>https://www.google.com</link>
       <description>&lt;ul&gt;
-  &lt;li&gt;&lt;b&gt;Summary:&lt;/b&gt; An opinion piece emphasizes that for artificial intelligence to have a meaningful impact on drug development, the pharmaceutical industry must prioritize alignment on data standards, interoperability, and shared frameworks to overcome fragmentation and enable effective AI-driven solutions.&lt;/li&gt;
+  &lt;li&gt;&lt;b&gt;Summary:&lt;/b&gt; There is ongoing coverage regarding the replacement for Vinay Prasad in the &lt;b&gt;FDA&lt;/b&gt;'s Center for Biologics Evaluation and Research (CBER), highlighting leadership changes within the regulatory agency.&lt;/li&gt;
   &lt;li&gt;&lt;b&gt;MoAs:&lt;/b&gt; N/A&lt;/li&gt;
-  &lt;li&gt;&lt;b&gt;Sources:&lt;/b&gt; &lt;a href="https://www.biospace.com/drug-development/opinion-for-ai-to-have-impact-the-industry-must-align-on-data"&gt;BioSpace&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;b&gt;Sources:&lt;/b&gt; &lt;a href="https://www.statnews.com/2026/04/13/vinay-prasad-replacement-fda-cber/?utm_campaign=rss"&gt;STAT News&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;</description>
-      <guid isPermaLink="false">f745d699c84a6306c4f39b6e2fa7db86</guid>
-      <pubDate>Fri, 10 Apr 2026 22:04:53 GMT</pubDate>
-    </item>
-    <item>
-      <title>CMS &amp; Healthcare Fraud</title>
-      <link>https://www.google.com</link>
-      <description>&lt;ul&gt;
-  &lt;li&gt;&lt;b&gt;Summary:&lt;/b&gt; The Centers for Medicare &amp; Medicaid Services (CMS) has acknowledged a mistake in fraud accusations against New York healthcare providers, underscoring the complexities and potential errors in regulatory oversight and fraud detection within the healthcare system.&lt;/li&gt;
-  &lt;li&gt;&lt;b&gt;MoAs:&lt;/b&gt; N/A&lt;/li&gt;
-  &lt;li&gt;&lt;b&gt;Sources:&lt;/b&gt; &lt;a href="https://www.statnews.com/2026/04/10/new-york-health-care-fraud-accusations-cms-admits-mistake/?utm_campaign=rss"&gt;STAT News&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;</description>
-      <guid isPermaLink="false">6d3a0e36a6a9c83c3ce423c8b2472fa9</guid>
-      <pubDate>Fri, 10 Apr 2026 22:04:53 GMT</pubDate>
+      <guid isPermaLink="false">95c926fd090164883b3d9b74d64dd5a6</guid>
+      <pubDate>Mon, 13 Apr 2026 22:04:10 GMT</pubDate>
     </item>
   </channel>
 </rss>
