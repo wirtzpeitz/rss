@@ -6,15 +6,15 @@
     <description>News digest covering Other.</description>
     <atom:link href="https://www.google.com" rel="self" type="application/rss+xml"/>
     <item>
-      <title>Public Health Communication</title>
+      <title>General Health &amp; Tech News</title>
       <link>https://www.google.com</link>
       <description>&lt;ul&gt;
-  &lt;li&gt;&lt;b&gt;Summary:&lt;/b&gt; This theme explores the contentious figure of activist Maha, described as a public health enemy, and discusses the critical role of storytelling in enhancing public health communication, highlighting how narratives can influence public engagement and perception in health crises.&lt;/li&gt;
+  &lt;li&gt;&lt;b&gt;Summary:&lt;/b&gt; News covers health topics such as the link between erectile dysfunction and increased risks of cardiovascular disease and dementia, hospitals implementing chatbots to enhance patient engagement, and advancements in modular bioreactors that are redefining manufacturing capacity and strategies in bioprocessing.&lt;/li&gt;
   &lt;li&gt;&lt;b&gt;MoAs:&lt;/b&gt; N/A&lt;/li&gt;
-  &lt;li&gt;&lt;b&gt;Sources:&lt;/b&gt; &lt;a href="https://www.statnews.com/2026/04/10/maha-activist-public-health-enemy/?utm_campaign=rss"&gt;STAT News&lt;/a&gt;, &lt;a href="https://www.statnews.com/2026/04/10/public-health-maha-communication-storytelling/?utm_campaign=rss"&gt;STAT News&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;b&gt;Sources:&lt;/b&gt; &lt;a href="https://www.statnews.com/2026/04/13/erectile-dysfunction-cardiovascular-disease-dementia-risk/?utm_campaign=rss"&gt;STAT News&lt;/a&gt;, &lt;a href="https://www.statnews.com/2026/04/13/hospitals-launch-chatbots-creating-new-funnel-for-patients/?utm_campaign=rss"&gt;STAT News&lt;/a&gt;, &lt;a href="https://www.biospace.com/drug-delivery/your-scale-your-terms-how-modular-bioreactors-are-redefining-capacity-manufacturing-strategies"&gt;BioSpace&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;</description>
-      <guid isPermaLink="false">a9e00328d946d2a907d1823f892c998e</guid>
-      <pubDate>Fri, 10 Apr 2026 22:04:53 GMT</pubDate>
+      <guid isPermaLink="false">4a199b95b1c75d42765e6b4c8d7ab1da</guid>
+      <pubDate>Mon, 13 Apr 2026 22:04:10 GMT</pubDate>
     </item>
   </channel>
 </rss>
