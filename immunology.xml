@@ -6,15 +6,15 @@
     <description>News digest covering Immunology.</description>
     <atom:link href="https://www.google.com" rel="self" type="application/rss+xml"/>
     <item>
-      <title>CAR-T Therapy for Autoimmune Diseases</title>
+      <title>Spyre Therapeutics - IBD Drug (SPY-201)</title>
       <link>https://www.google.com</link>
       <description>&lt;ul&gt;
-  &lt;li&gt;&lt;b&gt;Summary:&lt;/b&gt; &lt;b&gt;CAR-T therapy&lt;/b&gt; is making significant strides in treating autoimmune diseases, with clinical advances demonstrating durable remission by selectively depleting pathogenic B cells or other immune cells involved in autoimmunity.&lt;/li&gt;
-  &lt;li&gt;&lt;b&gt;MoAs:&lt;/b&gt; CAR-T therapy involves engineering patient T cells to express chimeric antigen receptors targeting specific antigens (e.g., CD19 on B cells), leading to targeted cell lysis and modulation of autoimmune responses.&lt;/li&gt;
-  &lt;li&gt;&lt;b&gt;Sources:&lt;/b&gt; &lt;a href="https://www.statnews.com/2026/04/09/autoimmune-diseases-car-t-therapy-advances/?utm_campaign=rss"&gt;STAT News&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;b&gt;Summary:&lt;/b&gt; &lt;b&gt;SPY-201&lt;/b&gt;, an inflammatory bowel disease drug from &lt;b&gt;Spyre Therapeutics&lt;/b&gt;, shows efficacy in a Phase 2 trial for ulcerative colitis, with data suggesting it could compete with existing therapies like &lt;b&gt;Takeda&lt;/b&gt;'s Entyvio. The win provides proof-of-concept for its mechanism.&lt;/li&gt;
+  &lt;li&gt;&lt;b&gt;MoAs:&lt;/b&gt; SPY-201 is an anti-α4β7 integrin monoclonal antibody, blocking lymphocyte trafficking to the gut to reduce inflammation.&lt;/li&gt;
+  &lt;li&gt;&lt;b&gt;Sources:&lt;/b&gt; &lt;a href="https://www.biopharmadive.com/news/spyre-inflammatory-bowel-disease-drug-results-a4b7/817298/"&gt;BioPharma Dive&lt;/a&gt;, &lt;a href="https://endpoints.news/neomorph-raises-100m-for-molecular-glues-spyres-ulcerative-colitis-data/"&gt;Endpoints News&lt;/a&gt;, &lt;a href="https://www.fiercebiotech.com/biotech/spyre-points-phase-2-win-ulcerative-colitis-drug-proof-it-could-take-takedas-entyvio"&gt;Fierce Biotech&lt;/a&gt;, &lt;a href="https://www.statnews.com/2026/04/13/spyre-ibd-drug-success-early-trial/?utm_campaign=rss"&gt;STAT News&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;</description>
-      <guid isPermaLink="false">6ebe1588023eb464006dc61b442b5cb0</guid>
-      <pubDate>Thu, 09 Apr 2026 22:04:12 GMT</pubDate>
+      <guid isPermaLink="false">81efc6d41b515f7eeace4963991a7a10</guid>
+      <pubDate>Mon, 13 Apr 2026 22:04:10 GMT</pubDate>
     </item>
   </channel>
 </rss>
