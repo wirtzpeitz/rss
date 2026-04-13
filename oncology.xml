@@ -6,26 +6,59 @@
     <description>News digest covering Oncology.</description>
     <atom:link href="https://www.google.com" rel="self" type="application/rss+xml"/>
     <item>
-      <title>Replimune RP1 Melanoma Drug FDA Rejection</title>
+      <title>Allogene Therapeutics - Allogeneic CAR-T (Cema-cel)</title>
       <link>https://www.google.com</link>
       <description>&lt;ul&gt;
-  &lt;li&gt;&lt;b&gt;Summary:&lt;/b&gt; &lt;b&gt;Replimune&lt;/b&gt;'s oncolytic virus therapy &lt;b&gt;RP1&lt;/b&gt; for advanced melanoma has been rejected by the FDA for a second time, based on unresolved concerns about clinical trial data. The agency cited issues with the CERPASS trial, which evaluated &lt;b&gt;RP1&lt;/b&gt; in combination with the PD-1 inhibitor &lt;b&gt;cemiplimab&lt;/b&gt; versus &lt;b&gt;cemiplimab&lt;/b&gt; alone, questioning the trial design and efficacy endpoints. This complete response letter delays approval in the competitive melanoma treatment landscape, impacting &lt;b&gt;Replimune&lt;/b&gt;'s development timeline.&lt;/li&gt;
-  &lt;li&gt;&lt;b&gt;MoAs:&lt;/b&gt; &lt;b&gt;RP1&lt;/b&gt;: Genetically engineered herpes simplex virus type 1 that selectively replicates in and lyses tumor cells, while stimulating anti-tumor immune responses.&lt;/li&gt;
-  &lt;li&gt;&lt;b&gt;Sources:&lt;/b&gt; &lt;a href="https://www.biospace.com/fda/replimunes-advanced-melanoma-drug-rebuffed-by-fda-for-second-time"&gt;Biospace&lt;/a&gt;, &lt;a href="https://www.biopharmadive.com/news/replimune-fda-reject-melanoma-rp1/816659/"&gt;Biopharmadive&lt;/a&gt;, &lt;a href="https://endpoints.news/fda-rejects-replimune-cancer-therapy-saying-company-didnt-resolve-trial-doubts/"&gt;Endpoints News&lt;/a&gt;, &lt;a href="https://www.statnews.com/2026/04/10/skin-cancer-replimune-fda-approval/?utm_campaign=rss"&gt;StatNews&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;b&gt;Summary:&lt;/b&gt; Early data for &lt;b&gt;Cema-cel&lt;/b&gt;, an allogeneic CAR-T therapy from &lt;b&gt;Allogene Therapeutics&lt;/b&gt;, demonstrates efficacy in eliminating residual lymphoma cells in patients with B-cell lymphoma. The off-the-shelf approach shows promise in early-phase studies, potentially addressing limitations of autologous CAR-T, with key wins reported in clearing lingering cancer cells.&lt;/li&gt;
+  &lt;li&gt;&lt;b&gt;MoAs:&lt;/b&gt; Cema-cel is a chimeric antigen receptor T-cell therapy targeting CD19, engineered to recognize and kill CD19-positive B-cells.&lt;/li&gt;
+  &lt;li&gt;&lt;b&gt;Sources:&lt;/b&gt; &lt;a href="https://www.biopharmadive.com/news/allogene-cema-cel-allogeneic-lymphoma-data/817316/"&gt;BioPharma Dive&lt;/a&gt;, &lt;a href="https://www.oncologypipeline.com/apexonco/allogene-finds-way-forward-allogeneic-car-t"&gt;ApexOnco&lt;/a&gt;, &lt;a href="https://endpoints.news/allogenes-first-cut-of-data-on-off-the-shelf-car-t-shows-promise/"&gt;Endpoints News&lt;/a&gt;, &lt;a href="https://www.biospace.com/drug-development/allogene-stock-sails-after-car-t-clears-residual-lymphoma-in-early-data-cut"&gt;BioSpace&lt;/a&gt;, &lt;a href="https://www.fiercebiotech.com/biotech/allogenes-shelf-car-t-erases-lingering-lymphoma-cells-key-early-win"&gt;Fierce Biotech&lt;/a&gt;, &lt;a href="https://www.statnews.com/2026/04/13/allogene-therapeutics-car-t-treatment-eliminates-cancer-cells-b-cell-lymphoma/?utm_campaign=rss"&gt;STAT News&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;</description>
-      <guid isPermaLink="false">ffa66250c2d0c9082e7cbd8e0a8e2727</guid>
-      <pubDate>Fri, 10 Apr 2026 22:04:53 GMT</pubDate>
+      <guid isPermaLink="false">8bea94285595c2caacc8107b752eb809</guid>
+      <pubDate>Mon, 13 Apr 2026 22:04:10 GMT</pubDate>
     </item>
     <item>
-      <title>OriCell CAR-T Therapy &amp; Financing</title>
+      <title>Revolution Medicines - Pancreatic Cancer RAS Drug (RMC-6236)</title>
       <link>https://www.google.com</link>
       <description>&lt;ul&gt;
-  &lt;li&gt;&lt;b&gt;Summary:&lt;/b&gt; &lt;b&gt;OriCell&lt;/b&gt;, a China-based biotech, has raised $40 million in additional financing as it prepares for an initial public offering. The company is developing CAR-T therapies targeting glypican-3 (GPC3) for hepatocellular carcinoma (liver cancer), with the funds supporting clinical trials and expansion. This highlights growing interest in CAR-T for solid tumors and China's role in the global biopharma market.&lt;/li&gt;
-  &lt;li&gt;&lt;b&gt;MoAs:&lt;/b&gt; &lt;b&gt;OriCell CAR-T therapy&lt;/b&gt;: Chimeric antigen receptor T-cells engineered to target GPC3 on liver cancer cells, leading to targeted cell killing.&lt;/li&gt;
-  &lt;li&gt;&lt;b&gt;Sources:&lt;/b&gt; &lt;a href="https://www.biopharmadive.com/news/oricell-car-t-liver-cancer-china-ipo-financing/817199/"&gt;Biopharmadive&lt;/a&gt;, &lt;a href="https://endpoints.news/china-based-car-t-company-oricell-raises-40m-more-as-it-looks-to-go-public/"&gt;Endpoints News&lt;/a&gt;, &lt;a href="https://www.fiercebiotech.com/biotech/chinas-oricell-raises-100m-carcinoma-car-t-plans-ahead-ipo-push"&gt;Fierce Biotech&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;b&gt;Summary:&lt;/b&gt; &lt;b&gt;RMC-6236&lt;/b&gt;, a RAS inhibitor from &lt;b&gt;Revolution Medicines&lt;/b&gt;, achieves positive results in a Phase 3 trial for pancreatic cancer, doubling survival time and hitting key survival goals. The drug's success marks a significant advancement in targeting KRAS mutations.&lt;/li&gt;
+  &lt;li&gt;&lt;b&gt;MoAs:&lt;/b&gt; RMC-6236 is a RAS(ON) multi-selective inhibitor that covalently binds to active KRAS mutants, blocking downstream signaling pathways.&lt;/li&gt;
+  &lt;li&gt;&lt;b&gt;Sources:&lt;/b&gt; &lt;a href="https://www.biopharmadive.com/news/revolution-pancreatic-cancer-ras-drug-results/817300/"&gt;BioPharma Dive&lt;/a&gt;, &lt;a href="https://www.oncologypipeline.com/apexonco/revolution-beats-expectations"&gt;ApexOnco&lt;/a&gt;, &lt;a href="https://www.biospace.com/drug-development/revolution-rises-40-as-pancreatic-cancer-drug-doubles-survival"&gt;BioSpace&lt;/a&gt;, &lt;a href="https://www.statnews.com/pharmalot/2026/04/13/revolution-pancreatic-cancer-pill-fda-rejects-replimune-cancer-drug/?utm_campaign=rss"&gt;STAT News&lt;/a&gt;, &lt;a href="https://www.fiercebiotech.com/biotech/revolutions-much-hyped-ras-inhibitor-hits-key-survival-goals-phase-3-pancreatic-cancer"&gt;Fierce Biotech&lt;/a&gt;, &lt;a href="https://endpoints.news/revolution-medicines-pancreatic-cancer-drug-doubles-survival-time-in-phase-3/"&gt;Endpoints News&lt;/a&gt;, &lt;a href="https://www.statnews.com/2026/04/13/revolution-medicines-successful-treatment-pancreatic-cancer-daily-pill/?utm_campaign=rss"&gt;STAT News&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;</description>
-      <guid isPermaLink="false">ce4438e8b83887bb96df3bdd891b70eb</guid>
-      <pubDate>Fri, 10 Apr 2026 22:04:53 GMT</pubDate>
+      <guid isPermaLink="false">42968d639563b8886200c6466181f2ba</guid>
+      <pubDate>Mon, 13 Apr 2026 22:04:10 GMT</pubDate>
+    </item>
+    <item>
+      <title>BioNTech/DualityBio - HER2 ADC (BNT323/DB-1303)</title>
+      <link>https://www.google.com</link>
+      <description>&lt;ul&gt;
+  &lt;li&gt;&lt;b&gt;Summary:&lt;/b&gt; &lt;b&gt;BNT323/DB-1303&lt;/b&gt;, a HER2-targeted antibody-drug conjugate from &lt;b&gt;BioNTech&lt;/b&gt; and &lt;b&gt;DualityBio&lt;/b&gt;, demonstrates clinically meaningful efficacy in a Phase 2 endometrial cancer trial, with plans for an FDA filing. The data supports its potential in competitive tumor types.&lt;/li&gt;
+  &lt;li&gt;&lt;b&gt;MoAs:&lt;/b&gt; BNT323/DB-1303 is an antibody-drug conjugate targeting HER2, delivering a topoisomerase I inhibitor payload to induce DNA damage in cancer cells.&lt;/li&gt;
+  &lt;li&gt;&lt;b&gt;Sources:&lt;/b&gt; &lt;a href="https://www.biospace.com/drug-development/biontech-dualitybio-tout-clinically-meaningful-efficacy-for-adc-in-mid-stage-endometrial-cancer-trial"&gt;BioSpace&lt;/a&gt;, &lt;a href="https://endpoints.news/biontechs-her2-adc-succeeds-in-phase-2-study-fda-filing-planned/"&gt;Endpoints News&lt;/a&gt;, &lt;a href="https://www.oncologypipeline.com/apexonco/sgo-2026-biontechs-enhertu-me-too-comes-short"&gt;ApexOnco&lt;/a&gt;, &lt;a href="https://www.fiercebiotech.com/biotech/biontech-synox-plot-paths-fda-trials-hit-goals-competitive-tumor-types"&gt;Fierce Biotech&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;</description>
+      <guid isPermaLink="false">c181957e0d1b8289c9338224c7dfde43</guid>
+      <pubDate>Mon, 13 Apr 2026 22:04:10 GMT</pubDate>
+    </item>
+    <item>
+      <title>Eli Lilly - Jaypirca (Pirtobrutinib) in CLL</title>
+      <link>https://www.google.com</link>
+      <description>&lt;ul&gt;
+  &lt;li&gt;&lt;b&gt;Summary:&lt;/b&gt; &lt;b&gt;Jaypirca&lt;/b&gt; (pirtobrutinib) from &lt;b&gt;Eli Lilly&lt;/b&gt; demonstrates efficacy in a fixed-duration Phase 3 trial for chronic lymphocytic leukemia (CLL), showing power as a next-generation BTK inhibitor with potential in refractory settings.&lt;/li&gt;
+  &lt;li&gt;&lt;b&gt;MoAs:&lt;/b&gt; Pirtobrutinib is a reversible, non-covalent Bruton's tyrosine kinase (BTK) inhibitor, blocking B-cell receptor signaling in cancer cells.&lt;/li&gt;
+  &lt;li&gt;&lt;b&gt;Sources:&lt;/b&gt; &lt;a href="https://www.fiercepharma.com/pharma/lillys-jaypirca-shows-fixed-duration-power-ambitious-phase-3-cll-trial-win"&gt;Fierce Pharma&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;</description>
+      <guid isPermaLink="false">81424b33492fb1c9364ae9fc82d2dc3c</guid>
+      <pubDate>Mon, 13 Apr 2026 22:04:10 GMT</pubDate>
+    </item>
+    <item>
+      <title>GSK - Gynecological Cancer ADC (B7-H4)</title>
+      <link>https://www.google.com</link>
+      <description>&lt;ul&gt;
+  &lt;li&gt;&lt;b&gt;Summary:&lt;/b&gt; &lt;b&gt;GSK&lt;/b&gt; plans five Phase 3 studies for its B7-H4-targeted antibody-drug conjugate in gynecological cancers, following positive data that bucks the trend in this competitive field. The ADC, licensed from Hansoh, aims to address unmet needs in ovarian and other cancers.&lt;/li&gt;
+  &lt;li&gt;&lt;b&gt;MoAs:&lt;/b&gt; B7-H4 ADC is an antibody-drug conjugate targeting the B7-H4 protein, delivering a microtubule-disrupting agent to induce cell death in cancer cells.&lt;/li&gt;
+  &lt;li&gt;&lt;b&gt;Sources:&lt;/b&gt; &lt;a href="https://www.oncologypipeline.com/apexonco/sgo-2026-gsk-bucks-b7-h4-trend"&gt;ApexOnco&lt;/a&gt;, &lt;a href="https://endpoints.news/gsk-plans-five-phase-3-studies-for-gynecological-cancer-adc-from-hansoh/"&gt;Endpoints News&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;</description>
+      <guid isPermaLink="false">19ddda05112a323914a63e4639cb4d52</guid>
+      <pubDate>Mon, 13 Apr 2026 22:04:10 GMT</pubDate>
     </item>
   </channel>
 </rss>
