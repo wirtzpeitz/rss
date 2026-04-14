@@ -6,81 +6,48 @@
     <description>News digest covering Industry Events.</description>
     <atom:link href="https://www.google.com" rel="self" type="application/rss+xml"/>
     <item>
-      <title>Replimune - FDA Rejection (RP1)</title>
+      <title>Novo Nordisk &amp; OpenAI AI Partnership</title>
       <link>https://www.google.com</link>
       <description>&lt;ul&gt;
-  &lt;li&gt;&lt;b&gt;Summary:&lt;/b&gt; &lt;b&gt;Replimune&lt;/b&gt; faces a second FDA rejection for &lt;b&gt;RP1&lt;/b&gt;, an oncolytic virus therapy, citing concerns that put the company on a challenging regulatory path. The decision highlights hurdles in advancing novel cancer immunotherapies.&lt;/li&gt;
-  &lt;li&gt;&lt;b&gt;MoAs:&lt;/b&gt; RP1 is an oncolytic herpes simplex virus type 1 engineered to express GM-CSF and an anti-CTLA-4 antibody, enhancing immune activation against tumors.&lt;/li&gt;
-  &lt;li&gt;&lt;b&gt;Sources:&lt;/b&gt; &lt;a href="https://www.oncologypipeline.com/apexonco/replimunes-fight-fda-deepens"&gt;ApexOnco&lt;/a&gt;, &lt;a href="https://www.biospace.com/business/second-rejection-for-tumor-destroyer-puts-replimune-on-a-challenging-path"&gt;BioSpace&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;</description>
-      <guid isPermaLink="false">3901605d02e7b40c36061a4b1a1330e6</guid>
-      <pubDate>Mon, 13 Apr 2026 22:04:10 GMT</pubDate>
-    </item>
-    <item>
-      <title>FDA Regulatory &amp; Policy</title>
-      <link>https://www.google.com</link>
-      <description>&lt;ul&gt;
-  &lt;li&gt;&lt;b&gt;Summary:&lt;/b&gt; The FDA is urging clinical trial sponsors to report study results to enhance transparency, narrowing its search for a new biologics and vaccines leader, and navigating evolving regulations with associated growing pains. The &lt;b&gt;FDA&lt;/b&gt;'s Complete Response Letter (CRL) transparency policy is also noted to boost biopharma accountability.&lt;/li&gt;
+  &lt;li&gt;&lt;b&gt;Summary:&lt;/b&gt; &lt;b&gt;Novo Nordisk&lt;/b&gt; has partnered with &lt;b&gt;OpenAI&lt;/b&gt; to integrate artificial intelligence across its research and development, manufacturing, and corporate functions. This move is part of a broader industry trend towards AI adoption in biopharma.&lt;/li&gt;
   &lt;li&gt;&lt;b&gt;MoAs:&lt;/b&gt; N/A&lt;/li&gt;
-  &lt;li&gt;&lt;b&gt;Sources:&lt;/b&gt; &lt;a href="https://www.fiercebiotech.com/biotech/fda-urges-clinical-trial-sponsors-report-results-their-studies"&gt;Fierce Biotech&lt;/a&gt;, &lt;a href="https://endpoints.news/fda-narrows-in-on-search-for-new-biologics-and-vaccines-leader/"&gt;Endpoints News&lt;/a&gt;, &lt;a href="https://www.biospace.com/fda/fda-flexibility-isnt-absent-but-evolving-regulations-come-with-growing-pains"&gt;BioSpace&lt;/a&gt;, &lt;a href="https://www.biospace.com/fda/fdas-crl-transparency-policy-is-boosting-biopharma-accountability"&gt;BioSpace&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;b&gt;Sources:&lt;/b&gt; &lt;a href="https://www.biopharmadive.com/news/novo-openai-regeneron-radiopharmaceuticals-ideaya-neomorph-gsk/817278/"&gt;BioPharma Dive&lt;/a&gt;, &lt;a href="https://www.fiercepharma.com/pharma/novo-taps-openai-deploy-ai-across-rd-manufacturing-and-corporate-functions"&gt;Fierce Pharma&lt;/a&gt;, &lt;a href="https://www.statnews.com/pharmalot/2026/04/14/fda-push-clinical-trial-transparency-novo-nordisk-openai-deal/?utm_campaign=rss"&gt;STAT News&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;</description>
-      <guid isPermaLink="false">eb78c305af039e92c7b4208f47d9d7cd</guid>
-      <pubDate>Mon, 13 Apr 2026 22:04:10 GMT</pubDate>
+      <guid isPermaLink="false">bcc23929c901a245e0c97f6f046fb5be</guid>
+      <pubDate>Tue, 14 Apr 2026 22:05:06 GMT</pubDate>
     </item>
     <item>
-      <title>Medicare &amp; CMS Policy</title>
+      <title>FDA Clinical Trial Transparency Push</title>
       <link>https://www.google.com</link>
       <description>&lt;ul&gt;
-  &lt;li&gt;&lt;b&gt;Summary:&lt;/b&gt; CMS is launching a chronic care pilot program to improve access for Medicare participants, and there are developments in Medicare Advantage policies, including discussions on medical underwriting under the Trump administration.&lt;/li&gt;
+  &lt;li&gt;&lt;b&gt;Summary:&lt;/b&gt; The FDA is ramping up its push for clinical trial transparency, asking over 2,200 drug developers to make trial results public. This initiative aims to increase data availability and improve research integrity.&lt;/li&gt;
   &lt;li&gt;&lt;b&gt;MoAs:&lt;/b&gt; N/A&lt;/li&gt;
-  &lt;li&gt;&lt;b&gt;Sources:&lt;/b&gt; &lt;a href="https://www.statnews.com/2026/04/13/cms-access-medicare-chronic-care-pilot-program-participants/?utm_campaign=rss"&gt;STAT News&lt;/a&gt;, &lt;a href="https://www.statnews.com/2026/04/13/trump-goes-soft-on-medicare-advantage-medical-underwriting-chart/?utm_campaign=rss"&gt;STAT News&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;b&gt;Sources:&lt;/b&gt; &lt;a href="https://www.statnews.com/2026/04/14/biotech-news-fda-pressures-drugmakers-to-report-trial-results/?utm_campaign=rss"&gt;STAT News&lt;/a&gt;, &lt;a href="https://www.biospace.com/fda/fda-asks-2-200-drug-developers-to-make-trial-results-public-ramping-up-transparency-push"&gt;BioSpace&lt;/a&gt;, &lt;a href="https://www.statnews.com/pharmalot/2026/04/13/fda-nudges-drugmakers-report-missing-clinical-trial-data/?utm_campaign=rss"&gt;STAT News&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;</description>
-      <guid isPermaLink="false">8243f1c5f71a4676d4051e13d63f1d7d</guid>
-      <pubDate>Mon, 13 Apr 2026 22:04:10 GMT</pubDate>
+      <guid isPermaLink="false">2d073808bc0ccd826d4dc1e2337249b0</guid>
+      <pubDate>Tue, 14 Apr 2026 22:05:06 GMT</pubDate>
     </item>
     <item>
-      <title>Supply Chain &amp; USP</title>
+      <title>FDA Regulatory &amp; Safety Guidance</title>
       <link>https://www.google.com</link>
       <description>&lt;ul&gt;
-  &lt;li&gt;&lt;b&gt;Summary:&lt;/b&gt; The U.S. Pharmacopeia (USP) has added &lt;b&gt;Tamiflu&lt;/b&gt; (oseltamivir) and &lt;b&gt;Trulicity&lt;/b&gt; (dulaglutide) to its list of vulnerable medicines due to supply chain concerns, with upstream analysis reshaping risk assessments for these critical drugs.&lt;/li&gt;
-  &lt;li&gt;&lt;b&gt;MoAs:&lt;/b&gt; Tamiflu: Neuraminidase inhibitor for influenza. Trulicity: GLP-1 receptor agonist for type 2 diabetes.&lt;/li&gt;
-  &lt;li&gt;&lt;b&gt;Sources:&lt;/b&gt; &lt;a href="https://www.biospace.com/business/usp-adds-tamiflu-trulicity-to-vulnerable-list-as-upstream-analysis-reshapes-supply-concerns"&gt;BioSpace&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;b&gt;Summary:&lt;/b&gt; The FDA has bolstered its framework for bespoke therapies with new draft safety guidelines, while also rebuking &lt;b&gt;Pfizer&lt;/b&gt; for misleading advertisements for &lt;b&gt;Adcetris (brentuximab vedotin)&lt;/b&gt; on Facebook.&lt;/li&gt;
+  &lt;li&gt;&lt;b&gt;MoAs:&lt;/b&gt; &lt;b&gt;Adcetris (brentuximab vedotin)&lt;/b&gt;: anti-CD30 monoclonal antibody conjugated to monomethyl auristatin E (MMAE), a microtubule disruptor.&lt;/li&gt;
+  &lt;li&gt;&lt;b&gt;Sources:&lt;/b&gt; &lt;a href="https://www.biospace.com/drug-development/fda-bolsters-bespoke-therapy-framework-with-new-draft-safety-guidelines"&gt;BioSpace&lt;/a&gt;, &lt;a href="https://www.fiercepharma.com/marketing/pfizer-rebuked-fda-misleading-adcetris-ads-facebook"&gt;Fierce Pharma&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;</description>
-      <guid isPermaLink="false">aed2d8c2bae4be36f440166cc34f4336</guid>
-      <pubDate>Mon, 13 Apr 2026 22:04:10 GMT</pubDate>
+      <guid isPermaLink="false">223405169f82a0f9f7ee6e70763ef8fa</guid>
+      <pubDate>Tue, 14 Apr 2026 22:05:06 GMT</pubDate>
     </item>
     <item>
-      <title>White House Policy Impact</title>
+      <title>Maryland Drug Price Cap</title>
       <link>https://www.google.com</link>
       <description>&lt;ul&gt;
-  &lt;li&gt;&lt;b&gt;Summary:&lt;/b&gt; White House policies are raising concerns for small biotech companies, as highlighted by the CEO of &lt;b&gt;Rhythm&lt;/b&gt;, who describes them as "incredibly worrisome" for innovation and growth in the sector.&lt;/li&gt;
+  &lt;li&gt;&lt;b&gt;Summary:&lt;/b&gt; Maryland's drug affordability board has implemented its first price cap on a diabetes medicine, marking a state-level policy shift to control prescription drug costs and improve access.&lt;/li&gt;
   &lt;li&gt;&lt;b&gt;MoAs:&lt;/b&gt; N/A&lt;/li&gt;
-  &lt;li&gt;&lt;b&gt;Sources:&lt;/b&gt; &lt;a href="https://endpoints.news/white-house-policies-are-incredibly-worrisome-for-small-biotechs-rhythm-ceo-says/"&gt;Endpoints News&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;b&gt;Sources:&lt;/b&gt; &lt;a href="https://www.statnews.com/pharmalot/2026/04/13/maryland-affordability-board-sets-first-price-cap-diabetes-medicine/?utm_campaign=rss"&gt;STAT News&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;</description>
-      <guid isPermaLink="false">2c255ff0be77fdd2756374030b14041f</guid>
-      <pubDate>Mon, 13 Apr 2026 22:04:10 GMT</pubDate>
-    </item>
-    <item>
-      <title>Sponsored Content</title>
-      <link>https://www.google.com</link>
-      <description>&lt;ul&gt;
-  &lt;li&gt;&lt;b&gt;Summary:&lt;/b&gt; Sponsored content explores strategies for rethinking dermatology trial design to achieve late-stage success and discusses how connected medical devices are enabling smarter, more personalized healthcare delivery.&lt;/li&gt;
-  &lt;li&gt;&lt;b&gt;MoAs:&lt;/b&gt; N/A&lt;/li&gt;
-  &lt;li&gt;&lt;b&gt;Sources:&lt;/b&gt; &lt;a href="https://www.biopharmadive.com/spons/rethinking-dermatology-trial-design-for-late-stage-success/816592/"&gt;BioPharma Dive&lt;/a&gt;, &lt;a href="https://www.biopharmadive.com/spons/connected-medical-devices-smarter-care-starts-here/816854/"&gt;BioPharma Dive&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;</description>
-      <guid isPermaLink="false">e3bd990474a9c15048cdd206a4d66457</guid>
-      <pubDate>Mon, 13 Apr 2026 22:04:10 GMT</pubDate>
-    </item>
-    <item>
-      <title>FDA Leadership</title>
-      <link>https://www.google.com</link>
-      <description>&lt;ul&gt;
-  &lt;li&gt;&lt;b&gt;Summary:&lt;/b&gt; There is ongoing coverage regarding the replacement for Vinay Prasad in the &lt;b&gt;FDA&lt;/b&gt;'s Center for Biologics Evaluation and Research (CBER), highlighting leadership changes within the regulatory agency.&lt;/li&gt;
-  &lt;li&gt;&lt;b&gt;MoAs:&lt;/b&gt; N/A&lt;/li&gt;
-  &lt;li&gt;&lt;b&gt;Sources:&lt;/b&gt; &lt;a href="https://www.statnews.com/2026/04/13/vinay-prasad-replacement-fda-cber/?utm_campaign=rss"&gt;STAT News&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;</description>
-      <guid isPermaLink="false">95c926fd090164883b3d9b74d64dd5a6</guid>
-      <pubDate>Mon, 13 Apr 2026 22:04:10 GMT</pubDate>
+      <guid isPermaLink="false">907d928f79491bc0b6a68cb98871eb31</guid>
+      <pubDate>Tue, 14 Apr 2026 22:05:06 GMT</pubDate>
     </item>
   </channel>
 </rss>
