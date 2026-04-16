@@ -6,48 +6,70 @@
     <description>News digest covering Industry Events.</description>
     <atom:link href="https://www.google.com" rel="self" type="application/rss+xml"/>
     <item>
-      <title>Novo Nordisk &amp; OpenAI AI Partnership</title>
+      <title>RFK Jr. Congressional Hearing &amp; FDA</title>
       <link>https://www.google.com</link>
       <description>&lt;ul&gt;
-  &lt;li&gt;&lt;b&gt;Summary:&lt;/b&gt; &lt;b&gt;Novo Nordisk&lt;/b&gt; has partnered with &lt;b&gt;OpenAI&lt;/b&gt; to integrate artificial intelligence across its research and development, manufacturing, and corporate functions. This move is part of a broader industry trend towards AI adoption in biopharma.&lt;/li&gt;
+  &lt;li&gt;&lt;b&gt;Summary:&lt;/b&gt; RFK Jr.'s congressional testimony addresses the &lt;b&gt;FDA&lt;/b&gt;'s role and regulatory policies under the Trump administration's health agenda. Discussions focus on balancing public health goals with political priorities, including debates over the FDA's independence and potential reforms, with &lt;b&gt;RFK Jr.&lt;/b&gt; defending the agency against Republican scrutiny.&lt;/li&gt;
   &lt;li&gt;&lt;b&gt;MoAs:&lt;/b&gt; N/A&lt;/li&gt;
-  &lt;li&gt;&lt;b&gt;Sources:&lt;/b&gt; &lt;a href="https://www.biopharmadive.com/news/novo-openai-regeneron-radiopharmaceuticals-ideaya-neomorph-gsk/817278/"&gt;BioPharma Dive&lt;/a&gt;, &lt;a href="https://www.fiercepharma.com/pharma/novo-taps-openai-deploy-ai-across-rd-manufacturing-and-corporate-functions"&gt;Fierce Pharma&lt;/a&gt;, &lt;a href="https://www.statnews.com/pharmalot/2026/04/14/fda-push-clinical-trial-transparency-novo-nordisk-openai-deal/?utm_campaign=rss"&gt;STAT News&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;b&gt;Sources:&lt;/b&gt; &lt;a href="https://www.statnews.com/2026/04/16/rfk-jr-congressional-hearing-trump-health-agenda/?utm_campaign=rss"&gt;STAT News&lt;/a&gt;, &lt;a href="https://www.statnews.com/2026/04/16/rfk-jr-begins-his-congressional-testimony-marathon-dc-diagnosis/?utm_campaign=rss"&gt;STAT News&lt;/a&gt;, &lt;a href="https://www.statnews.com/2026/04/16/kennedy-congress-testimony-balance-maha-goals-trump-priorities/?utm_campaign=rss"&gt;STAT News&lt;/a&gt;, &lt;a href="https://endpoints.news/rfk-jr-defends-fda-makary-following-republican-questions/"&gt;Endpoints News&lt;/a&gt;, &lt;a href="https://www.biopharmadive.com/news/fda-peptides-rfk-advisory-committee-restrictions/817685/"&gt;BioPharma Dive&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;</description>
-      <guid isPermaLink="false">bcc23929c901a245e0c97f6f046fb5be</guid>
-      <pubDate>Tue, 14 Apr 2026 22:05:06 GMT</pubDate>
+      <guid isPermaLink="false">564e41316512f53eccadc1dd58fcbdc2</guid>
+      <pubDate>Thu, 16 Apr 2026 22:05:42 GMT</pubDate>
     </item>
     <item>
-      <title>FDA Clinical Trial Transparency Push</title>
+      <title>FDA &amp; Regulatory Policy (Peptides/Compounding)</title>
       <link>https://www.google.com</link>
       <description>&lt;ul&gt;
-  &lt;li&gt;&lt;b&gt;Summary:&lt;/b&gt; The FDA is ramping up its push for clinical trial transparency, asking over 2,200 drug developers to make trial results public. This initiative aims to increase data availability and improve research integrity.&lt;/li&gt;
+  &lt;li&gt;&lt;b&gt;Summary:&lt;/b&gt; The &lt;b&gt;FDA&lt;/b&gt; is considering new restrictions on compounding pharmacies for peptides, which have been flagged for safety risks. An advisory committee reviews the implications for Alzheimer's drugs and other compounded peptides, aiming to tighten regulations and address concerns over unapproved formulations.&lt;/li&gt;
   &lt;li&gt;&lt;b&gt;MoAs:&lt;/b&gt; N/A&lt;/li&gt;
-  &lt;li&gt;&lt;b&gt;Sources:&lt;/b&gt; &lt;a href="https://www.statnews.com/2026/04/14/biotech-news-fda-pressures-drugmakers-to-report-trial-results/?utm_campaign=rss"&gt;STAT News&lt;/a&gt;, &lt;a href="https://www.biospace.com/fda/fda-asks-2-200-drug-developers-to-make-trial-results-public-ramping-up-transparency-push"&gt;BioSpace&lt;/a&gt;, &lt;a href="https://www.statnews.com/pharmalot/2026/04/13/fda-nudges-drugmakers-report-missing-clinical-trial-data/?utm_campaign=rss"&gt;STAT News&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;b&gt;Sources:&lt;/b&gt; &lt;a href="https://www.biospace.com/fda/fda-mulls-compounding-for-peptides-previously-flagged-over-safety-risks"&gt;BioSpace&lt;/a&gt;, &lt;a href="https://www.statnews.com/pharmalot/2026/04/16/alzheimers-drugs-review-fda-panel-for-compounded-peptides/?utm_campaign=rss"&gt;STAT News&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;</description>
-      <guid isPermaLink="false">2d073808bc0ccd826d4dc1e2337249b0</guid>
-      <pubDate>Tue, 14 Apr 2026 22:05:06 GMT</pubDate>
+      <guid isPermaLink="false">67bde083ddfbb0481ee7ea3b7f3a06cd</guid>
+      <pubDate>Thu, 16 Apr 2026 22:05:42 GMT</pubDate>
     </item>
     <item>
-      <title>FDA Regulatory &amp; Safety Guidance</title>
+      <title>AI in Biopharma</title>
       <link>https://www.google.com</link>
       <description>&lt;ul&gt;
-  &lt;li&gt;&lt;b&gt;Summary:&lt;/b&gt; The FDA has bolstered its framework for bespoke therapies with new draft safety guidelines, while also rebuking &lt;b&gt;Pfizer&lt;/b&gt; for misleading advertisements for &lt;b&gt;Adcetris (brentuximab vedotin)&lt;/b&gt; on Facebook.&lt;/li&gt;
-  &lt;li&gt;&lt;b&gt;MoAs:&lt;/b&gt; &lt;b&gt;Adcetris (brentuximab vedotin)&lt;/b&gt;: anti-CD30 monoclonal antibody conjugated to monomethyl auristatin E (MMAE), a microtubule disruptor.&lt;/li&gt;
-  &lt;li&gt;&lt;b&gt;Sources:&lt;/b&gt; &lt;a href="https://www.biospace.com/drug-development/fda-bolsters-bespoke-therapy-framework-with-new-draft-safety-guidelines"&gt;BioSpace&lt;/a&gt;, &lt;a href="https://www.fiercepharma.com/marketing/pfizer-rebuked-fda-misleading-adcetris-ads-facebook"&gt;Fierce Pharma&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;b&gt;Summary:&lt;/b&gt; &lt;b&gt;OpenAI&lt;/b&gt; launches a biopharma-focused AI model to compete with &lt;b&gt;Anthropic&lt;/b&gt;, while &lt;b&gt;Novartis&lt;/b&gt; CEO joins Anthropic's board, embedding AI in drug discovery. The blurring lines of healthcare AI include voice chatbots for mental health and integration into consumer devices, driving a medical AI revolution.&lt;/li&gt;
+  &lt;li&gt;&lt;b&gt;MoAs:&lt;/b&gt; N/A&lt;/li&gt;
+  &lt;li&gt;&lt;b&gt;Sources:&lt;/b&gt; &lt;a href="https://endpoints.news/openai-launches-biopharma-focused-ai-model-to-compete-with-anthropic/"&gt;Endpoints News&lt;/a&gt;, &lt;a href="https://www.biospace.com/business/novartis-ceo-joins-anthropic-board-embedding-ai-in-the-heart-of-biopharma"&gt;BioSpace&lt;/a&gt;, &lt;a href="https://endpoints.news/blurring-the-lines-of-healthcare-ai/"&gt;Endpoints News&lt;/a&gt;, &lt;a href="https://www.statnews.com/2026/04/16/medical-ai-revolution-consumer-devices-health-records/?utm_campaign=rss"&gt;STAT News&lt;/a&gt;, &lt;a href="https://www.statnews.com/2026/04/16/voice-chatbots-ai-psychosis-mental-health/?utm_campaign=rss"&gt;STAT News&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;</description>
-      <guid isPermaLink="false">223405169f82a0f9f7ee6e70763ef8fa</guid>
-      <pubDate>Tue, 14 Apr 2026 22:05:06 GMT</pubDate>
+      <guid isPermaLink="false">51d95e1c913c99c9a4b69f13c0b9a476</guid>
+      <pubDate>Thu, 16 Apr 2026 22:05:42 GMT</pubDate>
     </item>
     <item>
-      <title>Maryland Drug Price Cap</title>
+      <title>Drug Pricing &amp; FDA Transparency</title>
       <link>https://www.google.com</link>
       <description>&lt;ul&gt;
-  &lt;li&gt;&lt;b&gt;Summary:&lt;/b&gt; Maryland's drug affordability board has implemented its first price cap on a diabetes medicine, marking a state-level policy shift to control prescription drug costs and improve access.&lt;/li&gt;
+  &lt;li&gt;&lt;b&gt;Summary:&lt;/b&gt; Articles highlight calls from drug pricing watchdogs for increased transparency into the &lt;b&gt;FDA&lt;/b&gt;'s accelerated approval decisions, with &lt;b&gt;Moderna&lt;/b&gt;'s case serving as a cautionary tale on premium pricing models and regulatory oversight.&lt;/li&gt;
   &lt;li&gt;&lt;b&gt;MoAs:&lt;/b&gt; N/A&lt;/li&gt;
-  &lt;li&gt;&lt;b&gt;Sources:&lt;/b&gt; &lt;a href="https://www.statnews.com/pharmalot/2026/04/13/maryland-affordability-board-sets-first-price-cap-diabetes-medicine/?utm_campaign=rss"&gt;STAT News&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;b&gt;Sources:&lt;/b&gt; &lt;a href="https://www.biospace.com/fda/drug-pricing-watchdog-calls-for-increased-transparency-into-fdas-accelerated-approval-decisions"&gt;Biospace&lt;/a&gt;, &lt;a href="https://endpoints.news/using-versus-selling-lucrative-prvs-modernas-cautionary-tale/"&gt;Endpoints News&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;</description>
-      <guid isPermaLink="false">907d928f79491bc0b6a68cb98871eb31</guid>
-      <pubDate>Tue, 14 Apr 2026 22:05:06 GMT</pubDate>
+      <guid isPermaLink="false">175476e1df8453e7a6cf1ddfbf310751</guid>
+      <pubDate>Thu, 16 Apr 2026 22:05:42 GMT</pubDate>
+    </item>
+    <item>
+      <title>Viatris &amp; Teva Product Recalls</title>
+      <link>https://www.google.com</link>
+      <description>&lt;ul&gt;
+  &lt;li&gt;&lt;b&gt;Summary:&lt;/b&gt; &lt;b&gt;Viatris&lt;/b&gt; and &lt;b&gt;Teva&lt;/b&gt; face separate product recalls: &lt;b&gt;Viatris&lt;/b&gt; for extended-release &lt;b&gt;Xanax&lt;/b&gt; (alprazolam) and &lt;b&gt;Teva&lt;/b&gt; for a blood pressure patch, underscoring manufacturing quality issues.&lt;/li&gt;
+  &lt;li&gt;&lt;b&gt;MoAs:&lt;/b&gt; N/A&lt;/li&gt;
+  &lt;li&gt;&lt;b&gt;Sources:&lt;/b&gt; &lt;a href="https://www.fiercepharma.com/manufacturing/viatris-extended-release-xanax-and-tevas-blood-pressure-patch-hit-separate-recalls"&gt;Fierce Pharma&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;</description>
+      <guid isPermaLink="false">79ca19ac853c00b8e7ea8017020776af</guid>
+      <pubDate>Thu, 16 Apr 2026 22:05:42 GMT</pubDate>
+    </item>
+    <item>
+      <title>Biotech Funding &amp; Deal Trends</title>
+      <link>https://www.google.com</link>
+      <description>&lt;ul&gt;
+  &lt;li&gt;&lt;b&gt;Summary:&lt;/b&gt; Trends show explosive growth in obesity deals, with Q1 2026 exceeding total 2025 value, while early-stage funding slumps toward post-pandemic lows, pressuring biotech startups. European efforts to scale science into commercial success are also discussed.&lt;/li&gt;
+  &lt;li&gt;&lt;b&gt;MoAs:&lt;/b&gt; N/A&lt;/li&gt;
+  &lt;li&gt;&lt;b&gt;Sources:&lt;/b&gt; &lt;a href="https://www.biospace.com/deals/obesitys-explosive-growth-continues-as-q1-deals-exceed-total-2025-value"&gt;Biospace&lt;/a&gt;, &lt;a href="https://www.fiercebiotech.com/biotech/early-stage-funding-slumps-toward-post-pandemic-low-piling-more-pressure-biotech-startups"&gt;Fierce Biotech&lt;/a&gt;, &lt;a href="https://www.biospace.com/drug-development/can-europe-turn-world-class-science-into-world-class-scale"&gt;Biospace&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;</description>
+      <guid isPermaLink="false">19f531ce405e5754498b6eac2ca73ff9</guid>
+      <pubDate>Thu, 16 Apr 2026 22:05:42 GMT</pubDate>
     </item>
   </channel>
 </rss>
