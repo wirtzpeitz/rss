@@ -6,15 +6,15 @@
     <description>News digest covering Neurology.</description>
     <atom:link href="https://www.google.com" rel="self" type="application/rss+xml"/>
     <item>
-      <title>Parkinson's Disease Campaign (Bial)</title>
+      <title>Anti-Amyloid Alzheimer's Drugs Debate</title>
       <link>https://www.google.com</link>
       <description>&lt;ul&gt;
-  &lt;li&gt;&lt;b&gt;Summary:&lt;/b&gt; &lt;b&gt;Bial&lt;/b&gt; has launched the "Dialogues Parkinson's" campaign to identify early symptoms of Parkinson's disease, aiming to enhance diagnosis and patient awareness through educational efforts.&lt;/li&gt;
-  &lt;li&gt;&lt;b&gt;MoAs:&lt;/b&gt; N/A&lt;/li&gt;
-  &lt;li&gt;&lt;b&gt;Sources:&lt;/b&gt; &lt;a href="https://www.fiercepharma.com/marketing/bial-launches-dialogues-parkinsons-campaign-aimed-identifying-early-symptoms"&gt;Fierce Pharma&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;b&gt;Summary:&lt;/b&gt; A Cochrane review questions the efficacy of anti-amyloid Alzheimer's drugs like &lt;b&gt;lecanemab&lt;/b&gt; and &lt;b&gt;aducanumab&lt;/b&gt;, describing their effects as "absent or trivial." This reignites the debate over the amyloid hypothesis, with immediate backlash from proponents and industry stakeholders, highlighting ongoing controversies in Alzheimer's treatment.&lt;/li&gt;
+  &lt;li&gt;&lt;b&gt;MoAs:&lt;/b&gt; Monoclonal antibodies targeting amyloid-beta plaques to reduce neurotoxicity in Alzheimer's disease.&lt;/li&gt;
+  &lt;li&gt;&lt;b&gt;Sources:&lt;/b&gt; &lt;a href="https://www.fiercepharma.com/pharma/absent-or-trivial-effects-anti-amyloid-alzheimers-drugs-called-question"&gt;Fierce Pharma&lt;/a&gt;, &lt;a href="https://endpoints.news/cochrane-review-dismissing-amyloid-drugs-draws-immediate-backlash/"&gt;Endpoints News&lt;/a&gt;, &lt;a href="https://www.statnews.com/2026/04/16/biotech-news-cochrane-review-reignites-alzheimers-amyloid-war/?utm_campaign=rss"&gt;STAT News&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;</description>
-      <guid isPermaLink="false">778bca8bbf7389479e948022ff153d2b</guid>
-      <pubDate>Fri, 10 Apr 2026 22:04:53 GMT</pubDate>
+      <guid isPermaLink="false">9f9db725a29aa74f505db700de8f7771</guid>
+      <pubDate>Thu, 16 Apr 2026 22:05:42 GMT</pubDate>
     </item>
   </channel>
 </rss>
