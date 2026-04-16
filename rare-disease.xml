@@ -6,15 +6,15 @@
     <description>News digest covering Rare Disease.</description>
     <atom:link href="https://www.google.com" rel="self" type="application/rss+xml"/>
     <item>
-      <title>Travere's Filspari (sparsentan)</title>
+      <title>Roche/Sarepta's Elevidys (Duchenne Gene Therapy)</title>
       <link>https://www.google.com</link>
       <description>&lt;ul&gt;
-  &lt;li&gt;&lt;b&gt;Summary:&lt;/b&gt; The FDA has approved &lt;b&gt;Travere Therapeutics&lt;/b&gt;' &lt;b&gt;Filspari (sparsentan)&lt;/b&gt; as the first drug specifically for focal segmental glomerulosclerosis (FSGS), a rare kidney disease. This approval comes despite a Phase 3 trial failure, highlighting the drug's efficacy in this indication.&lt;/li&gt;
-  &lt;li&gt;&lt;b&gt;MoAs:&lt;/b&gt; &lt;b&gt;Sparsentan&lt;/b&gt; is a dual endothelin receptor antagonist and angiotensin II receptor blocker.&lt;/li&gt;
-  &lt;li&gt;&lt;b&gt;Sources:&lt;/b&gt; &lt;a href="https://www.biopharmadive.com/news/travere-fda-approve-flispari-fsgs-kidney-disease/817415/"&gt;BioPharma Dive&lt;/a&gt;, &lt;a href="https://www.biospace.com/fda/traveres-filspari-overcomes-phase-3-fail-to-become-first-drug-for-rare-kidney-disease"&gt;BioSpace&lt;/a&gt;, &lt;a href="https://endpoints.news/fda-approves-traveres-filspari-as-first-drug-for-the-kidney-disease-called-fsgs/"&gt;Endpoints News&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;b&gt;Summary:&lt;/b&gt; &lt;b&gt;Roche&lt;/b&gt; and &lt;b&gt;Sarepta&lt;/b&gt; are initiating a new Phase 3 trial for &lt;b&gt;Elevidys&lt;/b&gt; (delandistrogene moxeparvovec) in Europe after regulatory rejections. The gene therapy aims to treat Duchenne muscular dystrophy by delivering a micro-dystrophin gene to improve muscle function, with ongoing efforts to secure approval.&lt;/li&gt;
+  &lt;li&gt;&lt;b&gt;MoAs:&lt;/b&gt; Adeno-associated virus (AAV)-based gene therapy delivering a truncated dystrophin gene to compensate for mutations in the DMD gene.&lt;/li&gt;
+  &lt;li&gt;&lt;b&gt;Sources:&lt;/b&gt; &lt;a href="https://endpoints.news/roche-to-start-a-new-phase-3-trial-for-elevidys/"&gt;Endpoints News&lt;/a&gt;, &lt;a href="https://www.biopharmadive.com/news/roche-elevidys-europe-trial-duchenne-gene-therapy-sarepta/817674/"&gt;BioPharma Dive&lt;/a&gt;, &lt;a href="https://www.fiercepharma.com/pharma/roche-launch-another-elevidys-study-after-eu-rejection-duchenne-gene-therapy"&gt;Fierce Pharma&lt;/a&gt;, &lt;a href="https://www.statnews.com/2026/04/16/roche-elevidys-pivotal-trial-europe-sarepta/?utm_campaign=rss"&gt;STAT News&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;</description>
-      <guid isPermaLink="false">4539089da6f3f56b4c5270ddf20d03d9</guid>
-      <pubDate>Tue, 14 Apr 2026 22:05:06 GMT</pubDate>
+      <guid isPermaLink="false">0c6ecbf5c61bcb682f14d547381b7748</guid>
+      <pubDate>Thu, 16 Apr 2026 22:05:42 GMT</pubDate>
     </item>
   </channel>
 </rss>
