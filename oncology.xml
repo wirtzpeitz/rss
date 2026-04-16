@@ -6,15 +6,37 @@
     <description>News digest covering Oncology.</description>
     <atom:link href="https://www.google.com" rel="self" type="application/rss+xml"/>
     <item>
-      <title>Revolution Medicines / daraxonrasib</title>
+      <title>STORM Therapeutics Funding &amp; Trial</title>
       <link>https://www.google.com</link>
       <description>&lt;ul&gt;
-  &lt;li&gt;&lt;b&gt;Summary:&lt;/b&gt; &lt;b&gt;Revolution Medicines&lt;/b&gt; is advancing &lt;b&gt;daraxonrasib&lt;/b&gt; in clinical trials, with data highlighting its efficacy as a KRAS G12C inhibitor in treating cancers such as non-small cell lung cancer.&lt;/li&gt;
-  &lt;li&gt;&lt;b&gt;MoAs:&lt;/b&gt; Daraxonrasib is a KRAS G12C inhibitor that covalently binds to the mutated KRAS protein to block oncogenic signaling pathways.&lt;/li&gt;
-  &lt;li&gt;&lt;b&gt;Sources:&lt;/b&gt; &lt;a href="https://www.statnews.com/2026/04/14/ben-sasse-revolution-medicines-daraxonrasib-clinical-trial/?utm_campaign=rss"&gt;STAT News&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;b&gt;Summary:&lt;/b&gt; &lt;b&gt;STORM Therapeutics&lt;/b&gt;, backed by big pharma, raises $56 million in funding and launches a Phase 2 trial for a sarcoma treatment. The company focuses on RNA-modifying therapies for cancer, aiming to advance novel oncology candidates.&lt;/li&gt;
+  &lt;li&gt;&lt;b&gt;MoAs:&lt;/b&gt; N/A&lt;/li&gt;
+  &lt;li&gt;&lt;b&gt;Sources:&lt;/b&gt; &lt;a href="https://www.fiercebiotech.com/biotech/big-pharma-backed-storm-blows-56m-fundraise-launches-phase-2-sarcoma-trial"&gt;Fierce Biotech&lt;/a&gt;, &lt;a href="https://endpoints.news/meiragtx-buys-back-gene-therapy-from-j-storm-brings-in-56m-series-c/"&gt;Endpoints News&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;</description>
-      <guid isPermaLink="false">c19c091d9b6318d23c0d5378801b8808</guid>
-      <pubDate>Tue, 14 Apr 2026 22:05:06 GMT</pubDate>
+      <guid isPermaLink="false">d33eda57d7e949c8c945a26d78840c19</guid>
+      <pubDate>Thu, 16 Apr 2026 22:05:42 GMT</pubDate>
+    </item>
+    <item>
+      <title>Pancreatic Cancer &amp; Revolution Medicines</title>
+      <link>https://www.google.com</link>
+      <description>&lt;ul&gt;
+  &lt;li&gt;&lt;b&gt;Summary:&lt;/b&gt; &lt;b&gt;Revolution Medicines&lt;/b&gt; reports positive data in pancreatic cancer, leading to a doubled stock offering target to $2 billion. The company's therapies, potentially involving CAR-T or targeted approaches, show promise in hard-to-treat cancers like pancreatic cancer and lymphoma.&lt;/li&gt;
+  &lt;li&gt;&lt;b&gt;MoAs:&lt;/b&gt; N/A&lt;/li&gt;
+  &lt;li&gt;&lt;b&gt;Sources:&lt;/b&gt; &lt;a href="https://www.statnews.com/2026/04/16/pancreatic-cancer-revolution-car-t-lymphoma-readout-loud/?utm_campaign=rss"&gt;STAT News&lt;/a&gt;, &lt;a href="https://www.biospace.com/business/revolution-doubles-stock-offering-target-to-2b-following-pancreatic-cancer-win"&gt;BioSpace&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;</description>
+      <guid isPermaLink="false">5feaaadf86e59f5d2d6ad67af84efdba</guid>
+      <pubDate>Thu, 16 Apr 2026 22:05:42 GMT</pubDate>
+    </item>
+    <item>
+      <title>Oncology Pipeline Updates (B7-H3, Imdelltra, J&amp;J)</title>
+      <link>https://www.google.com</link>
+      <description>&lt;ul&gt;
+  &lt;li&gt;&lt;b&gt;Summary:&lt;/b&gt; Updates focus on &lt;b&gt;B7-H3&lt;/b&gt;-targeted therapies, with another death in a trial putting &lt;b&gt;Imdelltra&lt;/b&gt; combination studies in trouble, while &lt;b&gt;Johnson &amp; Johnson&lt;/b&gt; (J&amp;J) achieves a significant oncology win.&lt;/li&gt;
+  &lt;li&gt;&lt;b&gt;MoAs:&lt;/b&gt; For &lt;b&gt;B7-H3&lt;/b&gt;-targeted drugs: Immune checkpoint inhibitors that block B7-H3 (CD276) to enhance anti-tumor immune response. &lt;b&gt;Imdelltra&lt;/b&gt; is likely an anti-B7-H3 monoclonal antibody.&lt;/li&gt;
+  &lt;li&gt;&lt;b&gt;Sources:&lt;/b&gt; &lt;a href="https://www.oncologypipeline.com/apexonco/another-b7-h3-death-puts-imdelltra-combo-trouble"&gt;ApexOnco&lt;/a&gt;, &lt;a href="https://www.oncologypipeline.com/apexonco/jj-sneaks-out-monumental-win"&gt;ApexOnco&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;</description>
+      <guid isPermaLink="false">07769cdce01cd07d61799d74a5ac6037</guid>
+      <pubDate>Thu, 16 Apr 2026 22:05:42 GMT</pubDate>
     </item>
   </channel>
 </rss>
