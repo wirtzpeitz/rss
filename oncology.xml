@@ -6,37 +6,37 @@
     <description>News digest covering Oncology.</description>
     <atom:link href="https://www.google.com" rel="self" type="application/rss+xml"/>
     <item>
-      <title>STORM Therapeutics Funding &amp; Trial</title>
+      <title>Merck PD-1/VEGF Bispecific (MK-1308A)</title>
       <link>https://www.google.com</link>
       <description>&lt;ul&gt;
-  &lt;li&gt;&lt;b&gt;Summary:&lt;/b&gt; &lt;b&gt;STORM Therapeutics&lt;/b&gt;, backed by big pharma, raises $56 million in funding and launches a Phase 2 trial for a sarcoma treatment. The company focuses on RNA-modifying therapies for cancer, aiming to advance novel oncology candidates.&lt;/li&gt;
-  &lt;li&gt;&lt;b&gt;MoAs:&lt;/b&gt; N/A&lt;/li&gt;
-  &lt;li&gt;&lt;b&gt;Sources:&lt;/b&gt; &lt;a href="https://www.fiercebiotech.com/biotech/big-pharma-backed-storm-blows-56m-fundraise-launches-phase-2-sarcoma-trial"&gt;Fierce Biotech&lt;/a&gt;, &lt;a href="https://endpoints.news/meiragtx-buys-back-gene-therapy-from-j-storm-brings-in-56m-series-c/"&gt;Endpoints News&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;b&gt;Summary:&lt;/b&gt; &lt;b&gt;Merck&lt;/b&gt; presented early clinical data for its bispecific antibody &lt;b&gt;MK-1308A&lt;/b&gt;, targeting PD-1 and VEGF, in non-small cell lung cancer (NSCLC) at AACR. The data showed promising antitumor activity, though phase 3 plans remain undisclosed. This agent combines immune checkpoint inhibition with anti-angiogenesis for enhanced efficacy in oncology.&lt;/li&gt;
+  &lt;li&gt;&lt;b&gt;MoAs:&lt;/b&gt; MK-1308A is a bispecific antibody that blocks PD-1 to enhance T-cell-mediated immune response and inhibits VEGF to reduce tumor angiogenesis.&lt;/li&gt;
+  &lt;li&gt;&lt;b&gt;Sources:&lt;/b&gt; &lt;a href="https://www.fiercebiotech.com/biotech/merck-debuts-pd-1xvegf-bispecific-data-nsclc-remains-tight-lipped-phase-3-plans"&gt;Fierce Biotech&lt;/a&gt;, &lt;a href="https://www.biospace.com/drug-development/mercks-pd-1-vegf-data-star-in-stacked-lineup-of-aacr-26-data-reveals"&gt;BioSpace&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;</description>
-      <guid isPermaLink="false">d33eda57d7e949c8c945a26d78840c19</guid>
-      <pubDate>Thu, 16 Apr 2026 22:05:42 GMT</pubDate>
+      <guid isPermaLink="false">932cc4077ac8192c7925d2353199be65</guid>
+      <pubDate>Fri, 17 Apr 2026 22:06:01 GMT</pubDate>
     </item>
     <item>
-      <title>Pancreatic Cancer &amp; Revolution Medicines</title>
+      <title>Revolution Medicines (Daraxonrasib/RMC-6236)</title>
       <link>https://www.google.com</link>
       <description>&lt;ul&gt;
-  &lt;li&gt;&lt;b&gt;Summary:&lt;/b&gt; &lt;b&gt;Revolution Medicines&lt;/b&gt; reports positive data in pancreatic cancer, leading to a doubled stock offering target to $2 billion. The company's therapies, potentially involving CAR-T or targeted approaches, show promise in hard-to-treat cancers like pancreatic cancer and lymphoma.&lt;/li&gt;
-  &lt;li&gt;&lt;b&gt;MoAs:&lt;/b&gt; N/A&lt;/li&gt;
-  &lt;li&gt;&lt;b&gt;Sources:&lt;/b&gt; &lt;a href="https://www.statnews.com/2026/04/16/pancreatic-cancer-revolution-car-t-lymphoma-readout-loud/?utm_campaign=rss"&gt;STAT News&lt;/a&gt;, &lt;a href="https://www.biospace.com/business/revolution-doubles-stock-offering-target-to-2b-following-pancreatic-cancer-win"&gt;BioSpace&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;b&gt;Summary:&lt;/b&gt; &lt;b&gt;Revolution Medicines&lt;/b&gt; reported positive data for &lt;b&gt;RMC-6236&lt;/b&gt; (daraxonrasib), a pan-RAS inhibitor, in pancreatic cancer, leading to a stock surge and buyout speculation. The data underscore the potential of targeting RAS mutations, a common driver in cancers.&lt;/li&gt;
+  &lt;li&gt;&lt;b&gt;MoAs:&lt;/b&gt; RMC-6236 is a small molecule inhibitor that covalently binds to mutant KRAS proteins, blocking downstream signaling pathways involved in cell proliferation and survival.&lt;/li&gt;
+  &lt;li&gt;&lt;b&gt;Sources:&lt;/b&gt; &lt;a href="https://endpoints.news/aacr26-preview-revolution-medicines-the-ras-bonanza-and-china-adc-standouts/"&gt;Endpoints News&lt;/a&gt;, &lt;a href="https://endpoints.news/revolution-medicines-buyout-price-soars-after-pancreatic-cancer-win/"&gt;Endpoints News&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;</description>
-      <guid isPermaLink="false">5feaaadf86e59f5d2d6ad67af84efdba</guid>
-      <pubDate>Thu, 16 Apr 2026 22:05:42 GMT</pubDate>
+      <guid isPermaLink="false">3c8b99d81f8d0b80ee789188beb480fe</guid>
+      <pubDate>Fri, 17 Apr 2026 22:06:01 GMT</pubDate>
     </item>
     <item>
-      <title>Oncology Pipeline Updates (B7-H3, Imdelltra, J&amp;J)</title>
+      <title>Replimune FDA Dispute</title>
       <link>https://www.google.com</link>
       <description>&lt;ul&gt;
-  &lt;li&gt;&lt;b&gt;Summary:&lt;/b&gt; Updates focus on &lt;b&gt;B7-H3&lt;/b&gt;-targeted therapies, with another death in a trial putting &lt;b&gt;Imdelltra&lt;/b&gt; combination studies in trouble, while &lt;b&gt;Johnson &amp; Johnson&lt;/b&gt; (J&amp;J) achieves a significant oncology win.&lt;/li&gt;
-  &lt;li&gt;&lt;b&gt;MoAs:&lt;/b&gt; For &lt;b&gt;B7-H3&lt;/b&gt;-targeted drugs: Immune checkpoint inhibitors that block B7-H3 (CD276) to enhance anti-tumor immune response. &lt;b&gt;Imdelltra&lt;/b&gt; is likely an anti-B7-H3 monoclonal antibody.&lt;/li&gt;
-  &lt;li&gt;&lt;b&gt;Sources:&lt;/b&gt; &lt;a href="https://www.oncologypipeline.com/apexonco/another-b7-h3-death-puts-imdelltra-combo-trouble"&gt;ApexOnco&lt;/a&gt;, &lt;a href="https://www.oncologypipeline.com/apexonco/jj-sneaks-out-monumental-win"&gt;ApexOnco&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;b&gt;Summary:&lt;/b&gt; &lt;b&gt;Replimune&lt;/b&gt; is challenging the &lt;b&gt;FDA&lt;/b&gt; over regulatory flexibility for its oncolytic virus therapies, arguing for tailored approval pathways. This dispute occurs amid public debate on FDA stringency, impacting the development of cancer immunotherapies like &lt;b&gt;RP1&lt;/b&gt;.&lt;/li&gt;
+  &lt;li&gt;&lt;b&gt;MoAs:&lt;/b&gt; &lt;b&gt;Replimune's oncolytic viruses (e.g., RP1)&lt;/b&gt;: Engineered to selectively replicate in and lyse cancer cells while stimulating anti-tumor immune responses.&lt;/li&gt;
+  &lt;li&gt;&lt;b&gt;Sources:&lt;/b&gt; &lt;a href="https://www.biospace.com/fda/replimune-cries-foul-on-regulatory-flexibility-but-many-americans-want-a-stricter-fda"&gt;Biospace&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;</description>
-      <guid isPermaLink="false">07769cdce01cd07d61799d74a5ac6037</guid>
-      <pubDate>Thu, 16 Apr 2026 22:05:42 GMT</pubDate>
+      <guid isPermaLink="false">17f99dd80cd71d229371b4be7163dde7</guid>
+      <pubDate>Fri, 17 Apr 2026 22:06:01 GMT</pubDate>
     </item>
   </channel>
 </rss>
