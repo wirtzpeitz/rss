@@ -6,26 +6,103 @@
     <description>News digest covering Corporate Events.</description>
     <atom:link href="https://www.google.com" rel="self" type="application/rss+xml"/>
     <item>
-      <title>Corporate Restructuring &amp; Layoffs</title>
+      <title>UCB/Neurona Deal</title>
       <link>https://www.google.com</link>
       <description>&lt;ul&gt;
-  &lt;li&gt;&lt;b&gt;Summary:&lt;/b&gt; Reports detail layoffs and restructuring at several biopharma companies including &lt;b&gt;Replimune&lt;/b&gt;, &lt;b&gt;Meiragtx&lt;/b&gt;, &lt;b&gt;Revolution&lt;/b&gt;, &lt;b&gt;Biogen&lt;/b&gt;, and &lt;b&gt;Apellis&lt;/b&gt;, with trends indicating a pullback in layoffs during Q1 2026.&lt;/li&gt;
+  &lt;li&gt;&lt;b&gt;Summary:&lt;/b&gt; &lt;b&gt;UCB&lt;/b&gt; has agreed to acquire &lt;b&gt;Neurona Therapeutics&lt;/b&gt; for $1.15 billion, expanding its neurology portfolio with cell therapies for epilepsy. The deal highlights UCB's strategic push into advanced therapies and Neurona's pipeline in regenerative medicine for neurological disorders.&lt;/li&gt;
   &lt;li&gt;&lt;b&gt;MoAs:&lt;/b&gt; N/A&lt;/li&gt;
-  &lt;li&gt;&lt;b&gt;Sources:&lt;/b&gt; &lt;a href="https://www.biopharmadive.com/news/replimune-layoffs-meiragtx-revolution-biogen-apellis/817593/"&gt;Biopharma Dive&lt;/a&gt;, &lt;a href="https://www.biospace.com/job-trends/biopharmas-pull-back-on-layoffs-in-q1"&gt;Biospace&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;b&gt;Sources:&lt;/b&gt; &lt;a href="https://www.biopharmadive.com/news/ucb-neurona-deal-acquisition-cell-therapy-epilepsy-biotech/817863/"&gt;BioPharma Dive&lt;/a&gt;, &lt;a href="https://www.fiercebiotech.com/biotech/ucbs-115b-deal-neurona-touches-several-ambitions-including-strategic-expansion-advanced"&gt;Fierce Biotech&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;</description>
-      <guid isPermaLink="false">e55fcc4babe0bb28dd608732e5c93dbf</guid>
-      <pubDate>Thu, 16 Apr 2026 22:05:42 GMT</pubDate>
+      <guid isPermaLink="false">e28f4a3c4537bed18a63c502a5d2bb77</guid>
+      <pubDate>Fri, 17 Apr 2026 22:06:01 GMT</pubDate>
     </item>
     <item>
-      <title>Aligos Therapeutics Deal</title>
+      <title>Kailera Therapeutics IPO &amp; Pipeline</title>
       <link>https://www.google.com</link>
       <description>&lt;ul&gt;
-  &lt;li&gt;&lt;b&gt;Summary:&lt;/b&gt; &lt;b&gt;Aligos Therapeutics&lt;/b&gt; sells the China rights for its HPV drug to hepatology-focused player &lt;b&gt;Amoytop&lt;/b&gt; in a deal worth up to $445 million.&lt;/li&gt;
+  &lt;li&gt;&lt;b&gt;Summary:&lt;/b&gt; &lt;b&gt;Kailera Therapeutics&lt;/b&gt; raised $625 million in a record-breaking IPO to fund its obesity drug pipeline, including candidates licensed from Chinese partners like &lt;b&gt;Hengrui&lt;/b&gt;. The company aims to compete in the competitive obesity market with novel therapies, leveraging global development strategies.&lt;/li&gt;
   &lt;li&gt;&lt;b&gt;MoAs:&lt;/b&gt; N/A&lt;/li&gt;
-  &lt;li&gt;&lt;b&gt;Sources:&lt;/b&gt; &lt;a href="https://www.fiercebiotech.com/biotech/aligos-sells-china-rights-hpv-drug-hepatology-player-amoytop-445m-deal"&gt;Fierce Biotech&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;b&gt;Sources:&lt;/b&gt; &lt;a href="https://endpoints.news/kailera-ipo-interview-ceo-renaud-talks-biotech-market-china-and-obesity-pipeline/"&gt;Endpoints News&lt;/a&gt;, &lt;a href="https://endpoints.news/kailera-raises-625m-ipo-in-biotech-record/"&gt;Endpoints News&lt;/a&gt;, &lt;a href="https://www.fiercebiotech.com/biotech/kailera-raises-head-turning-625m-ipo-fund-obesity-pipeline"&gt;Fierce Biotech&lt;/a&gt;, &lt;a href="https://www.biopharmadive.com/news/kailera-ipo-price-obesity-drugs-hengrui-ron-renaud/817463/"&gt;BioPharma Dive&lt;/a&gt;, &lt;a href="https://www.biospace.com/business/kailera-eyes-record-533m-ipo-to-play-in-competitive-obesity-space-with-chinese-drugs"&gt;BioSpace&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;</description>
-      <guid isPermaLink="false">65789d014e4380debaef6a30a5665963</guid>
-      <pubDate>Thu, 16 Apr 2026 22:05:42 GMT</pubDate>
+      <guid isPermaLink="false">94d2f7100d2b49ed45241568a48c3f25</guid>
+      <pubDate>Fri, 17 Apr 2026 22:06:01 GMT</pubDate>
+    </item>
+    <item>
+      <title>Tevas Ajovy vs. Lilly Patent Dispute</title>
+      <link>https://www.google.com</link>
+      <description>&lt;ul&gt;
+  &lt;li&gt;&lt;b&gt;Summary:&lt;/b&gt; &lt;b&gt;Teva&lt;/b&gt; and &lt;b&gt;Eli Lilly&lt;/b&gt; are engaged in a patent dispute over &lt;b&gt;Ajovy&lt;/b&gt; (fremanezumab), a migraine drug. The Federal Circuit reversed a prior loss for Teva, potentially impacting market exclusivity and competition in the CGRP inhibitor class.&lt;/li&gt;
+  &lt;li&gt;&lt;b&gt;MoAs:&lt;/b&gt; Ajovy is a monoclonal antibody that targets the calcitonin gene-related peptide (CGRP) receptor, preventing migraine attacks by inhibiting neurogenic inflammation.&lt;/li&gt;
+  &lt;li&gt;&lt;b&gt;Sources:&lt;/b&gt; &lt;a href="https://www.fiercepharma.com/pharma/tevas-migraine-patent-spat-lilly-federal-circuit-reverses-prior-loss-ajovy"&gt;Fierce Pharma&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;</description>
+      <guid isPermaLink="false">cdb6c8a0f88a903acec7599ee853a891</guid>
+      <pubDate>Fri, 17 Apr 2026 22:06:01 GMT</pubDate>
+    </item>
+    <item>
+      <title>Foundayo (Lilly's Digital Platform)</title>
+      <link>https://www.google.com</link>
+      <description>&lt;ul&gt;
+  &lt;li&gt;&lt;b&gt;Summary:&lt;/b&gt; &lt;b&gt;Eli Lilly&lt;/b&gt; launched &lt;b&gt;Foundayo&lt;/b&gt;, a digital platform for managing chronic conditions like obesity and diabetes, which reached over 1,390 patients in its first week. This initiative enhances patient engagement and competes with rivals like &lt;b&gt;Novo Nordisk&lt;/b&gt;'s oral Wegovy.&lt;/li&gt;
+  &lt;li&gt;&lt;b&gt;MoAs:&lt;/b&gt; N/A&lt;/li&gt;
+  &lt;li&gt;&lt;b&gt;Sources:&lt;/b&gt; &lt;a href="https://www.biopharmadive.com/news/foundayo-launch-openai-rosalind-janux-gilead-arcellx/817789/"&gt;BioPharma Dive&lt;/a&gt;, &lt;a href="https://www.biospace.com/business/lillys-foundayo-reaches-1-390-patients-in-first-week-trailing-novos-oral-wegovy-launch"&gt;BioSpace&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;</description>
+      <guid isPermaLink="false">78bd249687bb497a892b7cfb62fc9cc6</guid>
+      <pubDate>Fri, 17 Apr 2026 22:06:01 GMT</pubDate>
+    </item>
+    <item>
+      <title>Astellas/GSK/Daiichi Corporate Updates</title>
+      <link>https://www.google.com</link>
+      <description>&lt;ul&gt;
+  &lt;li&gt;&lt;b&gt;Summary:&lt;/b&gt; Corporate updates include: &lt;b&gt;Astellas&lt;/b&gt; rethinking its stem cell therapy strategy, &lt;b&gt;GSK&lt;/b&gt; expressing bullishness on its ADC plans, and &lt;b&gt;Daiichi Sankyo&lt;/b&gt; selling its OTC business. These moves reflect portfolio adjustments and strategic focuses in biopharma.&lt;/li&gt;
+  &lt;li&gt;&lt;b&gt;MoAs:&lt;/b&gt; N/A&lt;/li&gt;
+  &lt;li&gt;&lt;b&gt;Sources:&lt;/b&gt; &lt;a href="https://www.fiercepharma.com/pharma/astellas-stem-cell-therapy-rethink-gsk-bullish-adc-plan-daiichi-otc-sale"&gt;Fierce Pharma&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;</description>
+      <guid isPermaLink="false">18a4c350ed5cee0f69449f90673f58fc</guid>
+      <pubDate>Fri, 17 Apr 2026 22:06:01 GMT</pubDate>
+    </item>
+    <item>
+      <title>Trevi Therapeutics Funding</title>
+      <link>https://www.google.com</link>
+      <description>&lt;ul&gt;
+  &lt;li&gt;&lt;b&gt;Summary:&lt;/b&gt; &lt;b&gt;Trevi Therapeutics&lt;/b&gt; raised $150 million to establish a biotech fund supporting innovation in Spain and Boston, aiming to accelerate the development of novel therapies.&lt;/li&gt;
+  &lt;li&gt;&lt;b&gt;MoAs:&lt;/b&gt; N/A&lt;/li&gt;
+  &lt;li&gt;&lt;b&gt;Sources:&lt;/b&gt; &lt;a href="https://endpoints.news/trevi-raises-150m-spain-and-boston-set-up-biotech-fund/"&gt;Endpoints News&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;</description>
+      <guid isPermaLink="false">beacd96ad1af0b4d64b42819a6bf0c20</guid>
+      <pubDate>Fri, 17 Apr 2026 22:06:01 GMT</pubDate>
+    </item>
+    <item>
+      <title>Lilly Corporate Updates</title>
+      <link>https://www.google.com</link>
+      <description>&lt;ul&gt;
+  &lt;li&gt;&lt;b&gt;Summary:&lt;/b&gt; &lt;b&gt;Eli Lilly&lt;/b&gt; announced positive results from its oral weight loss pill trial, with potential to reduce clinical trial timelines in the UK. Separately, the company selected a leading candidate for its Nectin-4-targeting antibody-drug conjugate, advancing its oncology pipeline. These updates underscore Lilly's strategic focus on metabolic and cancer therapeutics.&lt;/li&gt;
+  &lt;li&gt;&lt;b&gt;MoAs:&lt;/b&gt; Oral weight loss pill: GLP-1 receptor agonist (e.g., orforglipron); Nectin-4 antibody-drug conjugate: Targets Nectin-4 for oncology.&lt;/li&gt;
+  &lt;li&gt;&lt;b&gt;Sources:&lt;/b&gt; &lt;a href="https://www.statnews.com/pharmalot/2026/04/17/lilly-weight-loss-pill-results-uk-slashing-clinical-trial-times/?utm_campaign=rss"&gt;STAT News&lt;/a&gt;, &lt;a href="https://www.oncologypipeline.com/apexonco/lilly-picks-its-nectin-4-conjugate-winner"&gt;ApexOnco&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;</description>
+      <guid isPermaLink="false">2a2533b46d53b7032e300bec739df8f0</guid>
+      <pubDate>Fri, 17 Apr 2026 22:06:01 GMT</pubDate>
+    </item>
+    <item>
+      <title>Novartis Corporate Updates</title>
+      <link>https://www.google.com</link>
+      <description>&lt;ul&gt;
+  &lt;li&gt;&lt;b&gt;Summary:&lt;/b&gt; &lt;b&gt;Novartis&lt;/b&gt; CEO &lt;b&gt;Vas Narasimhan&lt;/b&gt; joined the board of AI company &lt;b&gt;Anthropic&lt;/b&gt;, while &lt;b&gt;Structure Therapeutics&lt;/b&gt; appointed a new COO from &lt;b&gt;Metsera&lt;/b&gt;. These moves reflect corporate leadership shifts and cross-industry collaborations in the biotech sector.&lt;/li&gt;
+  &lt;li&gt;&lt;b&gt;MoAs:&lt;/b&gt; N/A&lt;/li&gt;
+  &lt;li&gt;&lt;b&gt;Sources:&lt;/b&gt; &lt;a href="https://endpoints.news/novartis-vas-narasimhan-heads-to-anthropics-board-structure-therapeutics-finds-coo-from-metsera/"&gt;Endpoints News&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;</description>
+      <guid isPermaLink="false">111bd880875043398f5219a52052894c</guid>
+      <pubDate>Fri, 17 Apr 2026 22:06:01 GMT</pubDate>
+    </item>
+    <item>
+      <title>Pharma CEO Pay</title>
+      <link>https://www.google.com</link>
+      <description>&lt;ul&gt;
+  &lt;li&gt;&lt;b&gt;Summary:&lt;/b&gt; An analysis of 2025 CEO compensation in the pharmaceutical industry reveals trends at major companies like &lt;b&gt;Eli Lilly&lt;/b&gt;, &lt;b&gt;Pfizer&lt;/b&gt;, &lt;b&gt;AbbVie&lt;/b&gt;, &lt;b&gt;GSK&lt;/b&gt;, and &lt;b&gt;Johnson &amp; Johnson&lt;/b&gt;. Pay packages reflect performance metrics and market dynamics, highlighting corporate governance aspects.&lt;/li&gt;
+  &lt;li&gt;&lt;b&gt;MoAs:&lt;/b&gt; N/A&lt;/li&gt;
+  &lt;li&gt;&lt;b&gt;Sources:&lt;/b&gt; &lt;a href="https://www.biopharmadive.com/news/pharma-ceo-pay-2025-lilly-pfizer-abbie-gsk-jnj/817774/"&gt;BioPharma Dive&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;</description>
+      <guid isPermaLink="false">dd15bf2772a07e95244a55f0c6ff8977</guid>
+      <pubDate>Fri, 17 Apr 2026 22:06:01 GMT</pubDate>
     </item>
   </channel>
 </rss>
