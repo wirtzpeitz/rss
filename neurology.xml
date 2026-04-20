@@ -6,15 +6,26 @@
     <description>News digest covering Neurology.</description>
     <atom:link href="https://www.google.com" rel="self" type="application/rss+xml"/>
     <item>
-      <title>Anti-Amyloid Alzheimer's Drugs Debate</title>
+      <title>UCB / Neurona Therapeutics Acquisition</title>
       <link>https://www.google.com</link>
       <description>&lt;ul&gt;
-  &lt;li&gt;&lt;b&gt;Summary:&lt;/b&gt; A Cochrane review questions the efficacy of anti-amyloid Alzheimer's drugs like &lt;b&gt;lecanemab&lt;/b&gt; and &lt;b&gt;aducanumab&lt;/b&gt;, describing their effects as "absent or trivial." This reignites the debate over the amyloid hypothesis, with immediate backlash from proponents and industry stakeholders, highlighting ongoing controversies in Alzheimer's treatment.&lt;/li&gt;
-  &lt;li&gt;&lt;b&gt;MoAs:&lt;/b&gt; Monoclonal antibodies targeting amyloid-beta plaques to reduce neurotoxicity in Alzheimer's disease.&lt;/li&gt;
-  &lt;li&gt;&lt;b&gt;Sources:&lt;/b&gt; &lt;a href="https://www.fiercepharma.com/pharma/absent-or-trivial-effects-anti-amyloid-alzheimers-drugs-called-question"&gt;Fierce Pharma&lt;/a&gt;, &lt;a href="https://endpoints.news/cochrane-review-dismissing-amyloid-drugs-draws-immediate-backlash/"&gt;Endpoints News&lt;/a&gt;, &lt;a href="https://www.statnews.com/2026/04/16/biotech-news-cochrane-review-reignites-alzheimers-amyloid-war/?utm_campaign=rss"&gt;STAT News&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;b&gt;Summary:&lt;/b&gt; &lt;b&gt;UCB&lt;/b&gt; is acquiring &lt;b&gt;Neurona Therapeutics&lt;/b&gt; for up to $1.15 billion, with $650 million upfront, to expand its epilepsy expertise with Neurona's cell therapy for drug-resistant epilepsy.&lt;/li&gt;
+  &lt;li&gt;&lt;b&gt;MoAs:&lt;/b&gt; N/A&lt;/li&gt;
+  &lt;li&gt;&lt;b&gt;Sources:&lt;/b&gt; &lt;a href="https://www.biospace.com/deals/ucb-elevates-epilepsy-expertise-with-up-to-1-15b-neurona-takeover"&gt;BioSpace&lt;/a&gt;, &lt;a href="https://endpoints.news/ucb-plots-epilepsy-expansion-with-650m-neurona-cell-therapy-acquisition/"&gt;Endpoints News&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;</description>
-      <guid isPermaLink="false">9f9db725a29aa74f505db700de8f7771</guid>
-      <pubDate>Thu, 16 Apr 2026 22:05:42 GMT</pubDate>
+      <guid isPermaLink="false">a668863e78ffa49ebee1c2a9fd460e21</guid>
+      <pubDate>Mon, 20 Apr 2026 22:09:29 GMT</pubDate>
+    </item>
+    <item>
+      <title>Neurogene Rett Syndrome Gene Therapy</title>
+      <link>https://www.google.com</link>
+      <description>&lt;ul&gt;
+  &lt;li&gt;&lt;b&gt;Summary:&lt;/b&gt; &lt;b&gt;Neurogene&lt;/b&gt; has hired a new Chief Commercial Officer as it prepares for the potential launch of its gene therapy for Rett syndrome, a rare neurological disorder. This strategic hire indicates advancing clinical development and commercial planning for the therapy.&lt;/li&gt;
+  &lt;li&gt;&lt;b&gt;MoAs:&lt;/b&gt; The gene therapy likely targets the MECP2 gene to restore function in Rett syndrome, utilizing viral vectors to deliver corrective genetic material.&lt;/li&gt;
+  &lt;li&gt;&lt;b&gt;Sources:&lt;/b&gt; &lt;a href='https://www.fiercepharma.com/marketing/neurogene-hires-new-cco-it-eyes-commercial-future-its-rett-gene-therapy'&gt;Fierce Pharma&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;</description>
+      <guid isPermaLink="false">f35cd3fe1aa51de4e16741e28dcaa691</guid>
+      <pubDate>Mon, 20 Apr 2026 22:09:29 GMT</pubDate>
     </item>
   </channel>
 </rss>
