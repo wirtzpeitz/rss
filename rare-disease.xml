@@ -6,15 +6,26 @@
     <description>News digest covering Rare Disease.</description>
     <atom:link href="https://www.google.com" rel="self" type="application/rss+xml"/>
     <item>
-      <title>Roche/Sarepta's Elevidys (Duchenne Gene Therapy)</title>
+      <title>Novo Nordisk / Sickle Cell Disease Therapy</title>
       <link>https://www.google.com</link>
       <description>&lt;ul&gt;
-  &lt;li&gt;&lt;b&gt;Summary:&lt;/b&gt; &lt;b&gt;Roche&lt;/b&gt; and &lt;b&gt;Sarepta&lt;/b&gt; are initiating a new Phase 3 trial for &lt;b&gt;Elevidys&lt;/b&gt; (delandistrogene moxeparvovec) in Europe after regulatory rejections. The gene therapy aims to treat Duchenne muscular dystrophy by delivering a micro-dystrophin gene to improve muscle function, with ongoing efforts to secure approval.&lt;/li&gt;
-  &lt;li&gt;&lt;b&gt;MoAs:&lt;/b&gt; Adeno-associated virus (AAV)-based gene therapy delivering a truncated dystrophin gene to compensate for mutations in the DMD gene.&lt;/li&gt;
-  &lt;li&gt;&lt;b&gt;Sources:&lt;/b&gt; &lt;a href="https://endpoints.news/roche-to-start-a-new-phase-3-trial-for-elevidys/"&gt;Endpoints News&lt;/a&gt;, &lt;a href="https://www.biopharmadive.com/news/roche-elevidys-europe-trial-duchenne-gene-therapy-sarepta/817674/"&gt;BioPharma Dive&lt;/a&gt;, &lt;a href="https://www.fiercepharma.com/pharma/roche-launch-another-elevidys-study-after-eu-rejection-duchenne-gene-therapy"&gt;Fierce Pharma&lt;/a&gt;, &lt;a href="https://www.statnews.com/2026/04/16/roche-elevidys-pivotal-trial-europe-sarepta/?utm_campaign=rss"&gt;STAT News&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;b&gt;Summary:&lt;/b&gt; &lt;b&gt;Novo Nordisk&lt;/b&gt; achieved a Phase 3 win for its sickle cell disease therapy, acquired from &lt;b&gt;Forma Therapeutics&lt;/b&gt;, positioning it for approval in an $11 billion market. However, the data reportedly lag behind expectations, increasing competitive pressure.&lt;/li&gt;
+  &lt;li&gt;&lt;b&gt;MoAs:&lt;/b&gt; N/A&lt;/li&gt;
+  &lt;li&gt;&lt;b&gt;Sources:&lt;/b&gt; &lt;a href="https://www.biospace.com/drug-development/novos-late-stage-sickle-cell-win-piles-pressure-on-competitors"&gt;BioSpace&lt;/a&gt;, &lt;a href="https://www.fiercebiotech.com/biotech/novo-readies-scd-drug-11b-forma-buy-approval-push-after-phase-3-win"&gt;Fierce Biotech&lt;/a&gt;, &lt;a href="https://endpoints.news/novo-nordisks-sickle-cell-therapy-hits-in-phase-3-but-data-lag-expectations/"&gt;Endpoints News&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;</description>
-      <guid isPermaLink="false">0c6ecbf5c61bcb682f14d547381b7748</guid>
-      <pubDate>Thu, 16 Apr 2026 22:05:42 GMT</pubDate>
+      <guid isPermaLink="false">4c24f1c7bb4dbfba4cb0d4a8e57923ff</guid>
+      <pubDate>Mon, 20 Apr 2026 22:09:29 GMT</pubDate>
+    </item>
+    <item>
+      <title>Genentech Hemlibra Marketing</title>
+      <link>https://www.google.com</link>
+      <description>&lt;ul&gt;
+  &lt;li&gt;&lt;b&gt;Summary:&lt;/b&gt; &lt;b&gt;Genentech&lt;/b&gt; is shifting its marketing focus for &lt;b&gt;Hemlibra&lt;/b&gt; (emicizumab) towards patient stories as competition in the hemophilia treatment landscape approaches.&lt;/li&gt;
+  &lt;li&gt;&lt;b&gt;MoAs:&lt;/b&gt; Hemlibra (emicizumab) is a bispecific monoclonal antibody that binds to activated factor IX and factor X, mimicking the function of factor VIII to prevent bleeding in hemophilia A patients.&lt;/li&gt;
+  &lt;li&gt;&lt;b&gt;Sources:&lt;/b&gt; &lt;a href="https://www.fiercepharma.com/marketing/genentech-shifts-hemlibra-marketing-focus-patient-stories-competition-approaches"&gt;Fierce Pharma&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;</description>
+      <guid isPermaLink="false">668a4d435d778775f6e8d59eec770d64</guid>
+      <pubDate>Mon, 20 Apr 2026 22:09:29 GMT</pubDate>
     </item>
   </channel>
 </rss>
