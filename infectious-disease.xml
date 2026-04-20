@@ -6,15 +6,15 @@
     <description>News digest covering Infectious Disease.</description>
     <atom:link href="https://www.google.com" rel="self" type="application/rss+xml"/>
     <item>
-      <title>Biovac Vaccine Factory</title>
+      <title>Sanofi Nuvaxovid COVID-19 Vaccine</title>
       <link>https://www.google.com</link>
       <description>&lt;ul&gt;
-  &lt;li&gt;&lt;b&gt;Summary:&lt;/b&gt; &lt;b&gt;Biovac&lt;/b&gt; secured $108 million in funding to establish a vaccine manufacturing facility in South Africa, aimed at boosting local production capacity for vaccines targeting infectious diseases. This investment supports global health security and vaccine accessibility.&lt;/li&gt;
-  &lt;li&gt;&lt;b&gt;MoAs:&lt;/b&gt; N/A&lt;/li&gt;
-  &lt;li&gt;&lt;b&gt;Sources:&lt;/b&gt; &lt;a href="https://endpoints.news/biovac-gets-108m-backing-for-vaccine-factory-in-south-africa/"&gt;Endpoints News&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;b&gt;Summary:&lt;/b&gt; &lt;b&gt;Sanofi&lt;/b&gt; is promoting the tolerability of its COVID-19 vaccine &lt;b&gt;Nuvaxovid&lt;/b&gt; based on a head-to-head trial against &lt;b&gt;Moderna&lt;/b&gt;'s mRNA vaccine. The data suggests comparable or improved safety profiles, potentially positioning Nuvaxovid as a viable alternative in the vaccine market.&lt;/li&gt;
+  &lt;li&gt;&lt;b&gt;MoAs:&lt;/b&gt; Nuvaxovid is a protein subunit vaccine that uses recombinant SARS-CoV-2 spike protein to elicit an immune response against COVID-19.&lt;/li&gt;
+  &lt;li&gt;&lt;b&gt;Sources:&lt;/b&gt; &lt;a href='https://www.fiercepharma.com/pharma/sanofi-touts-tolerability-covid-shot-nuvaxovid-head-head-trial-vs-modernas-mnexspike'&gt;Fierce Pharma&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;</description>
-      <guid isPermaLink="false">835cf7be380fddf27ecdb164b76bc213</guid>
-      <pubDate>Fri, 17 Apr 2026 22:06:01 GMT</pubDate>
+      <guid isPermaLink="false">4ad69c65126bea8d1d7c08dc06982f32</guid>
+      <pubDate>Mon, 20 Apr 2026 22:09:29 GMT</pubDate>
     </item>
   </channel>
 </rss>
