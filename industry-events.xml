@@ -6,70 +6,81 @@
     <description>News digest covering Industry Events.</description>
     <atom:link href="https://www.google.com" rel="self" type="application/rss+xml"/>
     <item>
-      <title>FDA Policy &amp; Transparency</title>
+      <title>Trump Executive Order on Psychedelics</title>
       <link>https://www.google.com</link>
       <description>&lt;ul&gt;
-  &lt;li&gt;&lt;b&gt;Summary:&lt;/b&gt; The FDA is urged to increase transparency and bolster evidence requirements for accelerated drug approvals, as highlighted in a report from ICER. This call aims to ensure robust data for patient safety and efficacy post-approval in the regulatory landscape.&lt;/li&gt;
-  &lt;li&gt;&lt;b&gt;MoAs:&lt;/b&gt; N/A&lt;/li&gt;
-  &lt;li&gt;&lt;b&gt;Sources:&lt;/b&gt; &lt;a href="https://www.fiercepharma.com/pharma/fda-should-increase-transparency-and-bolster-evidence-needed-accelerated-drug-approvals-icer"&gt;Fierce Pharma&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;b&gt;Summary:&lt;/b&gt; President Trump signed an executive order directing the &lt;b&gt;FDA&lt;/b&gt; to expedite development and review of psychedelic drugs for mental health conditions like PTSD, following lobbying efforts. Advocates hail the move for boosting research, but concerns arise about politicizing science.&lt;/li&gt;
+  &lt;li&gt;&lt;b&gt;MoAs:&lt;/b&gt; Psilocybin: 5-HT2A receptor agonist; MDMA: monoamine release enhancer; Ibogaine: NMDA receptor antagonist&lt;/li&gt;
+  &lt;li&gt;&lt;b&gt;Sources:&lt;/b&gt; &lt;a href="https://endpoints.news/trump-fda-plan-to-expedite-psychedelic-development/"&gt;Endpoints News&lt;/a&gt;, &lt;a href="https://www.statnews.com/2026/04/20/trump-eo-psychedelics-advocates-hail-executive-order-fret-politicized-science/?utm_campaign=rss"&gt;STAT News&lt;/a&gt;, &lt;a href="https://www.statnews.com/2026/04/20/trump-executive-order-psychedelics-republicans-veterans-ibogaine/?utm_campaign=rss"&gt;STAT News&lt;/a&gt;, &lt;a href="https://www.fiercepharma.com/biotech/trump-orders-fda-fast-track-reviews-psychedelic-drugs-after-lobbying-podcaster"&gt;Fierce Pharma&lt;/a&gt;, &lt;a href="https://www.biospace.com/policy/trump-throws-support-behind-psychedelics-with-executive-order"&gt;BioSpace&lt;/a&gt;, &lt;a href="https://www.statnews.com/2026/04/18/psychedelics-ptsd-mental-health-research-boost-from-trump-executive-order/?utm_campaign=rss"&gt;STAT News&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;</description>
-      <guid isPermaLink="false">c383c0a3e93b61518ef90c9ef636f466</guid>
-      <pubDate>Fri, 17 Apr 2026 22:06:01 GMT</pubDate>
+      <guid isPermaLink="false">294aad002c43e00329c80028f749984a</guid>
+      <pubDate>Mon, 20 Apr 2026 22:09:29 GMT</pubDate>
     </item>
     <item>
-      <title>OpenAI's Rosalind AI Model</title>
+      <title>PBMs &amp; Price Transparency</title>
       <link>https://www.google.com</link>
       <description>&lt;ul&gt;
-  &lt;li&gt;&lt;b&gt;Summary:&lt;/b&gt; &lt;b&gt;OpenAI&lt;/b&gt; introduced &lt;b&gt;Rosalind&lt;/b&gt;, a biotech-specific AI model based on GPT, designed to assist in drug discovery and research by analyzing biological data. This launch advances AI applications in the pharmaceutical industry.&lt;/li&gt;
+  &lt;li&gt;&lt;b&gt;Summary:&lt;/b&gt; Pharmacy Benefit Managers (PBMs) are facing increased scrutiny and legal challenges over price transparency regulations, including the No Surprises Act. Industry lobbyists are opposing reform proposals, highlighting ongoing debates about drug pricing and healthcare costs in the U.S.&lt;/li&gt;
   &lt;li&gt;&lt;b&gt;MoAs:&lt;/b&gt; N/A&lt;/li&gt;
-  &lt;li&gt;&lt;b&gt;Sources:&lt;/b&gt; &lt;a href="https://www.fiercebiotech.com/biotech/openai-launches-biotech-specific-ai-model-gpt-rosalind"&gt;Fierce Biotech&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;b&gt;Sources:&lt;/b&gt; &lt;a href='https://www.statnews.com/2026/04/20/pbms-push-back-price-transparency-no-surprises-act-lawsuits/?utm_campaign=rss'&gt;Stat News&lt;/a&gt;, &lt;a href='https://www.statnews.com/2026/04/20/pbm-reform-proposal-draws-lobbyist-opposition/?utm_campaign=rss'&gt;Stat News&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;</description>
-      <guid isPermaLink="false">c35cdb54254af27cd797827a7b3c5932</guid>
-      <pubDate>Fri, 17 Apr 2026 22:06:01 GMT</pubDate>
+      <guid isPermaLink="false">3821ea91f6aefc4854c03b1161c2d303</guid>
+      <pubDate>Mon, 20 Apr 2026 22:09:29 GMT</pubDate>
     </item>
     <item>
-      <title>BIO Industry Marketing Campaign</title>
+      <title>Zai Lab / China Biotech</title>
       <link>https://www.google.com</link>
       <description>&lt;ul&gt;
-  &lt;li&gt;&lt;b&gt;Summary:&lt;/b&gt; The Biotechnology Innovation Organization (&lt;b&gt;BIO&lt;/b&gt;) launched a marketing campaign called "Fight for Our Lives" to celebrate its 50th anniversary and advocate for the biopharma industry. The initiative aims to improve public perception and emphasize the industry's role in healthcare innovation.&lt;/li&gt;
+  &lt;li&gt;&lt;b&gt;Summary:&lt;/b&gt; &lt;b&gt;Zai Lab&lt;/b&gt; provides a reality check on China's biotech ascent, discussing the challenges and opportunities in going global, as highlighted at events like AACR.&lt;/li&gt;
   &lt;li&gt;&lt;b&gt;MoAs:&lt;/b&gt; N/A&lt;/li&gt;
-  &lt;li&gt;&lt;b&gt;Sources:&lt;/b&gt; &lt;a href="https://www.fiercepharma.com/marketing/bio-comes-out-swinging-fight-our-lives-campaign-industrys-50th-birthday"&gt;Fierce Pharma&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;b&gt;Sources:&lt;/b&gt; &lt;a href="https://www.fiercebiotech.com/biotech/aacr-endeavoring-go-global-zai-lab-offers-reality-check-chinas-biotech-ascent"&gt;Fierce Biotech&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;</description>
-      <guid isPermaLink="false">c079d4d569cff600149adbae520d14e2</guid>
-      <pubDate>Fri, 17 Apr 2026 22:06:01 GMT</pubDate>
+      <guid isPermaLink="false">084af5e2cffb279ecd452a99bd96b876</guid>
+      <pubDate>Mon, 20 Apr 2026 22:09:29 GMT</pubDate>
     </item>
     <item>
-      <title>CDC Leadership</title>
+      <title>Robert F. Kennedy Jr. (RFK Jr.) &amp; HHS</title>
       <link>https://www.google.com</link>
       <description>&lt;ul&gt;
-  &lt;li&gt;&lt;b&gt;Summary:&lt;/b&gt; The nomination of &lt;b&gt;Dr. Schwartz&lt;/b&gt; as the new &lt;b&gt;CDC&lt;/b&gt; director has garnered praise from public health experts, alongside other leadership appointments under the Trump administration. These changes aim to address challenges at the agency, influencing public health policy and oversight.&lt;/li&gt;
+  &lt;li&gt;&lt;b&gt;Summary:&lt;/b&gt; Robert F. Kennedy Jr. defends his tenure at the Department of Health and Human Services (HHS) and addresses proposed budget cuts, impacting public health initiatives.&lt;/li&gt;
   &lt;li&gt;&lt;b&gt;MoAs:&lt;/b&gt; N/A&lt;/li&gt;
-  &lt;li&gt;&lt;b&gt;Sources:&lt;/b&gt; &lt;a href="https://endpoints.news/new-cdc-pick-schwartz-is-praised-by-public-health-pros/"&gt;Endpoints News&lt;/a&gt;, &lt;a href="https://www.biospace.com/policy/trump-nominates-new-cdc-director-appoints-various-leaders-to-embattled-agency"&gt;Biospace&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;b&gt;Sources:&lt;/b&gt; &lt;a href="https://www.biopharmadive.com/news/robert-f-kennedy-jr-rfk-jr-defends-hhs-tenure-proposed-budget-cut/817975/"&gt;BioPharma Dive&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;</description>
-      <guid isPermaLink="false">385195345cdb1d01363cfea9a33709b0</guid>
-      <pubDate>Fri, 17 Apr 2026 22:06:01 GMT</pubDate>
+      <guid isPermaLink="false">7ff082832694a81b2b6c9a719640bafe</guid>
+      <pubDate>Mon, 20 Apr 2026 22:09:29 GMT</pubDate>
     </item>
     <item>
-      <title>European Biotech Funding</title>
+      <title>Breakthrough Prize for Gene Therapy Pioneers</title>
       <link>https://www.google.com</link>
       <description>&lt;ul&gt;
-  &lt;li&gt;&lt;b&gt;Summary:&lt;/b&gt; Funding initiatives are being explored to support the growth of European biotechnology, focusing on investment strategies to sustain innovation and competitiveness in the region's life sciences sector.&lt;/li&gt;
+  &lt;li&gt;&lt;b&gt;Summary:&lt;/b&gt; Three pioneers in gene therapy have been awarded the Breakthrough Prize, recognizing their contributions to advancing this transformative field.&lt;/li&gt;
   &lt;li&gt;&lt;b&gt;MoAs:&lt;/b&gt; N/A&lt;/li&gt;
-  &lt;li&gt;&lt;b&gt;Sources:&lt;/b&gt; &lt;a href="https://www.biospace.com/drug-delivery/funding-the-future-of-european-biotech"&gt;Biospace&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;b&gt;Sources:&lt;/b&gt; &lt;a href="https://endpoints.news/three-gene-therapy-pioneers-just-won-the-breakthrough-prize-this-is-their-story/"&gt;Endpoints News&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;</description>
-      <guid isPermaLink="false">169ca3736e506dc882803b4dbd0abff0</guid>
-      <pubDate>Fri, 17 Apr 2026 22:06:01 GMT</pubDate>
+      <guid isPermaLink="false">7ad9d3aff486c970d777822a73d16d9c</guid>
+      <pubDate>Mon, 20 Apr 2026 22:09:29 GMT</pubDate>
     </item>
     <item>
-      <title>General Policy &amp; Opinion (Discarded)</title>
+      <title>General Industry Commentary (Conditional Keep - Author Adam Feuerstein)</title>
       <link>https://www.google.com</link>
       <description>&lt;ul&gt;
-  &lt;li&gt;&lt;b&gt;Summary:&lt;/b&gt; This theme covers general policy and opinion topics related to the biopharma industry, but no specific articles were provided for detailed synthesis.&lt;/li&gt;
+  &lt;li&gt;&lt;b&gt;Summary:&lt;/b&gt; Adam Feuerstein provides commentary on the biotech industry, highlighting positive trends and encouraging optimism in the sector.&lt;/li&gt;
   &lt;li&gt;&lt;b&gt;MoAs:&lt;/b&gt; N/A&lt;/li&gt;
-  &lt;li&gt;&lt;b&gt;Sources:&lt;/b&gt; &lt;/li&gt;
+  &lt;li&gt;&lt;b&gt;Sources:&lt;/b&gt; &lt;a href="https://www.statnews.com/2026/04/20/biotech-has-become-a-good-news-story-let-the-sun-shine"&gt;STAT News&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;</description>
-      <guid isPermaLink="false">b718e74de50cab535ed6a4e212c9878b</guid>
-      <pubDate>Fri, 17 Apr 2026 22:06:01 GMT</pubDate>
+      <guid isPermaLink="false">f5d4d07b42f99047db839ec7c7c1d504</guid>
+      <pubDate>Mon, 20 Apr 2026 22:09:29 GMT</pubDate>
+    </item>
+    <item>
+      <title>General Policy &amp; Public Health (Discarded Themes)</title>
+      <link>https://www.google.com</link>
+      <description>&lt;ul&gt;
+  &lt;li&gt;&lt;b&gt;Summary:&lt;/b&gt; This theme encompasses various articles on public health issues, including the effects of weed on adolescent brains, transgender care policies, measles risks for immunocompromised children, falling teen birth rates, animal testing concerns, and reactions to the CDC director nominee.&lt;/li&gt;
+  &lt;li&gt;&lt;b&gt;MoAs:&lt;/b&gt; N/A&lt;/li&gt;
+  &lt;li&gt;&lt;b&gt;Sources:&lt;/b&gt; &lt;a href="https://www.statnews.com/2026/04/20/health-news-how-weed-affects-adolescent-brains/?utm_campaign=rss"&gt;STAT News&lt;/a&gt;, &lt;a href="https://www.statnews.com/2026/04/20/transgender-adults-caught-in-youth-gender-affirming-care-policies/?utm_campaign=rss"&gt;STAT News&lt;/a&gt;, &lt;a href="https://www.statnews.com/2026/04/20/immunocompromised-children-measles-return-mmr-community/?utm_campaign=rss"&gt;STAT News&lt;/a&gt;, &lt;a href="https://www.statnews.com/2026/04/20/teen-birth-rates-falling-abortion-birth-control-policy/?utm_campaign=rss"&gt;STAT News&lt;/a&gt;, &lt;a href="https://www.statnews.com/pharmalot/2026/04/20/animal-testing-peta-questions-pfizer-research-monkey-health/?utm_campaign=rss"&gt;STAT News&lt;/a&gt;, &lt;a href="https://www.statnews.com/2026/04/18/erica-schwartz-cdc-director-nominee-reaction-cautious-optimism/?utm_campaign=rss"&gt;STAT News&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;</description>
+      <guid isPermaLink="false">affa29cad0c2bbf996df0d6a286d6e5a</guid>
+      <pubDate>Mon, 20 Apr 2026 22:09:29 GMT</pubDate>
     </item>
   </channel>
 </rss>
