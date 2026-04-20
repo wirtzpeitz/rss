@@ -6,37 +6,70 @@
     <description>News digest covering Oncology.</description>
     <atom:link href="https://www.google.com" rel="self" type="application/rss+xml"/>
     <item>
-      <title>Merck PD-1/VEGF Bispecific (MK-1308A)</title>
+      <title>AACR 2026 Conference</title>
       <link>https://www.google.com</link>
       <description>&lt;ul&gt;
-  &lt;li&gt;&lt;b&gt;Summary:&lt;/b&gt; &lt;b&gt;Merck&lt;/b&gt; presented early clinical data for its bispecific antibody &lt;b&gt;MK-1308A&lt;/b&gt;, targeting PD-1 and VEGF, in non-small cell lung cancer (NSCLC) at AACR. The data showed promising antitumor activity, though phase 3 plans remain undisclosed. This agent combines immune checkpoint inhibition with anti-angiogenesis for enhanced efficacy in oncology.&lt;/li&gt;
-  &lt;li&gt;&lt;b&gt;MoAs:&lt;/b&gt; MK-1308A is a bispecific antibody that blocks PD-1 to enhance T-cell-mediated immune response and inhibits VEGF to reduce tumor angiogenesis.&lt;/li&gt;
-  &lt;li&gt;&lt;b&gt;Sources:&lt;/b&gt; &lt;a href="https://www.fiercebiotech.com/biotech/merck-debuts-pd-1xvegf-bispecific-data-nsclc-remains-tight-lipped-phase-3-plans"&gt;Fierce Biotech&lt;/a&gt;, &lt;a href="https://www.biospace.com/drug-development/mercks-pd-1-vegf-data-star-in-stacked-lineup-of-aacr-26-data-reveals"&gt;BioSpace&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;b&gt;Summary:&lt;/b&gt; At the &lt;b&gt;AACR 2026&lt;/b&gt; conference, key oncology data were presented, including updated results for &lt;b&gt;Carvykti&lt;/b&gt; (ciltacabtagene autoleucel) in smoldering multiple myeloma and strong efficacy for &lt;b&gt;Revolution Medicines&lt;/b&gt;' KRAS inhibitor &lt;b&gt;zoldonrasib&lt;/b&gt;. Insights into targets like CCR8 and VEGF highlighted advances in CAR-T and targeted therapies.&lt;/li&gt;
+  &lt;li&gt;&lt;b&gt;MoAs:&lt;/b&gt; Carvykti: BCMA-directed CAR-T cell therapy; zoldonrasib: KRAS G12C inhibitor&lt;/li&gt;
+  &lt;li&gt;&lt;b&gt;Sources:&lt;/b&gt; &lt;a href="https://www.statnews.com/2026/04/20/aacr-2026-car-t-trial-results-carvykti-smoldering-multiple-myeloma/?utm_campaign=rss"&gt;STAT News&lt;/a&gt;, &lt;a href="https://www.biopharmadive.com/news/aacr-2026-revolution-zoldonrasib-merck-vegf-nuvalent-nuvation/817916/"&gt;BioPharma Dive&lt;/a&gt;, &lt;a href="https://www.oncologypipeline.com/apexonco/aacr-2026-ccr8-reality-check"&gt;ApexOnco&lt;/a&gt;, &lt;a href="https://www.oncologypipeline.com/apexonco/aacr-2026-circles-focus-narrows"&gt;ApexOnco&lt;/a&gt;, &lt;a href="https://www.oncologypipeline.com/apexonco/aacr-2026-revolutions-second-project-impresses-again"&gt;ApexOnco&lt;/a&gt;, &lt;a href="https://www.statnews.com/2026/04/19/aacr-2026-strong-data-for-revolution-medicines-kras-drug/?utm_campaign=rss"&gt;STAT News&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;</description>
-      <guid isPermaLink="false">932cc4077ac8192c7925d2353199be65</guid>
-      <pubDate>Fri, 17 Apr 2026 22:06:01 GMT</pubDate>
+      <guid isPermaLink="false">8cb82c48e49b07a8f232be6b40a6c78b</guid>
+      <pubDate>Mon, 20 Apr 2026 22:09:29 GMT</pubDate>
     </item>
     <item>
-      <title>Revolution Medicines (Daraxonrasib/RMC-6236)</title>
+      <title>Revolution Medicines / KRAS Inhibitors</title>
       <link>https://www.google.com</link>
       <description>&lt;ul&gt;
-  &lt;li&gt;&lt;b&gt;Summary:&lt;/b&gt; &lt;b&gt;Revolution Medicines&lt;/b&gt; reported positive data for &lt;b&gt;RMC-6236&lt;/b&gt; (daraxonrasib), a pan-RAS inhibitor, in pancreatic cancer, leading to a stock surge and buyout speculation. The data underscore the potential of targeting RAS mutations, a common driver in cancers.&lt;/li&gt;
-  &lt;li&gt;&lt;b&gt;MoAs:&lt;/b&gt; RMC-6236 is a small molecule inhibitor that covalently binds to mutant KRAS proteins, blocking downstream signaling pathways involved in cell proliferation and survival.&lt;/li&gt;
-  &lt;li&gt;&lt;b&gt;Sources:&lt;/b&gt; &lt;a href="https://endpoints.news/aacr26-preview-revolution-medicines-the-ras-bonanza-and-china-adc-standouts/"&gt;Endpoints News&lt;/a&gt;, &lt;a href="https://endpoints.news/revolution-medicines-buyout-price-soars-after-pancreatic-cancer-win/"&gt;Endpoints News&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;b&gt;Summary:&lt;/b&gt; &lt;b&gt;Revolution Medicines&lt;/b&gt; continues to advance its KRAS inhibitors, with &lt;b&gt;daraxonrasib&lt;/b&gt; showing promise in pancreatic cancer and lung cancer. The development underscores progress in targeting previously undruggable KRAS mutations.&lt;/li&gt;
+  &lt;li&gt;&lt;b&gt;MoAs:&lt;/b&gt; Daraxonrasib: KRAS G12D inhibitor&lt;/li&gt;
+  &lt;li&gt;&lt;b&gt;Sources:&lt;/b&gt; &lt;a href="https://www.statnews.com/2026/04/20/biotech-news-finally-cracking-kras-as-a-druggable-target/?utm_campaign=rss"&gt;STAT News&lt;/a&gt;, &lt;a href="https://www.statnews.com/2026/04/19/daraxonrasib-pancreatic-cancer-kras-revolution-medicines-patient-story/?utm_campaign=rss"&gt;STAT News&lt;/a&gt;, &lt;a href="https://endpoints.news/kras-drugmakers-take-another-better-swing-at-lung-cancer/"&gt;Endpoints News&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;</description>
-      <guid isPermaLink="false">3c8b99d81f8d0b80ee789188beb480fe</guid>
-      <pubDate>Fri, 17 Apr 2026 22:06:01 GMT</pubDate>
+      <guid isPermaLink="false">c3bc4ec8386d1ee505afb1a034b029d2</guid>
+      <pubDate>Mon, 20 Apr 2026 22:09:29 GMT</pubDate>
     </item>
     <item>
-      <title>Replimune FDA Dispute</title>
+      <title>Agenus Cancer Cocktail Trial</title>
       <link>https://www.google.com</link>
       <description>&lt;ul&gt;
-  &lt;li&gt;&lt;b&gt;Summary:&lt;/b&gt; &lt;b&gt;Replimune&lt;/b&gt; is challenging the &lt;b&gt;FDA&lt;/b&gt; over regulatory flexibility for its oncolytic virus therapies, arguing for tailored approval pathways. This dispute occurs amid public debate on FDA stringency, impacting the development of cancer immunotherapies like &lt;b&gt;RP1&lt;/b&gt;.&lt;/li&gt;
-  &lt;li&gt;&lt;b&gt;MoAs:&lt;/b&gt; &lt;b&gt;Replimune's oncolytic viruses (e.g., RP1)&lt;/b&gt;: Engineered to selectively replicate in and lyse cancer cells while stimulating anti-tumor immune responses.&lt;/li&gt;
-  &lt;li&gt;&lt;b&gt;Sources:&lt;/b&gt; &lt;a href="https://www.biospace.com/fda/replimune-cries-foul-on-regulatory-flexibility-but-many-americans-want-a-stricter-fda"&gt;Biospace&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;b&gt;Summary:&lt;/b&gt; &lt;b&gt;Agenus&lt;/b&gt; reported that its cancer cocktail trial recorded a 0% response rate, missing the primary endpoint, but the company is focusing on survival data for further analysis.&lt;/li&gt;
+  &lt;li&gt;&lt;b&gt;MoAs:&lt;/b&gt; N/A&lt;/li&gt;
+  &lt;li&gt;&lt;b&gt;Sources:&lt;/b&gt; &lt;a href="https://www.biospace.com/drug-development/agenus-cancer-cocktail-records-0-response-rate-missing-midstage-goal"&gt;BioSpace&lt;/a&gt;, &lt;a href="https://www.fiercebiotech.com/biotech/agenus-focuses-survival-data-0-response-rate-triggers-primary-miss"&gt;Fierce Biotech&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;</description>
-      <guid isPermaLink="false">17f99dd80cd71d229371b4be7163dde7</guid>
-      <pubDate>Fri, 17 Apr 2026 22:06:01 GMT</pubDate>
+      <guid isPermaLink="false">3936619e3435577c9a922815b58ea195</guid>
+      <pubDate>Mon, 20 Apr 2026 22:09:29 GMT</pubDate>
+    </item>
+    <item>
+      <title>Novartis Pipeline Cuts</title>
+      <link>https://www.google.com</link>
+      <description>&lt;ul&gt;
+  &lt;li&gt;&lt;b&gt;Summary:&lt;/b&gt; &lt;b&gt;Novartis&lt;/b&gt; has discontinued two research programs aimed at cancer-related blood clots, as reported by Endpoints News. This pipeline refinement likely reflects strategic realignment or unfavorable clinical data in the thrombosis-oncology intersection.&lt;/li&gt;
+  &lt;li&gt;&lt;b&gt;MoAs:&lt;/b&gt; N/A&lt;/li&gt;
+  &lt;li&gt;&lt;b&gt;Sources:&lt;/b&gt; &lt;a href='https://endpoints.news/novartis-cuts-two-programs-in-cancer-related-blood-clots/'&gt;Endpoints News&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;</description>
+      <guid isPermaLink="false">02b45ad6b9177dbfe4bedbf84dd2933b</guid>
+      <pubDate>Mon, 20 Apr 2026 22:09:29 GMT</pubDate>
+    </item>
+    <item>
+      <title>Gilead / Arcus TIGIT Option Decline</title>
+      <link>https://www.google.com</link>
+      <description>&lt;ul&gt;
+  &lt;li&gt;&lt;b&gt;Summary:&lt;/b&gt; &lt;b&gt;Gilead&lt;/b&gt; has declined an option on a &lt;b&gt;TIGIT&lt;/b&gt; inhibitor from &lt;b&gt;Arcus&lt;/b&gt; following a phase 3 clinical trial failure in cancer immunotherapy. This decision reflects setbacks in the development of TIGIT-targeted therapies, which aim to enhance anti-tumor immune responses.&lt;/li&gt;
+  &lt;li&gt;&lt;b&gt;MoAs:&lt;/b&gt; TIGIT inhibitors, such as those from Arcus (e.g., domvanalimab), block the TIGIT receptor to prevent immune suppression and promote T-cell activity against tumors.&lt;/li&gt;
+  &lt;li&gt;&lt;b&gt;Sources:&lt;/b&gt; &lt;a href='https://endpoints.news/gilead-declines-another-arcus-option-after-phase-3-tigit-fail/'&gt;Endpoints News&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;</description>
+      <guid isPermaLink="false">9eb332fefa572466a4d87a26931ac5b5</guid>
+      <pubDate>Mon, 20 Apr 2026 22:09:29 GMT</pubDate>
+    </item>
+    <item>
+      <title>Merck PD-1/VEGF Data</title>
+      <link>https://www.google.com</link>
+      <description>&lt;ul&gt;
+  &lt;li&gt;&lt;b&gt;Summary:&lt;/b&gt; &lt;b&gt;Merck&lt;/b&gt; has released early data on a combination of a &lt;b&gt;PD-1&lt;/b&gt; inhibitor (likely pembrolizumab) and a &lt;b&gt;VEGF&lt;/b&gt; inhibitor for lung cancer, showing competitive efficacy. However, upcoming summits may present challenges as the landscape evolves with new competitors.&lt;/li&gt;
+  &lt;li&gt;&lt;b&gt;MoAs:&lt;/b&gt; PD-1 inhibitors (e.g., pembrolizumab) block the PD-1 receptor to enhance T-cell-mediated tumor killing; VEGF inhibitors (e.g., lenvatinib) block vascular endothelial growth factor to inhibit tumor angiogenesis.&lt;/li&gt;
+  &lt;li&gt;&lt;b&gt;Sources:&lt;/b&gt; &lt;a href='https://www.biospace.com/drug-development/mercks-early-pd-1-vegf-data-competitive-in-lung-cancer-but-summit-looms-large'&gt;BioSpace&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;</description>
+      <guid isPermaLink="false">24509f48662fae000557c9b3e8cab164</guid>
+      <pubDate>Mon, 20 Apr 2026 22:09:29 GMT</pubDate>
     </item>
   </channel>
 </rss>
