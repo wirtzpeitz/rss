@@ -6,26 +6,37 @@
     <description>News digest covering Rare Disease.</description>
     <atom:link href="https://www.google.com" rel="self" type="application/rss+xml"/>
     <item>
-      <title>Novo Nordisk / Sickle Cell Disease Therapy</title>
+      <title>Gene Therapy for Deafness (OTOF)</title>
       <link>https://www.google.com</link>
       <description>&lt;ul&gt;
-  &lt;li&gt;&lt;b&gt;Summary:&lt;/b&gt; &lt;b&gt;Novo Nordisk&lt;/b&gt; achieved a Phase 3 win for its sickle cell disease therapy, acquired from &lt;b&gt;Forma Therapeutics&lt;/b&gt;, positioning it for approval in an $11 billion market. However, the data reportedly lag behind expectations, increasing competitive pressure.&lt;/li&gt;
-  &lt;li&gt;&lt;b&gt;MoAs:&lt;/b&gt; N/A&lt;/li&gt;
-  &lt;li&gt;&lt;b&gt;Sources:&lt;/b&gt; &lt;a href="https://www.biospace.com/drug-development/novos-late-stage-sickle-cell-win-piles-pressure-on-competitors"&gt;BioSpace&lt;/a&gt;, &lt;a href="https://www.fiercebiotech.com/biotech/novo-readies-scd-drug-11b-forma-buy-approval-push-after-phase-3-win"&gt;Fierce Biotech&lt;/a&gt;, &lt;a href="https://endpoints.news/novo-nordisks-sickle-cell-therapy-hits-in-phase-3-but-data-lag-expectations/"&gt;Endpoints News&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;b&gt;Summary:&lt;/b&gt; A gene therapy targeting the &lt;b&gt;OTOF&lt;/b&gt; gene has demonstrated impressive results in a clinical trial for hereditary deafness. This approach uses viral vectors to deliver functional copies of the gene, restoring hearing in patients with OTOF mutations, marking a breakthrough in genetic medicine.&lt;/li&gt;
+  &lt;li&gt;&lt;b&gt;MoAs:&lt;/b&gt; The gene therapy uses adeno-associated virus (AAV) vectors to deliver the OTOF gene to inner ear cells, enabling production of otoferlin protein essential for auditory signal transmission.&lt;/li&gt;
+  &lt;li&gt;&lt;b&gt;Sources:&lt;/b&gt; &lt;a href="https://www.statnews.com/2026/04/22/gene-therapy-deafness-otof-gene-targeted-impressive-trial-results/?utm_campaign=rss"&gt;STAT News&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;</description>
-      <guid isPermaLink="false">4c24f1c7bb4dbfba4cb0d4a8e57923ff</guid>
-      <pubDate>Mon, 20 Apr 2026 22:09:29 GMT</pubDate>
+      <guid isPermaLink="false">87c3afa37fdff7400d53a29b36b26611</guid>
+      <pubDate>Wed, 22 Apr 2026 22:07:02 GMT</pubDate>
     </item>
     <item>
-      <title>Genentech Hemlibra Marketing</title>
+      <title>Ionis Antisense Drug (Ultra-Rare Disease)</title>
       <link>https://www.google.com</link>
       <description>&lt;ul&gt;
-  &lt;li&gt;&lt;b&gt;Summary:&lt;/b&gt; &lt;b&gt;Genentech&lt;/b&gt; is shifting its marketing focus for &lt;b&gt;Hemlibra&lt;/b&gt; (emicizumab) towards patient stories as competition in the hemophilia treatment landscape approaches.&lt;/li&gt;
-  &lt;li&gt;&lt;b&gt;MoAs:&lt;/b&gt; Hemlibra (emicizumab) is a bispecific monoclonal antibody that binds to activated factor IX and factor X, mimicking the function of factor VIII to prevent bleeding in hemophilia A patients.&lt;/li&gt;
-  &lt;li&gt;&lt;b&gt;Sources:&lt;/b&gt; &lt;a href="https://www.fiercepharma.com/marketing/genentech-shifts-hemlibra-marketing-focus-patient-stories-competition-approaches"&gt;Fierce Pharma&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;b&gt;Summary:&lt;/b&gt; &lt;b&gt;Ionis Pharmaceuticals&lt;/b&gt;' investigational antisense oligonucleotide drug shows stabilization of disease progression in patients with an ultra-rare condition, positioning it favorably ahead of an impending FDA regulatory decision.&lt;/li&gt;
+  &lt;li&gt;&lt;b&gt;MoAs:&lt;/b&gt; Antisense oligonucleotide (ASO) designed to bind to specific RNA sequences, modulating splicing or degradation to reduce production of pathogenic proteins.&lt;/li&gt;
+  &lt;li&gt;&lt;b&gt;Sources:&lt;/b&gt; &lt;a href="https://www.biospace.com/drug-development/ionis-antisense-drug-stabilizes-ultra-rare-disease-ahead-of-fda-decision"&gt;Biospace&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;</description>
-      <guid isPermaLink="false">668a4d435d778775f6e8d59eec770d64</guid>
-      <pubDate>Mon, 20 Apr 2026 22:09:29 GMT</pubDate>
+      <guid isPermaLink="false">4f522c18e84b12d17164cfeb88763ccc</guid>
+      <pubDate>Wed, 22 Apr 2026 22:07:02 GMT</pubDate>
+    </item>
+    <item>
+      <title>Denali Therapeutics Rare Disease Drug Launch</title>
+      <link>https://www.google.com</link>
+      <description>&lt;ul&gt;
+  &lt;li&gt;&lt;b&gt;Summary:&lt;/b&gt; &lt;b&gt;Denali Therapeutics&lt;/b&gt; marks a key milestone with the launch of its rare disease drug, celebrated by the CEO as a pivotal professional achievement, focusing on treatments for neurodegenerative and lysosomal storage disorders.&lt;/li&gt;
+  &lt;li&gt;&lt;b&gt;MoAs:&lt;/b&gt; Denali's drug likely employs enzyme replacement therapy or small molecule approaches to target lysosomal dysfunction or protein clearance pathways in rare diseases.&lt;/li&gt;
+  &lt;li&gt;&lt;b&gt;Sources:&lt;/b&gt; &lt;a href="https://www.biospace.com/business/denali-ceos-greatest-professional-moment-arrives-as-rare-disease-drug-launches"&gt;Biospace&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;</description>
+      <guid isPermaLink="false">42b06a76891eaad13dc7e4dace80d695</guid>
+      <pubDate>Wed, 22 Apr 2026 22:07:02 GMT</pubDate>
     </item>
   </channel>
 </rss>
