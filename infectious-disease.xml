@@ -6,15 +6,26 @@
     <description>News digest covering Infectious Disease.</description>
     <atom:link href="https://www.google.com" rel="self" type="application/rss+xml"/>
     <item>
-      <title>Sanofi Nuvaxovid COVID-19 Vaccine</title>
+      <title>Moderna Bird Flu Vaccine</title>
       <link>https://www.google.com</link>
       <description>&lt;ul&gt;
-  &lt;li&gt;&lt;b&gt;Summary:&lt;/b&gt; &lt;b&gt;Sanofi&lt;/b&gt; is promoting the tolerability of its COVID-19 vaccine &lt;b&gt;Nuvaxovid&lt;/b&gt; based on a head-to-head trial against &lt;b&gt;Moderna&lt;/b&gt;'s mRNA vaccine. The data suggests comparable or improved safety profiles, potentially positioning Nuvaxovid as a viable alternative in the vaccine market.&lt;/li&gt;
-  &lt;li&gt;&lt;b&gt;MoAs:&lt;/b&gt; Nuvaxovid is a protein subunit vaccine that uses recombinant SARS-CoV-2 spike protein to elicit an immune response against COVID-19.&lt;/li&gt;
-  &lt;li&gt;&lt;b&gt;Sources:&lt;/b&gt; &lt;a href='https://www.fiercepharma.com/pharma/sanofi-touts-tolerability-covid-shot-nuvaxovid-head-head-trial-vs-modernas-mnexspike'&gt;Fierce Pharma&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;b&gt;Summary:&lt;/b&gt; &lt;b&gt;Moderna&lt;/b&gt; is advancing an mRNA vaccine for bird flu, with trials supported by CEPI and HHS. The study continues despite some U.S. limitations, aiming to address pandemic threats from avian influenza through rapid vaccine development platforms.&lt;/li&gt;
+  &lt;li&gt;&lt;b&gt;MoAs:&lt;/b&gt; Moderna's bird flu vaccine is an mRNA-based vaccine that encodes hemagglutinin antigens from the virus, stimulating an immune response to provide protection against infection.&lt;/li&gt;
+  &lt;li&gt;&lt;b&gt;Sources:&lt;/b&gt; &lt;a href="https://www.biopharmadive.com/news/moderna-mrna-bird-flu-vaccine-trial-cepi-hhs/818172/"&gt;BioPharma Dive&lt;/a&gt;, &lt;a href="https://www.statnews.com/2026/04/22/health-news-moderna-bird-flu-vaccine-study-continues-with-us-limits/?utm_campaign=rss"&gt;STAT News&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;</description>
-      <guid isPermaLink="false">4ad69c65126bea8d1d7c08dc06982f32</guid>
-      <pubDate>Mon, 20 Apr 2026 22:09:29 GMT</pubDate>
+      <guid isPermaLink="false">c01c4da048922b5eadc39e246efbddc3</guid>
+      <pubDate>Wed, 22 Apr 2026 22:07:02 GMT</pubDate>
+    </item>
+    <item>
+      <title>Moderna EU Approval (Flu-COVID Combo)</title>
+      <link>https://www.google.com</link>
+      <description>&lt;ul&gt;
+  &lt;li&gt;&lt;b&gt;Summary:&lt;/b&gt; &lt;b&gt;Moderna&lt;/b&gt; receives European Union approval for its combination mRNA vaccine targeting both seasonal influenza and COVID-19, a significant regulatory achievement amid ongoing challenges in the U.S. market.&lt;/li&gt;
+  &lt;li&gt;&lt;b&gt;MoAs:&lt;/b&gt; mRNA-based vaccine encoding antigens for influenza viruses and SARS-CoV-2, eliciting immune responses to prevent infection from both pathogens.&lt;/li&gt;
+  &lt;li&gt;&lt;b&gt;Sources:&lt;/b&gt; &lt;a href="https://www.biospace.com/drug-development/amid-us-ordeal-moderna-wins-eu-approval-for-flu-covid-19-combo-shot"&gt;Biospace&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;</description>
+      <guid isPermaLink="false">2f7c0d3335f364276ab021ad2ddf9062</guid>
+      <pubDate>Wed, 22 Apr 2026 22:07:02 GMT</pubDate>
     </item>
   </channel>
 </rss>
