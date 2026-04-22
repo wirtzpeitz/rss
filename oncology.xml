@@ -6,70 +6,26 @@
     <description>News digest covering Oncology.</description>
     <atom:link href="https://www.google.com" rel="self" type="application/rss+xml"/>
     <item>
-      <title>AACR 2026 Conference</title>
+      <title>Revolution Medicines / Daraxonrasib (RAS Inhibitor)</title>
       <link>https://www.google.com</link>
       <description>&lt;ul&gt;
-  &lt;li&gt;&lt;b&gt;Summary:&lt;/b&gt; At the &lt;b&gt;AACR 2026&lt;/b&gt; conference, key oncology data were presented, including updated results for &lt;b&gt;Carvykti&lt;/b&gt; (ciltacabtagene autoleucel) in smoldering multiple myeloma and strong efficacy for &lt;b&gt;Revolution Medicines&lt;/b&gt;' KRAS inhibitor &lt;b&gt;zoldonrasib&lt;/b&gt;. Insights into targets like CCR8 and VEGF highlighted advances in CAR-T and targeted therapies.&lt;/li&gt;
-  &lt;li&gt;&lt;b&gt;MoAs:&lt;/b&gt; Carvykti: BCMA-directed CAR-T cell therapy; zoldonrasib: KRAS G12C inhibitor&lt;/li&gt;
-  &lt;li&gt;&lt;b&gt;Sources:&lt;/b&gt; &lt;a href="https://www.statnews.com/2026/04/20/aacr-2026-car-t-trial-results-carvykti-smoldering-multiple-myeloma/?utm_campaign=rss"&gt;STAT News&lt;/a&gt;, &lt;a href="https://www.biopharmadive.com/news/aacr-2026-revolution-zoldonrasib-merck-vegf-nuvalent-nuvation/817916/"&gt;BioPharma Dive&lt;/a&gt;, &lt;a href="https://www.oncologypipeline.com/apexonco/aacr-2026-ccr8-reality-check"&gt;ApexOnco&lt;/a&gt;, &lt;a href="https://www.oncologypipeline.com/apexonco/aacr-2026-circles-focus-narrows"&gt;ApexOnco&lt;/a&gt;, &lt;a href="https://www.oncologypipeline.com/apexonco/aacr-2026-revolutions-second-project-impresses-again"&gt;ApexOnco&lt;/a&gt;, &lt;a href="https://www.statnews.com/2026/04/19/aacr-2026-strong-data-for-revolution-medicines-kras-drug/?utm_campaign=rss"&gt;STAT News&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;b&gt;Summary:&lt;/b&gt; &lt;b&gt;Revolution Medicines&lt;/b&gt; presented promising data on &lt;b&gt;daraxonrasib&lt;/b&gt;, a next-generation RAS inhibitor, at AACR 2026. The drug demonstrates efficacy in pancreatic cancer and other RAS-mutant tumors, with plans for further development and potential updates at ASCO 2026. This positions Revolution as a key player in targeting oncogenic RAS pathways.&lt;/li&gt;
+  &lt;li&gt;&lt;b&gt;MoAs:&lt;/b&gt; Daraxonrasib is a RAS inhibitor that selectively targets mutant KRAS proteins, blocking downstream signaling pathways such as MAPK/ERK to inhibit cancer cell growth and survival.&lt;/li&gt;
+  &lt;li&gt;&lt;b&gt;Sources:&lt;/b&gt; &lt;a href="https://www.statnews.com/2026/04/22/aacr-2026-revolution-medicines-astrazeneca-oncology-research/?utm_campaign=rss"&gt;STAT News&lt;/a&gt;, &lt;a href="https://www.biopharmadive.com/news/revolution-aacr-2026-daraxonrasib-pancreatic-cancer-results/818173/"&gt;BioPharma Dive&lt;/a&gt;, &lt;a href="https://www.statnews.com/2026/04/22/biotech-news-revmed-previews-next-gen-ras-inhibiting-drug/?utm_campaign=rss"&gt;STAT News&lt;/a&gt;, &lt;a href="https://www.oncologypipeline.com/apexonco/asco-2026-preview-revolution-completes-its-rout"&gt;Oncology Pipeline&lt;/a&gt;, &lt;a href="https://www.statnews.com/2026/04/21/aacr-2026-pancreatic-cancer-revolution-medicines-future/?utm_campaign=rss"&gt;STAT News&lt;/a&gt;, &lt;a href="https://www.statnews.com/2026/04/21/aacr-2026-pancreatic-cancer-oral-cancer-wildfires-nci-director/?utm_campaign=rss"&gt;STAT News&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;</description>
-      <guid isPermaLink="false">8cb82c48e49b07a8f232be6b40a6c78b</guid>
-      <pubDate>Mon, 20 Apr 2026 22:09:29 GMT</pubDate>
+      <guid isPermaLink="false">2f4b9c31163edc8cb312fe7d2eb4b8f9</guid>
+      <pubDate>Wed, 22 Apr 2026 22:07:02 GMT</pubDate>
     </item>
     <item>
-      <title>Revolution Medicines / KRAS Inhibitors</title>
+      <title>Innate Pharma (MATISSE Trial)</title>
       <link>https://www.google.com</link>
       <description>&lt;ul&gt;
-  &lt;li&gt;&lt;b&gt;Summary:&lt;/b&gt; &lt;b&gt;Revolution Medicines&lt;/b&gt; continues to advance its KRAS inhibitors, with &lt;b&gt;daraxonrasib&lt;/b&gt; showing promise in pancreatic cancer and lung cancer. The development underscores progress in targeting previously undruggable KRAS mutations.&lt;/li&gt;
-  &lt;li&gt;&lt;b&gt;MoAs:&lt;/b&gt; Daraxonrasib: KRAS G12D inhibitor&lt;/li&gt;
-  &lt;li&gt;&lt;b&gt;Sources:&lt;/b&gt; &lt;a href="https://www.statnews.com/2026/04/20/biotech-news-finally-cracking-kras-as-a-druggable-target/?utm_campaign=rss"&gt;STAT News&lt;/a&gt;, &lt;a href="https://www.statnews.com/2026/04/19/daraxonrasib-pancreatic-cancer-kras-revolution-medicines-patient-story/?utm_campaign=rss"&gt;STAT News&lt;/a&gt;, &lt;a href="https://endpoints.news/kras-drugmakers-take-another-better-swing-at-lung-cancer/"&gt;Endpoints News&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;b&gt;Summary:&lt;/b&gt; The &lt;b&gt;MATISSE trial&lt;/b&gt;, presented at AACR 2026, provides a mixed clinical picture for &lt;b&gt;Innate Pharma&lt;/b&gt;, with data on &lt;b&gt;lacutamab&lt;/b&gt; (an anti-KIR3DL2 monoclonal antibody) in cutaneous T-cell lymphoma showing variable efficacy and safety profiles.&lt;/li&gt;
+  &lt;li&gt;&lt;b&gt;MoAs:&lt;/b&gt; Lacutamab: Anti-KIR3DL2 monoclonal antibody that induces antibody-dependent cellular cytotoxicity (ADCC) against malignant T-cells expressing KIR3DL2.&lt;/li&gt;
+  &lt;li&gt;&lt;b&gt;Sources:&lt;/b&gt; &lt;a href="https://www.oncologypipeline.com/apexonco/aacr-2026-matisse-pains-mixed-picture-innate"&gt;Oncology Pipeline&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;</description>
-      <guid isPermaLink="false">c3bc4ec8386d1ee505afb1a034b029d2</guid>
-      <pubDate>Mon, 20 Apr 2026 22:09:29 GMT</pubDate>
-    </item>
-    <item>
-      <title>Agenus Cancer Cocktail Trial</title>
-      <link>https://www.google.com</link>
-      <description>&lt;ul&gt;
-  &lt;li&gt;&lt;b&gt;Summary:&lt;/b&gt; &lt;b&gt;Agenus&lt;/b&gt; reported that its cancer cocktail trial recorded a 0% response rate, missing the primary endpoint, but the company is focusing on survival data for further analysis.&lt;/li&gt;
-  &lt;li&gt;&lt;b&gt;MoAs:&lt;/b&gt; N/A&lt;/li&gt;
-  &lt;li&gt;&lt;b&gt;Sources:&lt;/b&gt; &lt;a href="https://www.biospace.com/drug-development/agenus-cancer-cocktail-records-0-response-rate-missing-midstage-goal"&gt;BioSpace&lt;/a&gt;, &lt;a href="https://www.fiercebiotech.com/biotech/agenus-focuses-survival-data-0-response-rate-triggers-primary-miss"&gt;Fierce Biotech&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;</description>
-      <guid isPermaLink="false">3936619e3435577c9a922815b58ea195</guid>
-      <pubDate>Mon, 20 Apr 2026 22:09:29 GMT</pubDate>
-    </item>
-    <item>
-      <title>Novartis Pipeline Cuts</title>
-      <link>https://www.google.com</link>
-      <description>&lt;ul&gt;
-  &lt;li&gt;&lt;b&gt;Summary:&lt;/b&gt; &lt;b&gt;Novartis&lt;/b&gt; has discontinued two research programs aimed at cancer-related blood clots, as reported by Endpoints News. This pipeline refinement likely reflects strategic realignment or unfavorable clinical data in the thrombosis-oncology intersection.&lt;/li&gt;
-  &lt;li&gt;&lt;b&gt;MoAs:&lt;/b&gt; N/A&lt;/li&gt;
-  &lt;li&gt;&lt;b&gt;Sources:&lt;/b&gt; &lt;a href='https://endpoints.news/novartis-cuts-two-programs-in-cancer-related-blood-clots/'&gt;Endpoints News&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;</description>
-      <guid isPermaLink="false">02b45ad6b9177dbfe4bedbf84dd2933b</guid>
-      <pubDate>Mon, 20 Apr 2026 22:09:29 GMT</pubDate>
-    </item>
-    <item>
-      <title>Gilead / Arcus TIGIT Option Decline</title>
-      <link>https://www.google.com</link>
-      <description>&lt;ul&gt;
-  &lt;li&gt;&lt;b&gt;Summary:&lt;/b&gt; &lt;b&gt;Gilead&lt;/b&gt; has declined an option on a &lt;b&gt;TIGIT&lt;/b&gt; inhibitor from &lt;b&gt;Arcus&lt;/b&gt; following a phase 3 clinical trial failure in cancer immunotherapy. This decision reflects setbacks in the development of TIGIT-targeted therapies, which aim to enhance anti-tumor immune responses.&lt;/li&gt;
-  &lt;li&gt;&lt;b&gt;MoAs:&lt;/b&gt; TIGIT inhibitors, such as those from Arcus (e.g., domvanalimab), block the TIGIT receptor to prevent immune suppression and promote T-cell activity against tumors.&lt;/li&gt;
-  &lt;li&gt;&lt;b&gt;Sources:&lt;/b&gt; &lt;a href='https://endpoints.news/gilead-declines-another-arcus-option-after-phase-3-tigit-fail/'&gt;Endpoints News&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;</description>
-      <guid isPermaLink="false">9eb332fefa572466a4d87a26931ac5b5</guid>
-      <pubDate>Mon, 20 Apr 2026 22:09:29 GMT</pubDate>
-    </item>
-    <item>
-      <title>Merck PD-1/VEGF Data</title>
-      <link>https://www.google.com</link>
-      <description>&lt;ul&gt;
-  &lt;li&gt;&lt;b&gt;Summary:&lt;/b&gt; &lt;b&gt;Merck&lt;/b&gt; has released early data on a combination of a &lt;b&gt;PD-1&lt;/b&gt; inhibitor (likely pembrolizumab) and a &lt;b&gt;VEGF&lt;/b&gt; inhibitor for lung cancer, showing competitive efficacy. However, upcoming summits may present challenges as the landscape evolves with new competitors.&lt;/li&gt;
-  &lt;li&gt;&lt;b&gt;MoAs:&lt;/b&gt; PD-1 inhibitors (e.g., pembrolizumab) block the PD-1 receptor to enhance T-cell-mediated tumor killing; VEGF inhibitors (e.g., lenvatinib) block vascular endothelial growth factor to inhibit tumor angiogenesis.&lt;/li&gt;
-  &lt;li&gt;&lt;b&gt;Sources:&lt;/b&gt; &lt;a href='https://www.biospace.com/drug-development/mercks-early-pd-1-vegf-data-competitive-in-lung-cancer-but-summit-looms-large'&gt;BioSpace&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;</description>
-      <guid isPermaLink="false">24509f48662fae000557c9b3e8cab164</guid>
-      <pubDate>Mon, 20 Apr 2026 22:09:29 GMT</pubDate>
+      <guid isPermaLink="false">e3322da842b8ab3f54cfa1d11de9ea48</guid>
+      <pubDate>Wed, 22 Apr 2026 22:07:02 GMT</pubDate>
     </item>
   </channel>
 </rss>
