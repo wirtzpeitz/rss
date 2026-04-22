@@ -6,81 +6,59 @@
     <description>News digest covering Industry Events.</description>
     <atom:link href="https://www.google.com" rel="self" type="application/rss+xml"/>
     <item>
-      <title>Trump Executive Order on Psychedelics</title>
+      <title>CMS Policy &amp; Programs</title>
       <link>https://www.google.com</link>
       <description>&lt;ul&gt;
-  &lt;li&gt;&lt;b&gt;Summary:&lt;/b&gt; President Trump signed an executive order directing the &lt;b&gt;FDA&lt;/b&gt; to expedite development and review of psychedelic drugs for mental health conditions like PTSD, following lobbying efforts. Advocates hail the move for boosting research, but concerns arise about politicizing science.&lt;/li&gt;
-  &lt;li&gt;&lt;b&gt;MoAs:&lt;/b&gt; Psilocybin: 5-HT2A receptor agonist; MDMA: monoamine release enhancer; Ibogaine: NMDA receptor antagonist&lt;/li&gt;
-  &lt;li&gt;&lt;b&gt;Sources:&lt;/b&gt; &lt;a href="https://endpoints.news/trump-fda-plan-to-expedite-psychedelic-development/"&gt;Endpoints News&lt;/a&gt;, &lt;a href="https://www.statnews.com/2026/04/20/trump-eo-psychedelics-advocates-hail-executive-order-fret-politicized-science/?utm_campaign=rss"&gt;STAT News&lt;/a&gt;, &lt;a href="https://www.statnews.com/2026/04/20/trump-executive-order-psychedelics-republicans-veterans-ibogaine/?utm_campaign=rss"&gt;STAT News&lt;/a&gt;, &lt;a href="https://www.fiercepharma.com/biotech/trump-orders-fda-fast-track-reviews-psychedelic-drugs-after-lobbying-podcaster"&gt;Fierce Pharma&lt;/a&gt;, &lt;a href="https://www.biospace.com/policy/trump-throws-support-behind-psychedelics-with-executive-order"&gt;BioSpace&lt;/a&gt;, &lt;a href="https://www.statnews.com/2026/04/18/psychedelics-ptsd-mental-health-research-boost-from-trump-executive-order/?utm_campaign=rss"&gt;STAT News&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;b&gt;Summary:&lt;/b&gt; The Centers for Medicare &amp; Medicaid Services (&lt;b&gt;CMS&lt;/b&gt;) has delayed key programs, including the WISER initiative and a Part D model for &lt;b&gt;GLP-1&lt;/b&gt; drugs, amid skepticism from insurers and hospitals. This affects Medicare coverage for obesity medications, with implications for companies like &lt;b&gt;Lilly&lt;/b&gt; and &lt;b&gt;Novo Nordisk&lt;/b&gt;. The pilot program for weight-loss drug coverage is under scrutiny, potentially impacting access and pricing in the healthcare system.&lt;/li&gt;
+  &lt;li&gt;&lt;b&gt;MoAs:&lt;/b&gt; N/A&lt;/li&gt;
+  &lt;li&gt;&lt;b&gt;Sources:&lt;/b&gt; &lt;a href="https://www.statnews.com/2026/04/22/cms-wiser-program-delays-care-washington-state-hospitals-senator-says/?utm_campaign=rss"&gt;STAT News&lt;/a&gt;, &lt;a href="https://www.fiercepharma.com/payers/cms-delays-part-d-glp-1-model-amid-skepticism-insurers"&gt;Fierce Pharma&lt;/a&gt;, &lt;a href="https://www.biospace.com/policy/lilly-novo-dip-as-proposed-medicare-coverage-for-glp-1-pilot-thrown-off-balance"&gt;BioSpace&lt;/a&gt;, &lt;a href="https://www.statnews.com/pharmalot/2026/04/22/medicare-obesity-drug-pilot-program-experimental-roche-ms-drug/?utm_campaign=rss"&gt;STAT News&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;</description>
-      <guid isPermaLink="false">294aad002c43e00329c80028f749984a</guid>
-      <pubDate>Mon, 20 Apr 2026 22:09:29 GMT</pubDate>
+      <guid isPermaLink="false">2ad7c7e9404181131b01eca935d4114a</guid>
+      <pubDate>Wed, 22 Apr 2026 22:07:02 GMT</pubDate>
     </item>
     <item>
-      <title>PBMs &amp; Price Transparency</title>
+      <title>FDA Regulatory Actions</title>
       <link>https://www.google.com</link>
       <description>&lt;ul&gt;
-  &lt;li&gt;&lt;b&gt;Summary:&lt;/b&gt; Pharmacy Benefit Managers (PBMs) are facing increased scrutiny and legal challenges over price transparency regulations, including the No Surprises Act. Industry lobbyists are opposing reform proposals, highlighting ongoing debates about drug pricing and healthcare costs in the U.S.&lt;/li&gt;
+  &lt;li&gt;&lt;b&gt;Summary:&lt;/b&gt; The FDA issued a warning letter to a &lt;b&gt;GLP-1&lt;/b&gt; manufacturer for refusing inspection access, while approving &lt;b&gt;Merck&lt;/b&gt;'s new HIV pill, positioning it as a competitor to &lt;b&gt;Gilead&lt;/b&gt;. Additionally, a pharma-backed petition calls for FDA reform in releasing drug rejection letters, highlighting ongoing regulatory dynamics.&lt;/li&gt;
   &lt;li&gt;&lt;b&gt;MoAs:&lt;/b&gt; N/A&lt;/li&gt;
-  &lt;li&gt;&lt;b&gt;Sources:&lt;/b&gt; &lt;a href='https://www.statnews.com/2026/04/20/pbms-push-back-price-transparency-no-surprises-act-lawsuits/?utm_campaign=rss'&gt;Stat News&lt;/a&gt;, &lt;a href='https://www.statnews.com/2026/04/20/pbm-reform-proposal-draws-lobbyist-opposition/?utm_campaign=rss'&gt;Stat News&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;b&gt;Sources:&lt;/b&gt; &lt;a href="https://www.biospace.com/fda/fda-issues-warning-letter-after-glp-1-manufacturer-refuses-inspectors-access"&gt;BioSpace&lt;/a&gt;, &lt;a href="https://endpoints.news/pharma-backed-petition-calls-on-fda-to-reform-release-of-drug-rejection-letters/"&gt;Endpoints News&lt;/a&gt;, &lt;a href="https://www.biospace.com/fda/merck-steps-up-as-meaningful-competitor-to-gilead-with-hiv-pill-approval"&gt;BioSpace&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;</description>
-      <guid isPermaLink="false">3821ea91f6aefc4854c03b1161c2d303</guid>
-      <pubDate>Mon, 20 Apr 2026 22:09:29 GMT</pubDate>
+      <guid isPermaLink="false">fc6b09f4bfcd3a932b084bba7c109f5f</guid>
+      <pubDate>Wed, 22 Apr 2026 22:07:02 GMT</pubDate>
     </item>
     <item>
-      <title>Zai Lab / China Biotech</title>
+      <title>AI in Healthcare</title>
       <link>https://www.google.com</link>
       <description>&lt;ul&gt;
-  &lt;li&gt;&lt;b&gt;Summary:&lt;/b&gt; &lt;b&gt;Zai Lab&lt;/b&gt; provides a reality check on China's biotech ascent, discussing the challenges and opportunities in going global, as highlighted at events like AACR.&lt;/li&gt;
+  &lt;li&gt;&lt;b&gt;Summary:&lt;/b&gt; &lt;b&gt;OpenAI&lt;/b&gt; is outlining its healthcare ambitions, while &lt;b&gt;Merck&lt;/b&gt; has entered a $1 billion enterprise deal with &lt;b&gt;Google&lt;/b&gt; for AI and machine learning applications. This underscores the growing role of AI in drug discovery, clinical operations, and healthcare innovation across the industry.&lt;/li&gt;
   &lt;li&gt;&lt;b&gt;MoAs:&lt;/b&gt; N/A&lt;/li&gt;
-  &lt;li&gt;&lt;b&gt;Sources:&lt;/b&gt; &lt;a href="https://www.fiercebiotech.com/biotech/aacr-endeavoring-go-global-zai-lab-offers-reality-check-chinas-biotech-ascent"&gt;Fierce Biotech&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;b&gt;Sources:&lt;/b&gt; &lt;a href="https://endpoints.news/openais-head-of-health-lays-out-the-ai-giants-healthcare-ambitions/"&gt;Endpoints News&lt;/a&gt;, &lt;a href="https://www.fiercepharma.com/ai-and-machine-learning/merck-goes-google-ai-push-1b-enterprise-deal"&gt;Fierce Pharma&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;</description>
-      <guid isPermaLink="false">084af5e2cffb279ecd452a99bd96b876</guid>
-      <pubDate>Mon, 20 Apr 2026 22:09:29 GMT</pubDate>
+      <guid isPermaLink="false">50f7f12d2e57dbfb5d4f757fa3ed6cad</guid>
+      <pubDate>Wed, 22 Apr 2026 22:07:02 GMT</pubDate>
     </item>
     <item>
-      <title>Robert F. Kennedy Jr. (RFK Jr.) &amp; HHS</title>
+      <title>Trump Psychedelics Policy</title>
       <link>https://www.google.com</link>
       <description>&lt;ul&gt;
-  &lt;li&gt;&lt;b&gt;Summary:&lt;/b&gt; Robert F. Kennedy Jr. defends his tenure at the Department of Health and Human Services (HHS) and addresses proposed budget cuts, impacting public health initiatives.&lt;/li&gt;
+  &lt;li&gt;&lt;b&gt;Summary:&lt;/b&gt; Former President Trump's advocacy for psychedelics policy reform is viewed as a mixed blessing for neuropsychiatric companies and patients, potentially accelerating research and development but introducing regulatory uncertainties for drugs like psilocybin and MDMA.&lt;/li&gt;
   &lt;li&gt;&lt;b&gt;MoAs:&lt;/b&gt; N/A&lt;/li&gt;
-  &lt;li&gt;&lt;b&gt;Sources:&lt;/b&gt; &lt;a href="https://www.biopharmadive.com/news/robert-f-kennedy-jr-rfk-jr-defends-hhs-tenure-proposed-budget-cut/817975/"&gt;BioPharma Dive&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;b&gt;Sources:&lt;/b&gt; &lt;a href="https://www.biospace.com/drug-development/trumps-psychedelics-push-a-mixed-blessing-for-neuropsychiatric-companies-patients"&gt;Biospace&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;</description>
-      <guid isPermaLink="false">7ff082832694a81b2b6c9a719640bafe</guid>
-      <pubDate>Mon, 20 Apr 2026 22:09:29 GMT</pubDate>
+      <guid isPermaLink="false">cdd97b67a678b76165f47ff63f7a60c4</guid>
+      <pubDate>Wed, 22 Apr 2026 22:07:02 GMT</pubDate>
     </item>
     <item>
-      <title>Breakthrough Prize for Gene Therapy Pioneers</title>
+      <title>988 Suicide Hotline Impact</title>
       <link>https://www.google.com</link>
       <description>&lt;ul&gt;
-  &lt;li&gt;&lt;b&gt;Summary:&lt;/b&gt; Three pioneers in gene therapy have been awarded the Breakthrough Prize, recognizing their contributions to advancing this transformative field.&lt;/li&gt;
+  &lt;li&gt;&lt;b&gt;Summary:&lt;/b&gt; The national &lt;b&gt;988 suicide hotline&lt;/b&gt; is associated with an 11% reduction in youth suicide rates, according to a study published in JAMA, highlighting its effectiveness as a public health intervention in mental health crisis management.&lt;/li&gt;
   &lt;li&gt;&lt;b&gt;MoAs:&lt;/b&gt; N/A&lt;/li&gt;
-  &lt;li&gt;&lt;b&gt;Sources:&lt;/b&gt; &lt;a href="https://endpoints.news/three-gene-therapy-pioneers-just-won-the-breakthrough-prize-this-is-their-story/"&gt;Endpoints News&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;b&gt;Sources:&lt;/b&gt; &lt;a href="https://www.statnews.com/2026/04/22/988-hotline-linked-11-percent-drop-youth-suicide-jama-study/?utm_campaign=rss"&gt;STAT News&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;</description>
-      <guid isPermaLink="false">7ad9d3aff486c970d777822a73d16d9c</guid>
-      <pubDate>Mon, 20 Apr 2026 22:09:29 GMT</pubDate>
-    </item>
-    <item>
-      <title>General Industry Commentary (Conditional Keep - Author Adam Feuerstein)</title>
-      <link>https://www.google.com</link>
-      <description>&lt;ul&gt;
-  &lt;li&gt;&lt;b&gt;Summary:&lt;/b&gt; Adam Feuerstein provides commentary on the biotech industry, highlighting positive trends and encouraging optimism in the sector.&lt;/li&gt;
-  &lt;li&gt;&lt;b&gt;MoAs:&lt;/b&gt; N/A&lt;/li&gt;
-  &lt;li&gt;&lt;b&gt;Sources:&lt;/b&gt; &lt;a href="https://www.statnews.com/2026/04/20/biotech-has-become-a-good-news-story-let-the-sun-shine"&gt;STAT News&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;</description>
-      <guid isPermaLink="false">f5d4d07b42f99047db839ec7c7c1d504</guid>
-      <pubDate>Mon, 20 Apr 2026 22:09:29 GMT</pubDate>
-    </item>
-    <item>
-      <title>General Policy &amp; Public Health (Discarded Themes)</title>
-      <link>https://www.google.com</link>
-      <description>&lt;ul&gt;
-  &lt;li&gt;&lt;b&gt;Summary:&lt;/b&gt; This theme encompasses various articles on public health issues, including the effects of weed on adolescent brains, transgender care policies, measles risks for immunocompromised children, falling teen birth rates, animal testing concerns, and reactions to the CDC director nominee.&lt;/li&gt;
-  &lt;li&gt;&lt;b&gt;MoAs:&lt;/b&gt; N/A&lt;/li&gt;
-  &lt;li&gt;&lt;b&gt;Sources:&lt;/b&gt; &lt;a href="https://www.statnews.com/2026/04/20/health-news-how-weed-affects-adolescent-brains/?utm_campaign=rss"&gt;STAT News&lt;/a&gt;, &lt;a href="https://www.statnews.com/2026/04/20/transgender-adults-caught-in-youth-gender-affirming-care-policies/?utm_campaign=rss"&gt;STAT News&lt;/a&gt;, &lt;a href="https://www.statnews.com/2026/04/20/immunocompromised-children-measles-return-mmr-community/?utm_campaign=rss"&gt;STAT News&lt;/a&gt;, &lt;a href="https://www.statnews.com/2026/04/20/teen-birth-rates-falling-abortion-birth-control-policy/?utm_campaign=rss"&gt;STAT News&lt;/a&gt;, &lt;a href="https://www.statnews.com/pharmalot/2026/04/20/animal-testing-peta-questions-pfizer-research-monkey-health/?utm_campaign=rss"&gt;STAT News&lt;/a&gt;, &lt;a href="https://www.statnews.com/2026/04/18/erica-schwartz-cdc-director-nominee-reaction-cautious-optimism/?utm_campaign=rss"&gt;STAT News&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;</description>
-      <guid isPermaLink="false">affa29cad0c2bbf996df0d6a286d6e5a</guid>
-      <pubDate>Mon, 20 Apr 2026 22:09:29 GMT</pubDate>
+      <guid isPermaLink="false">410a5640338b91b164ca09146e109cd1</guid>
+      <pubDate>Wed, 22 Apr 2026 22:07:02 GMT</pubDate>
     </item>
   </channel>
 </rss>
