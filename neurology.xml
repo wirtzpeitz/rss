@@ -6,26 +6,15 @@
     <description>News digest covering Neurology.</description>
     <atom:link href="https://www.google.com" rel="self" type="application/rss+xml"/>
     <item>
-      <title>Roche Multiple Sclerosis Drug (Fenebrutinib)</title>
+      <title>AAN 2026 Data Highlights</title>
       <link>https://www.google.com</link>
       <description>&lt;ul&gt;
-  &lt;li&gt;&lt;b&gt;Summary:&lt;/b&gt; &lt;b&gt;Roche&lt;/b&gt; presented data on &lt;b&gt;fenebrutinib&lt;/b&gt; at AAN 2026, showing efficacy in delaying relapses for multiple sclerosis patients. However, liver toxicity concerns may require monitoring, impacting its competitive position against other MS therapies like &lt;b&gt;Merck&lt;/b&gt;'s IDVynso.&lt;/li&gt;
-  &lt;li&gt;&lt;b&gt;MoAs:&lt;/b&gt; Fenebrutinib is a Bruton's tyrosine kinase (BTK) inhibitor that modulates B-cell and microglial activity, reducing inflammation and neurodegeneration in multiple sclerosis.&lt;/li&gt;
-  &lt;li&gt;&lt;b&gt;Sources:&lt;/b&gt; &lt;a href="https://www.biopharmadive.com/news/merck-google-idvynso-roche-fenebrutinib-arcus-gilead-ray/817987/"&gt;BioPharma Dive&lt;/a&gt;, &lt;a href="https://www.statnews.com/2026/04/21/roche-multiple-scleroris-efficacy-safety/?utm_campaign=rss"&gt;STAT News&lt;/a&gt;, &lt;a href="https://endpoints.news/aan26-roches-multiple-sclerosis-pill-delays-relapse-but-liver-toxicity-could-need-monitoring/"&gt;Endpoints News&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;b&gt;Summary:&lt;/b&gt; At the American Academy of Neurology (AAN) 2026 conference, &lt;b&gt;Johnson &amp; Johnson&lt;/b&gt;, &lt;b&gt;Kyverna Therapeutics&lt;/b&gt;, &lt;b&gt;Capricor Therapeutics&lt;/b&gt;, and &lt;b&gt;Praxis Precision Medicines&lt;/b&gt; presented practice-changing data from clinical trials across various neurological conditions. The data showcased novel therapies and significant efficacy results.&lt;/li&gt;
+  &lt;li&gt;&lt;b&gt;MoAs:&lt;/b&gt; &lt;b&gt;J&amp;J&lt;/b&gt;: monoclonal antibodies for neurodegenerative diseases; &lt;b&gt;Kyverna&lt;/b&gt;: autologous CAR-T cell therapy targeting B cells in neuroinflammatory disorders; &lt;b&gt;Capricor&lt;/b&gt;: allogeneic cardiosphere-derived cells for muscular dystrophy; &lt;b&gt;Praxis&lt;/b&gt;: small molecule sodium channel blockers and GABAA receptor modulators for epilepsy.&lt;/li&gt;
+  &lt;li&gt;&lt;b&gt;Sources:&lt;/b&gt; &lt;a href="https://www.biospace.com/drug-development/aan-2026-j-j-kyverna-capricor-and-praxis-showcase-practice-changing-data"&gt;BioSpace&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;</description>
-      <guid isPermaLink="false">4aab447d2b916536288d9d2b778ae01c</guid>
-      <pubDate>Wed, 22 Apr 2026 22:07:02 GMT</pubDate>
-    </item>
-    <item>
-      <title>Kyverna Therapeutics (Stiff Person Syndrome)</title>
-      <link>https://www.google.com</link>
-      <description>&lt;ul&gt;
-  &lt;li&gt;&lt;b&gt;Summary:&lt;/b&gt; &lt;b&gt;Kyverna Therapeutics&lt;/b&gt; is advancing its therapeutic pipeline for &lt;b&gt;Stiff Person Syndrome&lt;/b&gt;, a rare and severe neurological disorder, with approaches likely involving CAR-T cell or other immunomodulatory strategies.&lt;/li&gt;
-  &lt;li&gt;&lt;b&gt;MoAs:&lt;/b&gt; Kyverna's therapies may involve CAR-T cells targeting B cells or other immune modulators to address autoantibody-driven pathology in Stiff Person Syndrome.&lt;/li&gt;
-  &lt;li&gt;&lt;b&gt;Sources:&lt;/b&gt; &lt;a href="https://www.statnews.com/2026/04/21/kyverna-therapeutics-stiff-person-syndrome/?utm_campaign=rss"&gt;STAT News&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;</description>
-      <guid isPermaLink="false">34f7827fe7a75eac2392773a30a6e5cd</guid>
-      <pubDate>Wed, 22 Apr 2026 22:07:02 GMT</pubDate>
+      <guid isPermaLink="false">0d3427b5461f0de8f1c035574cb1db63</guid>
+      <pubDate>Thu, 23 Apr 2026 22:02:20 GMT</pubDate>
     </item>
   </channel>
 </rss>
