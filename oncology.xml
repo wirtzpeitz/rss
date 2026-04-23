@@ -6,26 +6,92 @@
     <description>News digest covering Oncology.</description>
     <atom:link href="https://www.google.com" rel="self" type="application/rss+xml"/>
     <item>
-      <title>Revolution Medicines / Daraxonrasib (RAS Inhibitor)</title>
+      <title>Roche Oral SERD (Giredestrant) and Q1 Earnings</title>
       <link>https://www.google.com</link>
       <description>&lt;ul&gt;
-  &lt;li&gt;&lt;b&gt;Summary:&lt;/b&gt; &lt;b&gt;Revolution Medicines&lt;/b&gt; presented promising data on &lt;b&gt;daraxonrasib&lt;/b&gt;, a next-generation RAS inhibitor, at AACR 2026. The drug demonstrates efficacy in pancreatic cancer and other RAS-mutant tumors, with plans for further development and potential updates at ASCO 2026. This positions Revolution as a key player in targeting oncogenic RAS pathways.&lt;/li&gt;
-  &lt;li&gt;&lt;b&gt;MoAs:&lt;/b&gt; Daraxonrasib is a RAS inhibitor that selectively targets mutant KRAS proteins, blocking downstream signaling pathways such as MAPK/ERK to inhibit cancer cell growth and survival.&lt;/li&gt;
-  &lt;li&gt;&lt;b&gt;Sources:&lt;/b&gt; &lt;a href="https://www.statnews.com/2026/04/22/aacr-2026-revolution-medicines-astrazeneca-oncology-research/?utm_campaign=rss"&gt;STAT News&lt;/a&gt;, &lt;a href="https://www.biopharmadive.com/news/revolution-aacr-2026-daraxonrasib-pancreatic-cancer-results/818173/"&gt;BioPharma Dive&lt;/a&gt;, &lt;a href="https://www.statnews.com/2026/04/22/biotech-news-revmed-previews-next-gen-ras-inhibiting-drug/?utm_campaign=rss"&gt;STAT News&lt;/a&gt;, &lt;a href="https://www.oncologypipeline.com/apexonco/asco-2026-preview-revolution-completes-its-rout"&gt;Oncology Pipeline&lt;/a&gt;, &lt;a href="https://www.statnews.com/2026/04/21/aacr-2026-pancreatic-cancer-revolution-medicines-future/?utm_campaign=rss"&gt;STAT News&lt;/a&gt;, &lt;a href="https://www.statnews.com/2026/04/21/aacr-2026-pancreatic-cancer-oral-cancer-wildfires-nci-director/?utm_campaign=rss"&gt;STAT News&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;b&gt;Summary:&lt;/b&gt; Roche's first-quarter 2026 earnings revealed currency headwinds, but the pharma division CEO maintained optimism about the oral SERD &lt;b&gt;giredestrant&lt;/b&gt;, calling it potentially the largest product in company history despite mixed clinical data. The investigational breast cancer pill, a selective estrogen receptor degrader, is being positioned as a successor to &lt;b&gt;Herceptin&lt;/b&gt; in terms of peak sales potential. Meanwhile, Roche's overall revenue suffered from currency fluctuations, but the company continues to invest in its oncology pipeline, with giredestrant as a key priority.&lt;/li&gt;
+  &lt;li&gt;&lt;b&gt;MoAs:&lt;/b&gt; Selective Estrogen Receptor Degrader (SERD): Binds to estrogen receptors and induces their degradation, thereby inhibiting estrogen signaling in breast cancer cells.&lt;/li&gt;
+  &lt;li&gt;&lt;b&gt;Sources:&lt;/b&gt; &lt;a href="https://www.fiercepharma.com/pharma/roche-pharma-ceo-maintains-oral-serd-could-be-largest-product-company-history-despite-data"&gt;FiercePharma&lt;/a&gt;, &lt;a href="https://www.biopharmadive.com/news/roche-q1-2026-earnings-giredestrant-obesity-drugs/818300/"&gt;BioPharma Dive&lt;/a&gt;, &lt;a href="https://www.fiercepharma.com/pharma/roche-q1-earnings-suffer-blood-bath-currency-headwinds-arent-only-culprit"&gt;FiercePharma&lt;/a&gt;, &lt;a href="https://endpoints.news/roche-says-its-investigational-breast-cancer-pill-could-outsell-herceptin/"&gt;Endpoints News&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;</description>
-      <guid isPermaLink="false">2f4b9c31163edc8cb312fe7d2eb4b8f9</guid>
-      <pubDate>Wed, 22 Apr 2026 22:07:02 GMT</pubDate>
+      <guid isPermaLink="false">524a3b1697fed5a0d59998453a851f25</guid>
+      <pubDate>Thu, 23 Apr 2026 22:02:20 GMT</pubDate>
     </item>
     <item>
-      <title>Innate Pharma (MATISSE Trial)</title>
+      <title>Novartis Lutathera Generic Competition</title>
       <link>https://www.google.com</link>
       <description>&lt;ul&gt;
-  &lt;li&gt;&lt;b&gt;Summary:&lt;/b&gt; The &lt;b&gt;MATISSE trial&lt;/b&gt;, presented at AACR 2026, provides a mixed clinical picture for &lt;b&gt;Innate Pharma&lt;/b&gt;, with data on &lt;b&gt;lacutamab&lt;/b&gt; (an anti-KIR3DL2 monoclonal antibody) in cutaneous T-cell lymphoma showing variable efficacy and safety profiles.&lt;/li&gt;
-  &lt;li&gt;&lt;b&gt;MoAs:&lt;/b&gt; Lacutamab: Anti-KIR3DL2 monoclonal antibody that induces antibody-dependent cellular cytotoxicity (ADCC) against malignant T-cells expressing KIR3DL2.&lt;/li&gt;
-  &lt;li&gt;&lt;b&gt;Sources:&lt;/b&gt; &lt;a href="https://www.oncologypipeline.com/apexonco/aacr-2026-matisse-pains-mixed-picture-innate"&gt;Oncology Pipeline&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;b&gt;Summary:&lt;/b&gt; Novartis's radioligand therapy &lt;b&gt;Lutathera&lt;/b&gt; (lutetium Lu 177 dotatate) may soon face generic competition, according to an Endpoints News report. The potential entry of generics could impact Novartis's market share in neuroendocrine tumor therapy. Lutathera is a cornerstone of Novartis's radioligand therapy platform, and loss of exclusivity would challenge the company's positioning in the oncology space. The article discusses the implications for Novartis's pipeline and revenue.&lt;/li&gt;
+  &lt;li&gt;&lt;b&gt;MoAs:&lt;/b&gt; Peptide receptor radionuclide therapy (PRRT): Lutetium-177 labeled somatostatin analog that binds to somatostatin receptors on tumor cells, delivering targeted radiation to induce DNA damage and cell death.&lt;/li&gt;
+  &lt;li&gt;&lt;b&gt;Sources:&lt;/b&gt; &lt;a href="https://endpoints.news/novartis-radioligand-therapy-lutathera-could-soon-face-generic-competition/"&gt;Endpoints News&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;</description>
-      <guid isPermaLink="false">e3322da842b8ab3f54cfa1d11de9ea48</guid>
-      <pubDate>Wed, 22 Apr 2026 22:07:02 GMT</pubDate>
+      <guid isPermaLink="false">1133f58479ce4564491c63a0797818c3</guid>
+      <pubDate>Thu, 23 Apr 2026 22:02:20 GMT</pubDate>
+    </item>
+    <item>
+      <title>Pfizer Discontinues Immunostimulatory Drug Conjugate</title>
+      <link>https://www.google.com</link>
+      <description>&lt;ul&gt;
+  &lt;li&gt;&lt;b&gt;Summary:&lt;/b&gt; Pfizer has discontinued a Phase 1 immunostimulatory drug conjugate for cancer patients. The decision ends work on the early-stage asset, which was designed to stimulate the immune system against tumors. No specific reasons were given, but such discontinuations are common in early development due to safety or efficacy signals. Pfizer continues to advance other oncology programs.&lt;/li&gt;
+  &lt;li&gt;&lt;b&gt;MoAs:&lt;/b&gt; Immunostimulatory drug conjugate: Likely an antibody-drug conjugate (ADC) with an immunostimulatory payload (e.g., TLR agonist or STING agonist) designed to activate innate immune responses within the tumor microenvironment. Specific MoA not disclosed.&lt;/li&gt;
+  &lt;li&gt;&lt;b&gt;Sources:&lt;/b&gt; &lt;a href="https://www.fiercebiotech.com/biotech/pfizer-ends-work-phase-1-stage-immunostimulatory-drug-conjugate-cancer-patients"&gt;FierceBiotech&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;</description>
+      <guid isPermaLink="false">c34cab33542eb38dc9b3c5ddc1070ef5</guid>
+      <pubDate>Thu, 23 Apr 2026 22:02:20 GMT</pubDate>
+    </item>
+    <item>
+      <title>Incyte Toxicity in Oncology</title>
+      <link>https://www.google.com</link>
+      <description>&lt;ul&gt;
+  &lt;li&gt;&lt;b&gt;Summary:&lt;/b&gt; Incyte, an oncology-focused biopharmaceutical company, continues to face challenges with toxicity in its drug pipeline. Recent reports highlight that toxicity issues have not deterred Incyte's development efforts. The company is addressing safety concerns while advancing its oncology programs.&lt;/li&gt;
+  &lt;li&gt;&lt;b&gt;MoAs:&lt;/b&gt; N/A&lt;/li&gt;
+  &lt;li&gt;&lt;b&gt;Sources:&lt;/b&gt; &lt;a href="https://www.oncologypipeline.com/apexonco/toxicity-doesnt-stop-incyte"&gt;ApexOnco&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;</description>
+      <guid isPermaLink="false">72e9096e907805e467e88e1315ec75f3</guid>
+      <pubDate>Thu, 23 Apr 2026 22:02:20 GMT</pubDate>
+    </item>
+    <item>
+      <title>ASCO 2026 Preview</title>
+      <link>https://www.google.com</link>
+      <description>&lt;ul&gt;
+  &lt;li&gt;&lt;b&gt;Summary:&lt;/b&gt; A preview of the upcoming ASCO 2026 conference highlights recent clinical wins that are expected to be under the spotlight. The article discusses key advancements in oncology that will be presented at the conference, reflecting on recent successes in cancer treatment.&lt;/li&gt;
+  &lt;li&gt;&lt;b&gt;MoAs:&lt;/b&gt; N/A&lt;/li&gt;
+  &lt;li&gt;&lt;b&gt;Sources:&lt;/b&gt; &lt;a href="https://www.oncologypipeline.com/apexonco/asco-2026-preview-recent-wins-come-under-spotlight"&gt;ApexOnco&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;</description>
+      <guid isPermaLink="false">a4377a524db3acf6915957a0eeb946cc</guid>
+      <pubDate>Thu, 23 Apr 2026 22:02:20 GMT</pubDate>
+    </item>
+    <item>
+      <title>Roche Co-Stimulation Warning</title>
+      <link>https://www.google.com</link>
+      <description>&lt;ul&gt;
+  &lt;li&gt;&lt;b&gt;Summary:&lt;/b&gt; Roche has issued another warning regarding co-stimulation, likely referring to safety concerns in its immunotherapy pipeline. Co-stimulation strategies (e.g., targeting 4-1BB, OX40) have potential for enhanced T-cell activity but also risk of toxicity. This warning underscores the challenges in developing such agents.&lt;/li&gt;
+  &lt;li&gt;&lt;b&gt;MoAs:&lt;/b&gt; Co-stimulation of T cells (e.g., 4-1BB agonism, OX40 agonism)&lt;/li&gt;
+  &lt;li&gt;&lt;b&gt;Sources:&lt;/b&gt; &lt;a href="https://www.oncologypipeline.com/apexonco/roche-sounds-another-warning-over-co-stimulation"&gt;ApexOnco&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;</description>
+      <guid isPermaLink="false">ecac9c98de044af0f30667ceb5f2511e</guid>
+      <pubDate>Thu, 23 Apr 2026 22:02:20 GMT</pubDate>
+    </item>
+    <item>
+      <title>Erasca Oncology Drug Stock</title>
+      <link>https://www.google.com</link>
+      <description>&lt;ul&gt;
+  &lt;li&gt;&lt;b&gt;Summary:&lt;/b&gt; Erasca, a company focused on RAS-mutant cancers, saw its stock price affected by news regarding its oncology drug. The article discusses the market reaction and implications for Erasca's pipeline. Erasca is developing inhibitors of the RAS/MAPK pathway.&lt;/li&gt;
+  &lt;li&gt;&lt;b&gt;MoAs:&lt;/b&gt; RAS pathway inhibition (e.g., ERK inhibitors, SOS1 inhibitors)&lt;/li&gt;
+  &lt;li&gt;&lt;b&gt;Sources:&lt;/b&gt; &lt;a href="https://www.statnews.com/2026/04/23/erasca-oncology-cancer-drug-stock/?utm_campaign=rss"&gt;STAT News&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;</description>
+      <guid isPermaLink="false">aa862178455e942908f7b38b517dedc2</guid>
+      <pubDate>Thu, 23 Apr 2026 22:02:20 GMT</pubDate>
+    </item>
+    <item>
+      <title>BBOT Leadership and RAS Competitors</title>
+      <link>https://www.google.com</link>
+      <description>&lt;ul&gt;
+  &lt;li&gt;&lt;b&gt;Summary:&lt;/b&gt; BBOT (BridgeBio Oncology Therapeutics) is undergoing a leadership shakeup as competitors in the RAS space gain more visibility. The article discusses the competitive landscape for RAS inhibitors, a crucial area in oncology.&lt;/li&gt;
+  &lt;li&gt;&lt;b&gt;MoAs:&lt;/b&gt; RAS inhibitors (e.g., KRAS G12C inhibitors)&lt;/li&gt;
+  &lt;li&gt;&lt;b&gt;Sources:&lt;/b&gt; &lt;a href="https://www.biospace.com/business/bbot-shakes-up-leadership-as-ras-competitors-get-more-visibility"&gt;BioSpace&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;</description>
+      <guid isPermaLink="false">0ed5ddc15b6d2594c686d85489bac048</guid>
+      <pubDate>Thu, 23 Apr 2026 22:02:20 GMT</pubDate>
     </item>
   </channel>
 </rss>
