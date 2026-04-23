@@ -6,15 +6,15 @@
     <description>News digest covering Immunology.</description>
     <atom:link href="https://www.google.com" rel="self" type="application/rss+xml"/>
     <item>
-      <title>Novartis Sjögren's Campaign</title>
+      <title>Sanofi Q1 Earnings and Dupixent</title>
       <link>https://www.google.com</link>
       <description>&lt;ul&gt;
-  &lt;li&gt;&lt;b&gt;Summary:&lt;/b&gt; &lt;b&gt;Novartis&lt;/b&gt; launches the 'SJOUT' awareness campaign for Sjögren's syndrome, partnering with celebrity Carrie Ann Inaba to educate the public and support patients with this autoimmune disorder, though no specific drug is highlighted.&lt;/li&gt;
-  &lt;li&gt;&lt;b&gt;MoAs:&lt;/b&gt; N/A&lt;/li&gt;
-  &lt;li&gt;&lt;b&gt;Sources:&lt;/b&gt; &lt;a href="https://www.fiercepharma.com/marketing/novartis-launches-sjout-sjogrens-campaign-teams-carrie-ann-inaba"&gt;Fierce Pharma&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;b&gt;Summary:&lt;/b&gt; Sanofi reported first-quarter 2026 earnings that highlighted the strong performance of &lt;b&gt;Dupixent&lt;/b&gt; (dupilumab) and the company's expectation to extend the drug's exclusivity beyond 2031 through patent protections and life-cycle management. The earnings also covered the immunology pipeline and vaccines business. Sanofi executives defended Dupixent's patents amid potential challenges, while acknowledging operational successes independent of the recent CEO change. The blockbuster drug remains a cornerstone of Sanofi's immunology franchise.&lt;/li&gt;
+  &lt;li&gt;&lt;b&gt;MoAs:&lt;/b&gt; IL-4Rα antagonist: Blocks the interleukin-4 receptor alpha subunit, inhibiting IL-4 and IL-13 signaling, key drivers of type 2 inflammation in conditions like atopic dermatitis, asthma, and nasal polyps.&lt;/li&gt;
+  &lt;li&gt;&lt;b&gt;Sources:&lt;/b&gt; &lt;a href="https://www.fiercepharma.com/pharma/sanofi-expects-extend-its-loe-dupixent-beyond-2031"&gt;FiercePharma&lt;/a&gt;, &lt;a href="https://www.biopharmadive.com/news/sanofi-earnings-q1-2026-dupixent-vaccines-immunology/818283/"&gt;BioPharma Dive&lt;/a&gt;, &lt;a href="https://www.biospace.com/business/sanofi-defends-dupixent-patents-but-execs-insist-it-has-nothing-to-do-with-ceo-change"&gt;BioSpace&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;</description>
-      <guid isPermaLink="false">32d92eac78f6da02c743de6650730e6b</guid>
-      <pubDate>Wed, 22 Apr 2026 22:07:02 GMT</pubDate>
+      <guid isPermaLink="false">3d93c0120ca7b4c6ae2a95114bd894af</guid>
+      <pubDate>Thu, 23 Apr 2026 22:02:20 GMT</pubDate>
     </item>
   </channel>
 </rss>
