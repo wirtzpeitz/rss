@@ -6,15 +6,26 @@
     <description>News digest covering Other.</description>
     <atom:link href="https://www.google.com" rel="self" type="application/rss+xml"/>
     <item>
-      <title>General Industry &amp; Opinion (Discarded)</title>
+      <title>AI in Healthcare</title>
       <link>https://www.google.com</link>
       <description>&lt;ul&gt;
-  &lt;li&gt;&lt;b&gt;Summary:&lt;/b&gt; General industry news and opinions, but no specific articles were provided for detailed synthesis.&lt;/li&gt;
+  &lt;li&gt;&lt;b&gt;Summary:&lt;/b&gt; Three articles highlight the expanding role of AI in healthcare. A new AI healthcare residency program is being launched with the backing of a prominent Silicon Valley figure. A survey indicates that over 60% of Americans are using AI tools for medical information. Additionally, startup Gravity Rail has raised $2.75 million from Redesign Health to advance AI-powered patient communication.&lt;/li&gt;
   &lt;li&gt;&lt;b&gt;MoAs:&lt;/b&gt; N/A&lt;/li&gt;
-  &lt;li&gt;&lt;b&gt;Sources:&lt;/b&gt; &lt;/li&gt;
+  &lt;li&gt;&lt;b&gt;Sources:&lt;/b&gt; &lt;a href="https://endpoints.news/the-godmother-of-silicon-valley-is-helping-launch-an-ai-healthcare-residency-program/"&gt;Endpoints News&lt;/a&gt;, &lt;a href="https://www.fiercepharma.com/marketing/more-60-americans-using-ai-tools-medical-information-survey"&gt;Fierce Pharma&lt;/a&gt;, &lt;a href="https://endpoints.news/gravity-rail-raises-2-75m-from-redesign-health-for-ai-patient-communication/"&gt;Endpoints News&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;</description>
-      <guid isPermaLink="false">f3539f87bbad32409bf62459867a0ae2</guid>
-      <pubDate>Wed, 22 Apr 2026 22:07:02 GMT</pubDate>
+      <guid isPermaLink="false">1e10c761f3dfda499dbff67c707349c5</guid>
+      <pubDate>Thu, 23 Apr 2026 22:02:20 GMT</pubDate>
+    </item>
+    <item>
+      <title>Discarded Articles</title>
+      <link>https://www.google.com</link>
+      <description>&lt;ul&gt;
+  &lt;li&gt;&lt;b&gt;Summary:&lt;/b&gt; This article covers a podcast discussion on multiple topics including &lt;b&gt;Kelonia&lt;/b&gt;, &lt;b&gt;Eli Lilly&lt;/b&gt;, telehealth, pharma, Medicare, and obesity, along with other industry news.&lt;/li&gt;
+  &lt;li&gt;&lt;b&gt;MoAs:&lt;/b&gt; N/A&lt;/li&gt;
+  &lt;li&gt;&lt;b&gt;Sources:&lt;/b&gt; &lt;a href="https://www.statnews.com/2026/04/23/readout-loud-podcast-kelonia-lilly-telehealth-pharma-medicare-obesity/?utm_campaign=rss"&gt;STAT News&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;</description>
+      <guid isPermaLink="false">9df48fb23073671a7936f820cd1c3126</guid>
+      <pubDate>Thu, 23 Apr 2026 22:02:20 GMT</pubDate>
     </item>
   </channel>
 </rss>
