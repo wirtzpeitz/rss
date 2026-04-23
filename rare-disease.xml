@@ -6,37 +6,26 @@
     <description>News digest covering Rare Disease.</description>
     <atom:link href="https://www.google.com" rel="self" type="application/rss+xml"/>
     <item>
-      <title>Gene Therapy for Deafness (OTOF)</title>
+      <title>Regeneron Gene Therapy Approval (Otarmeni)</title>
       <link>https://www.google.com</link>
       <description>&lt;ul&gt;
-  &lt;li&gt;&lt;b&gt;Summary:&lt;/b&gt; A gene therapy targeting the &lt;b&gt;OTOF&lt;/b&gt; gene has demonstrated impressive results in a clinical trial for hereditary deafness. This approach uses viral vectors to deliver functional copies of the gene, restoring hearing in patients with OTOF mutations, marking a breakthrough in genetic medicine.&lt;/li&gt;
-  &lt;li&gt;&lt;b&gt;MoAs:&lt;/b&gt; The gene therapy uses adeno-associated virus (AAV) vectors to deliver the OTOF gene to inner ear cells, enabling production of otoferlin protein essential for auditory signal transmission.&lt;/li&gt;
-  &lt;li&gt;&lt;b&gt;Sources:&lt;/b&gt; &lt;a href="https://www.statnews.com/2026/04/22/gene-therapy-deafness-otof-gene-targeted-impressive-trial-results/?utm_campaign=rss"&gt;STAT News&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;b&gt;Summary:&lt;/b&gt; The FDA approved Regeneron's gene therapy &lt;b&gt;Otarmeni&lt;/b&gt; for a form of congenital hearing loss, marking a breakthrough in genetic medicine. This approval represents a new era for treating hereditary deafness using a one-time &lt;b&gt;gene therapy&lt;/b&gt; designed to restore hearing by delivering a functional copy of the affected gene directly into the inner ear. The decision was accompanied by a priority review voucher. Regeneron's therapy addresses an unmet need in rare disease, offering the first approved treatment for this specific genetic hearing loss condition.&lt;/li&gt;
+  &lt;li&gt;&lt;b&gt;MoAs:&lt;/b&gt; Gene therapy: Delivers a functional copy of the gene responsible for hearing loss via adeno-associated virus (AAV) vector to restore auditory function.&lt;/li&gt;
+  &lt;li&gt;&lt;b&gt;Sources:&lt;/b&gt; &lt;a href="https://www.fiercepharma.com/pharma/regeneron-ushers-new-genetic-medicine-era-groundbreaking-gene-therapy-approval"&gt;FiercePharma&lt;/a&gt;, &lt;a href="https://www.biopharmadive.com/news/regeneron-fda-otarmeni-hearing-loss-gene-therapy-voucher/818345/"&gt;BioPharma Dive&lt;/a&gt;, &lt;a href="https://endpoints.news/fda-approves-regeneron-hearing-loss-gene-therapy-otarmeni/"&gt;Endpoints News&lt;/a&gt;, &lt;a href="https://www.biospace.com/fda/fda-approval-of-regenerons-hearing-loss-gene-therapy-breaks-barriers"&gt;BioSpace&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;</description>
-      <guid isPermaLink="false">87c3afa37fdff7400d53a29b36b26611</guid>
-      <pubDate>Wed, 22 Apr 2026 22:07:02 GMT</pubDate>
+      <guid isPermaLink="false">9950b9d24e4d24eca26a6daeb9f0c3ed</guid>
+      <pubDate>Thu, 23 Apr 2026 22:02:20 GMT</pubDate>
     </item>
     <item>
-      <title>Ionis Antisense Drug (Ultra-Rare Disease)</title>
+      <title>Heart Cancer Rarity Study</title>
       <link>https://www.google.com</link>
       <description>&lt;ul&gt;
-  &lt;li&gt;&lt;b&gt;Summary:&lt;/b&gt; &lt;b&gt;Ionis Pharmaceuticals&lt;/b&gt;' investigational antisense oligonucleotide drug shows stabilization of disease progression in patients with an ultra-rare condition, positioning it favorably ahead of an impending FDA regulatory decision.&lt;/li&gt;
-  &lt;li&gt;&lt;b&gt;MoAs:&lt;/b&gt; Antisense oligonucleotide (ASO) designed to bind to specific RNA sequences, modulating splicing or degradation to reduce production of pathogenic proteins.&lt;/li&gt;
-  &lt;li&gt;&lt;b&gt;Sources:&lt;/b&gt; &lt;a href="https://www.biospace.com/drug-development/ionis-antisense-drug-stabilizes-ultra-rare-disease-ahead-of-fda-decision"&gt;Biospace&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;b&gt;Summary:&lt;/b&gt; A new study proposes a theory explaining why heart cancer (primary cardiac tumors) is extremely rare, potentially due to rapid cell turnover or enhanced immune surveillance in cardiac tissue.&lt;/li&gt;
+  &lt;li&gt;&lt;b&gt;MoAs:&lt;/b&gt; N/A&lt;/li&gt;
+  &lt;li&gt;&lt;b&gt;Sources:&lt;/b&gt; &lt;a href="https://www.statnews.com/2026/04/23/why-heart-cancer-is-rare-study-offers-new-theory/?utm_campaign=rss"&gt;STAT News&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;</description>
-      <guid isPermaLink="false">4f522c18e84b12d17164cfeb88763ccc</guid>
-      <pubDate>Wed, 22 Apr 2026 22:07:02 GMT</pubDate>
-    </item>
-    <item>
-      <title>Denali Therapeutics Rare Disease Drug Launch</title>
-      <link>https://www.google.com</link>
-      <description>&lt;ul&gt;
-  &lt;li&gt;&lt;b&gt;Summary:&lt;/b&gt; &lt;b&gt;Denali Therapeutics&lt;/b&gt; marks a key milestone with the launch of its rare disease drug, celebrated by the CEO as a pivotal professional achievement, focusing on treatments for neurodegenerative and lysosomal storage disorders.&lt;/li&gt;
-  &lt;li&gt;&lt;b&gt;MoAs:&lt;/b&gt; Denali's drug likely employs enzyme replacement therapy or small molecule approaches to target lysosomal dysfunction or protein clearance pathways in rare diseases.&lt;/li&gt;
-  &lt;li&gt;&lt;b&gt;Sources:&lt;/b&gt; &lt;a href="https://www.biospace.com/business/denali-ceos-greatest-professional-moment-arrives-as-rare-disease-drug-launches"&gt;Biospace&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;</description>
-      <guid isPermaLink="false">42b06a76891eaad13dc7e4dace80d695</guid>
-      <pubDate>Wed, 22 Apr 2026 22:07:02 GMT</pubDate>
+      <guid isPermaLink="false">6ee126897a390609363f08e98fbf4f6f</guid>
+      <pubDate>Thu, 23 Apr 2026 22:02:20 GMT</pubDate>
     </item>
   </channel>
 </rss>
