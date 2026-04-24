@@ -6,15 +6,26 @@
     <description>News digest covering Neurology.</description>
     <atom:link href="https://www.google.com" rel="self" type="application/rss+xml"/>
     <item>
-      <title>AAN 2026 Data Highlights</title>
+      <title>Sanofi Tolebrutinib (Cenrifki) EU Approval</title>
       <link>https://www.google.com</link>
       <description>&lt;ul&gt;
-  &lt;li&gt;&lt;b&gt;Summary:&lt;/b&gt; At the American Academy of Neurology (AAN) 2026 conference, &lt;b&gt;Johnson &amp; Johnson&lt;/b&gt;, &lt;b&gt;Kyverna Therapeutics&lt;/b&gt;, &lt;b&gt;Capricor Therapeutics&lt;/b&gt;, and &lt;b&gt;Praxis Precision Medicines&lt;/b&gt; presented practice-changing data from clinical trials across various neurological conditions. The data showcased novel therapies and significant efficacy results.&lt;/li&gt;
-  &lt;li&gt;&lt;b&gt;MoAs:&lt;/b&gt; &lt;b&gt;J&amp;J&lt;/b&gt;: monoclonal antibodies for neurodegenerative diseases; &lt;b&gt;Kyverna&lt;/b&gt;: autologous CAR-T cell therapy targeting B cells in neuroinflammatory disorders; &lt;b&gt;Capricor&lt;/b&gt;: allogeneic cardiosphere-derived cells for muscular dystrophy; &lt;b&gt;Praxis&lt;/b&gt;: small molecule sodium channel blockers and GABAA receptor modulators for epilepsy.&lt;/li&gt;
-  &lt;li&gt;&lt;b&gt;Sources:&lt;/b&gt; &lt;a href="https://www.biospace.com/drug-development/aan-2026-j-j-kyverna-capricor-and-praxis-showcase-practice-changing-data"&gt;BioSpace&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;b&gt;Summary:&lt;/b&gt; The European Medicines Agency's CHMP has recommended approval of &lt;b&gt;Sanofi&lt;/b&gt;'s &lt;b&gt;tolebrutinib&lt;/b&gt; (brand name &lt;b&gt;Cenrifki&lt;/b&gt;) for certain patients with multiple sclerosis. This follows a rejection from the FDA earlier this year. The CHMP backing marks a significant win for Sanofi in the competitive MS space. Tolebrutinib is a next-generation BTK inhibitor designed to cross the blood-brain barrier and target both peripheral and central nervous system components of MS.&lt;/li&gt;
+  &lt;li&gt;&lt;b&gt;MoAs:&lt;/b&gt; Bruton's tyrosine kinase (BTK) inhibitor&lt;/li&gt;
+  &lt;li&gt;&lt;b&gt;Sources:&lt;/b&gt; &lt;a href='https://www.biopharmadive.com/news/sanofis-tolebrutinib-cenrifki-ms-europe-recommend-approval/818414/'&gt;BioPharma Dive&lt;/a&gt;, &lt;a href='https://www.fiercepharma.com/pharma/chmp-nod-sanofi-gains-long-awaited-win-tolebrutinib'&gt;Fierce Pharma&lt;/a&gt;, &lt;a href='https://endpoints.news/sanofis-tolebrutinib-gets-chmp-backing-for-certain-ms-patients-after-fda-rejection/'&gt;Endpoints News&lt;/a&gt;, &lt;a href='https://www.statnews.com/2026/04/24/sanofi-ms-drug-europe-reveiew-regeneron-white-house/?utm_campaign=rss'&gt;STAT News&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;</description>
-      <guid isPermaLink="false">0d3427b5461f0de8f1c035574cb1db63</guid>
-      <pubDate>Thu, 23 Apr 2026 22:02:20 GMT</pubDate>
+      <guid isPermaLink="false">3103b4e67915652ee9e643656eddb6c3</guid>
+      <pubDate>Fri, 24 Apr 2026 22:01:21 GMT</pubDate>
+    </item>
+    <item>
+      <title>Foundayo Psychedelics Prescriptions</title>
+      <link>https://www.google.com</link>
+      <description>&lt;ul&gt;
+  &lt;li&gt;&lt;b&gt;Summary:&lt;/b&gt; The company &lt;b&gt;Foundayo&lt;/b&gt; is enabling prescriptions for psychedelic therapies, likely for mental health conditions such as depression and PTSD. The article discusses the broader landscape, including &lt;b&gt;Regeneron&lt;/b&gt;, &lt;b&gt;Amgen&lt;/b&gt;, &lt;b&gt;Novo Nordisk&lt;/b&gt;, and &lt;b&gt;BridgeBio&lt;/b&gt;, as well as the Trump administration's policies. Psychedelic-assisted therapy is gaining traction as a treatment for neurological and psychiatric disorders, and Foundayo aims to facilitate access through its prescription platform.&lt;/li&gt;
+  &lt;li&gt;&lt;b&gt;MoAs:&lt;/b&gt; Psychedelics (e.g., psilocybin): primarily act as agonists at the serotonin 5-HT2A receptor, promoting neuroplasticity, emotional processing, and alleviation of symptoms in mood and anxiety disorders.&lt;/li&gt;
+  &lt;li&gt;&lt;b&gt;Sources:&lt;/b&gt; &lt;a href="https://www.biopharmadive.com/news/foundayo-prescriptions-psychedelics-regeneron-trump-amgen-novo-bridgebio/818284/"&gt;BioPharma Dive&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;</description>
+      <guid isPermaLink="false">a5f14fa9b31eac39c0adc61b41589f14</guid>
+      <pubDate>Fri, 24 Apr 2026 22:01:21 GMT</pubDate>
     </item>
   </channel>
 </rss>
