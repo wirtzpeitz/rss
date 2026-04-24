@@ -6,26 +6,48 @@
     <description>News digest covering Other.</description>
     <atom:link href="https://www.google.com" rel="self" type="application/rss+xml"/>
     <item>
-      <title>AI in Healthcare</title>
+      <title>Doctronic AI Doctor Pilot Backlash</title>
       <link>https://www.google.com</link>
       <description>&lt;ul&gt;
-  &lt;li&gt;&lt;b&gt;Summary:&lt;/b&gt; Three articles highlight the expanding role of AI in healthcare. A new AI healthcare residency program is being launched with the backing of a prominent Silicon Valley figure. A survey indicates that over 60% of Americans are using AI tools for medical information. Additionally, startup Gravity Rail has raised $2.75 million from Redesign Health to advance AI-powered patient communication.&lt;/li&gt;
+  &lt;li&gt;&lt;b&gt;Summary:&lt;/b&gt; &lt;b&gt;Doctronic&lt;/b&gt;'s AI doctor pilot in Utah is facing backlash from the state's medical board and local physicians. Critics raise concerns about safety, ethical implications, and the lack of human oversight in AI-driven medical consultations. The pilot aims to test AI-based primary care, but regulatory hurdles and public skepticism threaten its implementation.&lt;/li&gt;
   &lt;li&gt;&lt;b&gt;MoAs:&lt;/b&gt; N/A&lt;/li&gt;
-  &lt;li&gt;&lt;b&gt;Sources:&lt;/b&gt; &lt;a href="https://endpoints.news/the-godmother-of-silicon-valley-is-helping-launch-an-ai-healthcare-residency-program/"&gt;Endpoints News&lt;/a&gt;, &lt;a href="https://www.fiercepharma.com/marketing/more-60-americans-using-ai-tools-medical-information-survey"&gt;Fierce Pharma&lt;/a&gt;, &lt;a href="https://endpoints.news/gravity-rail-raises-2-75m-from-redesign-health-for-ai-patient-communication/"&gt;Endpoints News&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;b&gt;Sources:&lt;/b&gt; &lt;a href="https://www.statnews.com/2026/04/24/doctronic-ai-doctor-pilot-utah-face-backlash-medical-board/?utm_campaign=rss"&gt;STAT News&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;</description>
-      <guid isPermaLink="false">1e10c761f3dfda499dbff67c707349c5</guid>
-      <pubDate>Thu, 23 Apr 2026 22:02:20 GMT</pubDate>
+      <guid isPermaLink="false">9276c2147d5689f0ddf5909ad5af076d</guid>
+      <pubDate>Fri, 24 Apr 2026 22:01:21 GMT</pubDate>
     </item>
     <item>
-      <title>Discarded Articles</title>
+      <title>Biospace Journalism Evolution</title>
       <link>https://www.google.com</link>
       <description>&lt;ul&gt;
-  &lt;li&gt;&lt;b&gt;Summary:&lt;/b&gt; This article covers a podcast discussion on multiple topics including &lt;b&gt;Kelonia&lt;/b&gt;, &lt;b&gt;Eli Lilly&lt;/b&gt;, telehealth, pharma, Medicare, and obesity, along with other industry news.&lt;/li&gt;
+  &lt;li&gt;&lt;b&gt;Summary:&lt;/b&gt; &lt;b&gt;BioSpace&lt;/b&gt; discusses the evolution of its journalism in the biopharma industry, particularly during the Trump era. The article highlights changes in reporting style, focus on policy, and the need to adapt to a shifting regulatory and political landscape while maintaining rigorous scientific and business coverage.&lt;/li&gt;
   &lt;li&gt;&lt;b&gt;MoAs:&lt;/b&gt; N/A&lt;/li&gt;
-  &lt;li&gt;&lt;b&gt;Sources:&lt;/b&gt; &lt;a href="https://www.statnews.com/2026/04/23/readout-loud-podcast-kelonia-lilly-telehealth-pharma-medicare-obesity/?utm_campaign=rss"&gt;STAT News&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;b&gt;Sources:&lt;/b&gt; &lt;a href="https://www.biospace.com/fda/biospace-elevates-journalism-as-biopharma-evolves-in-the-trump-era"&gt;BioSpace&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;</description>
-      <guid isPermaLink="false">9df48fb23073671a7936f820cd1c3126</guid>
-      <pubDate>Thu, 23 Apr 2026 22:02:20 GMT</pubDate>
+      <guid isPermaLink="false">fad2b0b047fa781b0561536695785980</guid>
+      <pubDate>Fri, 24 Apr 2026 22:01:21 GMT</pubDate>
+    </item>
+    <item>
+      <title>Medical School Late-Life NP to MD</title>
+      <link>https://www.google.com</link>
+      <description>&lt;ul&gt;
+  &lt;li&gt;&lt;b&gt;Summary:&lt;/b&gt; This article from STAT News examines the growing trend of nurse practitioners (NPs) returning to medical school later in life to become physicians. It explores the motivations behind this career shift, including professional advancement and expanded scope of practice, as well as the challenges faced by older students. The piece also considers the potential impact on the healthcare workforce and patient care.&lt;/li&gt;
+  &lt;li&gt;&lt;b&gt;MoAs:&lt;/b&gt; N/A&lt;/li&gt;
+  &lt;li&gt;&lt;b&gt;Sources:&lt;/b&gt; &lt;a href="https://www.statnews.com/2026/04/24/medical-school-late-in-life-np-to-md/?utm_campaign=rss"&gt;STAT News&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;</description>
+      <guid isPermaLink="false">fae4ff6830c054becad2d6247370cb0f</guid>
+      <pubDate>Fri, 24 Apr 2026 22:01:21 GMT</pubDate>
+    </item>
+    <item>
+      <title>Science Journal Retractions Guest Editor</title>
+      <link>https://www.google.com</link>
+      <description>&lt;ul&gt;
+  &lt;li&gt;&lt;b&gt;Summary:&lt;/b&gt; This STAT News article highlights the increasing problem of retractions in scientific journals, particularly those linked to guest-edited special issues. It discusses how the guest editor model can lead to lapses in peer review and editorial oversight, resulting in a higher rate of retractions. The piece underscores the broader implications for scientific integrity and trust in published research.&lt;/li&gt;
+  &lt;li&gt;&lt;b&gt;MoAs:&lt;/b&gt; N/A&lt;/li&gt;
+  &lt;li&gt;&lt;b&gt;Sources:&lt;/b&gt; &lt;a href="https://www.statnews.com/2026/04/24/science-journal-retractions-highlight-guest-editor-special-edition-problem/?utm_campaign=rss"&gt;STAT News&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;</description>
+      <guid isPermaLink="false">7d2d9ac99f45a40358ac0fc290101e17</guid>
+      <pubDate>Fri, 24 Apr 2026 22:01:21 GMT</pubDate>
     </item>
   </channel>
 </rss>
