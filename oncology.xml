@@ -6,37 +6,37 @@
     <description>News digest covering Oncology.</description>
     <atom:link href="https://www.google.com" rel="self" type="application/rss+xml"/>
     <item>
-      <title>Pfizer Cancer Campaign and Pipeline</title>
+      <title>Compass Therapeutics Biliary Tract Cancer Bispecific</title>
       <link>https://www.google.com</link>
       <description>&lt;ul&gt;
-  &lt;li&gt;&lt;b&gt;Summary:&lt;/b&gt; &lt;b&gt;Pfizer&lt;/b&gt; has launched a new cancer awareness campaign featuring former professional baseball player &lt;b&gt;Fernando Mendoza&lt;/b&gt; as a face of its 'Game of Inches' initiative, aiming to educate patients and caregivers about treatment options. Simultaneously, the company has culled an early-stage &lt;b&gt;PD-L1&lt;/b&gt; program after a series of clinical wins and deals in cancer, indicating a strategic pivot toward more promising assets in its oncology pipeline.&lt;/li&gt;
-  &lt;li&gt;&lt;b&gt;MoAs:&lt;/b&gt; N/A&lt;/li&gt;
-  &lt;li&gt;&lt;b&gt;Sources:&lt;/b&gt; &lt;a href='https://www.fiercepharma.com/marketing/pfizer-drafts-fernando-mendoza-new-face-its-game-inches-cancer-campaign'&gt;Fierce Pharma&lt;/a&gt;, &lt;a href='https://www.biospace.com/business/pfizer-culls-early-pd-l1-program-after-series-of-clinical-wins-deals-in-cancer'&gt;BioSpace&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;b&gt;Summary:&lt;/b&gt; &lt;b&gt;Compass Therapeutics&lt;/b&gt; reported topline results from a pivotal Phase 3 trial of its &lt;b&gt;bispecific antibody&lt;/b&gt; (&lt;b&gt;CTX-009&lt;/b&gt;) targeting &lt;b&gt;DLL4&lt;/b&gt; and &lt;b&gt;VEGF&lt;/b&gt; in &lt;b&gt;biliary tract cancer&lt;/b&gt;. The trial missed the primary endpoint of overall survival, with confounding data raising questions about approvability. Shares plunged as investors digested the mixed results. Secondary endpoint analyses showed a potential benefit in a subset of patients, but the regulatory path remains uncertain.&lt;/li&gt;
+  &lt;li&gt;&lt;b&gt;MoAs:&lt;/b&gt; Bispecific antibody simultaneously inhibits DLL4 (Notch pathway) and VEGF (angiogenesis) signaling, disrupting tumor angiogenesis and growth.&lt;/li&gt;
+  &lt;li&gt;&lt;b&gt;Sources:&lt;/b&gt; &lt;a href='https://www.fiercebiotech.com/biotech/compass-therapeutics-stock-heads-south-after-cancer-bispecific-misses-overall-survival'&gt;Fierce Biotech&lt;/a&gt;, &lt;a href='https://www.biospace.com/drug-development/compass-shares-crash-as-confounding-survival-data-raise-approvability-questions-for-bispecific'&gt;BioSpace&lt;/a&gt;, &lt;a href='https://www.oncologypipeline.com/apexonco/crossover-hits-compass'&gt;ApexOnco&lt;/a&gt;, &lt;a href='https://endpoints.news/compass-therapeutics-unveils-key-secondary-endpoint-results-from-pivotal-biliary-tract-cancer-trial/'&gt;Endpoints News&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;</description>
-      <guid isPermaLink="false">e14618fc9fb127a9a46d1a2870c3dbab</guid>
-      <pubDate>Fri, 24 Apr 2026 22:01:21 GMT</pubDate>
+      <guid isPermaLink="false">b12ff09e62547e07a28c891f995efbbb</guid>
+      <pubDate>Mon, 27 Apr 2026 22:02:10 GMT</pubDate>
     </item>
     <item>
-      <title>Novartis Pluvicto EU Filing Withdrawal</title>
+      <title>Erasca RAS Cancer Drug</title>
       <link>https://www.google.com</link>
       <description>&lt;ul&gt;
-  &lt;li&gt;&lt;b&gt;Summary:&lt;/b&gt; &lt;b&gt;Novartis&lt;/b&gt; has withdrawn its application in the European Union for a label expansion of &lt;b&gt;Pluvicto&lt;/b&gt; (lutetium Lu-177 vipivotide tetraxetan) in prostate cancer. The withdrawal comes as the company reassesses its regulatory strategy. Pluvicto is a radioligand therapy targeting PSMA-expressing tumors and is already approved for certain patients with metastatic castration-resistant prostate cancer. The EU decision does not affect existing approvals.&lt;/li&gt;
-  &lt;li&gt;&lt;b&gt;MoAs:&lt;/b&gt; Lutetium-177-PSMA-617 radioligand targeting PSMA&lt;/li&gt;
-  &lt;li&gt;&lt;b&gt;Sources:&lt;/b&gt; &lt;a href='https://endpoints.news/novartis-pulls-pluvicto-prostate-cancer-label-expansion-filing-in-the-eu/'&gt;Endpoints News&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;b&gt;Summary:&lt;/b&gt; &lt;b&gt;Erasca&lt;/b&gt; released data from a study of its &lt;b&gt;RAS pathway inhibitor&lt;/b&gt; (&lt;b&gt;ERAS-007&lt;/b&gt;) in &lt;b&gt;pancreatic cancer&lt;/b&gt;, showing some efficacy signals. However, the announcement was overshadowed by a legal threat from &lt;b&gt;Revolution Medicines&lt;/b&gt;, which claimed patent infringement over efficacy assertions. The dispute could complicate Erasca's progress in a competitive RAS-targeted landscape.&lt;/li&gt;
+  &lt;li&gt;&lt;b&gt;MoAs:&lt;/b&gt; Inhibitor of the RAS signaling pathway (e.g., ERK kinase inhibitor), blocking downstream proliferation and survival signals in KRAS-mutant cancers.&lt;/li&gt;
+  &lt;li&gt;&lt;b&gt;Sources:&lt;/b&gt; &lt;a href='https://endpoints.news/erasca-reports-ras-cancer-drug-data-after-legal-threat-from-revolution/'&gt;Endpoints News&lt;/a&gt;, &lt;a href='https://www.statnews.com/2026/04/27/erasca-pancreatic-cancer-study-results/?utm_campaign=rss'&gt;STAT News&lt;/a&gt;, &lt;a href='https://endpoints.news/revolution-medicines-threatens-to-sue-erasca-over-patent-efficacy-claims/'&gt;Endpoints News&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;</description>
-      <guid isPermaLink="false">c1c48ed420349dd0e7ccebd13be6473e</guid>
-      <pubDate>Fri, 24 Apr 2026 22:01:21 GMT</pubDate>
+      <guid isPermaLink="false">89227dcf4cec9b2a2d483f4c783f3138</guid>
+      <pubDate>Mon, 27 Apr 2026 22:02:10 GMT</pubDate>
     </item>
     <item>
-      <title>Merck PD-1/VEGF Data and Zai Lab</title>
+      <title>Relay Therapeutics Atirmociclib</title>
       <link>https://www.google.com</link>
       <description>&lt;ul&gt;
-  &lt;li&gt;&lt;b&gt;Summary:&lt;/b&gt; &lt;b&gt;Merck&lt;/b&gt; has released new clinical data on a combination therapy involving its PD-1 inhibitor &lt;b&gt;pembrolizumab&lt;/b&gt; (Keytruda) and a VEGF inhibitor, with &lt;b&gt;Zai Lab&lt;/b&gt; as a development partner. The data were presented at a medical meeting, highlighting efficacy in certain tumor types. The collaboration underscores the growing trend of PD-1/VEGF combinations in oncology, and the article also notes a record IPO for &lt;b&gt;Kailera&lt;/b&gt;, though details on that are limited.&lt;/li&gt;
-  &lt;li&gt;&lt;b&gt;MoAs:&lt;/b&gt; PD-1 checkpoint inhibitor: blocks PD-1 receptor on T cells, enhancing anti-tumor immune response; VEGF inhibitor: blocks vascular endothelial growth factor, inhibiting angiogenesis and tumor growth.&lt;/li&gt;
-  &lt;li&gt;&lt;b&gt;Sources:&lt;/b&gt; &lt;a href="https://www.fiercepharma.com/pharma/merck-pd-1vegf-data-zai-lab-global-view-kailera-record-ipo"&gt;Fierce Pharma&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;b&gt;Summary:&lt;/b&gt; &lt;b&gt;Relay Therapeutics&lt;/b&gt; is advancing &lt;b&gt;atirmociclib&lt;/b&gt;, an oral CDK2 inhibitor, into later-stage development for &lt;b&gt;HR+/HER2- breast cancer&lt;/b&gt; with &lt;b&gt;CCNE1&lt;/b&gt; amplification. The company announced updated Phase 1/2 data showing promising monotherapy activity and a manageable safety profile. Atirmociclib is designed to be selective over CDK4/6, potentially offering a differentiated treatment option in a crowded CDK inhibitor landscape. Relay plans to initiate a pivotal study pending regulatory feedback.&lt;/li&gt;
+  &lt;li&gt;&lt;b&gt;MoAs:&lt;/b&gt; &lt;b&gt;Atirmociclib&lt;/b&gt; is a selective inhibitor of cyclin-dependent kinase 2 (CDK2), blocking cell cycle progression in tumors with &lt;b&gt;CCNE1&lt;/b&gt; amplification or cyclin E overexpression.&lt;/li&gt;
+  &lt;li&gt;&lt;b&gt;Sources:&lt;/b&gt; &lt;a href="https://www.oncologypipeline.com/apexonco/relay-passes-baton-atirmociclib"&gt;Oncology Pipeline&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;</description>
-      <guid isPermaLink="false">c88a41e7f0bc62fc29c4d9169079d31f</guid>
-      <pubDate>Fri, 24 Apr 2026 22:01:21 GMT</pubDate>
+      <guid isPermaLink="false">d2a8d317564c3920d4d7ad72f5e46f62</guid>
+      <pubDate>Mon, 27 Apr 2026 22:02:10 GMT</pubDate>
     </item>
   </channel>
 </rss>
