@@ -6,26 +6,26 @@
     <description>News digest covering Infectious Disease.</description>
     <atom:link href="https://www.google.com" rel="self" type="application/rss+xml"/>
     <item>
-      <title>Moderna Bird Flu Vaccine</title>
+      <title>Mundipharma/Cormedix Rezzayo</title>
       <link>https://www.google.com</link>
       <description>&lt;ul&gt;
-  &lt;li&gt;&lt;b&gt;Summary:&lt;/b&gt; &lt;b&gt;Moderna&lt;/b&gt; is advancing an mRNA vaccine for bird flu, with trials supported by CEPI and HHS. The study continues despite some U.S. limitations, aiming to address pandemic threats from avian influenza through rapid vaccine development platforms.&lt;/li&gt;
-  &lt;li&gt;&lt;b&gt;MoAs:&lt;/b&gt; Moderna's bird flu vaccine is an mRNA-based vaccine that encodes hemagglutinin antigens from the virus, stimulating an immune response to provide protection against infection.&lt;/li&gt;
-  &lt;li&gt;&lt;b&gt;Sources:&lt;/b&gt; &lt;a href="https://www.biopharmadive.com/news/moderna-mrna-bird-flu-vaccine-trial-cepi-hhs/818172/"&gt;BioPharma Dive&lt;/a&gt;, &lt;a href="https://www.statnews.com/2026/04/22/health-news-moderna-bird-flu-vaccine-study-continues-with-us-limits/?utm_campaign=rss"&gt;STAT News&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;b&gt;Summary:&lt;/b&gt; &lt;b&gt;Mundipharma&lt;/b&gt; and &lt;b&gt;Cormedix Inc.&lt;/b&gt; reported a positive trial win for &lt;b&gt;Rezzayo&lt;/b&gt; (rezafungin), an echinocandin antifungal therapy. The data support expanding its use in invasive fungal infections. The partnership aims to commercialize Rezzayo across multiple markets.&lt;/li&gt;
+  &lt;li&gt;&lt;b&gt;MoAs:&lt;/b&gt; Rezafungin inhibits beta-glucan synthase, disrupting fungal cell wall synthesis, leading to cell death.&lt;/li&gt;
+  &lt;li&gt;&lt;b&gt;Sources:&lt;/b&gt; &lt;a href='https://www.fiercepharma.com/pharma/trial-win-sets-mundipharma-cormedix-expansion-rezzayo'&gt;Fierce Pharma&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;</description>
-      <guid isPermaLink="false">c01c4da048922b5eadc39e246efbddc3</guid>
-      <pubDate>Wed, 22 Apr 2026 22:07:02 GMT</pubDate>
+      <guid isPermaLink="false">350ec63fa23e6af65a864723c5efa755</guid>
+      <pubDate>Mon, 27 Apr 2026 22:02:10 GMT</pubDate>
     </item>
     <item>
-      <title>Moderna EU Approval (Flu-COVID Combo)</title>
+      <title>Hepatitis B Vaccination Newborns</title>
       <link>https://www.google.com</link>
       <description>&lt;ul&gt;
-  &lt;li&gt;&lt;b&gt;Summary:&lt;/b&gt; &lt;b&gt;Moderna&lt;/b&gt; receives European Union approval for its combination mRNA vaccine targeting both seasonal influenza and COVID-19, a significant regulatory achievement amid ongoing challenges in the U.S. market.&lt;/li&gt;
-  &lt;li&gt;&lt;b&gt;MoAs:&lt;/b&gt; mRNA-based vaccine encoding antigens for influenza viruses and SARS-CoV-2, eliciting immune responses to prevent infection from both pathogens.&lt;/li&gt;
-  &lt;li&gt;&lt;b&gt;Sources:&lt;/b&gt; &lt;a href="https://www.biospace.com/drug-development/amid-us-ordeal-moderna-wins-eu-approval-for-flu-covid-19-combo-shot"&gt;Biospace&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;b&gt;Summary:&lt;/b&gt; Studies published in JAMA examine the effectiveness and safety of hepatitis B vaccination in newborns. The research provides updated data on the immune response and long-term protection offered by the vaccine, reinforcing its importance in preventing perinatal transmission of hepatitis B virus.&lt;/li&gt;
+  &lt;li&gt;&lt;b&gt;MoAs:&lt;/b&gt; Hepatitis B vaccine (recombinant) - induces neutralizing antibodies against hepatitis B surface antigen (HBsAg).&lt;/li&gt;
+  &lt;li&gt;&lt;b&gt;Sources:&lt;/b&gt; &lt;a href='https://www.statnews.com/2026/04/27/jama-studies-hepatitis-b-vaccination-newborns/?utm_campaign=rss'&gt;STAT News&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;</description>
-      <guid isPermaLink="false">2f7c0d3335f364276ab021ad2ddf9062</guid>
-      <pubDate>Wed, 22 Apr 2026 22:07:02 GMT</pubDate>
+      <guid isPermaLink="false">9842a80f5eb674937f0e073506f28ff9</guid>
+      <pubDate>Mon, 27 Apr 2026 22:02:10 GMT</pubDate>
     </item>
   </channel>
 </rss>
