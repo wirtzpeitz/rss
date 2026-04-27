@@ -6,48 +6,37 @@
     <description>News digest covering Other.</description>
     <atom:link href="https://www.google.com" rel="self" type="application/rss+xml"/>
     <item>
-      <title>Doctronic AI Doctor Pilot Backlash</title>
+      <title>Fathom AI Biotech</title>
       <link>https://www.google.com</link>
       <description>&lt;ul&gt;
-  &lt;li&gt;&lt;b&gt;Summary:&lt;/b&gt; &lt;b&gt;Doctronic&lt;/b&gt;'s AI doctor pilot in Utah is facing backlash from the state's medical board and local physicians. Critics raise concerns about safety, ethical implications, and the lack of human oversight in AI-driven medical consultations. The pilot aims to test AI-based primary care, but regulatory hurdles and public skepticism threaten its implementation.&lt;/li&gt;
-  &lt;li&gt;&lt;b&gt;MoAs:&lt;/b&gt; N/A&lt;/li&gt;
-  &lt;li&gt;&lt;b&gt;Sources:&lt;/b&gt; &lt;a href="https://www.statnews.com/2026/04/24/doctronic-ai-doctor-pilot-utah-face-backlash-medical-board/?utm_campaign=rss"&gt;STAT News&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;b&gt;Summary:&lt;/b&gt; &lt;b&gt;Fathom&lt;/b&gt;, formerly known as Atommap, has raised $47 million in Series A funding to advance its AI-driven drug discovery platform. The company uses graph neural networks and proprietary datasets to predict drug-target interactions and optimize lead molecules. Fathom has partnerships with several pharmaceutical companies and aims to expand its in-house pipeline. The rebranding reflects a strategic shift from mapping atomic-resolution structures to broader AI-enabled discovery capabilities.&lt;/li&gt;
+  &lt;li&gt;&lt;b&gt;MoAs:&lt;/b&gt; N/A (platform technology; no specific drug or MoA disclosed in the funding round announcement)&lt;/li&gt;
+  &lt;li&gt;&lt;b&gt;Sources:&lt;/b&gt; &lt;a href="https://endpoints.news/ai-biotech-fathom-raises-47m-series-a-renames-from-atommap/"&gt;Endpoints News&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;</description>
-      <guid isPermaLink="false">9276c2147d5689f0ddf5909ad5af076d</guid>
-      <pubDate>Fri, 24 Apr 2026 22:01:21 GMT</pubDate>
+      <guid isPermaLink="false">a7c19db92417fa2e08e744da2fa46e0f</guid>
+      <pubDate>Mon, 27 Apr 2026 22:02:10 GMT</pubDate>
     </item>
     <item>
-      <title>Biospace Journalism Evolution</title>
+      <title>Doctronic AI Program Controversy</title>
       <link>https://www.google.com</link>
       <description>&lt;ul&gt;
-  &lt;li&gt;&lt;b&gt;Summary:&lt;/b&gt; &lt;b&gt;BioSpace&lt;/b&gt; discusses the evolution of its journalism in the biopharma industry, particularly during the Trump era. The article highlights changes in reporting style, focus on policy, and the need to adapt to a shifting regulatory and political landscape while maintaining rigorous scientific and business coverage.&lt;/li&gt;
+  &lt;li&gt;&lt;b&gt;Summary:&lt;/b&gt; Doctors in Utah are demanding the suspension of the Doctronic AI program, citing concerns over its implementation and potential impact on patient care. The controversy centers on the use of artificial intelligence in clinical settings, with physicians questioning its safety and efficacy.&lt;/li&gt;
   &lt;li&gt;&lt;b&gt;MoAs:&lt;/b&gt; N/A&lt;/li&gt;
-  &lt;li&gt;&lt;b&gt;Sources:&lt;/b&gt; &lt;a href="https://www.biospace.com/fda/biospace-elevates-journalism-as-biopharma-evolves-in-the-trump-era"&gt;BioSpace&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;b&gt;Sources:&lt;/b&gt; &lt;a href='https://endpoints.news/utah-doctors-demand-suspension-of-doctronic-ai-program/'&gt;Endpoints News&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;</description>
-      <guid isPermaLink="false">fad2b0b047fa781b0561536695785980</guid>
-      <pubDate>Fri, 24 Apr 2026 22:01:21 GMT</pubDate>
+      <guid isPermaLink="false">084750e49cd9b7ac215459146235982b</guid>
+      <pubDate>Mon, 27 Apr 2026 22:02:10 GMT</pubDate>
     </item>
     <item>
-      <title>Medical School Late-Life NP to MD</title>
+      <title>Supreme Court Weedkiller Cancer Claims</title>
       <link>https://www.google.com</link>
       <description>&lt;ul&gt;
-  &lt;li&gt;&lt;b&gt;Summary:&lt;/b&gt; This article from STAT News examines the growing trend of nurse practitioners (NPs) returning to medical school later in life to become physicians. It explores the motivations behind this career shift, including professional advancement and expanded scope of practice, as well as the challenges faced by older students. The piece also considers the potential impact on the healthcare workforce and patient care.&lt;/li&gt;
+  &lt;li&gt;&lt;b&gt;Summary:&lt;/b&gt; The Supreme Court is set to consider cases involving claims that the weedkiller glyphosate causes cancer. These lawsuits, brought by individuals who developed non-Hodgkin lymphoma after exposure, could have significant implications for the agrochemical industry and regulatory oversight of pesticides.&lt;/li&gt;
   &lt;li&gt;&lt;b&gt;MoAs:&lt;/b&gt; N/A&lt;/li&gt;
-  &lt;li&gt;&lt;b&gt;Sources:&lt;/b&gt; &lt;a href="https://www.statnews.com/2026/04/24/medical-school-late-in-life-np-to-md/?utm_campaign=rss"&gt;STAT News&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;b&gt;Sources:&lt;/b&gt; &lt;a href='https://www.statnews.com/2026/04/27/supreme-court-lawsuits-roundup-weedkiller-cancer-claims/?utm_campaign=rss'&gt;STAT News&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;</description>
-      <guid isPermaLink="false">fae4ff6830c054becad2d6247370cb0f</guid>
-      <pubDate>Fri, 24 Apr 2026 22:01:21 GMT</pubDate>
-    </item>
-    <item>
-      <title>Science Journal Retractions Guest Editor</title>
-      <link>https://www.google.com</link>
-      <description>&lt;ul&gt;
-  &lt;li&gt;&lt;b&gt;Summary:&lt;/b&gt; This STAT News article highlights the increasing problem of retractions in scientific journals, particularly those linked to guest-edited special issues. It discusses how the guest editor model can lead to lapses in peer review and editorial oversight, resulting in a higher rate of retractions. The piece underscores the broader implications for scientific integrity and trust in published research.&lt;/li&gt;
-  &lt;li&gt;&lt;b&gt;MoAs:&lt;/b&gt; N/A&lt;/li&gt;
-  &lt;li&gt;&lt;b&gt;Sources:&lt;/b&gt; &lt;a href="https://www.statnews.com/2026/04/24/science-journal-retractions-highlight-guest-editor-special-edition-problem/?utm_campaign=rss"&gt;STAT News&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;</description>
-      <guid isPermaLink="false">7d2d9ac99f45a40358ac0fc290101e17</guid>
-      <pubDate>Fri, 24 Apr 2026 22:01:21 GMT</pubDate>
+      <guid isPermaLink="false">f2f676c3af2d4084733b63630c4e2d11</guid>
+      <pubDate>Mon, 27 Apr 2026 22:02:10 GMT</pubDate>
     </item>
   </channel>
 </rss>
