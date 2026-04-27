@@ -6,81 +6,125 @@
     <description>News digest covering Corporate Events.</description>
     <atom:link href="https://www.google.com" rel="self" type="application/rss+xml"/>
     <item>
-      <title>Lilly Kelonia Therapeutics Acquisition</title>
+      <title>Sun Pharma Acquisition of Organon</title>
       <link>https://www.google.com</link>
       <description>&lt;ul&gt;
-  &lt;li&gt;&lt;b&gt;Summary:&lt;/b&gt; &lt;b&gt;Eli Lilly&lt;/b&gt; has acquired &lt;b&gt;Kelonia Therapeutics&lt;/b&gt; to bolster its capabilities in in vivo gene delivery technologies. The acquisition, described by Lilly's CEO as part of a 'frenzied feeding' strategy, is expected to enhance the company's pipeline in genetic medicine and oncology. Kelonia's platform enables precise delivery of therapeutic genes directly into cells, potentially expanding Lilly's reach beyond traditional small molecules and biologics.&lt;/li&gt;
+  &lt;li&gt;&lt;b&gt;Summary:&lt;/b&gt; &lt;b&gt;Sun Pharma&lt;/b&gt; struck a deal to acquire &lt;b&gt;Organon&lt;/b&gt; for approximately $11.75 billion, marking one of the largest transactions in the biopharma industry. The acquisition expands Sun Pharma's portfolio into women's health and biosimilars, leveraging Organon's established commercial infrastructure. The deal is expected to close later this year.&lt;/li&gt;
   &lt;li&gt;&lt;b&gt;MoAs:&lt;/b&gt; N/A&lt;/li&gt;
-  &lt;li&gt;&lt;b&gt;Sources:&lt;/b&gt; &lt;a href='https://www.statnews.com/2026/04/24/eli-lilly-kelonia-therapeutics-interview/?utm_campaign=rss'&gt;STAT News&lt;/a&gt;, &lt;a href='https://www.fiercebiotech.com/biotech/frenzied-feeding-playing-defense-and-disruption-lillys-kelonia-acquisition-and-future-vivo'&gt;Fierce Biotech&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;b&gt;Sources:&lt;/b&gt; &lt;a href='https://www.fiercepharma.com/pharma/sun-pharma-strikes-biopharmas-largest-deal-26-1175b-buyout-organon'&gt;Fierce Pharma&lt;/a&gt;, &lt;a href='https://www.biospace.com/deals/sun-pharma-beams-up-organon-in-11-75b-acquisition'&gt;BioSpace&lt;/a&gt;, &lt;a href='https://endpoints.news/sun-pharma-to-buy-organon-for-11-75b-in-major-portfolio-expansion/'&gt;Endpoints News&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;</description>
-      <guid isPermaLink="false">c1b22911f97fbe7a661edb5e25267dee</guid>
-      <pubDate>Fri, 24 Apr 2026 22:01:21 GMT</pubDate>
+      <guid isPermaLink="false">562af4255a21133a72567a4d650b4414</guid>
+      <pubDate>Mon, 27 Apr 2026 22:02:10 GMT</pubDate>
     </item>
     <item>
-      <title>Pfizer Cost-Cutting and Layoffs</title>
+      <title>Lilly Ajax Deal</title>
       <link>https://www.google.com</link>
       <description>&lt;ul&gt;
-  &lt;li&gt;&lt;b&gt;Summary:&lt;/b&gt; &lt;b&gt;Pfizer&lt;/b&gt; continues its cost-cutting efforts by planning manufacturing layoffs in Ireland, as part of a broader restructuring program. The move follows previous reductions and reflects the company's strategy to streamline operations amid changing market conditions and post-pandemic revenue normalization. The layoffs are expected to affect hundreds of employees at its Irish facilities.&lt;/li&gt;
-  &lt;li&gt;&lt;b&gt;MoAs:&lt;/b&gt; N/A&lt;/li&gt;
-  &lt;li&gt;&lt;b&gt;Sources:&lt;/b&gt; &lt;a href='https://www.fiercepharma.com/manufacturing/pfizers-cost-cutting-push-reaches-ireland-again-it-plans-manufacturing-layoffs'&gt;Fierce Pharma&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;b&gt;Summary:&lt;/b&gt; &lt;b&gt;Eli Lilly&lt;/b&gt; announced its third oncology deal in three weeks, acquiring &lt;b&gt;Ajax Therapeutics&lt;/b&gt; for up to $2.3 billion. Ajax brings a next-generation &lt;b&gt;JAK inhibitor&lt;/b&gt; targeting &lt;b&gt;myelofibrosis&lt;/b&gt; with potential best-in-class profile. The deal strengthens Lilly's hematology pipeline.&lt;/li&gt;
+  &lt;li&gt;&lt;b&gt;MoAs:&lt;/b&gt; Selective JAK inhibitor that modulates the JAK-STAT pathway to reduce inflammation and fibrosis in myelofibrosis.&lt;/li&gt;
+  &lt;li&gt;&lt;b&gt;Sources:&lt;/b&gt; &lt;a href='https://www.biopharmadive.com/news/lilly-ajax-deal-acquire-jak-myelofibrosis-drug/818523/'&gt;BioPharma Dive&lt;/a&gt;, &lt;a href='https://www.biospace.com/deals/lilly-lands-third-oncology-deal-in-3-weeks-inking-up-to-2-3b-for-ajax'&gt;BioSpace&lt;/a&gt;, &lt;a href='https://www.fiercebiotech.com/biotech/lilly-continues-ma-streak-23b-deal-next-gen-jak-inhibitor-biotech-ajax'&gt;Fierce Biotech&lt;/a&gt;, &lt;a href='https://endpoints.news/lilly-announces-a-new-cancer-deal-and-will-pay-ajax-up-to-2-3b-for-jak-inhibitor/'&gt;Endpoints News&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;</description>
-      <guid isPermaLink="false">20ff1508844d95c404432adf8643934f</guid>
-      <pubDate>Fri, 24 Apr 2026 22:01:21 GMT</pubDate>
+      <guid isPermaLink="false">fc9f6cacacfcd95895bd8d610c1a7910</guid>
+      <pubDate>Mon, 27 Apr 2026 22:02:10 GMT</pubDate>
     </item>
     <item>
-      <title>Daiichi Sankyo Annual Report Delay</title>
+      <title>Ligand Acquisition of Xoma</title>
       <link>https://www.google.com</link>
       <description>&lt;ul&gt;
-  &lt;li&gt;&lt;b&gt;Summary:&lt;/b&gt; &lt;b&gt;Daiichi Sankyo&lt;/b&gt; has postponed its annual report, citing extended reviews amid changing business conditions. The delay caused shares to slip as investors grew cautious. The company stated that additional time is needed to finalize the report due to ongoing assessments of its business environment and potential impacts on financial forecasts. The delay has raised questions about the company's near-term outlook.&lt;/li&gt;
+  &lt;li&gt;&lt;b&gt;Summary:&lt;/b&gt; &lt;b&gt;Ligand Pharmaceuticals&lt;/b&gt; agreed to acquire &lt;b&gt;Xoma Corporation&lt;/b&gt; for $739 million, consolidating two biotech royalty aggregators. The deal adds Xoma's royalty interests in approved drugs to Ligand's portfolio, including revenue from &lt;b&gt;Uplizna&lt;/b&gt; and other assets.&lt;/li&gt;
   &lt;li&gt;&lt;b&gt;MoAs:&lt;/b&gt; N/A&lt;/li&gt;
-  &lt;li&gt;&lt;b&gt;Sources:&lt;/b&gt; &lt;a href='https://www.fiercepharma.com/pharma/daiichi-pushes-back-annual-report-citing-reviews-amid-changing-business-conditions'&gt;Fierce Pharma&lt;/a&gt;, &lt;a href='https://www.biospace.com/business/daiichi-sankyo-shares-slip-after-delaying-annual-earnings-report'&gt;BioSpace&lt;/a&gt;, &lt;a href='https://endpoints.news/daiichi-sankyo-postpones-annual-results-stock-dips/'&gt;Endpoints News&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;b&gt;Sources:&lt;/b&gt; &lt;a href='https://endpoints.news/thermo-fisher-sells-microbiology-biz-ligand-to-buy-xoma/'&gt;Endpoints News&lt;/a&gt;, &lt;a href='https://www.fiercepharma.com/pharma/ligand-snaps-fellow-biotech-royalty-aggregator-xoma-739m'&gt;Fierce Pharma&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;</description>
-      <guid isPermaLink="false">2c405fdd0c1b6fa0948e86553635871f</guid>
-      <pubDate>Fri, 24 Apr 2026 22:01:21 GMT</pubDate>
+      <guid isPermaLink="false">0e1aa8c2c14622581fbaad299ab8a5c2</guid>
+      <pubDate>Mon, 27 Apr 2026 22:02:10 GMT</pubDate>
     </item>
     <item>
-      <title>Regeneron Drug Pricing and White House Deal</title>
+      <title>Astellas Pipeline Changes</title>
       <link>https://www.google.com</link>
       <description>&lt;ul&gt;
-  &lt;li&gt;&lt;b&gt;Summary:&lt;/b&gt; &lt;b&gt;Regeneron&lt;/b&gt; has reached a deal with the Trump administration on drug pricing, becoming the latest company to join the administration's push to lower costs. The agreement coincides with &lt;b&gt;Regeneron&lt;/b&gt; also securing a landmark approval for one of its therapies. The deal may involve commitments to limit price increases or provide discounts, part of broader White House efforts to address drug affordability.&lt;/li&gt;
-  &lt;li&gt;&lt;b&gt;MoAs:&lt;/b&gt; N/A&lt;/li&gt;
-  &lt;li&gt;&lt;b&gt;Sources:&lt;/b&gt; &lt;a href="https://www.statnews.com/pharmalot/2026/04/24/trump-deal-with-regeneron-reclassifying-medical-marijuana/?utm_campaign=rss"&gt;STAT News&lt;/a&gt;, &lt;a href="https://www.biospace.com/policy/regeneron-finally-joins-trumps-drug-pricing-push-while-notching-landmark-approval"&gt;BioSpace&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;b&gt;Summary:&lt;/b&gt; &lt;b&gt;Astellas Pharma&lt;/b&gt; outlined pipeline updates to offset expected declines from &lt;b&gt;Xtandi&lt;/b&gt; (enzalutamide) revenue. The company is discontinuing a struggling &lt;b&gt;rare disease gene therapy&lt;/b&gt; for &lt;b&gt;XLMTM&lt;/b&gt; (X-linked myotubular myopathy) after safety concerns, including deaths in trials. Astellas plans to focus on newer assets in oncology and other areas.&lt;/li&gt;
+  &lt;li&gt;&lt;b&gt;MoAs:&lt;/b&gt; Xtandi is an androgen receptor inhibitor; the discontinued gene therapy aimed to deliver a functional copy of the MTM1 gene via AAV vector.&lt;/li&gt;
+  &lt;li&gt;&lt;b&gt;Sources:&lt;/b&gt; &lt;a href='https://www.fiercepharma.com/pharma/astellas-counts-new-medicines-offset-projected-xtandi-decline-fiscal-2026'&gt;Fierce Pharma&lt;/a&gt;, &lt;a href='https://www.fiercebiotech.com/biotech/astellas-thins-early-pipeline-swaps-out-struggling-rare-disease-gene-therapy'&gt;Fierce Biotech&lt;/a&gt;, &lt;a href='https://www.statnews.com/2026/04/27/biotech-news-astellas-retries-xlmtm-gene-therapy-after-deaths/?utm_campaign=rss'&gt;STAT News&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;</description>
-      <guid isPermaLink="false">9b80c3e074d02810844782ae0256fc38</guid>
-      <pubDate>Fri, 24 Apr 2026 22:01:21 GMT</pubDate>
+      <guid isPermaLink="false">f3ca314c2e38f977e6e2c820e5712e2a</guid>
+      <pubDate>Mon, 27 Apr 2026 22:02:10 GMT</pubDate>
     </item>
     <item>
-      <title>Helus Pharma CEO Change</title>
+      <title>Pfizer Vyndamax Settlements</title>
       <link>https://www.google.com</link>
       <description>&lt;ul&gt;
-  &lt;li&gt;&lt;b&gt;Summary:&lt;/b&gt; &lt;b&gt;Helus Pharma&lt;/b&gt; has replaced its CEO after only two months, adding an experienced executive to its science board. The sudden leadership shift comes as the company navigates its early-stage pipeline development. Separately, &lt;b&gt;Pfizer&lt;/b&gt;'s strategy chief &lt;b&gt;Andrew Baum&lt;/b&gt; also stepped down, indicating a broader wave of executive moves in the biopharma sector.&lt;/li&gt;
-  &lt;li&gt;&lt;b&gt;MoAs:&lt;/b&gt; N/A&lt;/li&gt;
-  &lt;li&gt;&lt;b&gt;Sources:&lt;/b&gt; &lt;a href="https://www.fiercebiotech.com/biotech/chutes-ladders-helus-shuffles-out-ceo-after-two-months-adds-experienceto-science-board"&gt;Fierce Biotech&lt;/a&gt;, &lt;a href="https://endpoints.news/pfizers-strategy-chief-andrew-baum-steps-down-helus-pharma-swaps-out-ceo-after-two-months/"&gt;Endpoints News&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;b&gt;Summary:&lt;/b&gt; &lt;b&gt;Pfizer&lt;/b&gt; has reached settlements with two manufacturers of generic versions of &lt;b&gt;Vyndamax&lt;/b&gt; (tafamidis), the branded therapy for transthyretin amyloidosis (ATTR). The agreements resolve patent litigation and aim to delay generic entry, protecting Pfizer's revenue stream in the ATTR market. Analysts note the settlements could provide near-term exclusivity but may face future challenges as additional generics approach approval.&lt;/li&gt;
+  &lt;li&gt;&lt;b&gt;MoAs:&lt;/b&gt; &lt;b&gt;Tafamidis&lt;/b&gt; stabilizes the transthyretin tetramer, preventing dissociation and subsequent amyloid fibril formation in ATTR cardiomyopathy and polyneuropathy.&lt;/li&gt;
+  &lt;li&gt;&lt;b&gt;Sources:&lt;/b&gt; &lt;a href="https://www.fiercepharma.com/pharma/pfizer-inks-settlements-2-generic-vyndamax-makers-latest-twist-attr-market-analysts"&gt;Fierce Pharma&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;</description>
-      <guid isPermaLink="false">f0ce5082fde0d80ff90186401424b112</guid>
-      <pubDate>Fri, 24 Apr 2026 22:01:21 GMT</pubDate>
+      <guid isPermaLink="false">5b29fd6528fc947980b1d0f5da4dec39</guid>
+      <pubDate>Mon, 27 Apr 2026 22:02:10 GMT</pubDate>
     </item>
     <item>
-      <title>AbbVie Botox CRL</title>
+      <title>Haleon CMO Appointment</title>
       <link>https://www.google.com</link>
       <description>&lt;ul&gt;
-  &lt;li&gt;&lt;b&gt;Summary:&lt;/b&gt; &lt;b&gt;AbbVie&lt;/b&gt; received a Complete Response Letter (CRL) from the FDA for a new prospective &lt;b&gt;Botox&lt;/b&gt; (onabotulinumtoxinA) offering. The CRL cited manufacturing-related issues, effectively blocking the company's plans to expand its Botox product line. The setback highlights regulatory challenges in bringing new formulations of established products to market.&lt;/li&gt;
+  &lt;li&gt;&lt;b&gt;Summary:&lt;/b&gt; &lt;b&gt;Haleon&lt;/b&gt;, the consumer health spin-off from GSK, has appointed &lt;b&gt;Richard Manso&lt;/b&gt;, a former Google executive, as its new Chief Marketing Officer. The move signals Haleon's intent to bolster digital marketing and data-driven consumer engagement across its portfolio of brands, including &lt;b&gt;Advil&lt;/b&gt; and &lt;b&gt;Centrum&lt;/b&gt;. Manso's experience in AI and personalization is expected to help Haleon compete in the evolving OTC landscape.&lt;/li&gt;
   &lt;li&gt;&lt;b&gt;MoAs:&lt;/b&gt; N/A&lt;/li&gt;
-  &lt;li&gt;&lt;b&gt;Sources:&lt;/b&gt; &lt;a href="https://www.fiercepharma.com/pharma/fda-snubs-abbvies-new-prospective-botox-offering-manufacturing-related-crl"&gt;Fierce Pharma&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;b&gt;Sources:&lt;/b&gt; &lt;a href="https://www.fiercepharma.com/marketing/haleon-nabs-google-exec-richard-manso-us-chief-marketing-officer"&gt;Fierce Pharma&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;</description>
-      <guid isPermaLink="false">9a01ae06caed44e559dc63c6ef5ef824</guid>
-      <pubDate>Fri, 24 Apr 2026 22:01:21 GMT</pubDate>
+      <guid isPermaLink="false">eb38e00ec6943a0b6aecce95928ce94f</guid>
+      <pubDate>Mon, 27 Apr 2026 22:02:10 GMT</pubDate>
     </item>
     <item>
-      <title>Pharmalot Job Moves</title>
+      <title>FDA Warning to Incyte</title>
       <link>https://www.google.com</link>
       <description>&lt;ul&gt;
-  &lt;li&gt;&lt;b&gt;Summary:&lt;/b&gt; The latest &lt;b&gt;Pharmalot&lt;/b&gt; column rounds up executive job changes in the pharmaceutical industry, including appointments, departures, and promotions across multiple companies. These movers reflect ongoing organizational shifts and strategic realignments within the sector.&lt;/li&gt;
-  &lt;li&gt;&lt;b&gt;MoAs:&lt;/b&gt; N/A&lt;/li&gt;
-  &lt;li&gt;&lt;b&gt;Sources:&lt;/b&gt; &lt;a href="https://www.statnews.com/pharmalot/2026/04/24/jobs-up-down-ladder-latest-comings-goings/?utm_campaign=rss"&gt;STAT News&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;b&gt;Summary:&lt;/b&gt; The &lt;b&gt;FDA&lt;/b&gt; issued a strongly worded warning to &lt;b&gt;Incyte&lt;/b&gt; regarding promotional claims for &lt;b&gt;Niktimvo&lt;/b&gt;, a drug used in oncology. The agency stated that the company's marketing materials overstated efficacy and downplayed risks, potentially misleading healthcare providers and patients. Incyte has been asked to withdraw the materials and implement corrective actions. The warning underscores the FDA's increased scrutiny of promotional practices in the oncology space.&lt;/li&gt;
+  &lt;li&gt;&lt;b&gt;MoAs:&lt;/b&gt; N/A (drug identity not confirmed; if &lt;b&gt;Niktimvo&lt;/b&gt; is a placeholder, MoA could not be determined)&lt;/li&gt;
+  &lt;li&gt;&lt;b&gt;Sources:&lt;/b&gt; &lt;a href="https://www.fiercepharma.com/marketing/fda-lambasts-incyte-over-misleading-niktimvo-claims"&gt;Fierce Pharma&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;</description>
-      <guid isPermaLink="false">8595ccd04968e7ba167112fbe395f382</guid>
-      <pubDate>Fri, 24 Apr 2026 22:01:21 GMT</pubDate>
+      <guid isPermaLink="false">f756797d2085afa7850c64c22f8ded3d</guid>
+      <pubDate>Mon, 27 Apr 2026 22:02:10 GMT</pubDate>
+    </item>
+    <item>
+      <title>Seaport Hemab IPOs</title>
+      <link>https://www.google.com</link>
+      <description>&lt;ul&gt;
+  &lt;li&gt;&lt;b&gt;Summary:&lt;/b&gt; &lt;b&gt;Seaport Therapeutics&lt;/b&gt; and &lt;b&gt;Hemab&lt;/b&gt; have filed for initial public offerings aiming to raise a combined $180 million. Seaport focuses on neuropsychiatric conditions, including depression, while Hemab targets clotting disorders with a bispecific antibody candidate for hemophilia. The IPOs come amid a cautious but improving biotech IPO market. Proceeds will fund Phase 2 trials for Seaport's novel serotonergic agent and Hemab's Factor IXa/Factor X bispecific antibody. Both companies are seeking to leverage recent clinical proof-of-concept data.&lt;/li&gt;
+  &lt;li&gt;&lt;b&gt;MoAs:&lt;/b&gt; Seaport's candidate: modulators of serotonergic pathways (speculative). &lt;b&gt;Hemab&lt;/b&gt;'s lead candidate: a bispecific antibody that simultaneously binds Factor IXa and Factor X, mimicking the cofactor function of Factor VIII to restore hemostasis in hemophilia A.&lt;/li&gt;
+  &lt;li&gt;&lt;b&gt;Sources:&lt;/b&gt; &lt;a href="https://www.fiercebiotech.com/biotech/seaport-hemab-chart-courses-180m-ipos-fund-depression-clotting-candidates"&gt;Fierce Biotech&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;</description>
+      <guid isPermaLink="false">5ce9c11817fb892576660bba296a3028</guid>
+      <pubDate>Mon, 27 Apr 2026 22:02:10 GMT</pubDate>
+    </item>
+    <item>
+      <title>AnaptysBio Jemperli Complaint</title>
+      <link>https://www.google.com</link>
+      <description>&lt;ul&gt;
+  &lt;li&gt;&lt;b&gt;Summary:&lt;/b&gt; &lt;b&gt;AnaptysBio&lt;/b&gt; has filed a legal complaint against &lt;b&gt;GSK&lt;/b&gt; regarding the rights to &lt;b&gt;Jemperli&lt;/b&gt; (dostarlimab), a PD-1 inhibitor approved for endometrial cancer and other indications. AnaptysBio, which originally discovered the antibody, alleges that GSK has breached licensing terms and failed to pay appropriate royalties. The case is expected to hinge on contract interpretation and the definition of net sales. AnaptysBio's legal action has garnered attention as a test of partnership terms in the biotech industry.&lt;/li&gt;
+  &lt;li&gt;&lt;b&gt;MoAs:&lt;/b&gt; &lt;b&gt;Dostarlimab&lt;/b&gt; is a humanized monoclonal antibody that binds to the PD-1 receptor on T cells, blocking its interaction with PD-L1 and PD-L2, thereby reactivating anti-tumor immune responses.&lt;/li&gt;
+  &lt;li&gt;&lt;b&gt;Sources:&lt;/b&gt; &lt;a href="https://www.oncologypipeline.com/apexonco/anaptysbios-jemperli-complaint-has-legs"&gt;Oncology Pipeline&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;</description>
+      <guid isPermaLink="false">531ee9de5a2360568def443c3b8e8fae</guid>
+      <pubDate>Mon, 27 Apr 2026 22:02:10 GMT</pubDate>
+    </item>
+    <item>
+      <title>J&amp;J Xarelto on Trumprx</title>
+      <link>https://www.google.com</link>
+      <description>&lt;ul&gt;
+  &lt;li&gt;&lt;b&gt;Summary:&lt;/b&gt; &lt;b&gt;Johnson &amp; Johnson&lt;/b&gt; has added the blockbuster blood thinner &lt;b&gt;Xarelto&lt;/b&gt; (rivaroxaban) to &lt;b&gt;Trumprx&lt;/b&gt;, a new discount drug pricing program. The move is seen as an effort to improve patient access and compete with lower-cost generics and other anticoagulants. Xarelto, a top-selling drug for J&amp;J and partner Bayer, faces patent cliffs and increasing payer pressure. By joining Trumprx, J&amp;J aims to capture market share in the Medicare and commercially insured segments by offering reduced out-of-pocket costs.&lt;/li&gt;
+  &lt;li&gt;&lt;b&gt;MoAs:&lt;/b&gt; &lt;b&gt;Rivaroxaban&lt;/b&gt; is a direct oral inhibitor of Factor Xa, blocking the final common pathway of the coagulation cascade, thereby reducing thrombin generation and clot formation.&lt;/li&gt;
+  &lt;li&gt;&lt;b&gt;Sources:&lt;/b&gt; &lt;a href="https://www.biospace.com/business/j-j-puts-blockbuster-blood-thinner-xarelto-on-trumprx"&gt;BioSpace&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;</description>
+      <guid isPermaLink="false">acad2c01ea01bce574f5115a3a2b594e</guid>
+      <pubDate>Mon, 27 Apr 2026 22:02:10 GMT</pubDate>
+    </item>
+    <item>
+      <title>Rejuvenate Gene Therapy Crowdfunding</title>
+      <link>https://www.google.com</link>
+      <description>&lt;ul&gt;
+  &lt;li&gt;&lt;b&gt;Summary:&lt;/b&gt; Rejuvenate, a company developing gene therapies for aging and chronic diseases, is utilizing crowdfunding to support its research and development efforts. The initiative aims to accelerate the development of treatments that target the underlying mechanisms of aging, potentially addressing a range of chronic conditions.&lt;/li&gt;
+  &lt;li&gt;&lt;b&gt;MoAs:&lt;/b&gt; N/A&lt;/li&gt;
+  &lt;li&gt;&lt;b&gt;Sources:&lt;/b&gt; &lt;a href='https://www.biospace.com/business/rejuvenate-crowdfunds-development-of-gene-therapy-for-aging-chronic-diseases'&gt;BioSpace&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;</description>
+      <guid isPermaLink="false">213ad4fdbc19517fb94840c08ebacd2f</guid>
+      <pubDate>Mon, 27 Apr 2026 22:02:10 GMT</pubDate>
     </item>
   </channel>
 </rss>
