@@ -6,26 +6,26 @@
     <description>News digest covering Rare Disease.</description>
     <atom:link href="https://www.google.com" rel="self" type="application/rss+xml"/>
     <item>
-      <title>Regeneron Gene Therapy Approval (Otarmeni)</title>
+      <title>Intellia CRISPR Therapy</title>
       <link>https://www.google.com</link>
       <description>&lt;ul&gt;
-  &lt;li&gt;&lt;b&gt;Summary:&lt;/b&gt; The FDA approved Regeneron's gene therapy &lt;b&gt;Otarmeni&lt;/b&gt; for a form of congenital hearing loss, marking a breakthrough in genetic medicine. This approval represents a new era for treating hereditary deafness using a one-time &lt;b&gt;gene therapy&lt;/b&gt; designed to restore hearing by delivering a functional copy of the affected gene directly into the inner ear. The decision was accompanied by a priority review voucher. Regeneron's therapy addresses an unmet need in rare disease, offering the first approved treatment for this specific genetic hearing loss condition.&lt;/li&gt;
-  &lt;li&gt;&lt;b&gt;MoAs:&lt;/b&gt; Gene therapy: Delivers a functional copy of the gene responsible for hearing loss via adeno-associated virus (AAV) vector to restore auditory function.&lt;/li&gt;
-  &lt;li&gt;&lt;b&gt;Sources:&lt;/b&gt; &lt;a href="https://www.fiercepharma.com/pharma/regeneron-ushers-new-genetic-medicine-era-groundbreaking-gene-therapy-approval"&gt;FiercePharma&lt;/a&gt;, &lt;a href="https://www.biopharmadive.com/news/regeneron-fda-otarmeni-hearing-loss-gene-therapy-voucher/818345/"&gt;BioPharma Dive&lt;/a&gt;, &lt;a href="https://endpoints.news/fda-approves-regeneron-hearing-loss-gene-therapy-otarmeni/"&gt;Endpoints News&lt;/a&gt;, &lt;a href="https://www.biospace.com/fda/fda-approval-of-regenerons-hearing-loss-gene-therapy-breaks-barriers"&gt;BioSpace&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;b&gt;Summary:&lt;/b&gt; &lt;b&gt;Intellia Therapeutics&lt;/b&gt; reported a landmark Phase 3 success for its &lt;b&gt;in vivo CRISPR therapy&lt;/b&gt; (&lt;b&gt;NTLA-2002&lt;/b&gt;) in &lt;b&gt;hereditary angioedema&lt;/b&gt; (HAE), marking the first late-stage win for an in vivo gene editor. The data showed significant reduction in attack rates, leading to plans for FDA submission. The company also announced a partnership with &lt;b&gt;Eli Lilly&lt;/b&gt; to develop the therapy, further validating the platform. Analysts view this as a pivotal moment for CRISPR-based medicines.&lt;/li&gt;
+  &lt;li&gt;&lt;b&gt;MoAs:&lt;/b&gt; In vivo CRISPR/Cas9 gene editing to knock out the &lt;i&gt;KLKB1&lt;/i&gt; gene, reducing prekallikrein levels and bradykinin production, thereby preventing HAE attacks.&lt;/li&gt;
+  &lt;li&gt;&lt;b&gt;Sources:&lt;/b&gt; &lt;a href='https://endpoints.news/qa-intellia-ceo-talks-first-phase-3-crispr-readout-and-whats-next/'&gt;Endpoints News&lt;/a&gt;, &lt;a href='https://www.biopharmadive.com/news/intellia-gene-editing-hereditary-angioedema-lonvo-z-results/818503/'&gt;BioPharma Dive&lt;/a&gt;, &lt;a href='https://www.fiercebiotech.com/biotech/intellia-races-vivo-crispr-therapy-fda-after-phase-3-data-paint-compelling-picture'&gt;Fierce Biotech&lt;/a&gt;, &lt;a href='https://www.biospace.com/drug-development/intellia-heads-to-fda-after-notching-first-late-stage-win-for-in-vivo-gene-editor'&gt;BioSpace&lt;/a&gt;, &lt;a href='https://www.statnews.com/pharmalot/2026/04/27/lilly-deal-intellia-crispr-treatment-for-rare-disease/?utm_campaign=rss'&gt;STAT News&lt;/a&gt;, &lt;a href='https://www.statnews.com/2026/04/27/intellia-therapeutics-phase-3-trial-hereditary-angioedema-crispr-treatment/?utm_campaign=rss'&gt;STAT News&lt;/a&gt;, &lt;a href='https://endpoints.news/intellias-in-vivo-crispr-therapy-first-to-succeed-in-phase-3/'&gt;Endpoints News&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;</description>
-      <guid isPermaLink="false">9950b9d24e4d24eca26a6daeb9f0c3ed</guid>
-      <pubDate>Thu, 23 Apr 2026 22:02:20 GMT</pubDate>
+      <guid isPermaLink="false">21c17c025bc21a868b4df3f5420e5836</guid>
+      <pubDate>Mon, 27 Apr 2026 22:02:10 GMT</pubDate>
     </item>
     <item>
-      <title>Heart Cancer Rarity Study</title>
+      <title>Gene Therapy Regulatory Models for Baby KJs</title>
       <link>https://www.google.com</link>
       <description>&lt;ul&gt;
-  &lt;li&gt;&lt;b&gt;Summary:&lt;/b&gt; A new study proposes a theory explaining why heart cancer (primary cardiac tumors) is extremely rare, potentially due to rapid cell turnover or enhanced immune surveillance in cardiac tissue.&lt;/li&gt;
-  &lt;li&gt;&lt;b&gt;MoAs:&lt;/b&gt; N/A&lt;/li&gt;
-  &lt;li&gt;&lt;b&gt;Sources:&lt;/b&gt; &lt;a href="https://www.statnews.com/2026/04/23/why-heart-cancer-is-rare-study-offers-new-theory/?utm_campaign=rss"&gt;STAT News&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;b&gt;Summary:&lt;/b&gt; Gene therapy leaders are proposing novel regulatory models to help children with Krabbe disease (often referred to as 'Baby KJs') gain faster access to potentially life-saving gene therapies. The initiative aims to streamline development and approval pathways for these targeted treatments, addressing the urgent need for therapies in this rare and devastating condition.&lt;/li&gt;
+  &lt;li&gt;&lt;b&gt;MoAs:&lt;/b&gt; Gene replacement therapy for galactocerebrosidase (GALC) deficiency (mechanism not specified if using AAV or other vector).&lt;/li&gt;
+  &lt;li&gt;&lt;b&gt;Sources:&lt;/b&gt; &lt;a href='https://www.biospace.com/drug-development/gene-therapy-leaders-aim-to-help-more-baby-kjs-with-novel-regulatory-models'&gt;BioSpace&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;</description>
-      <guid isPermaLink="false">6ee126897a390609363f08e98fbf4f6f</guid>
-      <pubDate>Thu, 23 Apr 2026 22:02:20 GMT</pubDate>
+      <guid isPermaLink="false">49ec1237149ee1436d2d9cfc895b16bb</guid>
+      <pubDate>Mon, 27 Apr 2026 22:02:10 GMT</pubDate>
     </item>
   </channel>
 </rss>
