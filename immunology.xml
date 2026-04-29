@@ -6,15 +6,26 @@
     <description>News digest covering Immunology.</description>
     <atom:link href="https://www.google.com" rel="self" type="application/rss+xml"/>
     <item>
-      <title>Oruka Psoriasis Drug</title>
+      <title>AbbVie Skyrizi</title>
       <link>https://www.google.com</link>
       <description>&lt;ul&gt;
-  &lt;li&gt;&lt;b&gt;Summary:&lt;/b&gt; &lt;b&gt;Oruka Therapeutics&lt;/b&gt; reported positive Phase 2 results for its &lt;b&gt;psoriasis drug&lt;/b&gt;, which showed superiority over &lt;b&gt;Skyrizi&lt;/b&gt; (risankizumab) in terms of skin clearance. Analysts hailed the data as an 'outright win' and projected blockbuster potential. The drug, if approved, could offer an oral alternative to injectable biologics for moderate-to-severe plaque psoriasis.&lt;/li&gt;
-  &lt;li&gt;&lt;b&gt;MoAs:&lt;/b&gt; Mechanism not fully disclosed; likely a small-molecule immunomodulator targeting key psoriasis pathways (e.g., IL-17 or TYK2 inhibition by analogy to competitors).&lt;/li&gt;
-  &lt;li&gt;&lt;b&gt;Sources:&lt;/b&gt; &lt;a href='https://www.biopharmadive.com/news/oruka-plaque-psoriasis-drug-study-results/818527/'&gt;BioPharma Dive&lt;/a&gt;, &lt;a href='https://endpoints.news/oruka-posts-phase-2-win-in-psoriasis-hoping-to-compete-with-skyrizi/'&gt;Endpoints News&lt;/a&gt;, &lt;a href='https://www.fiercebiotech.com/biotech/orukas-psoriasis-data-hailed-outright-win-over-skyrizi-spurring-big-blockbuster-forecasts'&gt;Fierce Biotech&lt;/a&gt;, &lt;a href='https://www.statnews.com/2026/04/27/ourka-psoriasis-inectable-treatment-study/?utm_campaign=rss'&gt;STAT News&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;b&gt;Summary:&lt;/b&gt; AbbVie outlined a defense strategy for its immunology blockbuster Skyrizi (risankizumab) against new competition from J&amp;J. Skyrizi, an IL-23 inhibitor, has been a key growth driver for AbbVie, and the company is positioning it strongly as rivals enter the IL-23 space.&lt;/li&gt;
+  &lt;li&gt;&lt;b&gt;MoAs:&lt;/b&gt; Skyrizi (risankizumab): Humanized monoclonal antibody that binds to the p19 subunit of interleukin-23 (IL-23) and inhibits IL-23 receptor interaction&lt;/li&gt;
+  &lt;li&gt;&lt;b&gt;Sources:&lt;/b&gt; &lt;a href="https://www.fiercepharma.com/pharma/abbvie-outlines-immunology-superstar-skyrizis-defense-against-new-jj-competition-icotyde"&gt;Fierce Pharma&lt;/a&gt;, &lt;a href="https://endpoints.news/abbvie-faces-questions-about-skyrizi-competition-from-jj/"&gt;Endpoints News&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;</description>
-      <guid isPermaLink="false">8428bb2a1ead4bb9895cac55b8c630f6</guid>
-      <pubDate>Mon, 27 Apr 2026 22:02:10 GMT</pubDate>
+      <guid isPermaLink="false">90b45cbe2e554c2d523f6415dfb9967b</guid>
+      <pubDate>Wed, 29 Apr 2026 22:03:25 GMT</pubDate>
+    </item>
+    <item>
+      <title>AstraZeneca FLAP Inhibitor Phase 2 Failure</title>
+      <link>https://www.google.com</link>
+      <description>&lt;ul&gt;
+  &lt;li&gt;&lt;b&gt;Summary:&lt;/b&gt; &lt;b&gt;AstraZeneca&lt;/b&gt; discontinued development of its FLAP inhibitor after the drug failed to meet endpoints in a Phase 2 asthma trial.&lt;/li&gt;
+  &lt;li&gt;&lt;b&gt;MoAs:&lt;/b&gt; 5-lipoxygenase activating protein inhibitor; reduces leukotriene synthesis&lt;/li&gt;
+  &lt;li&gt;&lt;b&gt;Sources:&lt;/b&gt; &lt;a href="https://www.fiercebiotech.com/biotech/astrazeneca-scraps-flap-inhibitor-flunked-phase-2-asthma-trial"&gt;FierceBiotech&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;</description>
+      <guid isPermaLink="false">7dc1ef33854b03f68590f0d6712d1dfa</guid>
+      <pubDate>Wed, 29 Apr 2026 22:03:25 GMT</pubDate>
     </item>
   </channel>
 </rss>
