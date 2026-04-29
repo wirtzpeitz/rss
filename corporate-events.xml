@@ -6,125 +6,224 @@
     <description>News digest covering Corporate Events.</description>
     <atom:link href="https://www.google.com" rel="self" type="application/rss+xml"/>
     <item>
-      <title>Sun Pharma Acquisition of Organon</title>
+      <title>AstraZeneca MFN Model</title>
       <link>https://www.google.com</link>
       <description>&lt;ul&gt;
-  &lt;li&gt;&lt;b&gt;Summary:&lt;/b&gt; &lt;b&gt;Sun Pharma&lt;/b&gt; struck a deal to acquire &lt;b&gt;Organon&lt;/b&gt; for approximately $11.75 billion, marking one of the largest transactions in the biopharma industry. The acquisition expands Sun Pharma's portfolio into women's health and biosimilars, leveraging Organon's established commercial infrastructure. The deal is expected to close later this year.&lt;/li&gt;
+  &lt;li&gt;&lt;b&gt;Summary:&lt;/b&gt; AstraZeneca's CEO discussed the company's conservative approach to the Most Favored Nation (MFN) model for drug pricing, noting that it excludes reference markets from their forecast. The commentary highlights AstraZeneca's strategy to navigate pricing pressures while maintaining revenue projections.&lt;/li&gt;
   &lt;li&gt;&lt;b&gt;MoAs:&lt;/b&gt; N/A&lt;/li&gt;
-  &lt;li&gt;&lt;b&gt;Sources:&lt;/b&gt; &lt;a href='https://www.fiercepharma.com/pharma/sun-pharma-strikes-biopharmas-largest-deal-26-1175b-buyout-organon'&gt;Fierce Pharma&lt;/a&gt;, &lt;a href='https://www.biospace.com/deals/sun-pharma-beams-up-organon-in-11-75b-acquisition'&gt;BioSpace&lt;/a&gt;, &lt;a href='https://endpoints.news/sun-pharma-to-buy-organon-for-11-75b-in-major-portfolio-expansion/'&gt;Endpoints News&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;b&gt;Sources:&lt;/b&gt; &lt;a href="https://www.fiercepharma.com/pharma/astrazeneca-ceo-conservative-mfn-model-excludes-reference-markets-forecast"&gt;Fierce Pharma&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;</description>
-      <guid isPermaLink="false">562af4255a21133a72567a4d650b4414</guid>
-      <pubDate>Mon, 27 Apr 2026 22:02:10 GMT</pubDate>
+      <guid isPermaLink="false">26dc567d837ec6af446d22afb17b0a78</guid>
+      <pubDate>Wed, 29 Apr 2026 22:03:25 GMT</pubDate>
     </item>
     <item>
-      <title>Lilly Ajax Deal</title>
+      <title>AbbVie Q1 Earnings and Pipeline</title>
       <link>https://www.google.com</link>
       <description>&lt;ul&gt;
-  &lt;li&gt;&lt;b&gt;Summary:&lt;/b&gt; &lt;b&gt;Eli Lilly&lt;/b&gt; announced its third oncology deal in three weeks, acquiring &lt;b&gt;Ajax Therapeutics&lt;/b&gt; for up to $2.3 billion. Ajax brings a next-generation &lt;b&gt;JAK inhibitor&lt;/b&gt; targeting &lt;b&gt;myelofibrosis&lt;/b&gt; with potential best-in-class profile. The deal strengthens Lilly's hematology pipeline.&lt;/li&gt;
-  &lt;li&gt;&lt;b&gt;MoAs:&lt;/b&gt; Selective JAK inhibitor that modulates the JAK-STAT pathway to reduce inflammation and fibrosis in myelofibrosis.&lt;/li&gt;
-  &lt;li&gt;&lt;b&gt;Sources:&lt;/b&gt; &lt;a href='https://www.biopharmadive.com/news/lilly-ajax-deal-acquire-jak-myelofibrosis-drug/818523/'&gt;BioPharma Dive&lt;/a&gt;, &lt;a href='https://www.biospace.com/deals/lilly-lands-third-oncology-deal-in-3-weeks-inking-up-to-2-3b-for-ajax'&gt;BioSpace&lt;/a&gt;, &lt;a href='https://www.fiercebiotech.com/biotech/lilly-continues-ma-streak-23b-deal-next-gen-jak-inhibitor-biotech-ajax'&gt;Fierce Biotech&lt;/a&gt;, &lt;a href='https://endpoints.news/lilly-announces-a-new-cancer-deal-and-will-pay-ajax-up-to-2-3b-for-jak-inhibitor/'&gt;Endpoints News&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;b&gt;Summary:&lt;/b&gt; AbbVie beat Q1 earnings estimates, raised its full-year outlook, and announced the discontinuation of a cancer candidate from its pipeline. The earnings beat was driven by strong sales of Skyrizi and other key products, while the pipeline decision reflects a strategic prioritization.&lt;/li&gt;
+  &lt;li&gt;&lt;b&gt;MoAs:&lt;/b&gt; N/A (pipeline discontinuation not drug-specific in summary)&lt;/li&gt;
+  &lt;li&gt;&lt;b&gt;Sources:&lt;/b&gt; &lt;a href="https://www.biospace.com/business/abbvie-tops-q1-estimates-raises-outlook-and-discontinues-cancer-candidate"&gt;BioSpace&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;</description>
-      <guid isPermaLink="false">fc9f6cacacfcd95895bd8d610c1a7910</guid>
-      <pubDate>Mon, 27 Apr 2026 22:02:10 GMT</pubDate>
+      <guid isPermaLink="false">069af9022672683ff36277508cb7b01e</guid>
+      <pubDate>Wed, 29 Apr 2026 22:03:25 GMT</pubDate>
     </item>
     <item>
-      <title>Ligand Acquisition of Xoma</title>
+      <title>Teva Emalex Acquisition</title>
       <link>https://www.google.com</link>
       <description>&lt;ul&gt;
-  &lt;li&gt;&lt;b&gt;Summary:&lt;/b&gt; &lt;b&gt;Ligand Pharmaceuticals&lt;/b&gt; agreed to acquire &lt;b&gt;Xoma Corporation&lt;/b&gt; for $739 million, consolidating two biotech royalty aggregators. The deal adds Xoma's royalty interests in approved drugs to Ligand's portfolio, including revenue from &lt;b&gt;Uplizna&lt;/b&gt; and other assets.&lt;/li&gt;
+  &lt;li&gt;&lt;b&gt;Summary:&lt;/b&gt; Teva agreed to acquire Emalex Biosciences, which brings a late-stage Tourette syndrome therapy (ecopipam) into Teva's pipeline. The deal underscores Teva's commitment to CNS neurology and expands its innovative portfolio beyond generics.&lt;/li&gt;
+  &lt;li&gt;&lt;b&gt;MoAs:&lt;/b&gt; Ecopipam (if disclosed): Selective dopamine D1 receptor antagonist&lt;/li&gt;
+  &lt;li&gt;&lt;b&gt;Sources:&lt;/b&gt; &lt;a href="https://www.biopharmadive.com/news/teva-emalex-acquisition-deal-tourette-drug-biotech/818827/"&gt;BioPharma Dive&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;</description>
+      <guid isPermaLink="false">d3a7366096dbbebc3d95b916bba93a09</guid>
+      <pubDate>Wed, 29 Apr 2026 22:03:25 GMT</pubDate>
+    </item>
+    <item>
+      <title>Biogen Pipeline Strategy</title>
+      <link>https://www.google.com</link>
+      <description>&lt;ul&gt;
+  &lt;li&gt;&lt;b&gt;Summary:&lt;/b&gt; Biogen is actively seeking early-stage assets to bolster its pipeline for the next generation of therapies, aiming to maintain growth as its current products face market challenges. The company's strategy focuses on acquiring innovative candidates from external sources to diversify its portfolio beyond neurology.&lt;/li&gt;
   &lt;li&gt;&lt;b&gt;MoAs:&lt;/b&gt; N/A&lt;/li&gt;
-  &lt;li&gt;&lt;b&gt;Sources:&lt;/b&gt; &lt;a href='https://endpoints.news/thermo-fisher-sells-microbiology-biz-ligand-to-buy-xoma/'&gt;Endpoints News&lt;/a&gt;, &lt;a href='https://www.fiercepharma.com/pharma/ligand-snaps-fellow-biotech-royalty-aggregator-xoma-739m'&gt;Fierce Pharma&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;b&gt;Sources:&lt;/b&gt; &lt;a href="https://www.biospace.com/business/with-growth-curve-trending-up-biogen-looks-for-early-stage-assets-for-next-generation"&gt;BioSpace&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;</description>
-      <guid isPermaLink="false">0e1aa8c2c14622581fbaad299ab8a5c2</guid>
-      <pubDate>Mon, 27 Apr 2026 22:02:10 GMT</pubDate>
+      <guid isPermaLink="false">2fedfea413d1fef58bedee1aaba01da5</guid>
+      <pubDate>Wed, 29 Apr 2026 22:03:25 GMT</pubDate>
     </item>
     <item>
-      <title>Astellas Pipeline Changes</title>
+      <title>Regeneron Q1 Earnings and Gene Therapy Approval</title>
       <link>https://www.google.com</link>
       <description>&lt;ul&gt;
-  &lt;li&gt;&lt;b&gt;Summary:&lt;/b&gt; &lt;b&gt;Astellas Pharma&lt;/b&gt; outlined pipeline updates to offset expected declines from &lt;b&gt;Xtandi&lt;/b&gt; (enzalutamide) revenue. The company is discontinuing a struggling &lt;b&gt;rare disease gene therapy&lt;/b&gt; for &lt;b&gt;XLMTM&lt;/b&gt; (X-linked myotubular myopathy) after safety concerns, including deaths in trials. Astellas plans to focus on newer assets in oncology and other areas.&lt;/li&gt;
-  &lt;li&gt;&lt;b&gt;MoAs:&lt;/b&gt; Xtandi is an androgen receptor inhibitor; the discontinued gene therapy aimed to deliver a functional copy of the MTM1 gene via AAV vector.&lt;/li&gt;
-  &lt;li&gt;&lt;b&gt;Sources:&lt;/b&gt; &lt;a href='https://www.fiercepharma.com/pharma/astellas-counts-new-medicines-offset-projected-xtandi-decline-fiscal-2026'&gt;Fierce Pharma&lt;/a&gt;, &lt;a href='https://www.fiercebiotech.com/biotech/astellas-thins-early-pipeline-swaps-out-struggling-rare-disease-gene-therapy'&gt;Fierce Biotech&lt;/a&gt;, &lt;a href='https://www.statnews.com/2026/04/27/biotech-news-astellas-retries-xlmtm-gene-therapy-after-deaths/?utm_campaign=rss'&gt;STAT News&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;b&gt;Summary:&lt;/b&gt; Regeneron reported robust first-quarter earnings driven by strong sales of Dupixent (dupilumab) and Eylea (aflibercept). The company also celebrated the approval of its first gene therapy, marking a significant milestone in its pipeline expansion. The approval underscores Regeneron's commitment to genetic medicine and provides a new growth vector.&lt;/li&gt;
+  &lt;li&gt;&lt;b&gt;MoAs:&lt;/b&gt; Dupixent (dupilumab): Interleukin-4 (IL-4) and interleukin-13 (IL-13) receptor alpha subunit inhibitor; Eylea (aflibercept): Vascular endothelial growth factor (VEGF) inhibitor; Gene therapy: Mechanism depends on the specific therapy (likely gene replacement or editing for a rare disease).&lt;/li&gt;
+  &lt;li&gt;&lt;b&gt;Sources:&lt;/b&gt; &lt;a href="https://www.biospace.com/business/regeneron-basks-in-first-gene-therapy-approval-as-dupixent-eylea-carry-robust-q1-earnings"&gt;BioSpace&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;</description>
-      <guid isPermaLink="false">f3ca314c2e38f977e6e2c820e5712e2a</guid>
-      <pubDate>Mon, 27 Apr 2026 22:02:10 GMT</pubDate>
+      <guid isPermaLink="false">048f0fe9ab5dcdaf28d835089b576906</guid>
+      <pubDate>Wed, 29 Apr 2026 22:03:25 GMT</pubDate>
     </item>
     <item>
-      <title>Pfizer Vyndamax Settlements</title>
+      <title>Bristol Myers Squibb Crossroads</title>
       <link>https://www.google.com</link>
       <description>&lt;ul&gt;
-  &lt;li&gt;&lt;b&gt;Summary:&lt;/b&gt; &lt;b&gt;Pfizer&lt;/b&gt; has reached settlements with two manufacturers of generic versions of &lt;b&gt;Vyndamax&lt;/b&gt; (tafamidis), the branded therapy for transthyretin amyloidosis (ATTR). The agreements resolve patent litigation and aim to delay generic entry, protecting Pfizer's revenue stream in the ATTR market. Analysts note the settlements could provide near-term exclusivity but may face future challenges as additional generics approach approval.&lt;/li&gt;
-  &lt;li&gt;&lt;b&gt;MoAs:&lt;/b&gt; &lt;b&gt;Tafamidis&lt;/b&gt; stabilizes the transthyretin tetramer, preventing dissociation and subsequent amyloid fibril formation in ATTR cardiomyopathy and polyneuropathy.&lt;/li&gt;
-  &lt;li&gt;&lt;b&gt;Sources:&lt;/b&gt; &lt;a href="https://www.fiercepharma.com/pharma/pfizer-inks-settlements-2-generic-vyndamax-makers-latest-twist-attr-market-analysts"&gt;Fierce Pharma&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;</description>
-      <guid isPermaLink="false">5b29fd6528fc947980b1d0f5da4dec39</guid>
-      <pubDate>Mon, 27 Apr 2026 22:02:10 GMT</pubDate>
-    </item>
-    <item>
-      <title>Haleon CMO Appointment</title>
-      <link>https://www.google.com</link>
-      <description>&lt;ul&gt;
-  &lt;li&gt;&lt;b&gt;Summary:&lt;/b&gt; &lt;b&gt;Haleon&lt;/b&gt;, the consumer health spin-off from GSK, has appointed &lt;b&gt;Richard Manso&lt;/b&gt;, a former Google executive, as its new Chief Marketing Officer. The move signals Haleon's intent to bolster digital marketing and data-driven consumer engagement across its portfolio of brands, including &lt;b&gt;Advil&lt;/b&gt; and &lt;b&gt;Centrum&lt;/b&gt;. Manso's experience in AI and personalization is expected to help Haleon compete in the evolving OTC landscape.&lt;/li&gt;
+  &lt;li&gt;&lt;b&gt;Summary:&lt;/b&gt; Bristol Myers Squibb faces a critical juncture as it navigates a make-or-break year, with key patent expirations and pipeline decisions ahead. The company must balance the performance of established drugs like Opdivo (nivolumab) and Eliquis (apixaban) with the success of newer launches and R&amp;D productivity to sustain growth.&lt;/li&gt;
   &lt;li&gt;&lt;b&gt;MoAs:&lt;/b&gt; N/A&lt;/li&gt;
-  &lt;li&gt;&lt;b&gt;Sources:&lt;/b&gt; &lt;a href="https://www.fiercepharma.com/marketing/haleon-nabs-google-exec-richard-manso-us-chief-marketing-officer"&gt;Fierce Pharma&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;b&gt;Sources:&lt;/b&gt; &lt;a href="https://endpoints.news/bristol-myers-reaches-a-crossroads-as-a-make-or-break-year-takes-shape/"&gt;Endpoints News&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;</description>
-      <guid isPermaLink="false">eb38e00ec6943a0b6aecce95928ce94f</guid>
-      <pubDate>Mon, 27 Apr 2026 22:02:10 GMT</pubDate>
+      <guid isPermaLink="false">dde938a532b95066c42b6cad7e17bf2c</guid>
+      <pubDate>Wed, 29 Apr 2026 22:03:25 GMT</pubDate>
     </item>
     <item>
-      <title>FDA Warning to Incyte</title>
+      <title>Chiesi Kalvista Acquisition</title>
       <link>https://www.google.com</link>
       <description>&lt;ul&gt;
-  &lt;li&gt;&lt;b&gt;Summary:&lt;/b&gt; The &lt;b&gt;FDA&lt;/b&gt; issued a strongly worded warning to &lt;b&gt;Incyte&lt;/b&gt; regarding promotional claims for &lt;b&gt;Niktimvo&lt;/b&gt;, a drug used in oncology. The agency stated that the company's marketing materials overstated efficacy and downplayed risks, potentially misleading healthcare providers and patients. Incyte has been asked to withdraw the materials and implement corrective actions. The warning underscores the FDA's increased scrutiny of promotional practices in the oncology space.&lt;/li&gt;
-  &lt;li&gt;&lt;b&gt;MoAs:&lt;/b&gt; N/A (drug identity not confirmed; if &lt;b&gt;Niktimvo&lt;/b&gt; is a placeholder, MoA could not be determined)&lt;/li&gt;
-  &lt;li&gt;&lt;b&gt;Sources:&lt;/b&gt; &lt;a href="https://www.fiercepharma.com/marketing/fda-lambasts-incyte-over-misleading-niktimvo-claims"&gt;Fierce Pharma&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;b&gt;Summary:&lt;/b&gt; Chiesi Farmaceutici has agreed to acquire Kalvista Pharmaceuticals for $1.9 billion, gaining rights to Ekterly (berotralstat), an approved oral therapy for hereditary angioedema (HAE). The deal strengthens Chiesi's rare disease portfolio and provides immediate commercial revenue from a well-established HAE treatment. Several publications covered the transaction, highlighting its strategic fit and premium price.&lt;/li&gt;
+  &lt;li&gt;&lt;b&gt;MoAs:&lt;/b&gt; Ekterly (berotralstat): Plasma kallikrein inhibitor, reducing bradykinin production in hereditary angioedema.&lt;/li&gt;
+  &lt;li&gt;&lt;b&gt;Sources:&lt;/b&gt; &lt;a href="https://www.biopharmadive.com/news/chiesi-kalvista-deal-acquire-hereditary-angioedema-ekterly/818798/"&gt;BioPharma Dive&lt;/a&gt;, &lt;a href="https://www.fiercepharma.com/pharma/chiesi-lays-out-19b-bolster-rare-disease-offerings-kalvista-and-its-hae-med-ekterly"&gt;Fierce Pharma&lt;/a&gt;, &lt;a href="https://www.biospace.com/business/chiesi-snaps-up-kalvista-for-1-9b-betting-big-on-rare-disease-med-ekterly"&gt;BioSpace&lt;/a&gt;, &lt;a href="https://endpoints.news/chiesi-signs-1-9b-deal-to-acquire-kalvista-and-its-approved-drug/"&gt;Endpoints News&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;</description>
-      <guid isPermaLink="false">f756797d2085afa7850c64c22f8ded3d</guid>
-      <pubDate>Mon, 27 Apr 2026 22:02:10 GMT</pubDate>
+      <guid isPermaLink="false">c040cdbb0eddb3fa3a34ad964107b975</guid>
+      <pubDate>Wed, 29 Apr 2026 22:03:25 GMT</pubDate>
     </item>
     <item>
-      <title>Seaport Hemab IPOs</title>
+      <title>Biogen Pipeline and Apellis Deal</title>
       <link>https://www.google.com</link>
       <description>&lt;ul&gt;
-  &lt;li&gt;&lt;b&gt;Summary:&lt;/b&gt; &lt;b&gt;Seaport Therapeutics&lt;/b&gt; and &lt;b&gt;Hemab&lt;/b&gt; have filed for initial public offerings aiming to raise a combined $180 million. Seaport focuses on neuropsychiatric conditions, including depression, while Hemab targets clotting disorders with a bispecific antibody candidate for hemophilia. The IPOs come amid a cautious but improving biotech IPO market. Proceeds will fund Phase 2 trials for Seaport's novel serotonergic agent and Hemab's Factor IXa/Factor X bispecific antibody. Both companies are seeking to leverage recent clinical proof-of-concept data.&lt;/li&gt;
-  &lt;li&gt;&lt;b&gt;MoAs:&lt;/b&gt; Seaport's candidate: modulators of serotonergic pathways (speculative). &lt;b&gt;Hemab&lt;/b&gt;'s lead candidate: a bispecific antibody that simultaneously binds Factor IXa and Factor X, mimicking the cofactor function of Factor VIII to restore hemostasis in hemophilia A.&lt;/li&gt;
-  &lt;li&gt;&lt;b&gt;Sources:&lt;/b&gt; &lt;a href="https://www.fiercebiotech.com/biotech/seaport-hemab-chart-courses-180m-ipos-fund-depression-clotting-candidates"&gt;Fierce Biotech&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;b&gt;Summary:&lt;/b&gt; Following a recent deal with Apellis Pharmaceuticals, Biogen is working to fill its early-stage pipeline with novel assets. The partnership provides Biogen access to Apellis' complement-targeting programs, including pegcetacoplan (Empaveli), which is approved for paroxysmal nocturnal hemoglobinuria and geographic atrophy. The deal aligns with Biogen's strategy to diversify beyond neurology and expand into immunology and ophthalmology.&lt;/li&gt;
+  &lt;li&gt;&lt;b&gt;MoAs:&lt;/b&gt; Pegcetacoplan (Empaveli): Complement C3 inhibitor, blocking the activation of the complement cascade at the C3 level, reducing inflammation and tissue damage in paroxysmal nocturnal hemoglobinuria and geographic atrophy.&lt;/li&gt;
+  &lt;li&gt;&lt;b&gt;Sources:&lt;/b&gt; &lt;a href="https://endpoints.news/after-apellis-deal-biogen-looks-to-fill-early-stage-pipeline/"&gt;Endpoints News&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;</description>
-      <guid isPermaLink="false">5ce9c11817fb892576660bba296a3028</guid>
-      <pubDate>Mon, 27 Apr 2026 22:02:10 GMT</pubDate>
+      <guid isPermaLink="false">c48d8b12f0c9ad5726e69114d024c8f9</guid>
+      <pubDate>Wed, 29 Apr 2026 22:03:25 GMT</pubDate>
     </item>
     <item>
-      <title>AnaptysBio Jemperli Complaint</title>
+      <title>AstraZeneca UK Investment</title>
       <link>https://www.google.com</link>
       <description>&lt;ul&gt;
-  &lt;li&gt;&lt;b&gt;Summary:&lt;/b&gt; &lt;b&gt;AnaptysBio&lt;/b&gt; has filed a legal complaint against &lt;b&gt;GSK&lt;/b&gt; regarding the rights to &lt;b&gt;Jemperli&lt;/b&gt; (dostarlimab), a PD-1 inhibitor approved for endometrial cancer and other indications. AnaptysBio, which originally discovered the antibody, alleges that GSK has breached licensing terms and failed to pay appropriate royalties. The case is expected to hinge on contract interpretation and the definition of net sales. AnaptysBio's legal action has garnered attention as a test of partnership terms in the biotech industry.&lt;/li&gt;
-  &lt;li&gt;&lt;b&gt;MoAs:&lt;/b&gt; &lt;b&gt;Dostarlimab&lt;/b&gt; is a humanized monoclonal antibody that binds to the PD-1 receptor on T cells, blocking its interaction with PD-L1 and PD-L2, thereby reactivating anti-tumor immune responses.&lt;/li&gt;
-  &lt;li&gt;&lt;b&gt;Sources:&lt;/b&gt; &lt;a href="https://www.oncologypipeline.com/apexonco/anaptysbios-jemperli-complaint-has-legs"&gt;Oncology Pipeline&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;</description>
-      <guid isPermaLink="false">531ee9de5a2360568def443c3b8e8fae</guid>
-      <pubDate>Mon, 27 Apr 2026 22:02:10 GMT</pubDate>
-    </item>
-    <item>
-      <title>J&amp;J Xarelto on Trumprx</title>
-      <link>https://www.google.com</link>
-      <description>&lt;ul&gt;
-  &lt;li&gt;&lt;b&gt;Summary:&lt;/b&gt; &lt;b&gt;Johnson &amp; Johnson&lt;/b&gt; has added the blockbuster blood thinner &lt;b&gt;Xarelto&lt;/b&gt; (rivaroxaban) to &lt;b&gt;Trumprx&lt;/b&gt;, a new discount drug pricing program. The move is seen as an effort to improve patient access and compete with lower-cost generics and other anticoagulants. Xarelto, a top-selling drug for J&amp;J and partner Bayer, faces patent cliffs and increasing payer pressure. By joining Trumprx, J&amp;J aims to capture market share in the Medicare and commercially insured segments by offering reduced out-of-pocket costs.&lt;/li&gt;
-  &lt;li&gt;&lt;b&gt;MoAs:&lt;/b&gt; &lt;b&gt;Rivaroxaban&lt;/b&gt; is a direct oral inhibitor of Factor Xa, blocking the final common pathway of the coagulation cascade, thereby reducing thrombin generation and clot formation.&lt;/li&gt;
-  &lt;li&gt;&lt;b&gt;Sources:&lt;/b&gt; &lt;a href="https://www.biospace.com/business/j-j-puts-blockbuster-blood-thinner-xarelto-on-trumprx"&gt;BioSpace&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;</description>
-      <guid isPermaLink="false">acad2c01ea01bce574f5115a3a2b594e</guid>
-      <pubDate>Mon, 27 Apr 2026 22:02:10 GMT</pubDate>
-    </item>
-    <item>
-      <title>Rejuvenate Gene Therapy Crowdfunding</title>
-      <link>https://www.google.com</link>
-      <description>&lt;ul&gt;
-  &lt;li&gt;&lt;b&gt;Summary:&lt;/b&gt; Rejuvenate, a company developing gene therapies for aging and chronic diseases, is utilizing crowdfunding to support its research and development efforts. The initiative aims to accelerate the development of treatments that target the underlying mechanisms of aging, potentially addressing a range of chronic conditions.&lt;/li&gt;
+  &lt;li&gt;&lt;b&gt;Summary:&lt;/b&gt; AstraZeneca has committed £300 million to expand its operations in England, rekindling its relationship with the UK after previous tensions over vaccine delivery. The investment will support research and manufacturing capabilities, creating jobs and reinforcing the UK's life sciences sector. The move comes amid competitive dynamics with other global pharma companies.&lt;/li&gt;
   &lt;li&gt;&lt;b&gt;MoAs:&lt;/b&gt; N/A&lt;/li&gt;
-  &lt;li&gt;&lt;b&gt;Sources:&lt;/b&gt; &lt;a href='https://www.biospace.com/business/rejuvenate-crowdfunds-development-of-gene-therapy-for-aging-chronic-diseases'&gt;BioSpace&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;b&gt;Sources:&lt;/b&gt; &lt;a href="https://endpoints.news/astrazeneca-rekindles-uk-relationship-pledges-300m-to-expand/"&gt;Endpoints News&lt;/a&gt;, &lt;a href="https://www.fiercebiotech.com/biotech/astrazeneca-restarts-300m-investment-england-merck-not-budging"&gt;Fierce Biotech&lt;/a&gt;, &lt;a href="https://www.fiercepharma.com/biotech/astrazeneca-restarts-300m-investment-england-merck-not-budging"&gt;Fierce Pharma&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;</description>
-      <guid isPermaLink="false">213ad4fdbc19517fb94840c08ebacd2f</guid>
-      <pubDate>Mon, 27 Apr 2026 22:02:10 GMT</pubDate>
+      <guid isPermaLink="false">1c1ad303a4c149c57c4f8d4c5f2ac474</guid>
+      <pubDate>Wed, 29 Apr 2026 22:03:25 GMT</pubDate>
+    </item>
+    <item>
+      <title>GSK Q1 Earnings and Shingrix</title>
+      <link>https://www.google.com</link>
+      <description>&lt;ul&gt;
+  &lt;li&gt;&lt;b&gt;Summary:&lt;/b&gt; GSK reported strong first-quarter earnings, boosted by a surge in Shingrix (recombinant zoster vaccine) sales, driven by a strategy shift to include immunocompromised populations. However, the company's RSV vaccine Exdensur (Arexvy) faced challenges in a switch trial, tempering overall growth. GSK's CEO Luke Miels highlighted the importance of Shingrix's performance as the company navigates pipeline transitions.&lt;/li&gt;
+  &lt;li&gt;&lt;b&gt;MoAs:&lt;/b&gt; Shingrix (recombinant zoster vaccine): Recombinant varicella-zoster virus glycoprotein E antigen combined with AS01B adjuvant, eliciting strong humoral and cellular immune responses to prevent herpes zoster. Exdensur (Arexvy): Recombinant respiratory syncytial virus (RSV) fusion protein (F) stabilized in prefusion conformation with AS01E adjuvant.&lt;/li&gt;
+  &lt;li&gt;&lt;b&gt;Sources:&lt;/b&gt; &lt;a href="https://www.fiercepharma.com/pharma/gsk-ceo-luke-miels-first-quarter-boosted-shingrix-surge-exdensur-stumbles-switch-trial"&gt;Fierce Pharma&lt;/a&gt;, &lt;a href="https://www.biospace.com/business/gsks-shingrix-strategy-shift-drives-sales-beat-even-as-vaccines-slow"&gt;BioSpace&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;</description>
+      <guid isPermaLink="false">4a836397681f12ec86d2015d6fce6c1d</guid>
+      <pubDate>Wed, 29 Apr 2026 22:03:25 GMT</pubDate>
+    </item>
+    <item>
+      <title>Pfizer and BridgeBio Patent Win</title>
+      <link>https://www.google.com</link>
+      <description>&lt;ul&gt;
+  &lt;li&gt;&lt;b&gt;Summary:&lt;/b&gt; &lt;b&gt;Pfizer&lt;/b&gt; and &lt;b&gt;BridgeBio&lt;/b&gt; secured a patent victory, reinforcing intellectual property for their transthyretin amyloidosis drugs &lt;b&gt;tafamidis&lt;/b&gt; and &lt;b&gt;acoramidis&lt;/b&gt;.&lt;/li&gt;
+  &lt;li&gt;&lt;b&gt;MoAs:&lt;/b&gt; Transthyretin stabilizers&lt;/li&gt;
+  &lt;li&gt;&lt;b&gt;Sources:&lt;/b&gt; &lt;a href="https://www.statnews.com/2026/04/29/biotech-news-a-patent-win-for-pfizer-and-bridgebio/?utm_campaign=rss"&gt;STAT News&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;</description>
+      <guid isPermaLink="false">9801677ef5678a81652861363eb41717</guid>
+      <pubDate>Wed, 29 Apr 2026 22:03:25 GMT</pubDate>
+    </item>
+    <item>
+      <title>AstraZeneca Q1 Earnings and Pipeline</title>
+      <link>https://www.google.com</link>
+      <description>&lt;ul&gt;
+  &lt;li&gt;&lt;b&gt;Summary:&lt;/b&gt; &lt;b&gt;AstraZeneca&lt;/b&gt; reported strong Q1 earnings that exceeded expectations, bolstered by positive Phase 3 data across its pipeline, supporting its $80B sales goal.&lt;/li&gt;
+  &lt;li&gt;&lt;b&gt;MoAs:&lt;/b&gt; Various (EGFR inhibitor, PD-L1 inhibitor, BTK inhibitor, etc.)&lt;/li&gt;
+  &lt;li&gt;&lt;b&gt;Sources:&lt;/b&gt; &lt;a href="https://www.biospace.com/business/astrazeneca-bullish-on-80b-sales-goal-after-beating-expectations-phase-3-data-wins"&gt;Biospace&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;</description>
+      <guid isPermaLink="false">7e60d37f2e1396b93ab526e31e60104c</guid>
+      <pubDate>Wed, 29 Apr 2026 22:03:25 GMT</pubDate>
+    </item>
+    <item>
+      <title>Teva Emalex Tourette Drug Acquisition</title>
+      <link>https://www.google.com</link>
+      <description>&lt;ul&gt;
+  &lt;li&gt;&lt;b&gt;Summary:&lt;/b&gt; &lt;b&gt;Teva&lt;/b&gt; agreed to acquire &lt;b&gt;Emalex Biosciences&lt;/b&gt; for $700M, gaining near-approval Tourette syndrome drug &lt;b&gt;ecopipam&lt;/b&gt;.&lt;/li&gt;
+  &lt;li&gt;&lt;b&gt;MoAs:&lt;/b&gt; Dopamine D1 receptor antagonist&lt;/li&gt;
+  &lt;li&gt;&lt;b&gt;Sources:&lt;/b&gt; &lt;a href="https://www.fiercebiotech.com/biotech/teva-inks-700m-emalex-buyout-bag-near-approval-tourette-drug"&gt;FierceBiotech&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;</description>
+      <guid isPermaLink="false">cb1836d63c576114964f920e9d8a2e19</guid>
+      <pubDate>Wed, 29 Apr 2026 22:03:25 GMT</pubDate>
+    </item>
+    <item>
+      <title>Pfizer Generic Settlement</title>
+      <link>https://www.google.com</link>
+      <description>&lt;ul&gt;
+  &lt;li&gt;&lt;b&gt;Summary:&lt;/b&gt; &lt;b&gt;Pfizer&lt;/b&gt; reached settlements with generic drug manufacturers to delay competition for a key blockbuster drug until 2031.&lt;/li&gt;
+  &lt;li&gt;&lt;b&gt;MoAs:&lt;/b&gt; Varies (e.g., JAK inhibitor for Xeljanz, CDK4/6 inhibitor for Ibrance)&lt;/li&gt;
+  &lt;li&gt;&lt;b&gt;Sources:&lt;/b&gt; &lt;a href="https://www.biospace.com/business/pfizer-settles-with-generic-drugmakers-to-protect-blockbuster-drug-until-2031"&gt;Biospace&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;</description>
+      <guid isPermaLink="false">7326e31cbe051c39b1ba04a0051e7a9a</guid>
+      <pubDate>Wed, 29 Apr 2026 22:03:25 GMT</pubDate>
+    </item>
+    <item>
+      <title>AstraZeneca AdComm Uphill Battle</title>
+      <link>https://www.google.com</link>
+      <description>&lt;ul&gt;
+  &lt;li&gt;&lt;b&gt;Summary:&lt;/b&gt; &lt;b&gt;AstraZeneca&lt;/b&gt; faces a challenging advisory committee meeting as the FDA raises questions about a key drug candidate.&lt;/li&gt;
+  &lt;li&gt;&lt;b&gt;MoAs:&lt;/b&gt; N/A&lt;/li&gt;
+  &lt;li&gt;&lt;b&gt;Sources:&lt;/b&gt; &lt;a href="https://www.biospace.com/fda/astrazeneca-faces-uphill-battle-at-upcoming-adcomm-in-face-of-fda-questions"&gt;Biospace&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;</description>
+      <guid isPermaLink="false">9928878f433e3c36634ad01f03e571a6</guid>
+      <pubDate>Wed, 29 Apr 2026 22:03:25 GMT</pubDate>
+    </item>
+    <item>
+      <title>GSK CEO Reorg and Phase 3 Readouts</title>
+      <link>https://www.google.com</link>
+      <description>&lt;ul&gt;
+  &lt;li&gt;&lt;b&gt;Summary:&lt;/b&gt; GSK's CEO indicated that a team reorganization could be on the horizon depending on upcoming Phase 3 readouts. The comments reflect a focus on pipeline efficiency and prioritization as the company aims to deliver key data in the near term. This strategic flexibility is part of GSK's broader effort to sharpen its R&amp;D focus and drive growth.&lt;/li&gt;
+  &lt;li&gt;&lt;b&gt;MoAs:&lt;/b&gt; N/A&lt;/li&gt;
+  &lt;li&gt;&lt;b&gt;Sources:&lt;/b&gt; &lt;a href="https://endpoints.news/gsk-ceo-says-team-reorg-could-be-on-the-cards-pending-upcoming-phase-3-readouts/"&gt;Endpoints News&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;</description>
+      <guid isPermaLink="false">3011d299424290605ce91366853ce04b</guid>
+      <pubDate>Wed, 29 Apr 2026 22:03:25 GMT</pubDate>
+    </item>
+    <item>
+      <title>GSK Mersana ADC and Bird Flu Vaccine</title>
+      <link>https://www.google.com</link>
+      <description>&lt;ul&gt;
+  &lt;li&gt;&lt;b&gt;Summary:&lt;/b&gt; GSK has walked away from its $100 million bet on a Mersana STING agonist ADC and paused development of an mRNA bird flu vaccine. The ADC program faced setbacks, while the vaccine decision aligns with shifting pandemic priorities. These moves are part of GSK's portfolio review to focus on higher-value assets.&lt;/li&gt;
+  &lt;li&gt;&lt;b&gt;MoAs:&lt;/b&gt; STING agonist antibody-drug conjugate; mRNA vaccine against influenza&lt;/li&gt;
+  &lt;li&gt;&lt;b&gt;Sources:&lt;/b&gt; &lt;a href="https://www.fiercebiotech.com/biotech/gsk-walks-away-100m-bet-mersana-sting-adc-pauses-mrna-bird-flu-shot"&gt;Fierce Biotech&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;</description>
+      <guid isPermaLink="false">51ea24da3cd58b29902fb6392a3b7ef4</guid>
+      <pubDate>Wed, 29 Apr 2026 22:03:25 GMT</pubDate>
+    </item>
+    <item>
+      <title>MPM China Drug Strategy</title>
+      <link>https://www.google.com</link>
+      <description>&lt;ul&gt;
+  &lt;li&gt;&lt;b&gt;Summary:&lt;/b&gt; MPM has collected three China-sourced drugs under a 'best of both worlds' strategy, leveraging Chinese innovation and global development expertise. The approach aims to bring differentiated assets to the U.S. and European markets at reduced costs. This trend reflects the growing cross-border flow of biotech assets from China.&lt;/li&gt;
+  &lt;li&gt;&lt;b&gt;MoAs:&lt;/b&gt; N/A&lt;/li&gt;
+  &lt;li&gt;&lt;b&gt;Sources:&lt;/b&gt; &lt;a href="https://endpoints.news/mpm-has-collected-three-china-drugs-for-its-best-of-both-worlds-strategy/"&gt;Endpoints News&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;</description>
+      <guid isPermaLink="false">11a44b3a2d89c3d0c06bf7cd7b11fa58</guid>
+      <pubDate>Wed, 29 Apr 2026 22:03:25 GMT</pubDate>
+    </item>
+    <item>
+      <title>AstraZeneca Late-Stage Trial Cuts</title>
+      <link>https://www.google.com</link>
+      <description>&lt;ul&gt;
+  &lt;li&gt;&lt;b&gt;Summary:&lt;/b&gt; AstraZeneca has cut several late-stage life-cycle trials after disappointing efficacy results. The decision impacts studies that were intended to support label expansions or line extensions. This portfolio pruning reflects AstraZeneca's focus on resource allocation and disciplined R&amp;D investment.&lt;/li&gt;
+  &lt;li&gt;&lt;b&gt;MoAs:&lt;/b&gt; N/A&lt;/li&gt;
+  &lt;li&gt;&lt;b&gt;Sources:&lt;/b&gt; &lt;a href="https://endpoints.news/astrazeneca-cuts-a-handful-of-late-stage-life-cycle-trials-after-disappointing-efficacy/"&gt;Endpoints News&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;</description>
+      <guid isPermaLink="false">077301d4d432f207a70c1c64ec95cfe2</guid>
+      <pubDate>Wed, 29 Apr 2026 22:03:25 GMT</pubDate>
+    </item>
+    <item>
+      <title>Lilly M&amp;A Activity</title>
+      <link>https://www.google.com</link>
+      <description>&lt;ul&gt;
+  &lt;li&gt;&lt;b&gt;Summary:&lt;/b&gt; Eli Lilly has spent nearly $21 billion on mergers and acquisitions so far this year, signaling aggressive growth strategy.&lt;/li&gt;
+  &lt;li&gt;&lt;b&gt;MoAs:&lt;/b&gt; N/A&lt;/li&gt;
+  &lt;li&gt;&lt;b&gt;Sources:&lt;/b&gt; &lt;a href="https://www.biospace.com/business/lilly-cant-stop-the-dealing-with-nearly-21b-spent-on-m-a-this-year-so-far"&gt;BioSpace&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;</description>
+      <guid isPermaLink="false">8b1cd55100c090068baa5f1598b2565e</guid>
+      <pubDate>Wed, 29 Apr 2026 22:03:25 GMT</pubDate>
     </item>
   </channel>
 </rss>
