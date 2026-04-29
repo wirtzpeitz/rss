@@ -6,37 +6,59 @@
     <description>News digest covering Oncology.</description>
     <atom:link href="https://www.google.com" rel="self" type="application/rss+xml"/>
     <item>
-      <title>Compass Therapeutics Biliary Tract Cancer Bispecific</title>
+      <title>AstraZeneca Oncology AdComm</title>
       <link>https://www.google.com</link>
       <description>&lt;ul&gt;
-  &lt;li&gt;&lt;b&gt;Summary:&lt;/b&gt; &lt;b&gt;Compass Therapeutics&lt;/b&gt; reported topline results from a pivotal Phase 3 trial of its &lt;b&gt;bispecific antibody&lt;/b&gt; (&lt;b&gt;CTX-009&lt;/b&gt;) targeting &lt;b&gt;DLL4&lt;/b&gt; and &lt;b&gt;VEGF&lt;/b&gt; in &lt;b&gt;biliary tract cancer&lt;/b&gt;. The trial missed the primary endpoint of overall survival, with confounding data raising questions about approvability. Shares plunged as investors digested the mixed results. Secondary endpoint analyses showed a potential benefit in a subset of patients, but the regulatory path remains uncertain.&lt;/li&gt;
-  &lt;li&gt;&lt;b&gt;MoAs:&lt;/b&gt; Bispecific antibody simultaneously inhibits DLL4 (Notch pathway) and VEGF (angiogenesis) signaling, disrupting tumor angiogenesis and growth.&lt;/li&gt;
-  &lt;li&gt;&lt;b&gt;Sources:&lt;/b&gt; &lt;a href='https://www.fiercebiotech.com/biotech/compass-therapeutics-stock-heads-south-after-cancer-bispecific-misses-overall-survival'&gt;Fierce Biotech&lt;/a&gt;, &lt;a href='https://www.biospace.com/drug-development/compass-shares-crash-as-confounding-survival-data-raise-approvability-questions-for-bispecific'&gt;BioSpace&lt;/a&gt;, &lt;a href='https://www.oncologypipeline.com/apexonco/crossover-hits-compass'&gt;ApexOnco&lt;/a&gt;, &lt;a href='https://endpoints.news/compass-therapeutics-unveils-key-secondary-endpoint-results-from-pivotal-biliary-tract-cancer-trial/'&gt;Endpoints News&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;b&gt;Summary:&lt;/b&gt; The FDA is preparing for an Oncology Advisory Committee meeting involving AstraZeneca. The meeting likely pertains to a regulatory decision for one of AstraZeneca's oncology assets, with the AdComm providing an independent assessment of clinical data before FDA action.&lt;/li&gt;
+  &lt;li&gt;&lt;b&gt;MoAs:&lt;/b&gt; N/A (specific drug not identified from articles)&lt;/li&gt;
+  &lt;li&gt;&lt;b&gt;Sources:&lt;/b&gt; &lt;a href="https://endpoints.news/fda-astrazeneca-prep-for-oncology-adcomm/"&gt;Endpoints News&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;</description>
-      <guid isPermaLink="false">b12ff09e62547e07a28c891f995efbbb</guid>
-      <pubDate>Mon, 27 Apr 2026 22:02:10 GMT</pubDate>
+      <guid isPermaLink="false">026a4f3a16df15f32ddc9dcb7bfc94cc</guid>
+      <pubDate>Wed, 29 Apr 2026 22:03:25 GMT</pubDate>
     </item>
     <item>
-      <title>Erasca RAS Cancer Drug</title>
+      <title>AstraZeneca Datroway Biomarker</title>
       <link>https://www.google.com</link>
       <description>&lt;ul&gt;
-  &lt;li&gt;&lt;b&gt;Summary:&lt;/b&gt; &lt;b&gt;Erasca&lt;/b&gt; released data from a study of its &lt;b&gt;RAS pathway inhibitor&lt;/b&gt; (&lt;b&gt;ERAS-007&lt;/b&gt;) in &lt;b&gt;pancreatic cancer&lt;/b&gt;, showing some efficacy signals. However, the announcement was overshadowed by a legal threat from &lt;b&gt;Revolution Medicines&lt;/b&gt;, which claimed patent infringement over efficacy assertions. The dispute could complicate Erasca's progress in a competitive RAS-targeted landscape.&lt;/li&gt;
-  &lt;li&gt;&lt;b&gt;MoAs:&lt;/b&gt; Inhibitor of the RAS signaling pathway (e.g., ERK kinase inhibitor), blocking downstream proliferation and survival signals in KRAS-mutant cancers.&lt;/li&gt;
-  &lt;li&gt;&lt;b&gt;Sources:&lt;/b&gt; &lt;a href='https://endpoints.news/erasca-reports-ras-cancer-drug-data-after-legal-threat-from-revolution/'&gt;Endpoints News&lt;/a&gt;, &lt;a href='https://www.statnews.com/2026/04/27/erasca-pancreatic-cancer-study-results/?utm_campaign=rss'&gt;STAT News&lt;/a&gt;, &lt;a href='https://endpoints.news/revolution-medicines-threatens-to-sue-erasca-over-patent-efficacy-claims/'&gt;Endpoints News&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;b&gt;Summary:&lt;/b&gt; AstraZeneca's Datroway (datopotamab deruxtecan) biomarker analysis reveals that the biomarker both gives and takes away—providing predictive value but also indicating limitations. Datroway is a TROP2-directed ADC under investigation for multiple solid tumors.&lt;/li&gt;
+  &lt;li&gt;&lt;b&gt;MoAs:&lt;/b&gt; Datroway (datopotamab deruxtecan): TROP2-targeting antibody conjugated with a topoisomerase I inhibitor payload (DXd)&lt;/li&gt;
+  &lt;li&gt;&lt;b&gt;Sources:&lt;/b&gt; &lt;a href="https://www.oncologypipeline.com/apexonco/astras-datroway-biomarker-gives-and-it-takes-away"&gt;Oncology Pipeline (ApexOnco)&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;</description>
-      <guid isPermaLink="false">89227dcf4cec9b2a2d483f4c783f3138</guid>
-      <pubDate>Mon, 27 Apr 2026 22:02:10 GMT</pubDate>
+      <guid isPermaLink="false">b919ada11cc50356637dd92c42e14629</guid>
+      <pubDate>Wed, 29 Apr 2026 22:03:25 GMT</pubDate>
     </item>
     <item>
-      <title>Relay Therapeutics Atirmociclib</title>
+      <title>Pfizer Elrexfio Multiple Myeloma</title>
       <link>https://www.google.com</link>
       <description>&lt;ul&gt;
-  &lt;li&gt;&lt;b&gt;Summary:&lt;/b&gt; &lt;b&gt;Relay Therapeutics&lt;/b&gt; is advancing &lt;b&gt;atirmociclib&lt;/b&gt;, an oral CDK2 inhibitor, into later-stage development for &lt;b&gt;HR+/HER2- breast cancer&lt;/b&gt; with &lt;b&gt;CCNE1&lt;/b&gt; amplification. The company announced updated Phase 1/2 data showing promising monotherapy activity and a manageable safety profile. Atirmociclib is designed to be selective over CDK4/6, potentially offering a differentiated treatment option in a crowded CDK inhibitor landscape. Relay plans to initiate a pivotal study pending regulatory feedback.&lt;/li&gt;
-  &lt;li&gt;&lt;b&gt;MoAs:&lt;/b&gt; &lt;b&gt;Atirmociclib&lt;/b&gt; is a selective inhibitor of cyclin-dependent kinase 2 (CDK2), blocking cell cycle progression in tumors with &lt;b&gt;CCNE1&lt;/b&gt; amplification or cyclin E overexpression.&lt;/li&gt;
-  &lt;li&gt;&lt;b&gt;Sources:&lt;/b&gt; &lt;a href="https://www.oncologypipeline.com/apexonco/relay-passes-baton-atirmociclib"&gt;Oncology Pipeline&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;b&gt;Summary:&lt;/b&gt; Pfizer reported positive Phase 3 results for Elrexfio (elranatamab) in second-line multiple myeloma, positioning it as a potential competitor to existing BCMA-directed therapies. The trial showed significant efficacy, though revenue expectations were tempered by market dynamics. Pfizer aims to leverage this data to expand Elrexfio's label and drive adoption in earlier treatment lines.&lt;/li&gt;
+  &lt;li&gt;&lt;b&gt;MoAs:&lt;/b&gt; Elrexfio (elranatamab): Bispecific T-cell engager (BiTE) targeting B-cell maturation antigen (BCMA) on myeloma cells and CD3 on T cells, inducing T-cell-mediated cytotoxicity.&lt;/li&gt;
+  &lt;li&gt;&lt;b&gt;Sources:&lt;/b&gt; &lt;a href="https://endpoints.news/pfizer-earns-positive-phase-3-in-multiple-myeloma-icon-overstated-revenue/"&gt;Endpoints News&lt;/a&gt;, &lt;a href="https://www.fiercepharma.com/pharma/pfizer-looks-jump-start-elrexfio-trial-win-second-line-myeloma"&gt;Fierce Pharma&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;</description>
-      <guid isPermaLink="false">d2a8d317564c3920d4d7ad72f5e46f62</guid>
-      <pubDate>Mon, 27 Apr 2026 22:02:10 GMT</pubDate>
+      <guid isPermaLink="false">bc99bea7dae2522ae993e1c457e1346c</guid>
+      <pubDate>Wed, 29 Apr 2026 22:03:25 GMT</pubDate>
+    </item>
+    <item>
+      <title>GSK Oncology Pipeline</title>
+      <link>https://www.google.com</link>
+      <description>&lt;ul&gt;
+  &lt;li&gt;&lt;b&gt;Summary:&lt;/b&gt; GSK is positioning its oncology pipeline as a key growth driver, with the CEO pointing to several potential blockbusters. The pipeline includes assets in immuno-oncology, antibody-drug conjugates, and targeted therapies. Investors are watching closely as GSK aims to revive its oncology franchise through both internal development and partnerships.&lt;/li&gt;
+  &lt;li&gt;&lt;b&gt;MoAs:&lt;/b&gt; N/A&lt;/li&gt;
+  &lt;li&gt;&lt;b&gt;Sources:&lt;/b&gt; &lt;a href="https://www.fiercebiotech.com/biotech/which-blockbuster-gsk-gunning-next-ceo-miels-points-looking-oncology"&gt;Fierce Biotech&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;</description>
+      <guid isPermaLink="false">67256279f5a1d9ebd395ffc8a4afe747</guid>
+      <pubDate>Wed, 29 Apr 2026 22:03:25 GMT</pubDate>
+    </item>
+    <item>
+      <title>BeOne VEGF Multispecific</title>
+      <link>https://www.google.com</link>
+      <description>&lt;ul&gt;
+  &lt;li&gt;&lt;b&gt;Summary:&lt;/b&gt; BeOne's VEGF multispecific antibody is being developed as a cost-effective alternative in the VEGF-targeting space. The 'bargain basement' approach aims to compete with established anti-VEGF therapies by offering a multispecific design that could address resistance mechanisms. Early data and development strategy are under review.&lt;/li&gt;
+  &lt;li&gt;&lt;b&gt;MoAs:&lt;/b&gt; VEGF multispecific antibody (targets VEGF and potentially other angiogenic factors)&lt;/li&gt;
+  &lt;li&gt;&lt;b&gt;Sources:&lt;/b&gt; &lt;a href="https://www.oncologypipeline.com/apexonco/beones-bargain-basement-vegf-multispecific"&gt;ApexOnco&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;</description>
+      <guid isPermaLink="false">58ca9a22f5071148c68488f7b7bbce09</guid>
+      <pubDate>Wed, 29 Apr 2026 22:03:25 GMT</pubDate>
     </item>
   </channel>
 </rss>
