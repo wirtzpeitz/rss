@@ -6,15 +6,48 @@
     <description>News digest covering Neurology.</description>
     <atom:link href="https://www.google.com" rel="self" type="application/rss+xml"/>
     <item>
-      <title>Motif Neurotech Brain Implant</title>
+      <title>Teva Austedo</title>
       <link>https://www.google.com</link>
       <description>&lt;ul&gt;
-  &lt;li&gt;&lt;b&gt;Summary:&lt;/b&gt; &lt;b&gt;Motif Neurotech&lt;/b&gt; received FDA clearance for its minimally invasive brain implant designed to treat &lt;b&gt;treatment-resistant depression&lt;/b&gt;. The device delivers targeted electrical stimulation to the subcallosal cingulate region, modulating neural circuits implicated in mood regulation. Early clinical data indicate rapid and sustained antidepressant effects with a favorable safety profile. The approval positions Motif to compete with other neurostimulation companies and potentially offer a new option for patients who have failed multiple therapies.&lt;/li&gt;
-  &lt;li&gt;&lt;b&gt;MoAs:&lt;/b&gt; The implant delivers focal electrical stimulation to disrupt pathological oscillatory activity in depression-related brain circuits, particularly the subcallosal cingulate, thereby normalizing network function.&lt;/li&gt;
-  &lt;li&gt;&lt;b&gt;Sources:&lt;/b&gt; &lt;a href="https://www.statnews.com/2026/04/27/motif-neurotech-gets-fda-nod-brain-implant-depression/?utm_campaign=rss"&gt;STAT News&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;b&gt;Summary:&lt;/b&gt; Austedo (deutetrabenazine) has been a key driver of Teva's financial turnaround, with strong sales signaling the company's successful metamorphosis. The VMAT2 inhibitor is approved for chorea associated with Huntington's disease and tardive dyskinesia, and its market performance underscores Teva's strategic shift toward innovative therapies.&lt;/li&gt;
+  &lt;li&gt;&lt;b&gt;MoAs:&lt;/b&gt; Austedo (deutetrabenazine): Vesicular monoamine transporter 2 (VMAT2) inhibitor&lt;/li&gt;
+  &lt;li&gt;&lt;b&gt;Sources:&lt;/b&gt; &lt;a href="https://www.fiercepharma.com/pharma/austedo-helm-tevas-impressive-innovative-drug-sales-signal-companys-successful-metamorphosis"&gt;Fierce Pharma&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;</description>
-      <guid isPermaLink="false">e6e5f382f147bc8d7cad36b20b1b1732</guid>
-      <pubDate>Mon, 27 Apr 2026 22:02:10 GMT</pubDate>
+      <guid isPermaLink="false">5d685f33363b71d9d72aae1d161f9020</guid>
+      <pubDate>Wed, 29 Apr 2026 22:03:25 GMT</pubDate>
+    </item>
+    <item>
+      <title>Newron Schizophrenia Trial Clinical Hold</title>
+      <link>https://www.google.com</link>
+      <description>&lt;ul&gt;
+  &lt;li&gt;&lt;b&gt;Summary:&lt;/b&gt; The FDA placed a clinical hold on Newron's schizophrenia trial after a patient death. The trial was evaluating evenamide, a sodium channel blocker designed to modulate glutamate release. The hold raises questions about the safety profile of the investigational drug and its future development.&lt;/li&gt;
+  &lt;li&gt;&lt;b&gt;MoAs:&lt;/b&gt; Evenamide: Use-dependent sodium channel blocker that inhibits glutamate release&lt;/li&gt;
+  &lt;li&gt;&lt;b&gt;Sources:&lt;/b&gt; &lt;a href="https://www.fiercebiotech.com/biotech/fda-hits-newron-schizophrenia-trial-clinical-hold-after-patient-death"&gt;Fierce Biotech&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;</description>
+      <guid isPermaLink="false">16f8f95c821e43dcc467b6ad2c147a74</guid>
+      <pubDate>Wed, 29 Apr 2026 22:03:25 GMT</pubDate>
+    </item>
+    <item>
+      <title>Biogen Alzheimer's Transition from Kisunla</title>
+      <link>https://www.google.com</link>
+      <description>&lt;ul&gt;
+  &lt;li&gt;&lt;b&gt;Summary:&lt;/b&gt; &lt;b&gt;Biogen&lt;/b&gt; is positioning to capture Alzheimer's patients transitioning off &lt;b&gt;Lilly&lt;/b&gt;'s &lt;b&gt;Kisunla&lt;/b&gt; (donanemab), as the drug's limited duration regimen opens opportunity for &lt;b&gt;Leqembi&lt;/b&gt; (lecanemab).&lt;/li&gt;
+  &lt;li&gt;&lt;b&gt;MoAs:&lt;/b&gt; Anti-amyloid beta monoclonal antibodies&lt;/li&gt;
+  &lt;li&gt;&lt;b&gt;Sources:&lt;/b&gt; &lt;a href="https://www.biospace.com/business/biogen-ready-to-catch-alzheimers-patients-transitioning-off-lillys-kisunla"&gt;Biospace&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;</description>
+      <guid isPermaLink="false">79efac9774941997d5746cfff1d698d3</guid>
+      <pubDate>Wed, 29 Apr 2026 22:03:25 GMT</pubDate>
+    </item>
+    <item>
+      <title>Novartis PTC Huntington's Drug</title>
+      <link>https://www.google.com</link>
+      <description>&lt;ul&gt;
+  &lt;li&gt;&lt;b&gt;Summary:&lt;/b&gt; Novartis and PTC Therapeutics are advancing a Huntington's disease drug into Phase 3 trials, but remain tight-lipped about pursuing accelerated approval. The therapy targets the underlying genetic cause of Huntington's by modulating splicing to reduce production of the toxic huntingtin protein. Progress in this program is closely watched given the high unmet need in neurodegenerative disorders.&lt;/li&gt;
+  &lt;li&gt;&lt;b&gt;MoAs:&lt;/b&gt; Splicing modulator targeting huntingtin protein&lt;/li&gt;
+  &lt;li&gt;&lt;b&gt;Sources:&lt;/b&gt; &lt;a href="https://www.biospace.com/drug-development/novartis-ptc-push-huntingtons-drug-into-phase-3-mum-on-accelerated-approval"&gt;BioSpace&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;</description>
+      <guid isPermaLink="false">7fa41475956a31a4c7d791474b1bcc31</guid>
+      <pubDate>Wed, 29 Apr 2026 22:03:25 GMT</pubDate>
     </item>
   </channel>
 </rss>
