@@ -6,37 +6,48 @@
     <description>News digest covering Other.</description>
     <atom:link href="https://www.google.com" rel="self" type="application/rss+xml"/>
     <item>
-      <title>Fathom AI Biotech</title>
+      <title>FDA Baby Formula Safety</title>
       <link>https://www.google.com</link>
       <description>&lt;ul&gt;
-  &lt;li&gt;&lt;b&gt;Summary:&lt;/b&gt; &lt;b&gt;Fathom&lt;/b&gt;, formerly known as Atommap, has raised $47 million in Series A funding to advance its AI-driven drug discovery platform. The company uses graph neural networks and proprietary datasets to predict drug-target interactions and optimize lead molecules. Fathom has partnerships with several pharmaceutical companies and aims to expand its in-house pipeline. The rebranding reflects a strategic shift from mapping atomic-resolution structures to broader AI-enabled discovery capabilities.&lt;/li&gt;
-  &lt;li&gt;&lt;b&gt;MoAs:&lt;/b&gt; N/A (platform technology; no specific drug or MoA disclosed in the funding round announcement)&lt;/li&gt;
-  &lt;li&gt;&lt;b&gt;Sources:&lt;/b&gt; &lt;a href="https://endpoints.news/ai-biotech-fathom-raises-47m-series-a-renames-from-atommap/"&gt;Endpoints News&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;b&gt;Summary:&lt;/b&gt; The FDA has updated its approach to baby formula safety testing, focusing on contaminants such as heavy metals and pathogens. The agency's new guidelines aim to strengthen oversight and ensure product safety following past recalls and consumer concerns. The initiative does not involve specific drugs but highlights broader regulatory efforts in infant nutrition.&lt;/li&gt;
+  &lt;li&gt;&lt;b&gt;MoAs:&lt;/b&gt; N/A&lt;/li&gt;
+  &lt;li&gt;&lt;b&gt;Sources:&lt;/b&gt; &lt;a href="https://www.statnews.com/2026/04/29/fda-baby-formula-safety-tests-contaminants/?utm_campaign=rss"&gt;STAT News&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;</description>
-      <guid isPermaLink="false">a7c19db92417fa2e08e744da2fa46e0f</guid>
-      <pubDate>Mon, 27 Apr 2026 22:02:10 GMT</pubDate>
+      <guid isPermaLink="false">e61f4f37ebf4a80f7df73de4e1af7a50</guid>
+      <pubDate>Wed, 29 Apr 2026 22:03:25 GMT</pubDate>
     </item>
     <item>
-      <title>Doctronic AI Program Controversy</title>
+      <title>USDA Brain Drain</title>
       <link>https://www.google.com</link>
       <description>&lt;ul&gt;
-  &lt;li&gt;&lt;b&gt;Summary:&lt;/b&gt; Doctors in Utah are demanding the suspension of the Doctronic AI program, citing concerns over its implementation and potential impact on patient care. The controversy centers on the use of artificial intelligence in clinical settings, with physicians questioning its safety and efficacy.&lt;/li&gt;
+  &lt;li&gt;&lt;b&gt;Summary:&lt;/b&gt; Food safety experts warn that the &lt;b&gt;USDA&lt;/b&gt; is losing critical scientific staff, potentially compromising food safety oversight.&lt;/li&gt;
   &lt;li&gt;&lt;b&gt;MoAs:&lt;/b&gt; N/A&lt;/li&gt;
-  &lt;li&gt;&lt;b&gt;Sources:&lt;/b&gt; &lt;a href='https://endpoints.news/utah-doctors-demand-suspension-of-doctronic-ai-program/'&gt;Endpoints News&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;b&gt;Sources:&lt;/b&gt; &lt;a href="https://www.statnews.com/2026/04/29/health-news-food-safety-experts-warn-usda-brain-drain/?utm_campaign=rss"&gt;STAT News&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;</description>
-      <guid isPermaLink="false">084750e49cd9b7ac215459146235982b</guid>
-      <pubDate>Mon, 27 Apr 2026 22:02:10 GMT</pubDate>
+      <guid isPermaLink="false">b780d2901d8ea1a9132c730969f2cccd</guid>
+      <pubDate>Wed, 29 Apr 2026 22:03:25 GMT</pubDate>
     </item>
     <item>
-      <title>Supreme Court Weedkiller Cancer Claims</title>
+      <title>Alternative Medicine Placebo</title>
       <link>https://www.google.com</link>
       <description>&lt;ul&gt;
-  &lt;li&gt;&lt;b&gt;Summary:&lt;/b&gt; The Supreme Court is set to consider cases involving claims that the weedkiller glyphosate causes cancer. These lawsuits, brought by individuals who developed non-Hodgkin lymphoma after exposure, could have significant implications for the agrochemical industry and regulatory oversight of pesticides.&lt;/li&gt;
+  &lt;li&gt;&lt;b&gt;Summary:&lt;/b&gt; The article explores the role of placebo effects in alternative medicine, questioning the cost and time spent on treatments lacking proven efficacy beyond placebo.&lt;/li&gt;
   &lt;li&gt;&lt;b&gt;MoAs:&lt;/b&gt; N/A&lt;/li&gt;
-  &lt;li&gt;&lt;b&gt;Sources:&lt;/b&gt; &lt;a href='https://www.statnews.com/2026/04/27/supreme-court-lawsuits-roundup-weedkiller-cancer-claims/?utm_campaign=rss'&gt;STAT News&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;b&gt;Sources:&lt;/b&gt; &lt;a href="https://www.statnews.com/2026/04/29/alternative-medicine-placebo-effect-cost-time/?utm_campaign=rss"&gt;STAT News&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;</description>
-      <guid isPermaLink="false">f2f676c3af2d4084733b63630c4e2d11</guid>
-      <pubDate>Mon, 27 Apr 2026 22:02:10 GMT</pubDate>
+      <guid isPermaLink="false">ce759fd1504926627140f935c6dcc2da</guid>
+      <pubDate>Wed, 29 Apr 2026 22:03:25 GMT</pubDate>
+    </item>
+    <item>
+      <title>Medical School Nutrition</title>
+      <link>https://www.google.com</link>
+      <description>&lt;ul&gt;
+  &lt;li&gt;&lt;b&gt;Summary:&lt;/b&gt; This podcast discusses the importance of nutrition education in medical schools and its role in preventive medicine.&lt;/li&gt;
+  &lt;li&gt;&lt;b&gt;MoAs:&lt;/b&gt; N/A&lt;/li&gt;
+  &lt;li&gt;&lt;b&gt;Sources:&lt;/b&gt; &lt;a href="https://www.statnews.com/2026/04/29/medical-school-nutrition-preventive-medicine-podcast/?utm_campaign=rss"&gt;STAT News&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;</description>
+      <guid isPermaLink="false">e51718566517bcf889a581f0220b66d5</guid>
+      <pubDate>Wed, 29 Apr 2026 22:03:25 GMT</pubDate>
     </item>
   </channel>
 </rss>
