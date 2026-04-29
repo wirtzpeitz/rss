@@ -6,48 +6,103 @@
     <description>News digest covering Industry Events.</description>
     <atom:link href="https://www.google.com" rel="self" type="application/rss+xml"/>
     <item>
-      <title>UK Biotech VC Funding</title>
+      <title>AI in Healthcare</title>
       <link>https://www.google.com</link>
       <description>&lt;ul&gt;
-  &lt;li&gt;&lt;b&gt;Summary:&lt;/b&gt; Venture capital investment into UK biotech is showing early signs of recovery, according to a new report. While total funding remains below the 2021 peak, the number of deals and average round sizes have increased in Q1 2026 compared to the previous year. However, the IPO market has not yet rebounded, with many companies remaining private or pursuing alternative exit strategies. The report highlights strengths in oncology, neurology, and gene therapy, as well as growing interest from US and Asian investors.&lt;/li&gt;
+  &lt;li&gt;&lt;b&gt;Summary:&lt;/b&gt; The conversation around artificial intelligence in healthcare is evolving beyond hype, according to STAT News. The article discusses how AI applications are maturing and moving toward practical implementation, with a focus on clinical decision support and operational efficiency.&lt;/li&gt;
   &lt;li&gt;&lt;b&gt;MoAs:&lt;/b&gt; N/A&lt;/li&gt;
-  &lt;li&gt;&lt;b&gt;Sources:&lt;/b&gt; &lt;a href="https://www.fiercebiotech.com/biotech/british-biotech-vc-funding-shows-signs-recovery-ipo-rebound-yet-materialize"&gt;Fierce Biotech&lt;/a&gt;, &lt;a href="https://endpoints.news/investment-in-uk-biotechs-shows-early-signs-of-recovery-report-says/"&gt;Endpoints News&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;b&gt;Sources:&lt;/b&gt; &lt;a href="https://www.statnews.com/2026/04/29/health-ai-conversations-evolving-beyond-hype-ai-prognosis/?utm_campaign=rss"&gt;STAT News&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;</description>
-      <guid isPermaLink="false">7021ae1e5147ffc03c98d4a9144477b3</guid>
-      <pubDate>Mon, 27 Apr 2026 22:02:10 GMT</pubDate>
+      <guid isPermaLink="false">6641399e0060ed99fd9f015c7d033bbc</guid>
+      <pubDate>Wed, 29 Apr 2026 22:03:25 GMT</pubDate>
     </item>
     <item>
-      <title>UCSF/Par Health FDA Warning Letters</title>
+      <title>FDA Real-Time Trials Initiative</title>
       <link>https://www.google.com</link>
       <description>&lt;ul&gt;
-  &lt;li&gt;&lt;b&gt;Summary:&lt;/b&gt; The University of California, San Francisco (UCSF) and Par Health received FDA warning letters citing deficiencies in their environmental monitoring programs. The letters highlight issues in maintaining proper environmental controls in their manufacturing or testing facilities, potentially impacting product quality and patient safety.&lt;/li&gt;
+  &lt;li&gt;&lt;b&gt;Summary:&lt;/b&gt; The FDA has launched a new initiative to promote real-time clinical trials, partnering with companies like AbbVie, Kestrel, Lilly, and Profluent. The program aims to modernize trial design by leveraging continuous data monitoring and adaptive methodologies, potentially accelerating drug development and reducing costs. The initiative reflects a broader regulatory push toward digital and decentralized trials.&lt;/li&gt;
   &lt;li&gt;&lt;b&gt;MoAs:&lt;/b&gt; N/A&lt;/li&gt;
-  &lt;li&gt;&lt;b&gt;Sources:&lt;/b&gt; &lt;a href='https://www.biospace.com/fda/ucsf-par-health-hit-with-fda-warning-letters-for-environmental-monitoring-issues'&gt;BioSpace&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;b&gt;Sources:&lt;/b&gt; &lt;a href="https://www.biopharmadive.com/news/fda-real-time-trials-abbvie-kestrel-lilly-profluent/818719/"&gt;BioPharma Dive&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;</description>
-      <guid isPermaLink="false">09acf379821ea0424940f0e489e699b5</guid>
-      <pubDate>Mon, 27 Apr 2026 22:02:10 GMT</pubDate>
+      <guid isPermaLink="false">3892148b275510267f2b892ca3570604</guid>
+      <pubDate>Wed, 29 Apr 2026 22:03:25 GMT</pubDate>
     </item>
     <item>
-      <title>RFK Jr. Congressional Hearings</title>
+      <title>FDA Plan to Speed Clinical Trials</title>
       <link>https://www.google.com</link>
       <description>&lt;ul&gt;
-  &lt;li&gt;&lt;b&gt;Summary:&lt;/b&gt; During congressional hearings, Robert F. Kennedy Jr. faced questions from Democratic lawmakers, many of which went unanswered. The hearings focused on his controversial views on vaccines and public health, raising concerns about misinformation and its impact on health policy.&lt;/li&gt;
+  &lt;li&gt;&lt;b&gt;Summary:&lt;/b&gt; The &lt;b&gt;FDA&lt;/b&gt; unveiled a plan to accelerate clinical trial timelines, which could reshape drug development and regulatory approval processes.&lt;/li&gt;
   &lt;li&gt;&lt;b&gt;MoAs:&lt;/b&gt; N/A&lt;/li&gt;
-  &lt;li&gt;&lt;b&gt;Sources:&lt;/b&gt; &lt;a href='https://www.statnews.com/2026/04/27/rfk-jr-questions-from-democrats-unanswered-congressional-hearings/?utm_campaign=rss'&gt;STAT News&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;b&gt;Sources:&lt;/b&gt; &lt;a href="https://www.statnews.com/pharmalot/2026/04/29/fda-plan-to-speed-clinical-trials-supreme-court-skinny-labels/?utm_campaign=rss"&gt;STAT News&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;</description>
-      <guid isPermaLink="false">d7e5e751b596fa589d64668ce29673b3</guid>
-      <pubDate>Mon, 27 Apr 2026 22:02:10 GMT</pubDate>
+      <guid isPermaLink="false">30a291dd1c6d537b45970bdb75e51802</guid>
+      <pubDate>Wed, 29 Apr 2026 22:03:25 GMT</pubDate>
     </item>
     <item>
-      <title>SAMHSA Harm Reduction Shift</title>
+      <title>AI in Pharma R&amp;D</title>
       <link>https://www.google.com</link>
       <description>&lt;ul&gt;
-  &lt;li&gt;&lt;b&gt;Summary:&lt;/b&gt; The Trump administration's Substance Abuse and Mental Health Services Administration (SAMHSA) is reportedly shifting away from harm reduction approaches in substance use disorder treatment. This policy change could affect funding and support for programs that emphasize safety and reducing negative consequences rather than solely abstinence.&lt;/li&gt;
+  &lt;li&gt;&lt;b&gt;Summary:&lt;/b&gt; A leading researcher advocates for bolder investment in &lt;b&gt;AI&lt;/b&gt; for pharmaceutical R&amp;D to enhance drug discovery and development efficiency.&lt;/li&gt;
   &lt;li&gt;&lt;b&gt;MoAs:&lt;/b&gt; N/A&lt;/li&gt;
-  &lt;li&gt;&lt;b&gt;Sources:&lt;/b&gt; &lt;a href='https://www.statnews.com/2026/04/27/trump-administration-samhsa-clear-shift-from-harm-reduction/?utm_campaign=rss'&gt;STAT News&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;b&gt;Sources:&lt;/b&gt; &lt;a href="https://endpoints.news/should-pharma-be-swinging-bigger-with-ai-one-top-researcher-wants-to-try/"&gt;Endpoints News&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;</description>
-      <guid isPermaLink="false">1fa54db61d779bdf34da6230fd5d1595</guid>
-      <pubDate>Mon, 27 Apr 2026 22:02:10 GMT</pubDate>
+      <guid isPermaLink="false">142fd7c9ec0389f70cc8d0cc5da96df7</guid>
+      <pubDate>Wed, 29 Apr 2026 22:03:25 GMT</pubDate>
+    </item>
+    <item>
+      <title>Amgen and AstraZeneca FDA Cloud Trials</title>
+      <link>https://www.google.com</link>
+      <description>&lt;ul&gt;
+  &lt;li&gt;&lt;b&gt;Summary:&lt;/b&gt; Amgen and AstraZeneca are collaborating with the FDA on a new initiative to harness cloud technology for real-time clinical trial monitoring and data analysis. The effort aims to streamline trial operations, improve data integrity, and accelerate decision-making. This regulatory innovation could set a precedent for how future trials are conducted across the industry.&lt;/li&gt;
+  &lt;li&gt;&lt;b&gt;MoAs:&lt;/b&gt; N/A&lt;/li&gt;
+  &lt;li&gt;&lt;b&gt;Sources:&lt;/b&gt; &lt;a href="https://www.biospace.com/fda/amgen-astrazeneca-join-fda-effort-harnessing-cloud-for-real-time-clinical-trials"&gt;BioSpace&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;</description>
+      <guid isPermaLink="false">53f07526396fdecb1a986e7cc36f6491</guid>
+      <pubDate>Wed, 29 Apr 2026 22:03:25 GMT</pubDate>
+    </item>
+    <item>
+      <title>Q1 Earnings Roundup</title>
+      <link>https://www.google.com</link>
+      <description>&lt;ul&gt;
+  &lt;li&gt;&lt;b&gt;Summary:&lt;/b&gt; A roundup of Q1 earnings highlights major industry events: Lilly struck multiple deals, Regeneron notched a historic approval, and the FDA raised several questions. The quarter saw significant financial maneuvering and regulatory milestones across the biopharma landscape.&lt;/li&gt;
+  &lt;li&gt;&lt;b&gt;MoAs:&lt;/b&gt; N/A&lt;/li&gt;
+  &lt;li&gt;&lt;b&gt;Sources:&lt;/b&gt; &lt;a href="https://www.biospace.com/business/q1-earnings-take-off-lilly-strikes-many-deals-regeneron-notches-historic-approval-fda-raises-questions"&gt;BioSpace&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;</description>
+      <guid isPermaLink="false">b484a0d9dd45b6f51a17b9bdff0ca9b7</guid>
+      <pubDate>Wed, 29 Apr 2026 22:03:25 GMT</pubDate>
+    </item>
+    <item>
+      <title>RFK Jr Peptides and FDA Policy</title>
+      <link>https://www.google.com</link>
+      <description>&lt;ul&gt;
+  &lt;li&gt;&lt;b&gt;Summary:&lt;/b&gt; The article covers RFK Jr's interest in peptides and the anticipated FDA policy shift regarding compounding pharmacies, which could impact access to unapproved peptide therapies.&lt;/li&gt;
+  &lt;li&gt;&lt;b&gt;MoAs:&lt;/b&gt; N/A&lt;/li&gt;
+  &lt;li&gt;&lt;b&gt;Sources:&lt;/b&gt; &lt;a href="https://www.statnews.com/2026/04/29/rfk-jr-peptides-upcoming-fda-policy-shift-compounding-drugs/?utm_campaign=rss"&gt;STAT News&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;</description>
+      <guid isPermaLink="false">474690df58436431ea0f44e1555903e4</guid>
+      <pubDate>Wed, 29 Apr 2026 22:03:25 GMT</pubDate>
+    </item>
+    <item>
+      <title>Biotech Angel Investing</title>
+      <link>https://www.google.com</link>
+      <description>&lt;ul&gt;
+  &lt;li&gt;&lt;b&gt;Summary:&lt;/b&gt; The article discusses how biotech angel investors are adopting deeper due diligence and more disciplined approaches to early-stage investments.&lt;/li&gt;
+  &lt;li&gt;&lt;b&gt;MoAs:&lt;/b&gt; N/A&lt;/li&gt;
+  &lt;li&gt;&lt;b&gt;Sources:&lt;/b&gt; &lt;a href="https://www.biospace.com/business/biotech-angels-lean-into-deeper-diligence-and-disciplined-early-bets"&gt;BioSpace&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;</description>
+      <guid isPermaLink="false">1736757dc1b61b10992ff590cde8ac00</guid>
+      <pubDate>Wed, 29 Apr 2026 22:03:25 GMT</pubDate>
+    </item>
+    <item>
+      <title>Altitude Labs Biotech Education</title>
+      <link>https://www.google.com</link>
+      <description>&lt;ul&gt;
+  &lt;li&gt;&lt;b&gt;Summary:&lt;/b&gt; Altitude Labs offers a higher education program for biotech founders, aiming to equip them with necessary skills and knowledge.&lt;/li&gt;
+  &lt;li&gt;&lt;b&gt;MoAs:&lt;/b&gt; N/A&lt;/li&gt;
+  &lt;li&gt;&lt;b&gt;Sources:&lt;/b&gt; &lt;a href="https://www.biospace.com/business/altitude-labs-serves-up-higher-education-for-biotech-founders"&gt;BioSpace&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;</description>
+      <guid isPermaLink="false">cfdee5ea8c8b40a84a2072a6728d54da</guid>
+      <pubDate>Wed, 29 Apr 2026 22:03:25 GMT</pubDate>
     </item>
   </channel>
 </rss>
