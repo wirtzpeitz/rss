@@ -6,103 +6,158 @@
     <description>News digest covering Industry Events.</description>
     <atom:link href="https://www.google.com" rel="self" type="application/rss+xml"/>
     <item>
-      <title>AI in Healthcare</title>
+      <title>FDA Advisory Committee Decisions</title>
       <link>https://www.google.com</link>
       <description>&lt;ul&gt;
-  &lt;li&gt;&lt;b&gt;Summary:&lt;/b&gt; The conversation around artificial intelligence in healthcare is evolving beyond hype, according to STAT News. The article discusses how AI applications are maturing and moving toward practical implementation, with a focus on clinical decision support and operational efficiency.&lt;/li&gt;
-  &lt;li&gt;&lt;b&gt;MoAs:&lt;/b&gt; N/A&lt;/li&gt;
-  &lt;li&gt;&lt;b&gt;Sources:&lt;/b&gt; &lt;a href="https://www.statnews.com/2026/04/29/health-ai-conversations-evolving-beyond-hype-ai-prognosis/?utm_campaign=rss"&gt;STAT News&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;b&gt;Summary:&lt;/b&gt; The FDA's Oncology Advisory Committee voted against a new paradigm in an AstraZeneca trial, and also rejected the company's camizestrant, an oral SERD. Additionally, the FDA ended a nine-month hiatus of advisory committee meetings with a narrow restart.&lt;/li&gt;
+  &lt;li&gt;&lt;b&gt;MoAs:&lt;/b&gt; Camizestrant: selective estrogen receptor degrader (SERD)&lt;/li&gt;
+  &lt;li&gt;&lt;b&gt;Sources:&lt;/b&gt; &lt;a href='https://endpoints.news/fdas-oncology-advisors-vote-against-new-paradigm-in-astrazeneca-trial/'&gt;Endpoints News&lt;/a&gt;, &lt;a href='https://endpoints.news/astrazeneca-camizestrant-ambitions-stumble-fda-panel-rejects-novel-oral-serd-proposal'&gt;Endpoints News&lt;/a&gt;, &lt;a href='https://www.biospace.com/fda/fdas-end-to-9-month-adcomm-drought-a-narrow-restart'&gt;BioSpace&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;</description>
-      <guid isPermaLink="false">6641399e0060ed99fd9f015c7d033bbc</guid>
-      <pubDate>Wed, 29 Apr 2026 22:03:25 GMT</pubDate>
+      <guid isPermaLink="false">f37dfe6308f33e8f6cfe20bcd2b2da0d</guid>
+      <pubDate>Thu, 30 Apr 2026 22:02:44 GMT</pubDate>
     </item>
     <item>
-      <title>FDA Real-Time Trials Initiative</title>
+      <title>Supreme Court Skinny Labeling</title>
       <link>https://www.google.com</link>
       <description>&lt;ul&gt;
-  &lt;li&gt;&lt;b&gt;Summary:&lt;/b&gt; The FDA has launched a new initiative to promote real-time clinical trials, partnering with companies like AbbVie, Kestrel, Lilly, and Profluent. The program aims to modernize trial design by leveraging continuous data monitoring and adaptive methodologies, potentially accelerating drug development and reducing costs. The initiative reflects a broader regulatory push toward digital and decentralized trials.&lt;/li&gt;
+  &lt;li&gt;&lt;b&gt;Summary:&lt;/b&gt; The U.S. Supreme Court heard arguments on skinny labeling, questioning how far generic drug makers can carve out protected indications to avoid patent infringement. The case involves AstraZeneca and has broad implications for generic competition and patent law.&lt;/li&gt;
   &lt;li&gt;&lt;b&gt;MoAs:&lt;/b&gt; N/A&lt;/li&gt;
-  &lt;li&gt;&lt;b&gt;Sources:&lt;/b&gt; &lt;a href="https://www.biopharmadive.com/news/fda-real-time-trials-abbvie-kestrel-lilly-profluent/818719/"&gt;BioPharma Dive&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;b&gt;Sources:&lt;/b&gt; &lt;a href='https://endpoints.news/supreme-court-questions-how-far-generics-makers-can-go-with-skinny-label-drugs/'&gt;Endpoints News&lt;/a&gt;, &lt;a href='https://www.statnews.com/pharmalot/2026/04/30/supreme-court-hearing-skinny-labels-astrazeneca-uk-expansion/'&gt;STAT News&lt;/a&gt;, &lt;a href='https://www.statnews.com/pharmalot/2026/04/29/supreme-court-justices-debate-skinny-labeling-patent-infringement/'&gt;STAT News&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;</description>
-      <guid isPermaLink="false">3892148b275510267f2b892ca3570604</guid>
-      <pubDate>Wed, 29 Apr 2026 22:03:25 GMT</pubDate>
+      <guid isPermaLink="false">f8662f8525cabbbbdb4f78d2b3014e9a</guid>
+      <pubDate>Thu, 30 Apr 2026 22:02:44 GMT</pubDate>
     </item>
     <item>
-      <title>FDA Plan to Speed Clinical Trials</title>
+      <title>Obesity Drug Development and Policy</title>
       <link>https://www.google.com</link>
       <description>&lt;ul&gt;
-  &lt;li&gt;&lt;b&gt;Summary:&lt;/b&gt; The &lt;b&gt;FDA&lt;/b&gt; unveiled a plan to accelerate clinical trial timelines, which could reshape drug development and regulatory approval processes.&lt;/li&gt;
+  &lt;li&gt;&lt;b&gt;Summary:&lt;/b&gt; The FDA proposed a new rule to end compounding of GLP-1 drugs, potentially impacting patient access. A novel five-way obesity drug showed super-effective results in mice, targeting multiple receptors. A new tool called Obscore was developed to assess obesity health risks beyond BMI.&lt;/li&gt;
   &lt;li&gt;&lt;b&gt;MoAs:&lt;/b&gt; N/A&lt;/li&gt;
-  &lt;li&gt;&lt;b&gt;Sources:&lt;/b&gt; &lt;a href="https://www.statnews.com/pharmalot/2026/04/29/fda-plan-to-speed-clinical-trials-supreme-court-skinny-labels/?utm_campaign=rss"&gt;STAT News&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;b&gt;Sources:&lt;/b&gt; &lt;a href='https://www.statnews.com/pharmalot/2026/04/30/fda-weight-loss-drugs-new-rule-would-end-glp-1-compound-pharmacy/'&gt;STAT News&lt;/a&gt;, &lt;a href='https://www.statnews.com/2026/04/30/biotech-news-five-way-obesity-drug-super-effective-in-mice/'&gt;STAT News&lt;/a&gt;, &lt;a href='https://www.statnews.com/2026/04/30/obesity-health-risks-new-tool-obscore-beyond-bmi/'&gt;STAT News&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;</description>
-      <guid isPermaLink="false">30a291dd1c6d537b45970bdb75e51802</guid>
-      <pubDate>Wed, 29 Apr 2026 22:03:25 GMT</pubDate>
+      <guid isPermaLink="false">c469fc86e59b943d61ce98099bf61b26</guid>
+      <pubDate>Thu, 30 Apr 2026 22:02:44 GMT</pubDate>
     </item>
     <item>
-      <title>AI in Pharma R&amp;D</title>
+      <title>FDA Personnel and Regulatory Actions</title>
       <link>https://www.google.com</link>
       <description>&lt;ul&gt;
-  &lt;li&gt;&lt;b&gt;Summary:&lt;/b&gt; A leading researcher advocates for bolder investment in &lt;b&gt;AI&lt;/b&gt; for pharmaceutical R&amp;D to enhance drug discovery and development efficiency.&lt;/li&gt;
-  &lt;li&gt;&lt;b&gt;MoAs:&lt;/b&gt; N/A&lt;/li&gt;
-  &lt;li&gt;&lt;b&gt;Sources:&lt;/b&gt; &lt;a href="https://endpoints.news/should-pharma-be-swinging-bigger-with-ai-one-top-researcher-wants-to-try/"&gt;Endpoints News&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;b&gt;Summary:&lt;/b&gt; The FDA named &lt;b&gt;Katherine Szarama&lt;/b&gt; as acting director of the Center for Biologics Evaluation and Research (CBER). &lt;b&gt;Amarox&lt;/b&gt; recalled a batch of antidepressants due to a manufacturing and labeling issue. &lt;b&gt;Bayer&lt;/b&gt; received an FDA untitled letter for &lt;b&gt;Nubeqa&lt;/b&gt; (darolutamide) advertisements lacking risk information. A patient death prompted the FDA to pause &lt;b&gt;Newron&lt;/b&gt;'s Phase 3 schizophrenia study.&lt;/li&gt;
+  &lt;li&gt;&lt;b&gt;MoAs:&lt;/b&gt; &lt;b&gt;Nubeqa&lt;/b&gt; (darolutamide): androgen receptor inhibitor. Other drugs not specified.&lt;/li&gt;
+  &lt;li&gt;&lt;b&gt;Sources:&lt;/b&gt; &lt;a href='https://www.statnews.com/2026/04/30/fda-names-katherine-szarama-acting-director-cber/?utm_campaign=rss'&gt;STAT News&lt;/a&gt;, &lt;a href='https://www.fiercepharma.com/manufacturing/amarox-recalls-batch-antidepressants-due-manufacturing-label-issue'&gt;Fierce Pharma&lt;/a&gt;, &lt;a href='https://www.fiercepharma.com/marketing/bayer-earns-fda-untitled-letter-nubeqa-ads-risk-information'&gt;Fierce Pharma&lt;/a&gt;, &lt;a href='https://www.biospace.com/fda/patient-death-prompts-fda-pause-on-newrons-phase-3-schizophrenia-study'&gt;BioSpace&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;</description>
-      <guid isPermaLink="false">142fd7c9ec0389f70cc8d0cc5da96df7</guid>
-      <pubDate>Wed, 29 Apr 2026 22:03:25 GMT</pubDate>
+      <guid isPermaLink="false">abc4cf8905fbb4050f86db52e0e6cd68</guid>
+      <pubDate>Thu, 30 Apr 2026 22:02:44 GMT</pubDate>
     </item>
     <item>
-      <title>Amgen and AstraZeneca FDA Cloud Trials</title>
+      <title>Surgeon General Nomination</title>
       <link>https://www.google.com</link>
       <description>&lt;ul&gt;
-  &lt;li&gt;&lt;b&gt;Summary:&lt;/b&gt; Amgen and AstraZeneca are collaborating with the FDA on a new initiative to harness cloud technology for real-time clinical trial monitoring and data analysis. The effort aims to streamline trial operations, improve data integrity, and accelerate decision-making. This regulatory innovation could set a precedent for how future trials are conducted across the industry.&lt;/li&gt;
+  &lt;li&gt;&lt;b&gt;Summary:&lt;/b&gt; President Trump withdrew the nomination of &lt;b&gt;Casey Means&lt;/b&gt; for Surgeon General and instead tapped &lt;b&gt;Nicole Saphier&lt;/b&gt; for the position. The move was covered alongside Saphier's own statements on the role.&lt;/li&gt;
   &lt;li&gt;&lt;b&gt;MoAs:&lt;/b&gt; N/A&lt;/li&gt;
-  &lt;li&gt;&lt;b&gt;Sources:&lt;/b&gt; &lt;a href="https://www.biospace.com/fda/amgen-astrazeneca-join-fda-effort-harnessing-cloud-for-real-time-clinical-trials"&gt;BioSpace&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;b&gt;Sources:&lt;/b&gt; &lt;a href='https://www.statnews.com/2026/04/30/surgeon-general-nominee-nicole-saphier-in-her-own-words/?utm_campaign=rss'&gt;STAT News&lt;/a&gt;, &lt;a href='https://www.statnews.com/2026/04/30/trump-withdraws-casey-means-nomination-surgeon-general-taps-nicole-saphier/?utm_campaign=rss'&gt;STAT News&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;</description>
-      <guid isPermaLink="false">53f07526396fdecb1a986e7cc36f6491</guid>
-      <pubDate>Wed, 29 Apr 2026 22:03:25 GMT</pubDate>
+      <guid isPermaLink="false">3cad6943ea57e156333633a03606feae</guid>
+      <pubDate>Thu, 30 Apr 2026 22:02:44 GMT</pubDate>
     </item>
     <item>
-      <title>Q1 Earnings Roundup</title>
+      <title>China Trial Data Ban Proposal</title>
       <link>https://www.google.com</link>
       <description>&lt;ul&gt;
-  &lt;li&gt;&lt;b&gt;Summary:&lt;/b&gt; A roundup of Q1 earnings highlights major industry events: Lilly struck multiple deals, Regeneron notched a historic approval, and the FDA raised several questions. The quarter saw significant financial maneuvering and regulatory milestones across the biopharma landscape.&lt;/li&gt;
+  &lt;li&gt;&lt;b&gt;Summary:&lt;/b&gt; A House panel has called for a ban on the use of clinical trial data from China in FDA drug applications, potentially reshaping how pharmaceutical companies conduct global trials.&lt;/li&gt;
   &lt;li&gt;&lt;b&gt;MoAs:&lt;/b&gt; N/A&lt;/li&gt;
-  &lt;li&gt;&lt;b&gt;Sources:&lt;/b&gt; &lt;a href="https://www.biospace.com/business/q1-earnings-take-off-lilly-strikes-many-deals-regeneron-notches-historic-approval-fda-raises-questions"&gt;BioSpace&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;b&gt;Sources:&lt;/b&gt; &lt;a href='https://endpoints.news/house-panel-calls-to-ban-china-trial-data-from-fda-drug-trial-applications/'&gt;Endpoints News&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;</description>
-      <guid isPermaLink="false">b484a0d9dd45b6f51a17b9bdff0ca9b7</guid>
-      <pubDate>Wed, 29 Apr 2026 22:03:25 GMT</pubDate>
+      <guid isPermaLink="false">bcf429c134739465bb41ce3e0e675f0b</guid>
+      <pubDate>Thu, 30 Apr 2026 22:02:44 GMT</pubDate>
     </item>
     <item>
-      <title>RFK Jr Peptides and FDA Policy</title>
+      <title>European Drug Regulator Vaccine Hesitancy</title>
       <link>https://www.google.com</link>
       <description>&lt;ul&gt;
-  &lt;li&gt;&lt;b&gt;Summary:&lt;/b&gt; The article covers RFK Jr's interest in peptides and the anticipated FDA policy shift regarding compounding pharmacies, which could impact access to unapproved peptide therapies.&lt;/li&gt;
+  &lt;li&gt;&lt;b&gt;Summary:&lt;/b&gt; The European drug regulatory agency has established a new working group to counter vaccine hesitancy across the region. This initiative aims to improve public trust in vaccines through science-based communication and engagement with healthcare professionals and communities.&lt;/li&gt;
   &lt;li&gt;&lt;b&gt;MoAs:&lt;/b&gt; N/A&lt;/li&gt;
-  &lt;li&gt;&lt;b&gt;Sources:&lt;/b&gt; &lt;a href="https://www.statnews.com/2026/04/29/rfk-jr-peptides-upcoming-fda-policy-shift-compounding-drugs/?utm_campaign=rss"&gt;STAT News&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;b&gt;Sources:&lt;/b&gt; &lt;a href="https://www.fiercepharma.com/marketing/europes-drug-regulator-sets-new-group-counter-vaccine-hesitancy"&gt;Fierce Pharma&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;</description>
-      <guid isPermaLink="false">474690df58436431ea0f44e1555903e4</guid>
-      <pubDate>Wed, 29 Apr 2026 22:03:25 GMT</pubDate>
+      <guid isPermaLink="false">d0dfa4eb89b7112d9a2b1d6188efafea</guid>
+      <pubDate>Thu, 30 Apr 2026 22:02:44 GMT</pubDate>
     </item>
     <item>
-      <title>Biotech Angel Investing</title>
+      <title>Senate Health Policy Affordability</title>
       <link>https://www.google.com</link>
       <description>&lt;ul&gt;
-  &lt;li&gt;&lt;b&gt;Summary:&lt;/b&gt; The article discusses how biotech angel investors are adopting deeper due diligence and more disciplined approaches to early-stage investments.&lt;/li&gt;
+  &lt;li&gt;&lt;b&gt;Summary:&lt;/b&gt; Senator &lt;b&gt;Chuck Schumer&lt;/b&gt; outlined a new Senate health policy framework focused on affordability. The proposal includes measures to lower drug prices, expand coverage, and reduce out-of-pocket costs for patients, signaling a major legislative push.&lt;/li&gt;
   &lt;li&gt;&lt;b&gt;MoAs:&lt;/b&gt; N/A&lt;/li&gt;
-  &lt;li&gt;&lt;b&gt;Sources:&lt;/b&gt; &lt;a href="https://www.biospace.com/business/biotech-angels-lean-into-deeper-diligence-and-disciplined-early-bets"&gt;BioSpace&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;b&gt;Sources:&lt;/b&gt; &lt;a href="https://www.statnews.com/2026/04/30/schumer-senate-health-policy-outline-focuses-on-affordability/?utm_campaign=rss"&gt;STAT News&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;</description>
-      <guid isPermaLink="false">1736757dc1b61b10992ff590cde8ac00</guid>
-      <pubDate>Wed, 29 Apr 2026 22:03:25 GMT</pubDate>
+      <guid isPermaLink="false">d22c21c895edfcd93490aedf65d035d7</guid>
+      <pubDate>Thu, 30 Apr 2026 22:02:44 GMT</pubDate>
     </item>
     <item>
-      <title>Altitude Labs Biotech Education</title>
+      <title>Health Tech Conference Highlights</title>
       <link>https://www.google.com</link>
       <description>&lt;ul&gt;
-  &lt;li&gt;&lt;b&gt;Summary:&lt;/b&gt; Altitude Labs offers a higher education program for biotech founders, aiming to equip them with necessary skills and knowledge.&lt;/li&gt;
+  &lt;li&gt;&lt;b&gt;Summary:&lt;/b&gt; Key takeaways from a health technology conference in Boston highlighted trends in digital health, AI diagnostics, and remote patient monitoring. Industry leaders discussed the integration of technology into clinical workflows and the future of patient care.&lt;/li&gt;
   &lt;li&gt;&lt;b&gt;MoAs:&lt;/b&gt; N/A&lt;/li&gt;
-  &lt;li&gt;&lt;b&gt;Sources:&lt;/b&gt; &lt;a href="https://www.biospace.com/business/altitude-labs-serves-up-higher-education-for-biotech-founders"&gt;BioSpace&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;b&gt;Sources:&lt;/b&gt; &lt;a href="https://endpoints.news/what-we-heard-at-a-health-tech-conference-in-boston/"&gt;Endpoints News&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;</description>
-      <guid isPermaLink="false">cfdee5ea8c8b40a84a2072a6728d54da</guid>
-      <pubDate>Wed, 29 Apr 2026 22:03:25 GMT</pubDate>
+      <guid isPermaLink="false">1fe47bca365c39000dbc7eeb4a148cf5</guid>
+      <pubDate>Thu, 30 Apr 2026 22:02:44 GMT</pubDate>
+    </item>
+    <item>
+      <title>Pharma R&amp;D Spending Analysis</title>
+      <link>https://www.google.com</link>
+      <description>&lt;ul&gt;
+  &lt;li&gt;&lt;b&gt;Summary:&lt;/b&gt; A comprehensive analysis of the top 15 pharmaceutical companies' R&amp;D spending reveals how the industry's largest players allocate resources. The report highlights winners and losers in drug research, with significant investments in oncology and rare diseases driving pipeline innovation.&lt;/li&gt;
+  &lt;li&gt;&lt;b&gt;MoAs:&lt;/b&gt; N/A&lt;/li&gt;
+  &lt;li&gt;&lt;b&gt;Sources:&lt;/b&gt; &lt;a href="https://endpoints.news/the-rd-15-how-pharmas-top-companies-spent-won-and-lost-on-drug-research/"&gt;Endpoints News&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;</description>
+      <guid isPermaLink="false">479156f5a05d20c34c73c180d52db082</guid>
+      <pubDate>Thu, 30 Apr 2026 22:02:44 GMT</pubDate>
+    </item>
+    <item>
+      <title>Biotech Job Trends and Angel Investing</title>
+      <link>https://www.google.com</link>
+      <description>&lt;ul&gt;
+  &lt;li&gt;&lt;b&gt;Summary:&lt;/b&gt; This theme covers multiple aspects of the biotech job market and investment landscape. Articles discuss the practice of 'show don't tell' free work during interviews, highlighting a controversial hiring tactic. Another lists seven companies hiring in North Carolina, indicating regional growth. A report on six biotechs that ceased operations in Q1 reflects the volatile nature of the industry. Additionally, an analysis of what makes life science angel investing work provides insights into early-stage funding strategies. Overall, the theme synthesizes current trends in biotech employment and angel investing, emphasizing both opportunities and challenges in the sector.&lt;/li&gt;
+  &lt;li&gt;&lt;b&gt;MoAs:&lt;/b&gt; N/A&lt;/li&gt;
+  &lt;li&gt;&lt;b&gt;Sources:&lt;/b&gt; &lt;a href="https://www.biospace.com/job-trends/show-dont-tell-doing-free-work-during-the-interview-process"&gt;BioSpace&lt;/a&gt;, &lt;a href="https://www.biospace.com/job-trends/7-companies-hiring-in-north-carolina-now"&gt;BioSpace&lt;/a&gt;, &lt;a href="https://www.biospace.com/job-trends/6-biotechs-that-called-it-quits-in-q1"&gt;BioSpace&lt;/a&gt;, &lt;a href="https://www.biospace.com/business/what-makes-life-science-angel-investment-work"&gt;BioSpace&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;</description>
+      <guid isPermaLink="false">f4c8fe85e75327da4d03508c4b3e2b54</guid>
+      <pubDate>Thu, 30 Apr 2026 22:02:44 GMT</pubDate>
+    </item>
+    <item>
+      <title>HHS ACIP Vaccine Policy Lawsuit</title>
+      <link>https://www.google.com</link>
+      <description>&lt;ul&gt;
+  &lt;li&gt;&lt;b&gt;Summary:&lt;/b&gt; This article reports that the U.S. Department of Health and Human Services (HHS) is appealing a ruling in a lawsuit concerning the Advisory Committee on Immunization Practices (ACIP) vaccine policy. The lawsuit involves challenges to recent changes in how vaccine recommendations are made or implemented. The appeal indicates ongoing legal battles over vaccine policy, which could have significant implications for public health guidelines and vaccine distribution. No specific drugs or trials are mentioned; the focus is on regulatory and legal developments.&lt;/li&gt;
+  &lt;li&gt;&lt;b&gt;MoAs:&lt;/b&gt; N/A&lt;/li&gt;
+  &lt;li&gt;&lt;b&gt;Sources:&lt;/b&gt; &lt;a href="https://www.statnews.com/2026/04/29/hhs-appealing-acip-vaccine-policy-lawsuit-ruling/?utm_campaign=rss"&gt;STAT News&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;</description>
+      <guid isPermaLink="false">64075f54730033e830a760adb0feb04e</guid>
+      <pubDate>Thu, 30 Apr 2026 22:02:44 GMT</pubDate>
+    </item>
+    <item>
+      <title>NIH Grant Funding Survey</title>
+      <link>https://www.google.com</link>
+      <description>&lt;ul&gt;
+  &lt;li&gt;&lt;b&gt;Summary:&lt;/b&gt; This article discusses a survey on the impact of NIH grant funding on labs and careers. The survey highlights how changes in federal funding affect biomedical research, including delays in projects, lab closures, and career disruptions for researchers. It underscores the critical role of NIH grants in sustaining the research ecosystem and the challenges faced by institutions and investigators amid funding uncertainties. The piece does not mention specific drugs or trials; it focuses on the broader funding landscape.&lt;/li&gt;
+  &lt;li&gt;&lt;b&gt;MoAs:&lt;/b&gt; N/A&lt;/li&gt;
+  &lt;li&gt;&lt;b&gt;Sources:&lt;/b&gt; &lt;a href="https://www.statnews.com/2026/04/30/nih-grant-funding-national-stat-survey-impact-labs-careers/?utm_campaign=rss"&gt;STAT News&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;</description>
+      <guid isPermaLink="false">75f484e057444922e32b07a66764a72f</guid>
+      <pubDate>Thu, 30 Apr 2026 22:02:44 GMT</pubDate>
+    </item>
+    <item>
+      <title>RFK Jr. Congressional Hearings</title>
+      <link>https://www.google.com</link>
+      <description>&lt;ul&gt;
+  &lt;li&gt;&lt;b&gt;Summary:&lt;/b&gt; This article covers Robert F. Kennedy Jr.'s engagement with congressional hearings, discussing his ongoing involvement in health policy discussions. The piece likely addresses his influence on vaccine skepticism and public health debates. The hearings represent a political development that may impact regulatory and policy decisions in the biopharma industry. No specific drugs or trials are mentioned; the focus is on the political and policy implications.&lt;/li&gt;
+  &lt;li&gt;&lt;b&gt;MoAs:&lt;/b&gt; N/A&lt;/li&gt;
+  &lt;li&gt;&lt;b&gt;Sources:&lt;/b&gt; &lt;a href="https://www.statnews.com/2026/04/30/rfk-jr-congress-hearings-engagement/?utm_campaign=rss"&gt;STAT News&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;</description>
+      <guid isPermaLink="false">967f0d3b404e20fbfe5e280e7d4c8dcc</guid>
+      <pubDate>Thu, 30 Apr 2026 22:02:44 GMT</pubDate>
     </item>
   </channel>
 </rss>
