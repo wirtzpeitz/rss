@@ -6,59 +6,37 @@
     <description>News digest covering Oncology.</description>
     <atom:link href="https://www.google.com" rel="self" type="application/rss+xml"/>
     <item>
-      <title>AstraZeneca Oncology AdComm</title>
+      <title>Krazati (adagrasib) Colorectal Cancer</title>
       <link>https://www.google.com</link>
       <description>&lt;ul&gt;
-  &lt;li&gt;&lt;b&gt;Summary:&lt;/b&gt; The FDA is preparing for an Oncology Advisory Committee meeting involving AstraZeneca. The meeting likely pertains to a regulatory decision for one of AstraZeneca's oncology assets, with the AdComm providing an independent assessment of clinical data before FDA action.&lt;/li&gt;
-  &lt;li&gt;&lt;b&gt;MoAs:&lt;/b&gt; N/A (specific drug not identified from articles)&lt;/li&gt;
-  &lt;li&gt;&lt;b&gt;Sources:&lt;/b&gt; &lt;a href="https://endpoints.news/fda-astrazeneca-prep-for-oncology-adcomm/"&gt;Endpoints News&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;b&gt;Summary:&lt;/b&gt; Krazati (adagrasib) failed a confirmatory trial in colorectal cancer, jeopardizing its accelerated approval. The KRAS G12C inhibitor did not meet the primary endpoint, casting doubt on its future in this indication.&lt;/li&gt;
+  &lt;li&gt;&lt;b&gt;MoAs:&lt;/b&gt; Adagrasib: KRAS G12C inhibitor&lt;/li&gt;
+  &lt;li&gt;&lt;b&gt;Sources:&lt;/b&gt; &lt;a href='https://endpoints.news/krazati-fails-confirmatory-trial-in-colorectal-cancer-putting-approval-at-risk/'&gt;Endpoints News&lt;/a&gt;, &lt;a href='https://www.oncologypipeline.com/apexonco/krazatis-colorectal-cancer-approval-jeopardy'&gt;Oncology Pipeline&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;</description>
-      <guid isPermaLink="false">026a4f3a16df15f32ddc9dcb7bfc94cc</guid>
-      <pubDate>Wed, 29 Apr 2026 22:03:25 GMT</pubDate>
+      <guid isPermaLink="false">2b82f57cfc82b5ba877e5d0a62f01a98</guid>
+      <pubDate>Thu, 30 Apr 2026 22:02:44 GMT</pubDate>
     </item>
     <item>
-      <title>AstraZeneca Datroway Biomarker</title>
+      <title>Pfizer Myeloma and Regeneron Fianlimab</title>
       <link>https://www.google.com</link>
       <description>&lt;ul&gt;
-  &lt;li&gt;&lt;b&gt;Summary:&lt;/b&gt; AstraZeneca's Datroway (datopotamab deruxtecan) biomarker analysis reveals that the biomarker both gives and takes away—providing predictive value but also indicating limitations. Datroway is a TROP2-directed ADC under investigation for multiple solid tumors.&lt;/li&gt;
-  &lt;li&gt;&lt;b&gt;MoAs:&lt;/b&gt; Datroway (datopotamab deruxtecan): TROP2-targeting antibody conjugated with a topoisomerase I inhibitor payload (DXd)&lt;/li&gt;
-  &lt;li&gt;&lt;b&gt;Sources:&lt;/b&gt; &lt;a href="https://www.oncologypipeline.com/apexonco/astras-datroway-biomarker-gives-and-it-takes-away"&gt;Oncology Pipeline (ApexOnco)&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;b&gt;Summary:&lt;/b&gt; &lt;b&gt;Pfizer&lt;/b&gt; claimed second place in the myeloma order, likely referring to its bispecific antibody &lt;b&gt;Elrexfio&lt;/b&gt; (elranatamab). Meanwhile, &lt;b&gt;Regeneron&lt;/b&gt; faced another setback with &lt;b&gt;fianlimab&lt;/b&gt;, an anti-LAG-3 antibody, adding to ongoing challenges in the immuno-oncology space.&lt;/li&gt;
+  &lt;li&gt;&lt;b&gt;MoAs:&lt;/b&gt; &lt;b&gt;Elrexfio&lt;/b&gt; (elranatamab): BCMA-directed CD3 T-cell engager bispecific antibody. &lt;b&gt;Fianlimab&lt;/b&gt;: anti-LAG-3 monoclonal antibody.&lt;/li&gt;
+  &lt;li&gt;&lt;b&gt;Sources:&lt;/b&gt; &lt;a href='https://www.oncologypipeline.com/apexonco/pfizer-claims-second-place-myeloma-order'&gt;Oncology Pipeline&lt;/a&gt;, &lt;a href='https://www.oncologypipeline.com/apexonco/another-fianlimab-fiasco-regeneron'&gt;Oncology Pipeline&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;</description>
-      <guid isPermaLink="false">b919ada11cc50356637dd92c42e14629</guid>
-      <pubDate>Wed, 29 Apr 2026 22:03:25 GMT</pubDate>
+      <guid isPermaLink="false">bc978bd540d164d11c656a9b46a4d1c9</guid>
+      <pubDate>Thu, 30 Apr 2026 22:02:44 GMT</pubDate>
     </item>
     <item>
-      <title>Pfizer Elrexfio Multiple Myeloma</title>
+      <title>Akeso/Summit Ivonescimab Data</title>
       <link>https://www.google.com</link>
       <description>&lt;ul&gt;
-  &lt;li&gt;&lt;b&gt;Summary:&lt;/b&gt; Pfizer reported positive Phase 3 results for Elrexfio (elranatamab) in second-line multiple myeloma, positioning it as a potential competitor to existing BCMA-directed therapies. The trial showed significant efficacy, though revenue expectations were tempered by market dynamics. Pfizer aims to leverage this data to expand Elrexfio's label and drive adoption in earlier treatment lines.&lt;/li&gt;
-  &lt;li&gt;&lt;b&gt;MoAs:&lt;/b&gt; Elrexfio (elranatamab): Bispecific T-cell engager (BiTE) targeting B-cell maturation antigen (BCMA) on myeloma cells and CD3 on T cells, inducing T-cell-mediated cytotoxicity.&lt;/li&gt;
-  &lt;li&gt;&lt;b&gt;Sources:&lt;/b&gt; &lt;a href="https://endpoints.news/pfizer-earns-positive-phase-3-in-multiple-myeloma-icon-overstated-revenue/"&gt;Endpoints News&lt;/a&gt;, &lt;a href="https://www.fiercepharma.com/pharma/pfizer-looks-jump-start-elrexfio-trial-win-second-line-myeloma"&gt;Fierce Pharma&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;b&gt;Summary:&lt;/b&gt; &lt;b&gt;Akeso&lt;/b&gt; and &lt;b&gt;Summit Therapeutics&lt;/b&gt; announced new clinical data for their investigational bispecific antibody &lt;b&gt;ivonescimab&lt;/b&gt; (PD-1/VEGF) at the ASCO meeting. The results demonstrated promising efficacy in non-small cell lung cancer, potentially positioning ivonescimab as a competitive therapy in the immuno-oncology landscape.&lt;/li&gt;
+  &lt;li&gt;&lt;b&gt;MoAs:&lt;/b&gt; Anti-PD-1/VEGF bispecific antibody; inhibits immune checkpoint PD-1 and blocks VEGF-mediated angiogenesis.&lt;/li&gt;
+  &lt;li&gt;&lt;b&gt;Sources:&lt;/b&gt; &lt;a href="https://www.statnews.com/2026/04/30/akeso-summit-therapeutics-drug-ivonescimab-results-announced-asco/?utm_campaign=rss"&gt;STAT News&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;</description>
-      <guid isPermaLink="false">bc99bea7dae2522ae993e1c457e1346c</guid>
-      <pubDate>Wed, 29 Apr 2026 22:03:25 GMT</pubDate>
-    </item>
-    <item>
-      <title>GSK Oncology Pipeline</title>
-      <link>https://www.google.com</link>
-      <description>&lt;ul&gt;
-  &lt;li&gt;&lt;b&gt;Summary:&lt;/b&gt; GSK is positioning its oncology pipeline as a key growth driver, with the CEO pointing to several potential blockbusters. The pipeline includes assets in immuno-oncology, antibody-drug conjugates, and targeted therapies. Investors are watching closely as GSK aims to revive its oncology franchise through both internal development and partnerships.&lt;/li&gt;
-  &lt;li&gt;&lt;b&gt;MoAs:&lt;/b&gt; N/A&lt;/li&gt;
-  &lt;li&gt;&lt;b&gt;Sources:&lt;/b&gt; &lt;a href="https://www.fiercebiotech.com/biotech/which-blockbuster-gsk-gunning-next-ceo-miels-points-looking-oncology"&gt;Fierce Biotech&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;</description>
-      <guid isPermaLink="false">67256279f5a1d9ebd395ffc8a4afe747</guid>
-      <pubDate>Wed, 29 Apr 2026 22:03:25 GMT</pubDate>
-    </item>
-    <item>
-      <title>BeOne VEGF Multispecific</title>
-      <link>https://www.google.com</link>
-      <description>&lt;ul&gt;
-  &lt;li&gt;&lt;b&gt;Summary:&lt;/b&gt; BeOne's VEGF multispecific antibody is being developed as a cost-effective alternative in the VEGF-targeting space. The 'bargain basement' approach aims to compete with established anti-VEGF therapies by offering a multispecific design that could address resistance mechanisms. Early data and development strategy are under review.&lt;/li&gt;
-  &lt;li&gt;&lt;b&gt;MoAs:&lt;/b&gt; VEGF multispecific antibody (targets VEGF and potentially other angiogenic factors)&lt;/li&gt;
-  &lt;li&gt;&lt;b&gt;Sources:&lt;/b&gt; &lt;a href="https://www.oncologypipeline.com/apexonco/beones-bargain-basement-vegf-multispecific"&gt;ApexOnco&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;</description>
-      <guid isPermaLink="false">58ca9a22f5071148c68488f7b7bbce09</guid>
-      <pubDate>Wed, 29 Apr 2026 22:03:25 GMT</pubDate>
+      <guid isPermaLink="false">4bad350b8c5634e34cae24996c8bb265</guid>
+      <pubDate>Thu, 30 Apr 2026 22:02:44 GMT</pubDate>
     </item>
   </channel>
 </rss>
