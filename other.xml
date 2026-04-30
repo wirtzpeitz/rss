@@ -6,48 +6,70 @@
     <description>News digest covering Other.</description>
     <atom:link href="https://www.google.com" rel="self" type="application/rss+xml"/>
     <item>
-      <title>FDA Baby Formula Safety</title>
+      <title>AI in Healthcare and Clinical Trials</title>
       <link>https://www.google.com</link>
       <description>&lt;ul&gt;
-  &lt;li&gt;&lt;b&gt;Summary:&lt;/b&gt; The FDA has updated its approach to baby formula safety testing, focusing on contaminants such as heavy metals and pathogens. The agency's new guidelines aim to strengthen oversight and ensure product safety following past recalls and consumer concerns. The initiative does not involve specific drugs but highlights broader regulatory efforts in infant nutrition.&lt;/li&gt;
+  &lt;li&gt;&lt;b&gt;Summary:&lt;/b&gt; Investors are excited about the potential of AI in hair loss drug clinical trials, as highlighted in a readout. A study published in &lt;i&gt;Science&lt;/i&gt; showed that OpenAI's large language model outperformed doctors in certain tasks. Additionally, the CVS healthcare delivery chief discussed the potential for incorporating clinical AI.&lt;/li&gt;
   &lt;li&gt;&lt;b&gt;MoAs:&lt;/b&gt; N/A&lt;/li&gt;
-  &lt;li&gt;&lt;b&gt;Sources:&lt;/b&gt; &lt;a href="https://www.statnews.com/2026/04/29/fda-baby-formula-safety-tests-contaminants/?utm_campaign=rss"&gt;STAT News&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;b&gt;Sources:&lt;/b&gt; &lt;a href='https://www.statnews.com/2026/04/30/investors-excited-hair-loss-drugs-ai-improve-clinical-trials-readout-loud/?utm_campaign=rss'&gt;STAT News&lt;/a&gt;, &lt;a href='https://www.statnews.com/2026/04/30/open-ai-llm-model-outperforms-doctors-study-published-journal-science/?utm_campaign=rss'&gt;STAT News&lt;/a&gt;, &lt;a href='https://endpoints.news/cvs-healthcare-delivery-chief-eyes-potential-in-clinical-ai/'&gt;Endpoints News&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;</description>
-      <guid isPermaLink="false">e61f4f37ebf4a80f7df73de4e1af7a50</guid>
-      <pubDate>Wed, 29 Apr 2026 22:03:25 GMT</pubDate>
+      <guid isPermaLink="false">56ff3244e851a269c779eb15d750718a</guid>
+      <pubDate>Thu, 30 Apr 2026 22:02:44 GMT</pubDate>
     </item>
     <item>
-      <title>USDA Brain Drain</title>
+      <title>Merck Heart Disease Awareness Campaign</title>
       <link>https://www.google.com</link>
       <description>&lt;ul&gt;
-  &lt;li&gt;&lt;b&gt;Summary:&lt;/b&gt; Food safety experts warn that the &lt;b&gt;USDA&lt;/b&gt; is losing critical scientific staff, potentially compromising food safety oversight.&lt;/li&gt;
+  &lt;li&gt;&lt;b&gt;Summary:&lt;/b&gt; &lt;b&gt;Merck&lt;/b&gt; launched a new marketing campaign inspired by baseball to increase awareness of heart disease. The campaign aims to educate the public on risk factors and the importance of early detection and management.&lt;/li&gt;
   &lt;li&gt;&lt;b&gt;MoAs:&lt;/b&gt; N/A&lt;/li&gt;
-  &lt;li&gt;&lt;b&gt;Sources:&lt;/b&gt; &lt;a href="https://www.statnews.com/2026/04/29/health-news-food-safety-experts-warn-usda-brain-drain/?utm_campaign=rss"&gt;STAT News&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;b&gt;Sources:&lt;/b&gt; &lt;a href="https://www.fiercepharma.com/marketing/merck-bats-heart-disease-awareness-new-baseball-inspired-campaign"&gt;Fierce Pharma&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;</description>
-      <guid isPermaLink="false">b780d2901d8ea1a9132c730969f2cccd</guid>
-      <pubDate>Wed, 29 Apr 2026 22:03:25 GMT</pubDate>
+      <guid isPermaLink="false">1b00012ea593e74272b859e8c9bca569</guid>
+      <pubDate>Thu, 30 Apr 2026 22:02:44 GMT</pubDate>
     </item>
     <item>
-      <title>Alternative Medicine Placebo</title>
+      <title>Cigna Exiting ACA Market</title>
       <link>https://www.google.com</link>
       <description>&lt;ul&gt;
-  &lt;li&gt;&lt;b&gt;Summary:&lt;/b&gt; The article explores the role of placebo effects in alternative medicine, questioning the cost and time spent on treatments lacking proven efficacy beyond placebo.&lt;/li&gt;
+  &lt;li&gt;&lt;b&gt;Summary:&lt;/b&gt; &lt;b&gt;Cigna&lt;/b&gt; announced it will exit the Affordable Care Act (ACA) marketplaces by 2027, affecting approximately 369,000 individuals who will need to find new insurance coverage. The decision reflects ongoing challenges in the ACA market dynamics.&lt;/li&gt;
   &lt;li&gt;&lt;b&gt;MoAs:&lt;/b&gt; N/A&lt;/li&gt;
-  &lt;li&gt;&lt;b&gt;Sources:&lt;/b&gt; &lt;a href="https://www.statnews.com/2026/04/29/alternative-medicine-placebo-effect-cost-time/?utm_campaign=rss"&gt;STAT News&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;b&gt;Sources:&lt;/b&gt; &lt;a href="https://www.statnews.com/2026/04/30/cigna-exits-aca-market-2027-369-thousand-people-affected/?utm_campaign=rss"&gt;STAT News&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;</description>
-      <guid isPermaLink="false">ce759fd1504926627140f935c6dcc2da</guid>
-      <pubDate>Wed, 29 Apr 2026 22:03:25 GMT</pubDate>
+      <guid isPermaLink="false">2d2619b25c1fac2de7afcc38b7b35447</guid>
+      <pubDate>Thu, 30 Apr 2026 22:02:44 GMT</pubDate>
     </item>
     <item>
-      <title>Medical School Nutrition</title>
+      <title>Elevance Health Fraud Case</title>
       <link>https://www.google.com</link>
       <description>&lt;ul&gt;
-  &lt;li&gt;&lt;b&gt;Summary:&lt;/b&gt; This podcast discusses the importance of nutrition education in medical schools and its role in preventive medicine.&lt;/li&gt;
+  &lt;li&gt;&lt;b&gt;Summary:&lt;/b&gt; The Department of Justice (DOJ) has accused &lt;b&gt;Elevance Health&lt;/b&gt; of fraud, alleging that the company blocked access to a key witness in a ongoing investigation. The case could have significant implications for the health insurer's operations.&lt;/li&gt;
   &lt;li&gt;&lt;b&gt;MoAs:&lt;/b&gt; N/A&lt;/li&gt;
-  &lt;li&gt;&lt;b&gt;Sources:&lt;/b&gt; &lt;a href="https://www.statnews.com/2026/04/29/medical-school-nutrition-preventive-medicine-podcast/?utm_campaign=rss"&gt;STAT News&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;b&gt;Sources:&lt;/b&gt; &lt;a href="https://www.statnews.com/2026/04/30/elevance-health-fraud-doj-says-access-blocked-key-witness/?utm_campaign=rss"&gt;STAT News&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;</description>
-      <guid isPermaLink="false">e51718566517bcf889a581f0220b66d5</guid>
-      <pubDate>Wed, 29 Apr 2026 22:03:25 GMT</pubDate>
+      <guid isPermaLink="false">051ee5a802a3d83de952259a4b804267</guid>
+      <pubDate>Thu, 30 Apr 2026 22:02:44 GMT</pubDate>
+    </item>
+    <item>
+      <title>Wildfire Smog Health Impact</title>
+      <link>https://www.google.com</link>
+      <description>&lt;ul&gt;
+  &lt;li&gt;&lt;b&gt;Summary:&lt;/b&gt; New research indicates that smog from wildfires becomes increasingly harmful over time, with prolonged exposure leading to greater respiratory and cardiovascular risks. The findings underscore the need for public health interventions as wildfire seasons intensify.&lt;/li&gt;
+  &lt;li&gt;&lt;b&gt;MoAs:&lt;/b&gt; N/A&lt;/li&gt;
+  &lt;li&gt;&lt;b&gt;Sources:&lt;/b&gt; &lt;a href="https://www.statnews.com/2026/04/30/health-news-smog-from-wildfires-increasingly-harmful-over-time/?utm_campaign=rss"&gt;STAT News&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;</description>
+      <guid isPermaLink="false">829a28b406f139e585a3656cf573b596</guid>
+      <pubDate>Thu, 30 Apr 2026 22:02:44 GMT</pubDate>
+    </item>
+    <item>
+      <title>Opinion: Drug Resistance</title>
+      <link>https://www.google.com</link>
+      <description>&lt;ul&gt;
+  &lt;li&gt;&lt;b&gt;Summary:&lt;/b&gt; This opinion piece argues that tackling drug resistance must become the next frontier for biotech. It emphasizes the urgent need for innovative approaches to combat antimicrobial resistance and other forms of drug resistance that threaten public health. The article calls on the biotech industry to prioritize research and development of novel therapies to address this growing challenge, suggesting that current efforts are insufficient. No specific drugs or clinical trials are mentioned; the piece focuses on strategic direction.&lt;/li&gt;
+  &lt;li&gt;&lt;b&gt;MoAs:&lt;/b&gt; N/A&lt;/li&gt;
+  &lt;li&gt;&lt;b&gt;Sources:&lt;/b&gt; &lt;a href="https://www.biospace.com/drug-development/opinion-tackling-drug-resistance-must-become-biotechs-next-frontier"&gt;BioSpace&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;</description>
+      <guid isPermaLink="false">a0d546226ebf8d59782809aa2c107ecd</guid>
+      <pubDate>Thu, 30 Apr 2026 22:02:44 GMT</pubDate>
     </item>
   </channel>
 </rss>
