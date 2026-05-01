@@ -6,48 +6,26 @@
     <description>News digest covering Neurology.</description>
     <atom:link href="https://www.google.com" rel="self" type="application/rss+xml"/>
     <item>
-      <title>UniQure Huntington's Gene Therapy</title>
+      <title>Axsome Auvelity FDA Approval for Alzheimer's Agitation</title>
       <link>https://www.google.com</link>
       <description>&lt;ul&gt;
-  &lt;li&gt;&lt;b&gt;Summary:&lt;/b&gt; UniQure filed for UK approval of its Huntington's disease gene therapy, AMT-130, after a dispute with the FDA over data and trial design. The company is seeking marketing authorization in the UK while addressing regulatory concerns.&lt;/li&gt;
-  &lt;li&gt;&lt;b&gt;MoAs:&lt;/b&gt; AMT-130: AAV5-based gene therapy delivering a microRNA to suppress mutant huntingtin expression (RNA interference).&lt;/li&gt;
-  &lt;li&gt;&lt;b&gt;Sources:&lt;/b&gt; &lt;a href='https://www.biopharmadive.com/news/uniqure-huntingtons-gene-therapy-uk-approval-application-fda/818923/'&gt;BioPharma Dive&lt;/a&gt;, &lt;a href='https://www.biospace.com/fda/uniqure-eyes-uk-approval-for-embattled-huntingtons-gene-therapy-after-fda-quarrel'&gt;BioSpace&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;b&gt;Summary:&lt;/b&gt; The FDA approved &lt;b&gt;Axsome Therapeutics&lt;/b&gt;' &lt;b&gt;Auvelity&lt;/b&gt; (dextromethorphan/bupropion) for the treatment of agitation associated with Alzheimer's disease. This is the first non-antipsychotic drug approved for Alzheimer's agitation, offering a new option for a condition often treated off-label with antipsychotics. The approval was supported by data from the ADVANCE-1 and other trials showing significant reduction in agitation symptoms. &lt;b&gt;Auvelity&lt;/b&gt; previously received approval for major depressive disorder. The Alzheimer's label is expected to significantly expand the drug's market.&lt;/li&gt;
+  &lt;li&gt;&lt;b&gt;MoAs:&lt;/b&gt; Dextromethorphan: NMDA receptor antagonist and sigma-1 receptor agonist; Bupropion: norepinephrine and dopamine reuptake inhibitor&lt;/li&gt;
+  &lt;li&gt;&lt;b&gt;Sources:&lt;/b&gt; &lt;a href="https://www.fiercepharma.com/pharma/look-out-rexulti-here-comes-axsome-alzheimers-agitation-fda-nod-auvelity"&gt;Fierce Pharma&lt;/a&gt;, &lt;a href="https://www.statnews.com/2026/05/01/biotech-news-axsome-wins-fda-nod-for-alzheimers-agitation/?utm_campaign=rss"&gt;STAT News&lt;/a&gt;, &lt;a href="https://www.biospace.com/fda/axsome-wins-first-non-antipsychotic-fda-approval-for-alzheimers-agitation"&gt;BioSpace&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;</description>
-      <guid isPermaLink="false">23432091231ebdb273e3535936808d7b</guid>
-      <pubDate>Thu, 30 Apr 2026 22:02:44 GMT</pubDate>
+      <guid isPermaLink="false">e225ed7bc30f53d63558aefc79726921</guid>
+      <pubDate>Fri, 01 May 2026 22:01:46 GMT</pubDate>
     </item>
     <item>
-      <title>Alector/GSK Alzheimer's Failure</title>
+      <title>Corcept ALS Drug Data</title>
       <link>https://www.google.com</link>
       <description>&lt;ul&gt;
-  &lt;li&gt;&lt;b&gt;Summary:&lt;/b&gt; Alector and GSK's Alzheimer's antibody failed a Phase 2 trial, marking the third neurological failure for Alector. The anti-CD33 antibody did not meet endpoints, casting doubt on the mechanism and the $700M partnership.&lt;/li&gt;
-  &lt;li&gt;&lt;b&gt;MoAs:&lt;/b&gt; Anti-CD33 antibody: targets CD33 on microglia to modulate neuroinflammation and amyloid clearance.&lt;/li&gt;
-  &lt;li&gt;&lt;b&gt;Sources:&lt;/b&gt; &lt;a href='https://www.biospace.com/drug-development/gsk-partnered-alector-hit-with-third-neuro-failure-as-alzheimers-asset-disappoints'&gt;BioSpace&lt;/a&gt;, &lt;a href='https://www.fiercebiotech.com/biotech/gsks-700m-alector-bet-blows-alzheimers-drug-flunks-phase-2'&gt;Fierce Biotech&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;b&gt;Summary:&lt;/b&gt; &lt;b&gt;Corcept Therapeutics&lt;/b&gt; reported improved two-year survival data for its investigational ALS drug, signaling potential efficacy in this devastating neurodegenerative disease. The company is nearing initiation of a Phase 3 trial based on these promising results.&lt;/li&gt;
+  &lt;li&gt;&lt;b&gt;MoAs:&lt;/b&gt; N/A&lt;/li&gt;
+  &lt;li&gt;&lt;b&gt;Sources:&lt;/b&gt; &lt;a href='https://www.biospace.com/drug-development/corcept-ties-als-drug-to-improved-2-year-survival-as-phase-3-start-date-nears'&gt;BioSpace&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;</description>
-      <guid isPermaLink="false">b45acbc6a8cf8594978cf5e106dd75bd</guid>
-      <pubDate>Thu, 30 Apr 2026 22:02:44 GMT</pubDate>
-    </item>
-    <item>
-      <title>Indivior Phase 2 Failure</title>
-      <link>https://www.google.com</link>
-      <description>&lt;ul&gt;
-  &lt;li&gt;&lt;b&gt;Summary:&lt;/b&gt; &lt;b&gt;Indivior&lt;/b&gt; reported a Phase 2 failure for an undisclosed drug, with the company expecting significant impact on its R&amp;D team. The drug was likely intended for substance use disorder.&lt;/li&gt;
-  &lt;li&gt;&lt;b&gt;MoAs:&lt;/b&gt; Not disclosed.&lt;/li&gt;
-  &lt;li&gt;&lt;b&gt;Sources:&lt;/b&gt; &lt;a href='https://www.fiercebiotech.com/biotech/indivior-fails-phase-2-expects-significant-impact-rd-team'&gt;Fierce Biotech&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;</description>
-      <guid isPermaLink="false">a063b0313d30dd7d30c14379584317f1</guid>
-      <pubDate>Thu, 30 Apr 2026 22:02:44 GMT</pubDate>
-    </item>
-    <item>
-      <title>Hinge Migraine Device</title>
-      <link>https://www.google.com</link>
-      <description>&lt;ul&gt;
-  &lt;li&gt;&lt;b&gt;Summary:&lt;/b&gt; &lt;b&gt;Hinge Health&lt;/b&gt; received FDA clearance for a new device designed to treat migraines. The device uses neuromodulation to provide relief, offering a non-pharmacological option for patients suffering from migraine headaches.&lt;/li&gt;
-  &lt;li&gt;&lt;b&gt;MoAs:&lt;/b&gt; Neuromodulation (likely electrical stimulation) to alleviate migraine symptoms.&lt;/li&gt;
-  &lt;li&gt;&lt;b&gt;Sources:&lt;/b&gt; &lt;a href="https://www.statnews.com/2026/04/30/hinges-new-fda-cleared-migraine-device-health-tech/?utm_campaign=rss"&gt;STAT News&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;</description>
-      <guid isPermaLink="false">f4365d66c7a2b351354fd85aed4f1e56</guid>
-      <pubDate>Thu, 30 Apr 2026 22:02:44 GMT</pubDate>
+      <guid isPermaLink="false">cb03966e1bd56965e376671378c686ee</guid>
+      <pubDate>Fri, 01 May 2026 22:01:46 GMT</pubDate>
     </item>
   </channel>
 </rss>
