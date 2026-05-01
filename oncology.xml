@@ -6,37 +6,70 @@
     <description>News digest covering Oncology.</description>
     <atom:link href="https://www.google.com" rel="self" type="application/rss+xml"/>
     <item>
-      <title>Krazati (adagrasib) Colorectal Cancer</title>
+      <title>Pfizer/Arvinas Vepdegestrant (Veppanu) FDA Approval</title>
       <link>https://www.google.com</link>
       <description>&lt;ul&gt;
-  &lt;li&gt;&lt;b&gt;Summary:&lt;/b&gt; Krazati (adagrasib) failed a confirmatory trial in colorectal cancer, jeopardizing its accelerated approval. The KRAS G12C inhibitor did not meet the primary endpoint, casting doubt on its future in this indication.&lt;/li&gt;
-  &lt;li&gt;&lt;b&gt;MoAs:&lt;/b&gt; Adagrasib: KRAS G12C inhibitor&lt;/li&gt;
-  &lt;li&gt;&lt;b&gt;Sources:&lt;/b&gt; &lt;a href='https://endpoints.news/krazati-fails-confirmatory-trial-in-colorectal-cancer-putting-approval-at-risk/'&gt;Endpoints News&lt;/a&gt;, &lt;a href='https://www.oncologypipeline.com/apexonco/krazatis-colorectal-cancer-approval-jeopardy'&gt;Oncology Pipeline&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;b&gt;Summary:&lt;/b&gt; The FDA granted accelerated approval to &lt;b&gt;Vepdegestrant&lt;/b&gt; (Veppanu), a first-in-class PROTAC estrogen receptor degrader co-developed by &lt;b&gt;Pfizer&lt;/b&gt; and &lt;b&gt;Arvinas&lt;/b&gt;, for the treatment of certain breast cancers. The decision was based on data from a pivotal trial in patients with ER+/HER2- advanced breast cancer who had received prior endocrine therapy. Despite mixed efficacy signals, the agency accepted the risk-benefit profile for accelerated approval. The approval marks a new modality in breast cancer treatment, validating the targeted protein degradation approach.&lt;/li&gt;
+  &lt;li&gt;&lt;b&gt;MoAs:&lt;/b&gt; Estrogen receptor degradation via PROTAC-mediated ubiquitination and proteasomal degradation&lt;/li&gt;
+  &lt;li&gt;&lt;b&gt;Sources:&lt;/b&gt; &lt;a href="https://www.fiercepharma.com/pharma/fda-hands-pfizer-arvinas-veppanu-early-approval-certain-breast-cancer"&gt;Fierce Pharma&lt;/a&gt;, &lt;a href="https://www.biopharmadive.com/news/arvinas-pfizer-fda-approve-veppanu-vepdegestrant-breast-cancer/819108/"&gt;BioPharma Dive&lt;/a&gt;, &lt;a href="https://endpoints.news/fda-approves-pfizer-and-arvinas-breast-cancer-drug-despite-underwhelming-data/"&gt;Endpoints News&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;</description>
-      <guid isPermaLink="false">2b82f57cfc82b5ba877e5d0a62f01a98</guid>
-      <pubDate>Thu, 30 Apr 2026 22:02:44 GMT</pubDate>
+      <guid isPermaLink="false">1aa3adc3312c88f6795444137cd72afa</guid>
+      <pubDate>Fri, 01 May 2026 22:01:46 GMT</pubDate>
     </item>
     <item>
-      <title>Pfizer Myeloma and Regeneron Fianlimab</title>
+      <title>AstraZeneca Camizestrant FDA AdCom Setback</title>
       <link>https://www.google.com</link>
       <description>&lt;ul&gt;
-  &lt;li&gt;&lt;b&gt;Summary:&lt;/b&gt; &lt;b&gt;Pfizer&lt;/b&gt; claimed second place in the myeloma order, likely referring to its bispecific antibody &lt;b&gt;Elrexfio&lt;/b&gt; (elranatamab). Meanwhile, &lt;b&gt;Regeneron&lt;/b&gt; faced another setback with &lt;b&gt;fianlimab&lt;/b&gt;, an anti-LAG-3 antibody, adding to ongoing challenges in the immuno-oncology space.&lt;/li&gt;
-  &lt;li&gt;&lt;b&gt;MoAs:&lt;/b&gt; &lt;b&gt;Elrexfio&lt;/b&gt; (elranatamab): BCMA-directed CD3 T-cell engager bispecific antibody. &lt;b&gt;Fianlimab&lt;/b&gt;: anti-LAG-3 monoclonal antibody.&lt;/li&gt;
-  &lt;li&gt;&lt;b&gt;Sources:&lt;/b&gt; &lt;a href='https://www.oncologypipeline.com/apexonco/pfizer-claims-second-place-myeloma-order'&gt;Oncology Pipeline&lt;/a&gt;, &lt;a href='https://www.oncologypipeline.com/apexonco/another-fianlimab-fiasco-regeneron'&gt;Oncology Pipeline&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;b&gt;Summary:&lt;/b&gt; An FDA advisory committee voted against recommending &lt;b&gt;AstraZeneca&lt;/b&gt;'s selective estrogen receptor degrader (SERD) &lt;b&gt;Camizestrant&lt;/b&gt; for approval in breast cancer. The vote came after a review of data from the SERENA trials, which showed some benefit but raised concerns about overall survival and toxicity. The decision surprises many analysts and poses a setback for AstraZeneca's oncology pipeline. The FDA will consider the committee's input before making a final decision. &lt;b&gt;Camizestrant&lt;/b&gt; is designed to target ER+ breast cancer and previously showed promise in earlier-stage trials.&lt;/li&gt;
+  &lt;li&gt;&lt;b&gt;MoAs:&lt;/b&gt; Selective estrogen receptor degradation (SERD)&lt;/li&gt;
+  &lt;li&gt;&lt;b&gt;Sources:&lt;/b&gt; &lt;a href="https://www.oncologypipeline.com/apexonco/unexpected-serena-knockback-astra"&gt;ApexOnco&lt;/a&gt;, &lt;a href="https://www.biospace.com/fda/astrazenecas-breast-cancer-drug-fails-to-earn-backing-of-fda-advisory-committee"&gt;BioSpace&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;</description>
-      <guid isPermaLink="false">bc978bd540d164d11c656a9b46a4d1c9</guid>
-      <pubDate>Thu, 30 Apr 2026 22:02:44 GMT</pubDate>
+      <guid isPermaLink="false">acb74cdce643f6e08162012ab44a2058</guid>
+      <pubDate>Fri, 01 May 2026 22:01:46 GMT</pubDate>
     </item>
     <item>
-      <title>Akeso/Summit Ivonescimab Data</title>
+      <title>Summit Ivonescimab Interim Trial Miss</title>
       <link>https://www.google.com</link>
       <description>&lt;ul&gt;
-  &lt;li&gt;&lt;b&gt;Summary:&lt;/b&gt; &lt;b&gt;Akeso&lt;/b&gt; and &lt;b&gt;Summit Therapeutics&lt;/b&gt; announced new clinical data for their investigational bispecific antibody &lt;b&gt;ivonescimab&lt;/b&gt; (PD-1/VEGF) at the ASCO meeting. The results demonstrated promising efficacy in non-small cell lung cancer, potentially positioning ivonescimab as a competitive therapy in the immuno-oncology landscape.&lt;/li&gt;
-  &lt;li&gt;&lt;b&gt;MoAs:&lt;/b&gt; Anti-PD-1/VEGF bispecific antibody; inhibits immune checkpoint PD-1 and blocks VEGF-mediated angiogenesis.&lt;/li&gt;
-  &lt;li&gt;&lt;b&gt;Sources:&lt;/b&gt; &lt;a href="https://www.statnews.com/2026/04/30/akeso-summit-therapeutics-drug-ivonescimab-results-announced-asco/?utm_campaign=rss"&gt;STAT News&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;b&gt;Summary:&lt;/b&gt; &lt;b&gt;Summit Therapeutics&lt;/b&gt;' &lt;b&gt;Ivonescimab&lt;/b&gt;, a PD-1/VEGF bispecific antibody, failed to meet interim analysis endpoints in a pivotal trial, surprising analysts and causing shares to tumble. The trial, likely in non-small cell lung cancer, had been closely watched as a potential competitor to checkpoint inhibitors. The miss raises questions about the drug's efficacy and future development pathway. &lt;b&gt;Ivonescimab&lt;/b&gt; was designed to simultaneously block immune checkpoint and angiogenesis pathways.&lt;/li&gt;
+  &lt;li&gt;&lt;b&gt;MoAs:&lt;/b&gt; Bispecific antibody: blockade of PD-1 and VEGF-A&lt;/li&gt;
+  &lt;li&gt;&lt;b&gt;Sources:&lt;/b&gt; &lt;a href="https://www.biopharmadive.com/news/summit-ivonescimab-esperion-axsome-alzheimers-astrazeneca-camizestrant/819031/"&gt;BioPharma Dive&lt;/a&gt;, &lt;a href="https://www.fiercepharma.com/pharma/summit-pd-1vegf-interim-trial-miss-surprises-analysts-shares-tumble"&gt;Fierce Pharma&lt;/a&gt;, &lt;a href="https://www.oncologypipeline.com/apexonco/summits-shot-early-harmoni-backfires"&gt;ApexOnco&lt;/a&gt;, &lt;a href="https://endpoints.news/summit-slips-on-ivonescimabs-apparent-interim-miss-in-sign-of-investor-frustration/"&gt;Endpoints News&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;</description>
-      <guid isPermaLink="false">4bad350b8c5634e34cae24996c8bb265</guid>
-      <pubDate>Thu, 30 Apr 2026 22:02:44 GMT</pubDate>
+      <guid isPermaLink="false">25906d50e3e7f734acd6ca3dbc652441</guid>
+      <pubDate>Fri, 01 May 2026 22:01:46 GMT</pubDate>
+    </item>
+    <item>
+      <title>J&amp;J Axes CAR-T Therapies</title>
+      <link>https://www.google.com</link>
+      <description>&lt;ul&gt;
+  &lt;li&gt;&lt;b&gt;Summary:&lt;/b&gt; &lt;b&gt;Johnson &amp; Johnson&lt;/b&gt; has discontinued two CAR-T cell therapy programs for lymphoma, a major setback months after touting their efficacy. The decision was driven by an evolving competitive landscape and changing market dynamics. &lt;b&gt;J&amp;J&lt;/b&gt; had invested heavily in these autologous CAR-T candidates, which targeted CD19. The discontinuations highlight the challenges in the CAR-T space, including manufacturing complexity and pricing pressures. &lt;b&gt;J&amp;J&lt;/b&gt; shifted focus to other oncology assets and next-generation platforms.&lt;/li&gt;
+  &lt;li&gt;&lt;b&gt;MoAs:&lt;/b&gt; Chimeric antigen receptor T-cell therapy targeting CD19&lt;/li&gt;
+  &lt;li&gt;&lt;b&gt;Sources:&lt;/b&gt; &lt;a href="https://www.fiercebiotech.com/biotech/jj-axes-5b-car-t-dream-months-after-touting-best-disease-efficacy"&gt;Fierce Biotech&lt;/a&gt;, &lt;a href="https://endpoints.news/jj-axes-pair-of-car-t-therapies-for-lymphoma-citing-evolving-market/"&gt;Endpoints News&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;</description>
+      <guid isPermaLink="false">3926295b2235c8d5275dd4589a7d36b9</guid>
+      <pubDate>Fri, 01 May 2026 22:01:46 GMT</pubDate>
+    </item>
+    <item>
+      <title>Verastem Ovarian Cancer Campaign</title>
+      <link>https://www.google.com</link>
+      <description>&lt;ul&gt;
+  &lt;li&gt;&lt;b&gt;Summary:&lt;/b&gt; &lt;b&gt;Verastem Oncology&lt;/b&gt; launched the "Reimagine" campaign to move its ovarian cancer drugs &lt;b&gt;avutometinib&lt;/b&gt; and &lt;b&gt;defactinib&lt;/b&gt; into earlier treatment lines. The initiative aims to leverage promising clinical data to shift the standard of care in ovarian cancer.&lt;/li&gt;
+  &lt;li&gt;&lt;b&gt;MoAs:&lt;/b&gt; &lt;b&gt;Avutometinib:&lt;/b&gt; RAF/MEK inhibitor. &lt;b&gt;Defactinib:&lt;/b&gt; FAK inhibitor.&lt;/li&gt;
+  &lt;li&gt;&lt;b&gt;Sources:&lt;/b&gt; &lt;a href='https://www.fiercepharma.com/marketing/verastem-launches-reimagine-campaign-move-ovarian-cancer-drugs-earlier-lines'&gt;Fierce Pharma&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;</description>
+      <guid isPermaLink="false">5b63256dbc5399b95beb5a708e6fb213</guid>
+      <pubDate>Fri, 01 May 2026 22:01:46 GMT</pubDate>
+    </item>
+    <item>
+      <title>Merck Drops SAC-TMT Program</title>
+      <link>https://www.google.com</link>
+      <description>&lt;ul&gt;
+  &lt;li&gt;&lt;b&gt;Summary:&lt;/b&gt; &lt;b&gt;Merck&lt;/b&gt; quietly discontinued its &lt;b&gt;SAC-TMT&lt;/b&gt; antibody-drug conjugate program, a follow-up to other companies' technologies. The decision underscores the competitive challenges in the ADC space and Merck's strategic pipeline pruning.&lt;/li&gt;
+  &lt;li&gt;&lt;b&gt;MoAs:&lt;/b&gt; N/A&lt;/li&gt;
+  &lt;li&gt;&lt;b&gt;Sources:&lt;/b&gt; &lt;a href='https://www.oncologypipeline.com/apexonco/merck-quietly-ditches-its-sac-tmt-copy'&gt;ApexOnco&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;</description>
+      <guid isPermaLink="false">b46b94645eb6867e383e1d9a384bde1b</guid>
+      <pubDate>Fri, 01 May 2026 22:01:46 GMT</pubDate>
     </item>
   </channel>
 </rss>
