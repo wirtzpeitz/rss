@@ -6,26 +6,15 @@
     <description>News digest covering Infectious Disease.</description>
     <atom:link href="https://www.google.com" rel="self" type="application/rss+xml"/>
     <item>
-      <title>Mundipharma/Cormedix Rezzayo</title>
+      <title>Hantavirus outbreak on cruise ship</title>
       <link>https://www.google.com</link>
       <description>&lt;ul&gt;
-  &lt;li&gt;&lt;b&gt;Summary:&lt;/b&gt; &lt;b&gt;Mundipharma&lt;/b&gt; and &lt;b&gt;Cormedix Inc.&lt;/b&gt; reported a positive trial win for &lt;b&gt;Rezzayo&lt;/b&gt; (rezafungin), an echinocandin antifungal therapy. The data support expanding its use in invasive fungal infections. The partnership aims to commercialize Rezzayo across multiple markets.&lt;/li&gt;
-  &lt;li&gt;&lt;b&gt;MoAs:&lt;/b&gt; Rezafungin inhibits beta-glucan synthase, disrupting fungal cell wall synthesis, leading to cell death.&lt;/li&gt;
-  &lt;li&gt;&lt;b&gt;Sources:&lt;/b&gt; &lt;a href='https://www.fiercepharma.com/pharma/trial-win-sets-mundipharma-cormedix-expansion-rezzayo'&gt;Fierce Pharma&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;b&gt;Summary:&lt;/b&gt; An outbreak of &lt;b&gt;hantavirus&lt;/b&gt; has been reported on a cruise ship, raising concerns about transmission in confined settings. The virus, which is spread through rodent droppings, can cause severe respiratory illness. Health authorities are investigating the source and implementing control measures to prevent further spread among passengers and crew.&lt;/li&gt;
+  &lt;li&gt;&lt;b&gt;MoAs:&lt;/b&gt; N/A&lt;/li&gt;
+  &lt;li&gt;&lt;b&gt;Sources:&lt;/b&gt; &lt;a href="https://www.statnews.com/2026/05/04/what-to-know-about-hantavirus-cruise-ship-outbreak/?utm_campaign=rss"&gt;STAT News&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;</description>
-      <guid isPermaLink="false">350ec63fa23e6af65a864723c5efa755</guid>
-      <pubDate>Mon, 27 Apr 2026 22:02:10 GMT</pubDate>
-    </item>
-    <item>
-      <title>Hepatitis B Vaccination Newborns</title>
-      <link>https://www.google.com</link>
-      <description>&lt;ul&gt;
-  &lt;li&gt;&lt;b&gt;Summary:&lt;/b&gt; Studies published in JAMA examine the effectiveness and safety of hepatitis B vaccination in newborns. The research provides updated data on the immune response and long-term protection offered by the vaccine, reinforcing its importance in preventing perinatal transmission of hepatitis B virus.&lt;/li&gt;
-  &lt;li&gt;&lt;b&gt;MoAs:&lt;/b&gt; Hepatitis B vaccine (recombinant) - induces neutralizing antibodies against hepatitis B surface antigen (HBsAg).&lt;/li&gt;
-  &lt;li&gt;&lt;b&gt;Sources:&lt;/b&gt; &lt;a href='https://www.statnews.com/2026/04/27/jama-studies-hepatitis-b-vaccination-newborns/?utm_campaign=rss'&gt;STAT News&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;</description>
-      <guid isPermaLink="false">9842a80f5eb674937f0e073506f28ff9</guid>
-      <pubDate>Mon, 27 Apr 2026 22:02:10 GMT</pubDate>
+      <guid isPermaLink="false">7f84cf6fe1bc2fa462eaddb767a929d1</guid>
+      <pubDate>Mon, 04 May 2026 22:03:01 GMT</pubDate>
     </item>
   </channel>
 </rss>
