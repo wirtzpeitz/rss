@@ -6,26 +6,15 @@
     <description>News digest covering Neurology.</description>
     <atom:link href="https://www.google.com" rel="self" type="application/rss+xml"/>
     <item>
-      <title>Axsome Auvelity FDA Approval for Alzheimer's Agitation</title>
+      <title>Latus Bio Huntington's gene therapy startup</title>
       <link>https://www.google.com</link>
       <description>&lt;ul&gt;
-  &lt;li&gt;&lt;b&gt;Summary:&lt;/b&gt; The FDA approved &lt;b&gt;Axsome Therapeutics&lt;/b&gt;' &lt;b&gt;Auvelity&lt;/b&gt; (dextromethorphan/bupropion) for the treatment of agitation associated with Alzheimer's disease. This is the first non-antipsychotic drug approved for Alzheimer's agitation, offering a new option for a condition often treated off-label with antipsychotics. The approval was supported by data from the ADVANCE-1 and other trials showing significant reduction in agitation symptoms. &lt;b&gt;Auvelity&lt;/b&gt; previously received approval for major depressive disorder. The Alzheimer's label is expected to significantly expand the drug's market.&lt;/li&gt;
-  &lt;li&gt;&lt;b&gt;MoAs:&lt;/b&gt; Dextromethorphan: NMDA receptor antagonist and sigma-1 receptor agonist; Bupropion: norepinephrine and dopamine reuptake inhibitor&lt;/li&gt;
-  &lt;li&gt;&lt;b&gt;Sources:&lt;/b&gt; &lt;a href="https://www.fiercepharma.com/pharma/look-out-rexulti-here-comes-axsome-alzheimers-agitation-fda-nod-auvelity"&gt;Fierce Pharma&lt;/a&gt;, &lt;a href="https://www.statnews.com/2026/05/01/biotech-news-axsome-wins-fda-nod-for-alzheimers-agitation/?utm_campaign=rss"&gt;STAT News&lt;/a&gt;, &lt;a href="https://www.biospace.com/fda/axsome-wins-first-non-antipsychotic-fda-approval-for-alzheimers-agitation"&gt;BioSpace&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;b&gt;Summary:&lt;/b&gt; &lt;b&gt;Latus Bio&lt;/b&gt; launched with $42 million in financing to advance its gene therapy candidate for &lt;b&gt;Huntington's disease&lt;/b&gt;, aiming for a one-time treatment targeting the genetic cause.&lt;/li&gt;
+  &lt;li&gt;&lt;b&gt;MoAs:&lt;/b&gt; Gene therapy delivering a therapeutic transgene (e.g., microRNA to silence mutant huntingtin or CRISPR-based editing)&lt;/li&gt;
+  &lt;li&gt;&lt;b&gt;Sources:&lt;/b&gt; &lt;a href="https://www.biopharmadive.com/news/latus-huntington-gene-therapy-cln2-biotech-startup/819174/"&gt;BioPharma Dive&lt;/a&gt;, &lt;a href="https://www.statnews.com/2026/05/04/biotech-startup-latus-bio-raises-42-million-run-huntingtons-trial/?utm_campaign=rss"&gt;STAT News&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;</description>
-      <guid isPermaLink="false">e225ed7bc30f53d63558aefc79726921</guid>
-      <pubDate>Fri, 01 May 2026 22:01:46 GMT</pubDate>
-    </item>
-    <item>
-      <title>Corcept ALS Drug Data</title>
-      <link>https://www.google.com</link>
-      <description>&lt;ul&gt;
-  &lt;li&gt;&lt;b&gt;Summary:&lt;/b&gt; &lt;b&gt;Corcept Therapeutics&lt;/b&gt; reported improved two-year survival data for its investigational ALS drug, signaling potential efficacy in this devastating neurodegenerative disease. The company is nearing initiation of a Phase 3 trial based on these promising results.&lt;/li&gt;
-  &lt;li&gt;&lt;b&gt;MoAs:&lt;/b&gt; N/A&lt;/li&gt;
-  &lt;li&gt;&lt;b&gt;Sources:&lt;/b&gt; &lt;a href='https://www.biospace.com/drug-development/corcept-ties-als-drug-to-improved-2-year-survival-as-phase-3-start-date-nears'&gt;BioSpace&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;</description>
-      <guid isPermaLink="false">cb03966e1bd56965e376671378c686ee</guid>
-      <pubDate>Fri, 01 May 2026 22:01:46 GMT</pubDate>
+      <guid isPermaLink="false">b465defd9565bf65037bf23fefc1455b</guid>
+      <pubDate>Mon, 04 May 2026 22:03:01 GMT</pubDate>
     </item>
   </channel>
 </rss>
