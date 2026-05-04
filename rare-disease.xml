@@ -6,26 +6,37 @@
     <description>News digest covering Rare Disease.</description>
     <atom:link href="https://www.google.com" rel="self" type="application/rss+xml"/>
     <item>
-      <title>Intellia CRISPR Therapy</title>
+      <title>Vertex drops inhaled CF candidate</title>
       <link>https://www.google.com</link>
       <description>&lt;ul&gt;
-  &lt;li&gt;&lt;b&gt;Summary:&lt;/b&gt; &lt;b&gt;Intellia Therapeutics&lt;/b&gt; reported a landmark Phase 3 success for its &lt;b&gt;in vivo CRISPR therapy&lt;/b&gt; (&lt;b&gt;NTLA-2002&lt;/b&gt;) in &lt;b&gt;hereditary angioedema&lt;/b&gt; (HAE), marking the first late-stage win for an in vivo gene editor. The data showed significant reduction in attack rates, leading to plans for FDA submission. The company also announced a partnership with &lt;b&gt;Eli Lilly&lt;/b&gt; to develop the therapy, further validating the platform. Analysts view this as a pivotal moment for CRISPR-based medicines.&lt;/li&gt;
-  &lt;li&gt;&lt;b&gt;MoAs:&lt;/b&gt; In vivo CRISPR/Cas9 gene editing to knock out the &lt;i&gt;KLKB1&lt;/i&gt; gene, reducing prekallikrein levels and bradykinin production, thereby preventing HAE attacks.&lt;/li&gt;
-  &lt;li&gt;&lt;b&gt;Sources:&lt;/b&gt; &lt;a href='https://endpoints.news/qa-intellia-ceo-talks-first-phase-3-crispr-readout-and-whats-next/'&gt;Endpoints News&lt;/a&gt;, &lt;a href='https://www.biopharmadive.com/news/intellia-gene-editing-hereditary-angioedema-lonvo-z-results/818503/'&gt;BioPharma Dive&lt;/a&gt;, &lt;a href='https://www.fiercebiotech.com/biotech/intellia-races-vivo-crispr-therapy-fda-after-phase-3-data-paint-compelling-picture'&gt;Fierce Biotech&lt;/a&gt;, &lt;a href='https://www.biospace.com/drug-development/intellia-heads-to-fda-after-notching-first-late-stage-win-for-in-vivo-gene-editor'&gt;BioSpace&lt;/a&gt;, &lt;a href='https://www.statnews.com/pharmalot/2026/04/27/lilly-deal-intellia-crispr-treatment-for-rare-disease/?utm_campaign=rss'&gt;STAT News&lt;/a&gt;, &lt;a href='https://www.statnews.com/2026/04/27/intellia-therapeutics-phase-3-trial-hereditary-angioedema-crispr-treatment/?utm_campaign=rss'&gt;STAT News&lt;/a&gt;, &lt;a href='https://endpoints.news/intellias-in-vivo-crispr-therapy-first-to-succeed-in-phase-3/'&gt;Endpoints News&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;b&gt;Summary:&lt;/b&gt; &lt;b&gt;Vertex Pharmaceuticals&lt;/b&gt; discontinued its inhaled cystic fibrosis (CF) candidate, developed in partnership with &lt;b&gt;Moderna&lt;/b&gt;, after unresolved issues. The inhaled mRNA therapy aimed to correct the underlying CFTR defect.&lt;/li&gt;
+  &lt;li&gt;&lt;b&gt;MoAs:&lt;/b&gt; mRNA therapy encoding CFTR protein&lt;/li&gt;
+  &lt;li&gt;&lt;b&gt;Sources:&lt;/b&gt; &lt;a href="https://www.fiercebiotech.com/biotech/vertex-drops-moderna-partnered-inhaled-cystic-fibrosis-candidate-after-unresolved"&gt;Fierce Biotech&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;</description>
-      <guid isPermaLink="false">21c17c025bc21a868b4df3f5420e5836</guid>
-      <pubDate>Mon, 27 Apr 2026 22:02:10 GMT</pubDate>
+      <guid isPermaLink="false">b9503aac726190cd53da6a438e265df2</guid>
+      <pubDate>Mon, 04 May 2026 22:03:01 GMT</pubDate>
     </item>
     <item>
-      <title>Gene Therapy Regulatory Models for Baby KJs</title>
+      <title>Passage Bio strategic review and layoffs after FDA setback</title>
       <link>https://www.google.com</link>
       <description>&lt;ul&gt;
-  &lt;li&gt;&lt;b&gt;Summary:&lt;/b&gt; Gene therapy leaders are proposing novel regulatory models to help children with Krabbe disease (often referred to as 'Baby KJs') gain faster access to potentially life-saving gene therapies. The initiative aims to streamline development and approval pathways for these targeted treatments, addressing the urgent need for therapies in this rare and devastating condition.&lt;/li&gt;
-  &lt;li&gt;&lt;b&gt;MoAs:&lt;/b&gt; Gene replacement therapy for galactocerebrosidase (GALC) deficiency (mechanism not specified if using AAV or other vector).&lt;/li&gt;
-  &lt;li&gt;&lt;b&gt;Sources:&lt;/b&gt; &lt;a href='https://www.biospace.com/drug-development/gene-therapy-leaders-aim-to-help-more-baby-kjs-with-novel-regulatory-models'&gt;BioSpace&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;b&gt;Summary:&lt;/b&gt; &lt;b&gt;Passage Bio&lt;/b&gt; initiated a strategic review and 75% workforce reduction after the &lt;b&gt;FDA&lt;/b&gt; blocked the clinical path for its gene therapy candidate (PBGM01 for GM1 gangliosidosis), requesting a different trial design.&lt;/li&gt;
+  &lt;li&gt;&lt;b&gt;MoAs:&lt;/b&gt; Gene therapy delivering functional beta-galactosidase enzyme&lt;/li&gt;
+  &lt;li&gt;&lt;b&gt;Sources:&lt;/b&gt; &lt;a href="https://www.fiercebiotech.com/biotech/passage-launches-strategic-review-and-75-layoffs-after-gene-therapy-path-blocked-fda"&gt;Fierce Biotech&lt;/a&gt;, &lt;a href="https://www.biospace.com/job-trends/passage-cuts-75-of-workforce-after-fda-trial-design-request"&gt;BioSpace&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;</description>
-      <guid isPermaLink="false">49ec1237149ee1436d2d9cfc895b16bb</guid>
-      <pubDate>Mon, 27 Apr 2026 22:02:10 GMT</pubDate>
+      <guid isPermaLink="false">8685e51c4553a5ce37340c8c8d744c1d</guid>
+      <pubDate>Mon, 04 May 2026 22:03:01 GMT</pubDate>
+    </item>
+    <item>
+      <title>Mirum anti-itch candidate Phase 2 win</title>
+      <link>https://www.google.com</link>
+      <description>&lt;ul&gt;
+  &lt;li&gt;&lt;b&gt;Summary:&lt;/b&gt; &lt;b&gt;Mirum Pharmaceuticals&lt;/b&gt; reported positive Phase 2 results for its anti-itch candidate, being developed for pruritus associated with cholestatic liver diseases. The company plans to map an FDA path forward.&lt;/li&gt;
+  &lt;li&gt;&lt;b&gt;MoAs:&lt;/b&gt; N/A&lt;/li&gt;
+  &lt;li&gt;&lt;b&gt;Sources:&lt;/b&gt; &lt;a href="https://www.fiercebiotech.com/biotech/mirum-maps-fda-path-after-anti-itch-candidate-scores-ph-2-win"&gt;Fierce Biotech&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;</description>
+      <guid isPermaLink="false">42e348792d5dd5cc37e3619d3a6e93f5</guid>
+      <pubDate>Mon, 04 May 2026 22:03:01 GMT</pubDate>
     </item>
   </channel>
 </rss>
