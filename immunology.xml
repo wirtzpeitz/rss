@@ -6,26 +6,26 @@
     <description>News digest covering Immunology.</description>
     <atom:link href="https://www.google.com" rel="self" type="application/rss+xml"/>
     <item>
-      <title>AbbVie Skyrizi</title>
+      <title>Takeda PID asset Phase 2 win</title>
       <link>https://www.google.com</link>
       <description>&lt;ul&gt;
-  &lt;li&gt;&lt;b&gt;Summary:&lt;/b&gt; AbbVie outlined a defense strategy for its immunology blockbuster Skyrizi (risankizumab) against new competition from J&amp;J. Skyrizi, an IL-23 inhibitor, has been a key growth driver for AbbVie, and the company is positioning it strongly as rivals enter the IL-23 space.&lt;/li&gt;
-  &lt;li&gt;&lt;b&gt;MoAs:&lt;/b&gt; Skyrizi (risankizumab): Humanized monoclonal antibody that binds to the p19 subunit of interleukin-23 (IL-23) and inhibits IL-23 receptor interaction&lt;/li&gt;
-  &lt;li&gt;&lt;b&gt;Sources:&lt;/b&gt; &lt;a href="https://www.fiercepharma.com/pharma/abbvie-outlines-immunology-superstar-skyrizis-defense-against-new-jj-competition-icotyde"&gt;Fierce Pharma&lt;/a&gt;, &lt;a href="https://endpoints.news/abbvie-faces-questions-about-skyrizi-competition-from-jj/"&gt;Endpoints News&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;b&gt;Summary:&lt;/b&gt; &lt;b&gt;Takeda&lt;/b&gt; announced positive Phase 2 results for its investigational primary immunodeficiency (PID) therapy, demonstrating improved convenience compared to &lt;b&gt;HyQvia&lt;/b&gt;. The asset, a subcutaneous immunoglobulin, showed non-inferior efficacy with fewer infusion sites and shorter administration times, potentially offering a more patient-friendly option for PID patients.&lt;/li&gt;
+  &lt;li&gt;&lt;b&gt;MoAs:&lt;/b&gt; Immunoglobulin replacement therapy; provides passive immunity through subcutaneous administration of polyclonal antibodies.&lt;/li&gt;
+  &lt;li&gt;&lt;b&gt;Sources:&lt;/b&gt; &lt;a href="https://www.fiercebiotech.com/biotech/takeda-asset-improves-convenience-pid-patients-relative-hyqvia-phase-2-win"&gt;Fierce Biotech&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;</description>
-      <guid isPermaLink="false">90b45cbe2e554c2d523f6415dfb9967b</guid>
-      <pubDate>Wed, 29 Apr 2026 22:03:25 GMT</pubDate>
+      <guid isPermaLink="false">3b339eb19d7118e0b1280a0a426a5ea0</guid>
+      <pubDate>Mon, 04 May 2026 22:03:01 GMT</pubDate>
     </item>
     <item>
-      <title>AstraZeneca FLAP Inhibitor Phase 2 Failure</title>
+      <title>Windward Bio long-acting TSLP antibody funding</title>
       <link>https://www.google.com</link>
       <description>&lt;ul&gt;
-  &lt;li&gt;&lt;b&gt;Summary:&lt;/b&gt; &lt;b&gt;AstraZeneca&lt;/b&gt; discontinued development of its FLAP inhibitor after the drug failed to meet endpoints in a Phase 2 asthma trial.&lt;/li&gt;
-  &lt;li&gt;&lt;b&gt;MoAs:&lt;/b&gt; 5-lipoxygenase activating protein inhibitor; reduces leukotriene synthesis&lt;/li&gt;
-  &lt;li&gt;&lt;b&gt;Sources:&lt;/b&gt; &lt;a href="https://www.fiercebiotech.com/biotech/astrazeneca-scraps-flap-inhibitor-flunked-phase-2-asthma-trial"&gt;FierceBiotech&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;b&gt;Summary:&lt;/b&gt; &lt;b&gt;Windward Bio&lt;/b&gt; raised $165 million in Series B financing to support the Phase 3 development of a long-acting anti-&lt;b&gt;TSLP&lt;/b&gt; antibody for asthma. The drug, derived from a Chinese biotech, is designed to require less frequent dosing. The funding round was led by new and existing investors, positioning Windward Bio to compete in the respiratory biologics market.&lt;/li&gt;
+  &lt;li&gt;&lt;b&gt;MoAs:&lt;/b&gt; TSLP antagonist; inhibits thymic stromal lymphopoietin, a key cytokine in type 2 inflammation, thereby reducing asthma exacerbations.&lt;/li&gt;
+  &lt;li&gt;&lt;b&gt;Sources:&lt;/b&gt; &lt;a href="https://www.fiercebiotech.com/biotech/windward-catches-165m-breeze-fuel-long-acting-tslp-ambitions"&gt;Fierce Biotech&lt;/a&gt;, &lt;a href="https://endpoints.news/windward-bio-gets-165m-to-take-china-derived-drug-into-phase-3-asthma-trial/"&gt;Endpoints News&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;</description>
-      <guid isPermaLink="false">7dc1ef33854b03f68590f0d6712d1dfa</guid>
-      <pubDate>Wed, 29 Apr 2026 22:03:25 GMT</pubDate>
+      <guid isPermaLink="false">87bfce78908a36032230f04444e83cb7</guid>
+      <pubDate>Mon, 04 May 2026 22:03:01 GMT</pubDate>
     </item>
   </channel>
 </rss>
