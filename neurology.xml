@@ -6,15 +6,48 @@
     <description>News digest covering Neurology.</description>
     <atom:link href="https://www.google.com" rel="self" type="application/rss+xml"/>
     <item>
-      <title>Latus Bio Huntington's gene therapy startup</title>
+      <title>Axsome Auvelity Alzheimer's Agitation</title>
       <link>https://www.google.com</link>
       <description>&lt;ul&gt;
-  &lt;li&gt;&lt;b&gt;Summary:&lt;/b&gt; &lt;b&gt;Latus Bio&lt;/b&gt; launched with $42 million in financing to advance its gene therapy candidate for &lt;b&gt;Huntington's disease&lt;/b&gt;, aiming for a one-time treatment targeting the genetic cause.&lt;/li&gt;
-  &lt;li&gt;&lt;b&gt;MoAs:&lt;/b&gt; Gene therapy delivering a therapeutic transgene (e.g., microRNA to silence mutant huntingtin or CRISPR-based editing)&lt;/li&gt;
-  &lt;li&gt;&lt;b&gt;Sources:&lt;/b&gt; &lt;a href="https://www.biopharmadive.com/news/latus-huntington-gene-therapy-cln2-biotech-startup/819174/"&gt;BioPharma Dive&lt;/a&gt;, &lt;a href="https://www.statnews.com/2026/05/04/biotech-startup-latus-bio-raises-42-million-run-huntingtons-trial/?utm_campaign=rss"&gt;STAT News&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;b&gt;Summary:&lt;/b&gt; &lt;b&gt;Axsome Therapeutics&lt;/b&gt; received FDA approval for &lt;b&gt;Auvelity&lt;/b&gt; (dextromethorphan/bupropion) to treat agitation in patients with Alzheimer's disease. Following this nod, the company raised its peak‑year sales forecast for the drug to $8 billion. Auvelity is already approved for major depressive disorder, and this label expansion addresses a significant unmet need in Alzheimer's behavioral symptoms.&lt;/li&gt;
+  &lt;li&gt;&lt;b&gt;MoAs:&lt;/b&gt; Dextromethorphan: NMDA receptor antagonist and sigma‑1 receptor agonist; bupropion: norepinephrine‑dopamine reuptake inhibitor&lt;/li&gt;
+  &lt;li&gt;&lt;b&gt;Sources:&lt;/b&gt; &lt;a href='https://www.fiercepharma.com/pharma/after-alzheimers-agitation-nod-axsome-jacks-auvelitys-peak-sales-projection-8b'&gt;Fierce Pharma&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;</description>
-      <guid isPermaLink="false">b465defd9565bf65037bf23fefc1455b</guid>
-      <pubDate>Mon, 04 May 2026 22:03:01 GMT</pubDate>
+      <guid isPermaLink="false">cbef5fbaeb9531689bc4dc2e73c5529b</guid>
+      <pubDate>Tue, 05 May 2026 22:03:06 GMT</pubDate>
+    </item>
+    <item>
+      <title>Neurocrine Movement Disorder Diagnosis</title>
+      <link>https://www.google.com</link>
+      <description>&lt;ul&gt;
+  &lt;li&gt;&lt;b&gt;Summary:&lt;/b&gt; Neurocrine Biosciences highlights work disruption data to make a case for timely diagnosis of movement disorders, likely referring to tardive dyskinesia or other conditions.&lt;/li&gt;
+  &lt;li&gt;&lt;b&gt;MoAs:&lt;/b&gt; N/A&lt;/li&gt;
+  &lt;li&gt;&lt;b&gt;Sources:&lt;/b&gt; &lt;a href='https://www.fiercepharma.com/marketing/neurocrine-cites-work-disruption-data-make-case-timely-movement-disorder-diagnosis'&gt;Fierce Pharma&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;</description>
+      <guid isPermaLink="false">0cd59b161c53378735defaca0b4105f7</guid>
+      <pubDate>Tue, 05 May 2026 22:03:06 GMT</pubDate>
+    </item>
+    <item>
+      <title>Quralis ALS Phase 2 Data</title>
+      <link>https://www.google.com</link>
+      <description>&lt;ul&gt;
+  &lt;li&gt;&lt;b&gt;Summary:&lt;/b&gt; Quralis releases Phase 2 data that bolsters the case for a genetic approach to treating sporadic ALS, suggesting targeting specific genetic pathways.&lt;/li&gt;
+  &lt;li&gt;&lt;b&gt;MoAs:&lt;/b&gt; Investigational therapy targeting genetic factors in ALS, potentially reducing TDP-43 pathology.&lt;/li&gt;
+  &lt;li&gt;&lt;b&gt;Sources:&lt;/b&gt; &lt;a href='https://www.biospace.com/drug-development/quralis-phase-2-data-bolster-case-for-genetic-approach-to-sporadic-als'&gt;BioSpace&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;</description>
+      <guid isPermaLink="false">b1f316b3cbba06bc45c6bcf9c3d8d788</guid>
+      <pubDate>Tue, 05 May 2026 22:03:06 GMT</pubDate>
+    </item>
+    <item>
+      <title>Sertraline Recall UK</title>
+      <link>https://www.google.com</link>
+      <description>&lt;ul&gt;
+  &lt;li&gt;&lt;b&gt;Summary:&lt;/b&gt; A manufacturer recalled a batch of the antidepressant sertraline (Zoloft) in the UK due to a packaging mix-up. The recall was precautionary, and no adverse events were reported. Sertraline is a commonly prescribed SSRI.&lt;/li&gt;
+  &lt;li&gt;&lt;b&gt;MoAs:&lt;/b&gt; Selective serotonin reuptake inhibitor (SSRI)&lt;/li&gt;
+  &lt;li&gt;&lt;b&gt;Sources:&lt;/b&gt; &lt;a href="https://www.biospace.com/business/sertraline-manufacturer-recalls-antidepressant-batch-after-uk-packaging-mix-up"&gt;BioSpace&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;</description>
+      <guid isPermaLink="false">f51a190cb21c8541e476082d33229c6d</guid>
+      <pubDate>Tue, 05 May 2026 22:03:06 GMT</pubDate>
     </item>
   </channel>
 </rss>
