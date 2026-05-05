@@ -6,37 +6,26 @@
     <description>News digest covering Rare Disease.</description>
     <atom:link href="https://www.google.com" rel="self" type="application/rss+xml"/>
     <item>
-      <title>Vertex drops inhaled CF candidate</title>
+      <title>Takeda Gene Therapy Phase 2/3 Win</title>
       <link>https://www.google.com</link>
       <description>&lt;ul&gt;
-  &lt;li&gt;&lt;b&gt;Summary:&lt;/b&gt; &lt;b&gt;Vertex Pharmaceuticals&lt;/b&gt; discontinued its inhaled cystic fibrosis (CF) candidate, developed in partnership with &lt;b&gt;Moderna&lt;/b&gt;, after unresolved issues. The inhaled mRNA therapy aimed to correct the underlying CFTR defect.&lt;/li&gt;
-  &lt;li&gt;&lt;b&gt;MoAs:&lt;/b&gt; mRNA therapy encoding CFTR protein&lt;/li&gt;
-  &lt;li&gt;&lt;b&gt;Sources:&lt;/b&gt; &lt;a href="https://www.fiercebiotech.com/biotech/vertex-drops-moderna-partnered-inhaled-cystic-fibrosis-candidate-after-unresolved"&gt;Fierce Biotech&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;b&gt;Summary:&lt;/b&gt; Takeda's gene therapy program achieves positive Phase 2/3 results, providing a second life for the therapy. The win also highlights UK cancer biotechs' funding.&lt;/li&gt;
+  &lt;li&gt;&lt;b&gt;MoAs:&lt;/b&gt; Gene therapy - delivery of a functional gene to correct genetic defects.&lt;/li&gt;
+  &lt;li&gt;&lt;b&gt;Sources:&lt;/b&gt; &lt;a href='https://endpoints.news/second-life-for-gene-therapy-takeda-phase-2-3-win-uk-cancer-biotechs-83m/'&gt;Endpoints News&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;</description>
-      <guid isPermaLink="false">b9503aac726190cd53da6a438e265df2</guid>
-      <pubDate>Mon, 04 May 2026 22:03:01 GMT</pubDate>
+      <guid isPermaLink="false">9bfeb324a3eab71dcf1ecdc6f20f1c45</guid>
+      <pubDate>Tue, 05 May 2026 22:03:06 GMT</pubDate>
     </item>
     <item>
-      <title>Passage Bio strategic review and layoffs after FDA setback</title>
+      <title>IPF Fibrosis Investor Interest</title>
       <link>https://www.google.com</link>
       <description>&lt;ul&gt;
-  &lt;li&gt;&lt;b&gt;Summary:&lt;/b&gt; &lt;b&gt;Passage Bio&lt;/b&gt; initiated a strategic review and 75% workforce reduction after the &lt;b&gt;FDA&lt;/b&gt; blocked the clinical path for its gene therapy candidate (PBGM01 for GM1 gangliosidosis), requesting a different trial design.&lt;/li&gt;
-  &lt;li&gt;&lt;b&gt;MoAs:&lt;/b&gt; Gene therapy delivering functional beta-galactosidase enzyme&lt;/li&gt;
-  &lt;li&gt;&lt;b&gt;Sources:&lt;/b&gt; &lt;a href="https://www.fiercebiotech.com/biotech/passage-launches-strategic-review-and-75-layoffs-after-gene-therapy-path-blocked-fda"&gt;Fierce Biotech&lt;/a&gt;, &lt;a href="https://www.biospace.com/job-trends/passage-cuts-75-of-workforce-after-fda-trial-design-request"&gt;BioSpace&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;</description>
-      <guid isPermaLink="false">8685e51c4553a5ce37340c8c8d744c1d</guid>
-      <pubDate>Mon, 04 May 2026 22:03:01 GMT</pubDate>
-    </item>
-    <item>
-      <title>Mirum anti-itch candidate Phase 2 win</title>
-      <link>https://www.google.com</link>
-      <description>&lt;ul&gt;
-  &lt;li&gt;&lt;b&gt;Summary:&lt;/b&gt; &lt;b&gt;Mirum Pharmaceuticals&lt;/b&gt; reported positive Phase 2 results for its anti-itch candidate, being developed for pruritus associated with cholestatic liver diseases. The company plans to map an FDA path forward.&lt;/li&gt;
+  &lt;li&gt;&lt;b&gt;Summary:&lt;/b&gt; Idiopathic pulmonary fibrosis (IPF) is attracting increased investor interest as multiple biotechs develop novel therapies aimed at halting fibrosis progression while improving tolerability. Current treatments have limited efficacy and side effects, creating a need for better options.&lt;/li&gt;
   &lt;li&gt;&lt;b&gt;MoAs:&lt;/b&gt; N/A&lt;/li&gt;
-  &lt;li&gt;&lt;b&gt;Sources:&lt;/b&gt; &lt;a href="https://www.fiercebiotech.com/biotech/mirum-maps-fda-path-after-anti-itch-candidate-scores-ph-2-win"&gt;Fierce Biotech&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;b&gt;Sources:&lt;/b&gt; &lt;a href="https://www.biospace.com/drug-development/ipf-draws-investor-heat-as-biotechs-target-fibrosis-halt-better-tolerability"&gt;BioSpace&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;</description>
-      <guid isPermaLink="false">42e348792d5dd5cc37e3619d3a6e93f5</guid>
-      <pubDate>Mon, 04 May 2026 22:03:01 GMT</pubDate>
+      <guid isPermaLink="false">1189f23de75eaead3cde917cbd33a8b5</guid>
+      <pubDate>Tue, 05 May 2026 22:03:06 GMT</pubDate>
     </item>
   </channel>
 </rss>
