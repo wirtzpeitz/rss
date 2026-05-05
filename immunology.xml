@@ -6,26 +6,15 @@
     <description>News digest covering Immunology.</description>
     <atom:link href="https://www.google.com" rel="self" type="application/rss+xml"/>
     <item>
-      <title>Takeda PID asset Phase 2 win</title>
+      <title>J&amp;J IBD Combo Failure</title>
       <link>https://www.google.com</link>
       <description>&lt;ul&gt;
-  &lt;li&gt;&lt;b&gt;Summary:&lt;/b&gt; &lt;b&gt;Takeda&lt;/b&gt; announced positive Phase 2 results for its investigational primary immunodeficiency (PID) therapy, demonstrating improved convenience compared to &lt;b&gt;HyQvia&lt;/b&gt;. The asset, a subcutaneous immunoglobulin, showed non-inferior efficacy with fewer infusion sites and shorter administration times, potentially offering a more patient-friendly option for PID patients.&lt;/li&gt;
-  &lt;li&gt;&lt;b&gt;MoAs:&lt;/b&gt; Immunoglobulin replacement therapy; provides passive immunity through subcutaneous administration of polyclonal antibodies.&lt;/li&gt;
-  &lt;li&gt;&lt;b&gt;Sources:&lt;/b&gt; &lt;a href="https://www.fiercebiotech.com/biotech/takeda-asset-improves-convenience-pid-patients-relative-hyqvia-phase-2-win"&gt;Fierce Biotech&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;b&gt;Summary:&lt;/b&gt; &lt;b&gt;Johnson &amp; Johnson&lt;/b&gt; announced that its experimental combination therapy for inflammatory bowel disease (&lt;b&gt;IBD&lt;/b&gt;) failed to show meaningful improvement over placebo in two Phase 2 studies. Despite the miss, the company plans to advance the regimen into pivotal trials. The combination involved &lt;b&gt;J&amp;J&lt;/b&gt;'s anti‑IL‑23 antibody &lt;b&gt;guselkumab&lt;/b&gt; and an investigational agent, underscoring the challenges of achieving synergy in autoimmune disease.&lt;/li&gt;
+  &lt;li&gt;&lt;b&gt;MoAs:&lt;/b&gt; Anti‑IL‑23 monoclonal antibody combined with an additional targeted mechanism&lt;/li&gt;
+  &lt;li&gt;&lt;b&gt;Sources:&lt;/b&gt; &lt;a href='https://endpoints.news/jjs-ibd-combo-fails-phase-2-studies-but-will-move-into-pivotal-testing/'&gt;Endpoints News&lt;/a&gt;, &lt;a href='https://www.statnews.com/2026/05/05/johnson-and-johnson-ibd-therapy-no-meaningful-improvement/'&gt;STAT News&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;</description>
-      <guid isPermaLink="false">3b339eb19d7118e0b1280a0a426a5ea0</guid>
-      <pubDate>Mon, 04 May 2026 22:03:01 GMT</pubDate>
-    </item>
-    <item>
-      <title>Windward Bio long-acting TSLP antibody funding</title>
-      <link>https://www.google.com</link>
-      <description>&lt;ul&gt;
-  &lt;li&gt;&lt;b&gt;Summary:&lt;/b&gt; &lt;b&gt;Windward Bio&lt;/b&gt; raised $165 million in Series B financing to support the Phase 3 development of a long-acting anti-&lt;b&gt;TSLP&lt;/b&gt; antibody for asthma. The drug, derived from a Chinese biotech, is designed to require less frequent dosing. The funding round was led by new and existing investors, positioning Windward Bio to compete in the respiratory biologics market.&lt;/li&gt;
-  &lt;li&gt;&lt;b&gt;MoAs:&lt;/b&gt; TSLP antagonist; inhibits thymic stromal lymphopoietin, a key cytokine in type 2 inflammation, thereby reducing asthma exacerbations.&lt;/li&gt;
-  &lt;li&gt;&lt;b&gt;Sources:&lt;/b&gt; &lt;a href="https://www.fiercebiotech.com/biotech/windward-catches-165m-breeze-fuel-long-acting-tslp-ambitions"&gt;Fierce Biotech&lt;/a&gt;, &lt;a href="https://endpoints.news/windward-bio-gets-165m-to-take-china-derived-drug-into-phase-3-asthma-trial/"&gt;Endpoints News&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;</description>
-      <guid isPermaLink="false">87bfce78908a36032230f04444e83cb7</guid>
-      <pubDate>Mon, 04 May 2026 22:03:01 GMT</pubDate>
+      <guid isPermaLink="false">d39447355d61127eba53486f0f60516d</guid>
+      <pubDate>Tue, 05 May 2026 22:03:06 GMT</pubDate>
     </item>
   </channel>
 </rss>
