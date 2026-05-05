@@ -6,15 +6,26 @@
     <description>News digest covering Cardio-Renal-Metabolic.</description>
     <atom:link href="https://www.google.com" rel="self" type="application/rss+xml"/>
     <item>
-      <title>Amgen Obesity Trials &amp; Maritide</title>
+      <title>Cytokinetics Aficamten (MyQorzo) nHCM Trial</title>
       <link>https://www.google.com</link>
       <description>&lt;ul&gt;
-  &lt;li&gt;&lt;b&gt;Summary:&lt;/b&gt; &lt;b&gt;Amgen&lt;/b&gt; has initiated a late-stage obesity trial for its investigational drug &lt;b&gt;Maritide&lt;/b&gt; (AMG 133), specifically designed for patients who switch from rival GLP-1 receptor agonist therapies. The trial aims to demonstrate superior weight loss or metabolic benefits versus switching to another drug. &lt;b&gt;Amgen&lt;/b&gt; is positioning &lt;b&gt;Maritide&lt;/b&gt; as a potential best-in-class monthly obesity treatment, leveraging its dual mechanism of action. The company also presented data supporting improved tolerability and compliance over daily injections.&lt;/li&gt;
-  &lt;li&gt;&lt;b&gt;MoAs:&lt;/b&gt; GLP-1 receptor agonist and GIP receptor antagonist&lt;/li&gt;
-  &lt;li&gt;&lt;b&gt;Sources:&lt;/b&gt; &lt;a href="https://endpoints.news/amgen-launches-late-stage-obesity-trial-in-patients-who-switch-from-rival-drugs/"&gt;Endpoints News&lt;/a&gt;, &lt;a href="https://www.biospace.com/business/amgen-positions-maritide-as-potential-best-monthly-obesity-drug"&gt;BioSpace&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;b&gt;Summary:&lt;/b&gt; &lt;b&gt;Cytokinetics&lt;/b&gt; announced positive results from the &lt;b&gt;ACACIA&lt;/b&gt; Phase 3 trial of &lt;b&gt;aficamten&lt;/b&gt; (brand name &lt;b&gt;MyQorzo&lt;/b&gt;) in patients with non‑obstructive hypertrophic cardiomyopathy (&lt;b&gt;nHCM&lt;/b&gt;). The drug met the primary endpoint, succeeding where &lt;b&gt;Bristol Myers Squibb&lt;/b&gt;'s mavacamten failed. Aficamten is a cardiac myosin inhibitor designed to reduce hypercontractility and improve symptoms, and these data support a regulatory filing for nHCM.&lt;/li&gt;
+  &lt;li&gt;&lt;b&gt;MoAs:&lt;/b&gt; Cardiac myosin inhibitor (reduces actin‑myosin cross‑bridge formation)&lt;/li&gt;
+  &lt;li&gt;&lt;b&gt;Sources:&lt;/b&gt; &lt;a href='https://www.biopharmadive.com/news/cytokinetics-aficamten-acacia-results-non-obstructive-hypertrophic-cardiomyopathy/819266/'&gt;BioPharma Dive&lt;/a&gt;, &lt;a href='https://endpoints.news/cytokinetics-succeeds-where-bristol-myers-failed-in-heart-muscle-disease/'&gt;Endpoints News&lt;/a&gt;, &lt;a href='https://www.statnews.com/2026/05/05/cytokinetics-myqorzo-non-obstructive-hypertrophic-cardiomyopathy-trial/'&gt;STAT News&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;</description>
-      <guid isPermaLink="false">aaa941fe8ee925d15f44341623bfe7d0</guid>
-      <pubDate>Fri, 01 May 2026 22:01:46 GMT</pubDate>
+      <guid isPermaLink="false">8c361126bf194427342378089be84de4</guid>
+      <pubDate>Tue, 05 May 2026 22:03:06 GMT</pubDate>
+    </item>
+    <item>
+      <title>Intercept FXR Agonist Phase 2 Failure</title>
+      <link>https://www.google.com</link>
+      <description>&lt;ul&gt;
+  &lt;li&gt;&lt;b&gt;Summary:&lt;/b&gt; Intercept Pharmaceuticals' next-generation FXR agonist fails Phase 2 trial for NASH, marking another setback for the company.&lt;/li&gt;
+  &lt;li&gt;&lt;b&gt;MoAs:&lt;/b&gt; Farnesoid X receptor (FXR) agonist - regulates bile acid synthesis and lipid metabolism.&lt;/li&gt;
+  &lt;li&gt;&lt;b&gt;Sources:&lt;/b&gt; &lt;a href='https://endpoints.news/intercepts-next-gen-fxr-agonist-fails-phase-2-in-latest-setback-for-italian-owned-pharma/'&gt;Endpoints News&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;</description>
+      <guid isPermaLink="false">11d19ff8c8e11dacae4d27dd9380ae0b</guid>
+      <pubDate>Tue, 05 May 2026 22:03:06 GMT</pubDate>
     </item>
   </channel>
 </rss>
