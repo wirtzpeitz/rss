@@ -6,37 +6,15 @@
     <description>News digest covering Oncology.</description>
     <atom:link href="https://www.google.com" rel="self" type="application/rss+xml"/>
     <item>
-      <title>Celcuity gedatolisib breast cancer Phase 3 win</title>
+      <title>Celcuity ASCO 2026 Preview</title>
       <link>https://www.google.com</link>
       <description>&lt;ul&gt;
-  &lt;li&gt;&lt;b&gt;Summary:&lt;/b&gt; &lt;b&gt;Celcuity&lt;/b&gt; reported positive Phase 3 results for &lt;b&gt;gedatolisib&lt;/b&gt; in PIK3CA-mutant HR+/HER2- advanced breast cancer, showing superiority over &lt;b&gt;Novartis&lt;/b&gt;'s &lt;b&gt;Piqray&lt;/b&gt; (alpelisib) in combination with fulvestrant.&lt;/li&gt;
-  &lt;li&gt;&lt;b&gt;MoAs:&lt;/b&gt; Gedatolisib: dual PI3K/mTOR inhibitor; Alpelisib: PI3Kα inhibitor&lt;/li&gt;
-  &lt;li&gt;&lt;b&gt;Sources:&lt;/b&gt; &lt;a href="https://www.biopharmadive.com/news/celcuity-gedatolisib-breast-cancer-PIK3CA-asco-2026/819173/"&gt;BioPharma Dive&lt;/a&gt;, &lt;a href="https://www.fiercebiotech.com/biotech/celcuitys-gedatolisib-beats-novartis-piqray-phase-3-breast-cancer-study"&gt;Fierce Biotech&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;b&gt;Summary:&lt;/b&gt; Celcuity previews data for ASCO 2026, potentially highlighting a mutant-specific therapy that could be a coup for the company.&lt;/li&gt;
+  &lt;li&gt;&lt;b&gt;MoAs:&lt;/b&gt; Targeted therapy for mutant-driven cancers (e.g., mutant HER2).&lt;/li&gt;
+  &lt;li&gt;&lt;b&gt;Sources:&lt;/b&gt; &lt;a href='https://www.oncologypipeline.com/apexonco/asco-2026-preview-celcuity-gets-mutant-coup'&gt;Oncology Pipeline (ApexOnco)&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;</description>
-      <guid isPermaLink="false">b9a7fe9b01f782e43d2f28e170ccaa02</guid>
-      <pubDate>Mon, 04 May 2026 22:03:01 GMT</pubDate>
-    </item>
-    <item>
-      <title>Summit Therapeutics PD-1/VEGF asset misses survival mark</title>
-      <link>https://www.google.com</link>
-      <description>&lt;ul&gt;
-  &lt;li&gt;&lt;b&gt;Summary:&lt;/b&gt; Summit Therapeutics shares fell as its PD-1/VEGF bispecific antibody &lt;b&gt;ivonescimab&lt;/b&gt; missed an early survival endpoint in a clinical trial, raising questions about its efficacy in oncology.&lt;/li&gt;
-  &lt;li&gt;&lt;b&gt;MoAs:&lt;/b&gt; PD-1 inhibition and VEGF inhibition (bispecific antibody)&lt;/li&gt;
-  &lt;li&gt;&lt;b&gt;Sources:&lt;/b&gt; &lt;a href="https://www.biospace.com/drug-development/summit-shares-descend-as-pd-1-vegf-asset-misses-early-survival-mark"&gt;BioSpace&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;</description>
-      <guid isPermaLink="false">b9ab0d10198b8546e436f919b9092ede</guid>
-      <pubDate>Mon, 04 May 2026 22:03:01 GMT</pubDate>
-    </item>
-    <item>
-      <title>FDA clears Pfizer/Arvinas breast cancer therapy</title>
-      <link>https://www.google.com</link>
-      <description>&lt;ul&gt;
-  &lt;li&gt;&lt;b&gt;Summary:&lt;/b&gt; The FDA cleared &lt;b&gt;Pfizer&lt;/b&gt; and &lt;b&gt;Arvinas&lt;/b&gt;'s novel breast cancer therapy &lt;b&gt;vepdegestrant&lt;/b&gt;, an estrogen receptor degrader, despite mixed clinical data, offering a new option for ER+ breast cancer.&lt;/li&gt;
-  &lt;li&gt;&lt;b&gt;MoAs:&lt;/b&gt; PROTAC-mediated degradation of estrogen receptor&lt;/li&gt;
-  &lt;li&gt;&lt;b&gt;Sources:&lt;/b&gt; &lt;a href="https://www.biospace.com/fda/fda-clears-pfizer-arvinas-novel-breast-cancer-therapy-despite-mixed-data"&gt;BioSpace&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;</description>
-      <guid isPermaLink="false">fe9320607f877fb894c4fa20e53830fc</guid>
-      <pubDate>Mon, 04 May 2026 22:03:01 GMT</pubDate>
+      <guid isPermaLink="false">c17ee7fb0353b1451646cda8edad2729</guid>
+      <pubDate>Tue, 05 May 2026 22:03:06 GMT</pubDate>
     </item>
   </channel>
 </rss>
