@@ -6,158 +6,191 @@
     <description>News digest covering Corporate Events.</description>
     <atom:link href="https://www.google.com" rel="self" type="application/rss+xml"/>
     <item>
-      <title>Pfizer Corporate Events</title>
+      <title>Sanofi CNPV Fast Track Exit</title>
       <link>https://www.google.com</link>
       <description>&lt;ul&gt;
-  &lt;li&gt;&lt;b&gt;Summary:&lt;/b&gt; &lt;b&gt;Pfizer&lt;/b&gt; reported solid first-quarter 2026 results, beating expectations while maintaining full-year guidance. CEO &lt;b&gt;Albert Bourla&lt;/b&gt; stated the company has no plans for a mega-merger, focusing instead on organic growth and its late-stage pipeline. The earnings beat was seen as laying a foundation for growth expected in 2029, with current stability from COVID product seasonality.&lt;/li&gt;
+  &lt;li&gt;&lt;b&gt;Summary:&lt;/b&gt; Sanofi has requested to exit the controversial CNPV fast track program, according to a report from STAT. The decision reflects ongoing strategic adjustments by the company to optimize its regulatory and development pathways.&lt;/li&gt;
   &lt;li&gt;&lt;b&gt;MoAs:&lt;/b&gt; N/A&lt;/li&gt;
-  &lt;li&gt;&lt;b&gt;Sources:&lt;/b&gt; &lt;a href='https://endpoints.news/pfizers-albert-bourla-says-he-has-no-mega-merger-plans/'&gt;Endpoints News&lt;/a&gt;, &lt;a href='https://www.biospace.com/business/pfizer-is-a-2029-story-but-q126-lays-foundation-for-growth'&gt;BioSpace&lt;/a&gt;, &lt;a href='https://www.fiercepharma.com/pharma/pfizer-delivers-impressive-1st-quarter-keeps-guidance-steady-amid-covid-seasonality'&gt;Fierce Pharma&lt;/a&gt;, &lt;a href='https://www.biospace.com/business/pfizer-stays-the-course-for-2026-guidance-dulling-impact-of-q1-earnings-beat'&gt;BioSpace&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;b&gt;Sources:&lt;/b&gt; &lt;a href='https://www.fiercepharma.com/pharma/sanofi-requests-exit-controversial-cnpv-fast-track-program-stat'&gt;Fierce Pharma&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;</description>
-      <guid isPermaLink="false">dd2e11fa6848fc2cbde630b905feb21a</guid>
-      <pubDate>Tue, 05 May 2026 22:03:06 GMT</pubDate>
+      <guid isPermaLink="false">c96b00b24da1391eb2830e085300aaf3</guid>
+      <pubDate>Wed, 06 May 2026 22:02:51 GMT</pubDate>
     </item>
     <item>
-      <title>Pfizer Trillium CD47 Program Discontinuation</title>
+      <title>Sanofi Teplizumab FDA Voucher</title>
       <link>https://www.google.com</link>
       <description>&lt;ul&gt;
-  &lt;li&gt;&lt;b&gt;Summary:&lt;/b&gt; &lt;b&gt;Pfizer&lt;/b&gt; has ended development of the remaining CD47-targeting asset acquired through its $23 billion buyout of &lt;b&gt;Trillium Therapeutics&lt;/b&gt;. The decision came as R&amp;D spending increased, and the program failed to show sufficient promise. This marks the end of Pfizer's investment in the CD47 checkpoint inhibitor space, which had been a high-profile immuno-oncology target.&lt;/li&gt;
-  &lt;li&gt;&lt;b&gt;MoAs:&lt;/b&gt; CD47 blockade (innate immune checkpoint inhibition)&lt;/li&gt;
-  &lt;li&gt;&lt;b&gt;Sources:&lt;/b&gt; &lt;a href='https://endpoints.news/pfizer-ends-trillium-related-development-as-rd-spend-jumps/'&gt;Endpoints News&lt;/a&gt;, &lt;a href='https://www.fiercebiotech.com/biotech/pfizers-23b-trillium-bet-ends-failure-remaining-cd47-blocker-scrapped'&gt;Fierce Biotech&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;b&gt;Summary:&lt;/b&gt; Sanofi has asked the FDA to withdraw its diabetes drug teplizumab from the agency's voucher program, as reported by STAT News. Teplizumab is an anti-CD3 monoclonal antibody approved for delaying the onset of type 1 diabetes.&lt;/li&gt;
+  &lt;li&gt;&lt;b&gt;MoAs:&lt;/b&gt; Anti-CD3 monoclonal antibody that modulates immune response by targeting CD3 on T cells, thereby reducing autoimmune destruction of pancreatic beta cells.&lt;/li&gt;
+  &lt;li&gt;&lt;b&gt;Sources:&lt;/b&gt; &lt;a href='https://www.statnews.com/2026/05/06/sanofi-asks-to-pull-diabetes-drug-teplizumab-makary-fda-voucher-program/?utm_campaign=rss'&gt;STAT News&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;</description>
-      <guid isPermaLink="false">23c8930894fc307783d6fc5731cb41b6</guid>
-      <pubDate>Tue, 05 May 2026 22:03:06 GMT</pubDate>
+      <guid isPermaLink="false">48fcbc19da4fc3106af40828470d1bec</guid>
+      <pubDate>Wed, 06 May 2026 22:02:52 GMT</pubDate>
     </item>
     <item>
-      <title>BioNTech Manufacturing Scale-Down</title>
+      <title>Ipsen Liver Disease Candidates</title>
       <link>https://www.google.com</link>
       <description>&lt;ul&gt;
-  &lt;li&gt;&lt;b&gt;Summary:&lt;/b&gt; &lt;b&gt;BioNTech&lt;/b&gt; is scaling down its manufacturing operations, planning to close multiple production sites in Germany and Singapore, affecting approximately 1,860 jobs. The move reflects a shift from pandemic-era capacity to a leaner, more focused manufacturing footprint as the company adjusts to lower COVID-19 vaccine demand and pivots toward oncology pipeline programs.&lt;/li&gt;
+  &lt;li&gt;&lt;b&gt;Summary:&lt;/b&gt; Ipsen has decided to discontinue development of liver disease candidates acquired through its $952 million acquisition of Albireo. The move indicates a strategic pivot away from certain hepatology assets.&lt;/li&gt;
   &lt;li&gt;&lt;b&gt;MoAs:&lt;/b&gt; N/A&lt;/li&gt;
-  &lt;li&gt;&lt;b&gt;Sources:&lt;/b&gt; &lt;a href='https://endpoints.news/biontech-to-scale-down-manufacturing-over-1800-jobs-on-the-line/'&gt;Endpoints News&lt;/a&gt;, &lt;a href='https://www.fiercepharma.com/manufacturing/biontech-tightens-its-manufacturing-belt-pulling-out-sites-germany-singapore-1860'&gt;Fierce Pharma&lt;/a&gt;, &lt;a href='https://www.biospace.com/business/biontech-moves-to-close-multiple-manufacturing-plants-affecting-1-860-jobs'&gt;BioSpace&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;b&gt;Sources:&lt;/b&gt; &lt;a href='https://www.fiercebiotech.com/biotech/ipsen-scuttles-liver-disease-candidates-952m-albireo-acquisition'&gt;Fierce Biotech&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;</description>
-      <guid isPermaLink="false">545a2c18b1f9145bf9561b0da4ed31cf</guid>
-      <pubDate>Tue, 05 May 2026 22:03:06 GMT</pubDate>
+      <guid isPermaLink="false">230c4d620d625348efabc38d25d23d6a</guid>
+      <pubDate>Wed, 06 May 2026 22:02:52 GMT</pubDate>
     </item>
     <item>
-      <title>Madrigal/Arrowhead MASH Deal</title>
+      <title>Bayer Cell and Gene Therapy Trust</title>
       <link>https://www.google.com</link>
       <description>&lt;ul&gt;
-  &lt;li&gt;&lt;b&gt;Summary:&lt;/b&gt; &lt;b&gt;Madrigal Pharmaceuticals&lt;/b&gt; licensed an siRNA asset from &lt;b&gt;Arrowhead Pharmaceuticals&lt;/b&gt; for the treatment of metabolic dysfunction-associated steatohepatitis (&lt;b&gt;MASH&lt;/b&gt;). The deal includes up to $1 billion in biobucks, including upfront and milestone payments. This partnership extends Madrigal's MASH pipeline beyond its approved drug &lt;b&gt;Rezdiffra&lt;/b&gt; (THR‑β agonist) and adds Arrowhead's RNA interference technology targeting a genetic driver of the disease.&lt;/li&gt;
-  &lt;li&gt;&lt;b&gt;MoAs:&lt;/b&gt; siRNA silencing of a MASH-associated gene (e.g., PNPLA3)&lt;/li&gt;
-  &lt;li&gt;&lt;b&gt;Sources:&lt;/b&gt; &lt;a href='https://www.fiercebiotech.com/biotech/madrigal-boosts-mash-pipeline-1b-biobucks-license-arrowhead-asset'&gt;Fierce Biotech&lt;/a&gt;, &lt;a href='https://www.biospace.com/deals/madrigal-picks-up-another-sirna-asset-for-mash-betting-up-to-1b-with-arrowhead'&gt;BioSpace&lt;/a&gt;, &lt;a href='https://endpoints.news/madrigal-extends-mash-deal-streak-with-arrowhead-drug-that-jj-didnt-want/'&gt;Endpoints News&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;</description>
-      <guid isPermaLink="false">74780c81ac1b8a16c28d4087c1e443a2</guid>
-      <pubDate>Tue, 05 May 2026 22:03:06 GMT</pubDate>
-    </item>
-    <item>
-      <title>Vertex Q1 Earnings and Pipeline</title>
-      <link>https://www.google.com</link>
-      <description>&lt;ul&gt;
-  &lt;li&gt;&lt;b&gt;Summary:&lt;/b&gt; &lt;b&gt;Vertex Pharmaceuticals&lt;/b&gt; reported a quiet first quarter, with its earnings and pipeline updates highlighting progress in renal disease with &lt;b&gt;povetacicept&lt;/b&gt; (APOL1-mediated kidney disease) and the pain drug &lt;b&gt;Journavx&lt;/b&gt;. The company also announced the discontinuation of an mRNA‑based cystic fibrosis program due to tolerability issues. While CF revenues remain steady, investors are watching for the upcoming renal and pain launches to drive future growth.&lt;/li&gt;
-  &lt;li&gt;&lt;b&gt;MoAs:&lt;/b&gt; povetacicept: APOL1 inhibition; discontinued mRNA CF program: CFTR mRNA replacement&lt;/li&gt;
-  &lt;li&gt;&lt;b&gt;Sources:&lt;/b&gt; &lt;a href='https://www.biospace.com/business/vertexs-quiet-q1-is-calm-before-potentially-iconic-renal-evolution'&gt;BioSpace&lt;/a&gt;, &lt;a href='https://www.biopharmadive.com/news/vertex-earnings-q1-2026-povetacicept-journavx-cystic-fibrosis/819280/'&gt;BioPharma Dive&lt;/a&gt;, &lt;a href='https://endpoints.news/vertex-drops-mrna-cystic-fibrosis-program-over-tolerability-issues/'&gt;Endpoints News&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;</description>
-      <guid isPermaLink="false">93b83b537081528930b3ea0940686305</guid>
-      <pubDate>Tue, 05 May 2026 22:03:06 GMT</pubDate>
-    </item>
-    <item>
-      <title>Gilead/Arcellx CAR-T Job Cuts</title>
-      <link>https://www.google.com</link>
-      <description>&lt;ul&gt;
-  &lt;li&gt;&lt;b&gt;Summary:&lt;/b&gt; Following the close of its acquisition of &lt;b&gt;Arcellx&lt;/b&gt;, &lt;b&gt;Gilead Sciences&lt;/b&gt; has trimmed 108 jobs at the CAR‑T biotech's Redwood City, California facility. The cuts are part of integration streamlining after Gilead paid approximately $400 million upfront for the cell therapy company. Arcellx's lead program targets multiple myeloma with an investigational CAR‑T therapy.&lt;/li&gt;
-  &lt;li&gt;&lt;b&gt;MoAs:&lt;/b&gt; N/A (CAR‑T therapy – T‑cell engineering)&lt;/li&gt;
-  &lt;li&gt;&lt;b&gt;Sources:&lt;/b&gt; &lt;a href='https://www.fiercebiotech.com/biotech/after-arcellx-buyout-close-gilead-trims-108-jobs-car-t-biotech's-redwood-city-outpost'&gt;Fierce Biotech&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;</description>
-      <guid isPermaLink="false">3344f517e403a66c5630047f7215decf</guid>
-      <pubDate>Tue, 05 May 2026 22:03:06 GMT</pubDate>
-    </item>
-    <item>
-      <title>Novartis Germany Plant Closure</title>
-      <link>https://www.google.com</link>
-      <description>&lt;ul&gt;
-  &lt;li&gt;&lt;b&gt;Summary:&lt;/b&gt; Novartis announced the closure of its manufacturing plant in Wehr, Germany, by 2028, leading to layoffs as part of a restructuring effort.&lt;/li&gt;
+  &lt;li&gt;&lt;b&gt;Summary:&lt;/b&gt; Bayer is launching initiatives to build trust in cell and gene therapies, as detailed in a Fierce Pharma report. The company aims to address patient and physician confidence through education and transparency.&lt;/li&gt;
   &lt;li&gt;&lt;b&gt;MoAs:&lt;/b&gt; N/A&lt;/li&gt;
-  &lt;li&gt;&lt;b&gt;Sources:&lt;/b&gt; &lt;a href='https://www.fiercepharma.com/manufacturing/novartis-layoffs-germany-wehr-plant-closure-2028'&gt;Fierce Pharma&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;b&gt;Sources:&lt;/b&gt; &lt;a href='https://www.fiercepharma.com/marketing/bayer-diagnoses-how-build-trust-cell-and-gene-therapies'&gt;Fierce Pharma&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;</description>
-      <guid isPermaLink="false">42e41efcd6ee9e0e2f95bf585176d5a8</guid>
-      <pubDate>Tue, 05 May 2026 22:03:06 GMT</pubDate>
+      <guid isPermaLink="false">1c387dc572745c19f3b58355d5be2b6c</guid>
+      <pubDate>Wed, 06 May 2026 22:02:52 GMT</pubDate>
     </item>
     <item>
-      <title>Sanofi AI Hub Expansion</title>
+      <title>Lilly Indiana Manufacturing Investment</title>
       <link>https://www.google.com</link>
       <description>&lt;ul&gt;
-  &lt;li&gt;&lt;b&gt;Summary:&lt;/b&gt; Sanofi is investing $294 million to expand its AI capabilities by scaling its hub in Toronto, aiming to enhance drug discovery and development.&lt;/li&gt;
+  &lt;li&gt;&lt;b&gt;Summary:&lt;/b&gt; Eli Lilly plans a new $4.5 billion manufacturing investment in Indiana, as reported by both Endpoints News and Fierce Pharma. The expansion underscores Lilly's commitment to scaling production capacity for its growing portfolio.&lt;/li&gt;
   &lt;li&gt;&lt;b&gt;MoAs:&lt;/b&gt; N/A&lt;/li&gt;
-  &lt;li&gt;&lt;b&gt;Sources:&lt;/b&gt; &lt;a href='https://www.fiercepharma.com/pharma/sanofi-expands-ai-capabilities-investing-294m-scale-toronto-hub'&gt;Fierce Pharma&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;b&gt;Sources:&lt;/b&gt; &lt;a href='https://endpoints.news/lilly-plans-new-4-5b-manufacturing-investment-in-indiana/'&gt;Endpoints News&lt;/a&gt;, &lt;a href='https://www.fiercepharma.com/pharma/lilly-invest-additional-45b-its-massive-indiana-complex'&gt;Fierce Pharma&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;</description>
-      <guid isPermaLink="false">d2811e8e083b8cd48f811f307ab51485</guid>
-      <pubDate>Tue, 05 May 2026 22:03:06 GMT</pubDate>
+      <guid isPermaLink="false">bf79630cf85933a83148e5cdb37986ed</guid>
+      <pubDate>Wed, 06 May 2026 22:02:52 GMT</pubDate>
     </item>
     <item>
-      <title>Kyverna CAR-T Autoimmune Commercial Hire</title>
+      <title>BeOne Cancer and Autoimmune Programs</title>
       <link>https://www.google.com</link>
       <description>&lt;ul&gt;
-  &lt;li&gt;&lt;b&gt;Summary:&lt;/b&gt; Kyverna Therapeutics hires a pharma veteran as its commercial lead to advance its CAR-T cell therapy program for autoimmune diseases.&lt;/li&gt;
-  &lt;li&gt;&lt;b&gt;MoAs:&lt;/b&gt; Chimeric antigen receptor T-cell therapy (CAR-T) - genetically engineered T cells targeting antigen-specific cells.&lt;/li&gt;
-  &lt;li&gt;&lt;b&gt;Sources:&lt;/b&gt; &lt;a href='https://www.fiercepharma.com/marketing/eyeing-car-t-autoimmune-first-kyverna-therapeutics-hires-pharma-veteran-commercial-lead'&gt;Fierce Pharma&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;</description>
-      <guid isPermaLink="false">5bdd65302d5830324dfbd2a8b8612a3c</guid>
-      <pubDate>Tue, 05 May 2026 22:03:06 GMT</pubDate>
-    </item>
-    <item>
-      <title>Microbiome Startup Immunotherapy/Malnutrition</title>
-      <link>https://www.google.com</link>
-      <description>&lt;ul&gt;
-  &lt;li&gt;&lt;b&gt;Summary:&lt;/b&gt; A microbiome-focused startup raises $48 million to develop treatments for immunotherapy and malnutrition, leveraging gut microbiome modulation.&lt;/li&gt;
-  &lt;li&gt;&lt;b&gt;MoAs:&lt;/b&gt; Microbiome modulation - manipulating gut microbiota to influence immune response and nutrient absorption.&lt;/li&gt;
-  &lt;li&gt;&lt;b&gt;Sources:&lt;/b&gt; &lt;a href='https://endpoints.news/microbiome-startup-raises-48m-for-immunotherapy-and-malnutrition-treatments/'&gt;Endpoints News&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;</description>
-      <guid isPermaLink="false">8b815c27d08a15459366d8a40b185588</guid>
-      <pubDate>Tue, 05 May 2026 22:03:06 GMT</pubDate>
-    </item>
-    <item>
-      <title>Lilly Liver Failure Blip</title>
-      <link>https://www.google.com</link>
-      <description>&lt;ul&gt;
-  &lt;li&gt;&lt;b&gt;Summary:&lt;/b&gt; News emerged regarding a case of liver failure potentially linked to an Eli Lilly drug, causing a dip in the company's stock price. However, analysts mostly downplayed the event, suggesting it may not significantly impact the drug's development or approval. The specific drug involved was not disclosed in the headlines.&lt;/li&gt;
+  &lt;li&gt;&lt;b&gt;Summary:&lt;/b&gt; BeOne has decided to discontinue five cancer programs and one autoimmune Phase 2 study, according to Endpoints News. The pipeline reduction reflects a strategic reprioritization of resources.&lt;/li&gt;
   &lt;li&gt;&lt;b&gt;MoAs:&lt;/b&gt; N/A&lt;/li&gt;
-  &lt;li&gt;&lt;b&gt;Sources:&lt;/b&gt; &lt;a href="https://www.statnews.com/2026/05/05/biotech-news-analysts-glossing-over-eli-lilly-liver-case/?utm_campaign=rss"&gt;STAT&lt;/a&gt;, &lt;a href="https://www.biospace.com/drug-development/foundayos-liver-failure-blip-weighs-down-lilly-shares-but-analysts-unconcerned"&gt;BioSpace&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;b&gt;Sources:&lt;/b&gt; &lt;a href='https://endpoints.news/beone-culls-five-cancer-programs-and-an-autoimmune-phase-2/'&gt;Endpoints News&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;</description>
-      <guid isPermaLink="false">e9b5d4692d7d564e90548361f5cd1985</guid>
-      <pubDate>Tue, 05 May 2026 22:03:06 GMT</pubDate>
+      <guid isPermaLink="false">4e28f6905e43f46b43fed71d5835f535</guid>
+      <pubDate>Wed, 06 May 2026 22:02:52 GMT</pubDate>
     </item>
     <item>
-      <title>Sarepta/Amylyx/Neumora Q1 Catalysts</title>
+      <title>Lonza ADC Factory Expansion</title>
       <link>https://www.google.com</link>
       <description>&lt;ul&gt;
-  &lt;li&gt;&lt;b&gt;Summary:&lt;/b&gt; Sarepta Therapeutics, Amylyx Pharmaceuticals, and Neumora Therapeutics reported Q1 earnings and outlined upcoming key catalysts. Sarepta focused on its Duchenne muscular dystrophy gene therapy, Amylyx on its ALS treatment, and Neumora on its depression pipeline. Investors are watching for regulatory decisions and trial data.&lt;/li&gt;
+  &lt;li&gt;&lt;b&gt;Summary:&lt;/b&gt; Lonza is planning to expand its antibody-drug conjugate (ADC) manufacturing facility and workforce, as reported by Endpoints News. The expansion aims to capitalize on the growing demand for ADCs.&lt;/li&gt;
   &lt;li&gt;&lt;b&gt;MoAs:&lt;/b&gt; N/A&lt;/li&gt;
-  &lt;li&gt;&lt;b&gt;Sources:&lt;/b&gt; &lt;a href="https://www.biospace.com/business/sarepta-amylyx-and-neumora-look-ahead-to-key-catalysts-as-q1-earnings-roll-in"&gt;BioSpace&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;b&gt;Sources:&lt;/b&gt; &lt;a href='https://endpoints.news/lonza-looks-to-ride-adc-wave-with-upcoming-factory-workforce-expansion/'&gt;Endpoints News&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;</description>
-      <guid isPermaLink="false">c7c46551d6cfa1db46fa29988286c0e8</guid>
-      <pubDate>Tue, 05 May 2026 22:03:06 GMT</pubDate>
+      <guid isPermaLink="false">04afb17521fe20fbf27ff3f61250834e</guid>
+      <pubDate>Wed, 06 May 2026 22:02:52 GMT</pubDate>
     </item>
     <item>
-      <title>Cytospire Gamma-Delta T Cell Engager Series A</title>
+      <title>Bayer Perfuse Deal</title>
       <link>https://www.google.com</link>
       <description>&lt;ul&gt;
-  &lt;li&gt;&lt;b&gt;Summary:&lt;/b&gt; Cytospire, a biotech company, raised a Series A financing round to advance its gamma-delta T cell engager platform. The technology aims to harness gamma-delta T cells for cancer immunotherapy, potentially offering advantages over traditional T cell engagers.&lt;/li&gt;
-  &lt;li&gt;&lt;b&gt;MoAs:&lt;/b&gt; Gamma-delta T cell engager (bispecific antibody recruiting gamma-delta T cells)&lt;/li&gt;
-  &lt;li&gt;&lt;b&gt;Sources:&lt;/b&gt; &lt;a href="https://www.biopharmadive.com/news/cytospire-gamma-delta-t-cell-engager-series-a/819234/"&gt;BioPharma Dive&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;b&gt;Summary:&lt;/b&gt; &lt;b&gt;Bayer&lt;/b&gt; has announced a deal to acquire &lt;b&gt;Perfuse Therapeutics&lt;/b&gt; for up to $2.45 billion, ending a multi-year M&amp;A drought. The deal includes $300 million upfront for a midphase eye disease prospect targeting glaucoma and diabetic retinopathy. The acquisition adds a novel therapeutic candidate to Bayer's ophthalmology pipeline, with potential to address significant unmet needs in retinal diseases.&lt;/li&gt;
+  &lt;li&gt;&lt;b&gt;MoAs:&lt;/b&gt; N/A&lt;/li&gt;
+  &lt;li&gt;&lt;b&gt;Sources:&lt;/b&gt; &lt;a href="https://www.biopharmadive.com/news/bayer-perfuse-deal-glaucoma-diabetic-retinopathy-drug/819429/"&gt;BioPharma Dive&lt;/a&gt;, &lt;a href="https://www.biospace.com/deals/bayer-ends-multi-year-m-a-drought-with-up-to-2-45b-perfuse-buy"&gt;BioSpace&lt;/a&gt;, &lt;a href="https://www.fiercebiotech.com/biotech/bayer-buy-perfuse-300m-upfront-midphase-eye-disease-prospect"&gt;Fierce Biotech&lt;/a&gt;, &lt;a href="https://endpoints.news/bayer-to-buy-perfuse-therapeutics-for-300m-upfront/"&gt;Endpoints News&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;</description>
-      <guid isPermaLink="false">258a77451b46289896cc0c5db78b57e6</guid>
-      <pubDate>Tue, 05 May 2026 22:03:06 GMT</pubDate>
+      <guid isPermaLink="false">b08846799edad5d95df326f424108b68</guid>
+      <pubDate>Wed, 06 May 2026 22:02:52 GMT</pubDate>
     </item>
     <item>
-      <title>RFK Jr SSRIs J&amp;J IBD</title>
+      <title>Amgen/Sanofi North American Expansions</title>
       <link>https://www.google.com</link>
       <description>&lt;ul&gt;
-  &lt;li&gt;&lt;b&gt;Summary:&lt;/b&gt; This pharmalot article covers two stories: Robert F. Kennedy Jr.'s renewed criticism of SSRI antidepressants, claiming they are overprescribed and harmful, and Johnson &amp; Johnson's push to expand use of its inflammatory bowel disease (IBD) drug. J&amp;J is reportedly seeking broader approvals or new indications for its IBD therapy, while RFK Jr.'s comments add to the ongoing debate about mental health medication safety. The piece connects these to broader political and regulatory shifts.&lt;/li&gt;
-  &lt;li&gt;&lt;b&gt;MoAs:&lt;/b&gt; SSRIs (selective serotonin reuptake inhibitors): inhibition of serotonin reuptake transporter, increasing serotonin in the synaptic cleft. J&amp;J's IBD drug (e.g., Stelara/ustekinumab): monoclonal antibody targeting IL-12/IL-23 p40 subunit, inhibiting inflammatory cytokine signaling.&lt;/li&gt;
-  &lt;li&gt;&lt;b&gt;Sources:&lt;/b&gt; &lt;a href="https://www.statnews.com/pharmalot/2026/05/05/rfk-jr-targets-ssri-antidepressants-jnj-pushes-ibd-drug/?utm_campaign=rss"&gt;StatNews&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;b&gt;Summary:&lt;/b&gt; &lt;b&gt;Amgen&lt;/b&gt; and &lt;b&gt;Sanofi&lt;/b&gt; have committed nearly $600 million to expand their manufacturing and research facilities in North America. These investments are aimed at increasing production capacity and supporting pipeline development, reflecting a broader trend of biopharma reshoring and capacity expansion in the region.&lt;/li&gt;
+  &lt;li&gt;&lt;b&gt;MoAs:&lt;/b&gt; N/A&lt;/li&gt;
+  &lt;li&gt;&lt;b&gt;Sources:&lt;/b&gt; &lt;a href="https://www.biospace.com/business/amgen-sanofi-commit-nearly-600m-to-north-american-expansions"&gt;BioSpace&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;</description>
-      <guid isPermaLink="false">f38c19a6251fb1f558e023f1a2372b5b</guid>
-      <pubDate>Tue, 05 May 2026 22:03:06 GMT</pubDate>
+      <guid isPermaLink="false">4589a58b8668c49a103f118b39327342</guid>
+      <pubDate>Wed, 06 May 2026 22:02:52 GMT</pubDate>
+    </item>
+    <item>
+      <title>Cytospire Backers Buy Pfizer Exits</title>
+      <link>https://www.google.com</link>
+      <description>&lt;ul&gt;
+  &lt;li&gt;&lt;b&gt;Summary:&lt;/b&gt; Backers of &lt;b&gt;Cytospire&lt;/b&gt; have acquired assets that &lt;b&gt;Pfizer&lt;/b&gt; previously exited. This transaction involves Pfizer divesting certain programs or facilities, which are being acquired by Cytospire’s investors to further Cytospire’s pipeline. The deal highlights the recycling of pharma assets into smaller biotechs.&lt;/li&gt;
+  &lt;li&gt;&lt;b&gt;MoAs:&lt;/b&gt; N/A&lt;/li&gt;
+  &lt;li&gt;&lt;b&gt;Sources:&lt;/b&gt; &lt;a href="https://www.oncologypipeline.com/apexonco/cytospires-backers-buy-pfizer-exits"&gt;ApexOnco&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;</description>
+      <guid isPermaLink="false">7287abc6c3a494e32657cd017faf6ab2</guid>
+      <pubDate>Wed, 06 May 2026 22:02:52 GMT</pubDate>
+    </item>
+    <item>
+      <title>Madrigal Rezdiffra and Gilead Job Cuts</title>
+      <link>https://www.google.com</link>
+      <description>&lt;ul&gt;
+  &lt;li&gt;&lt;b&gt;Summary:&lt;/b&gt; &lt;b&gt;Madrigal&lt;/b&gt;'s &lt;b&gt;Rezdiffra&lt;/b&gt; (resmetirom) for NASH beat estimates, while &lt;b&gt;Gilead&lt;/b&gt; announced job cuts.&lt;/li&gt;
+  &lt;li&gt;&lt;b&gt;MoAs:&lt;/b&gt; Rezdiffra is a thyroid hormone receptor beta agonist.&lt;/li&gt;
+  &lt;li&gt;&lt;b&gt;Sources:&lt;/b&gt; &lt;a href="https://endpoints.news/madrigals-rezdiffra-beats-estimates-gilead-cuts-jobs-banyan-debuts/"&gt;Endpoints News&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;</description>
+      <guid isPermaLink="false">deccca9d000121fe240b225a0c21de9e</guid>
+      <pubDate>Wed, 06 May 2026 22:02:52 GMT</pubDate>
+    </item>
+    <item>
+      <title>Former Orbital Scientists mRNA Startup</title>
+      <link>https://www.google.com</link>
+      <description>&lt;ul&gt;
+  &lt;li&gt;&lt;b&gt;Summary:&lt;/b&gt; Former scientists from &lt;b&gt;Orbital&lt;/b&gt; launched a new mRNA therapy startup.&lt;/li&gt;
+  &lt;li&gt;&lt;b&gt;MoAs:&lt;/b&gt; N/A&lt;/li&gt;
+  &lt;li&gt;&lt;b&gt;Sources:&lt;/b&gt; &lt;a href="https://endpoints.news/former-orbital-scientists-launch-new-mrna-therapy-startup/"&gt;Endpoints News&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;</description>
+      <guid isPermaLink="false">c0b9ea068fa60b686da6d0f8fc65eda8</guid>
+      <pubDate>Wed, 06 May 2026 22:02:52 GMT</pubDate>
+    </item>
+    <item>
+      <title>Avalo Phase 2 Success and Fundraise</title>
+      <link>https://www.google.com</link>
+      <description>&lt;ul&gt;
+  &lt;li&gt;&lt;b&gt;Summary:&lt;/b&gt; &lt;b&gt;Avalo Therapeutics&lt;/b&gt; reported Phase 2 success for its lead candidate and raised $375M to advance development. The win reignites interest from &lt;b&gt;AbbVie&lt;/b&gt; despite placebo headwinds.&lt;/li&gt;
+  &lt;li&gt;&lt;b&gt;MoAs:&lt;/b&gt; N/A&lt;/li&gt;
+  &lt;li&gt;&lt;b&gt;Sources:&lt;/b&gt; &lt;a href="https://endpoints.news/avalo-scores-phase-2-success-in-comeback-bid-raises-375m/"&gt;Endpoints News&lt;/a&gt;, &lt;a href="https://www.fiercebiotech.com/biotech/avalos-phase-2-win-fuels-pursuit-abbvie-despite-placebo-headwind"&gt;Fierce Biotech&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;</description>
+      <guid isPermaLink="false">c41a6b426077506ce7c83c42bdd7bd9c</guid>
+      <pubDate>Wed, 06 May 2026 22:02:52 GMT</pubDate>
+    </item>
+    <item>
+      <title>CellCentric Series D Fundraise</title>
+      <link>https://www.google.com</link>
+      <description>&lt;ul&gt;
+  &lt;li&gt;&lt;b&gt;Summary:&lt;/b&gt; &lt;b&gt;CellCentric&lt;/b&gt; secured $220M in Europe's largest private biotech fundraise of 2026 to advance its multiple myeloma pill &lt;b&gt;inobrodib&lt;/b&gt; to market.&lt;/li&gt;
+  &lt;li&gt;&lt;b&gt;MoAs:&lt;/b&gt; Inobrodib is a BET domain inhibitor.&lt;/li&gt;
+  &lt;li&gt;&lt;b&gt;Sources:&lt;/b&gt; &lt;a href="https://www.biospace.com/business/cellcentric-secures-220m-in-europes-biggest-private-biotech-fundraise-of-2026"&gt;BioSpace&lt;/a&gt;, &lt;a href="https://endpoints.news/cellcentric-raises-220m-to-get-multiple-myeloma-pill-to-market/"&gt;Endpoints News&lt;/a&gt;, &lt;a href="https://www.biopharmadive.com/news/cellcentric-series-d-multiple-myeloma-inobrodib/819348/"&gt;BioPharma Dive&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;</description>
+      <guid isPermaLink="false">6c5d9b84096660c62efe1a2e4e3dbc1f</guid>
+      <pubDate>Wed, 06 May 2026 22:02:52 GMT</pubDate>
+    </item>
+    <item>
+      <title>GSK China siRNA Deal</title>
+      <link>https://www.google.com</link>
+      <description>&lt;ul&gt;
+  &lt;li&gt;&lt;b&gt;Summary:&lt;/b&gt; &lt;b&gt;GSK&lt;/b&gt; has entered a $1 billion deal with Chinese biotech &lt;b&gt;Siranbio&lt;/b&gt; to develop an siRNA-based therapy targeting abdominal fat reduction, entering the obesity space previously explored by &lt;b&gt;Arrowhead&lt;/b&gt;. The partnership involves upfront and milestone payments, reflecting GSK's push into RNA therapeutics for metabolic diseases.&lt;/li&gt;
+  &lt;li&gt;&lt;b&gt;MoAs:&lt;/b&gt; RNA interference (siRNA) to silence expression of a gene involved in adiposity and fat metabolism.&lt;/li&gt;
+  &lt;li&gt;&lt;b&gt;Sources:&lt;/b&gt; &lt;a href="https://endpoints.news/gsk-goes-to-china-for-1b-sirna-deal-in-arrowheads-obesity-lane/"&gt;Endpoints News&lt;/a&gt;, &lt;a href="https://www.fiercebiotech.com/biotech/gsk-pens-1b-deal-chinas-siranbio-oligonucleotide-could-reduce-adominal-fat"&gt;Fierce Biotech&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;</description>
+      <guid isPermaLink="false">babfc8fec60f8bbf6481e0375b84079f</guid>
+      <pubDate>Wed, 06 May 2026 22:02:52 GMT</pubDate>
+    </item>
+    <item>
+      <title>Pfizer/Lilly Q1 and FDA CBER Director</title>
+      <link>https://www.google.com</link>
+      <description>&lt;ul&gt;
+  &lt;li&gt;&lt;b&gt;Summary:&lt;/b&gt; This roundup covers &lt;b&gt;Pfizer&lt;/b&gt; and &lt;b&gt;Eli Lilly&lt;/b&gt;'s first-quarter earnings, the FDA's appointment of an acting director for the &lt;b&gt;Center for Biologics Evaluation and Research (CBER)&lt;/b&gt;, and emerging developments in ALS research. The earnings reflect ongoing market dynamics in oncology, diabetes, and beyond.&lt;/li&gt;
+  &lt;li&gt;&lt;b&gt;MoAs:&lt;/b&gt; N/A&lt;/li&gt;
+  &lt;li&gt;&lt;b&gt;Sources:&lt;/b&gt; &lt;a href="https://www.biospace.com/business/pfizer-lilly-more-report-q1-fda-names-acting-cber-director-and-an-als-awakening"&gt;BioSpace&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;</description>
+      <guid isPermaLink="false">658512fe52a7ac01a4f82e0585f28e47</guid>
+      <pubDate>Wed, 06 May 2026 22:02:52 GMT</pubDate>
+    </item>
+    <item>
+      <title>Novo Nordisk Q1 Pills Pricing Payments</title>
+      <link>https://www.google.com</link>
+      <description>&lt;ul&gt;
+  &lt;li&gt;&lt;b&gt;Summary:&lt;/b&gt; &lt;b&gt;Novo Nordisk&lt;/b&gt;'s first-quarter earnings highlighted strong sales of oral semaglutide (&lt;b&gt;Rybelsus&lt;/b&gt;), pricing strategies amid competitive pressure, and increased scrutiny from payers. The results underscore the company's dominance in the GLP-1 market but also point to upcoming pricing and reimbursement challenges.&lt;/li&gt;
+  &lt;li&gt;&lt;b&gt;MoAs:&lt;/b&gt; Oral semaglutide: GLP-1 receptor agonist.&lt;/li&gt;
+  &lt;li&gt;&lt;b&gt;Sources:&lt;/b&gt; &lt;a href="https://endpoints.news/novo-nordisks-q1-in-four-words-pills-pricing-payments-and-pressure/"&gt;Endpoints News&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;</description>
+      <guid isPermaLink="false">ac33f26afb9f23bcb26548086519c033</guid>
+      <pubDate>Wed, 06 May 2026 22:02:52 GMT</pubDate>
     </item>
   </channel>
 </rss>
