@@ -6,15 +6,59 @@
     <description>News digest covering Oncology.</description>
     <atom:link href="https://www.google.com" rel="self" type="application/rss+xml"/>
     <item>
-      <title>Celcuity ASCO 2026 Preview</title>
+      <title>BeOne Degradation vs Inhibition</title>
       <link>https://www.google.com</link>
       <description>&lt;ul&gt;
-  &lt;li&gt;&lt;b&gt;Summary:&lt;/b&gt; Celcuity previews data for ASCO 2026, potentially highlighting a mutant-specific therapy that could be a coup for the company.&lt;/li&gt;
-  &lt;li&gt;&lt;b&gt;MoAs:&lt;/b&gt; Targeted therapy for mutant-driven cancers (e.g., mutant HER2).&lt;/li&gt;
-  &lt;li&gt;&lt;b&gt;Sources:&lt;/b&gt; &lt;a href='https://www.oncologypipeline.com/apexonco/asco-2026-preview-celcuity-gets-mutant-coup'&gt;Oncology Pipeline (ApexOnco)&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;b&gt;Summary:&lt;/b&gt; &lt;b&gt;BeOne&lt;/b&gt; is pursuing a targeted protein degradation approach rather than traditional inhibition for an oncology target. The company’s strategy aims to achieve more durable and potent effects by degrading disease-driving proteins, potentially overcoming resistance mechanisms seen with conventional inhibitors.&lt;/li&gt;
+  &lt;li&gt;&lt;b&gt;MoAs:&lt;/b&gt; N/A&lt;/li&gt;
+  &lt;li&gt;&lt;b&gt;Sources:&lt;/b&gt; &lt;a href="https://www.oncologypipeline.com/apexonco/beone-chooses-degradation-over-inhibition"&gt;ApexOnco&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;</description>
-      <guid isPermaLink="false">c17ee7fb0353b1451646cda8edad2729</guid>
-      <pubDate>Tue, 05 May 2026 22:03:06 GMT</pubDate>
+      <guid isPermaLink="false">a7f69c5739805cb38945f6c26dee5322</guid>
+      <pubDate>Wed, 06 May 2026 22:02:52 GMT</pubDate>
+    </item>
+    <item>
+      <title>IDEAYA Exits Werner and Pol Theta</title>
+      <link>https://www.google.com</link>
+      <description>&lt;ul&gt;
+  &lt;li&gt;&lt;b&gt;Summary:&lt;/b&gt; &lt;b&gt;IDEAYA Biosciences&lt;/b&gt; has announced the discontinuation of its two early-stage programs targeting Werner helicase (WRN) and Pol Theta (polymerase theta). The decision reflects a strategic prioritization, likely focusing resources on more advanced pipeline candidates. Werner and Pol Theta are implicated in DNA repair mechanisms relevant to cancer.&lt;/li&gt;
+  &lt;li&gt;&lt;b&gt;MoAs:&lt;/b&gt; WRN helicase inhibitor (discontinued), Pol Theta inhibitor (discontinued)&lt;/li&gt;
+  &lt;li&gt;&lt;b&gt;Sources:&lt;/b&gt; &lt;a href="https://www.oncologypipeline.com/apexonco/ideaya-exits-werner-and-pol-theta"&gt;ApexOnco&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;</description>
+      <guid isPermaLink="false">6009284f3abb3c26e4ebdbcbffe887c0</guid>
+      <pubDate>Wed, 06 May 2026 22:02:52 GMT</pubDate>
+    </item>
+    <item>
+      <title>Exelixis Zanzalintinib Delay</title>
+      <link>https://www.google.com</link>
+      <description>&lt;ul&gt;
+  &lt;li&gt;&lt;b&gt;Summary:&lt;/b&gt; &lt;b&gt;Exelixis&lt;/b&gt; has reported a delay in the clinical development of &lt;b&gt;zanzalintinib&lt;/b&gt;, its next-generation tyrosine kinase inhibitor. The setback may affect timelines for ongoing or planned trials in various solid tumors. Zanzalintinib is designed to inhibit multiple kinase targets involved in tumor growth and angiogenesis.&lt;/li&gt;
+  &lt;li&gt;&lt;b&gt;MoAs:&lt;/b&gt; Multi-targeted tyrosine kinase inhibitor (VEGFR, MET, etc.)&lt;/li&gt;
+  &lt;li&gt;&lt;b&gt;Sources:&lt;/b&gt; &lt;a href="https://www.oncologypipeline.com/apexonco/exelixis-slips-out-zanzalintinib-delay"&gt;ApexOnco&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;</description>
+      <guid isPermaLink="false">c4142dcd713d3a5354d96dccedb84822</guid>
+      <pubDate>Wed, 06 May 2026 22:02:52 GMT</pubDate>
+    </item>
+    <item>
+      <title>Dark Proteins Cancer Immunotherapy</title>
+      <link>https://www.google.com</link>
+      <description>&lt;ul&gt;
+  &lt;li&gt;&lt;b&gt;Summary:&lt;/b&gt; Researchers are exploring "dark proteins" as novel targets for &lt;b&gt;cancer immunotherapy&lt;/b&gt; using advanced proteomics.&lt;/li&gt;
+  &lt;li&gt;&lt;b&gt;MoAs:&lt;/b&gt; Targeting uncharacterized proteins to elicit immune responses.&lt;/li&gt;
+  &lt;li&gt;&lt;b&gt;Sources:&lt;/b&gt; &lt;a href="https://www.statnews.com/2026/05/06/dark-proteins-cancer-immunotherapy-targets-proteomics-news/?utm_campaign=rss"&gt;STAT News&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;</description>
+      <guid isPermaLink="false">498c058dfd791497d227a153d20cb2c4</guid>
+      <pubDate>Wed, 06 May 2026 22:02:52 GMT</pubDate>
+    </item>
+    <item>
+      <title>Makary Defends Replimune Rejection</title>
+      <link>https://www.google.com</link>
+      <description>&lt;ul&gt;
+  &lt;li&gt;&lt;b&gt;Summary:&lt;/b&gt; FDA official &lt;b&gt;Dr. Makary&lt;/b&gt; defended the agency's rejection of &lt;b&gt;Replimune's&lt;/b&gt; oncolytic virus therapy &lt;b&gt;RP1&lt;/b&gt; combined with &lt;b&gt;nivolumab&lt;/b&gt; for melanoma, highlighting concerns over trial design and efficacy endpoints. The decision has heightened tensions between the FDA and biotech developers seeking accelerated approval for novel immunotherapies.&lt;/li&gt;
+  &lt;li&gt;&lt;b&gt;MoAs:&lt;/b&gt; RP1: engineered herpes simplex virus that selectively replicates in tumor cells, expresses GM-CSF and a fusogenic protein to stimulate antitumor immunity. Nivolumab: anti-PD-1 checkpoint inhibitor.&lt;/li&gt;
+  &lt;li&gt;&lt;b&gt;Sources:&lt;/b&gt; &lt;a href="https://www.biospace.com/fda/makary-defends-replimune-melanoma-rejection-again-as-fda-tensions-build"&gt;BioSpace&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;</description>
+      <guid isPermaLink="false">1a2c10a4f5907b78d3ca6091369e8c29</guid>
+      <pubDate>Wed, 06 May 2026 22:02:52 GMT</pubDate>
     </item>
   </channel>
 </rss>
