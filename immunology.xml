@@ -6,15 +6,26 @@
     <description>News digest covering Immunology.</description>
     <atom:link href="https://www.google.com" rel="self" type="application/rss+xml"/>
     <item>
-      <title>J&amp;J IBD Combo Failure</title>
+      <title>Avalo Hidradenitis Suppurativa</title>
       <link>https://www.google.com</link>
       <description>&lt;ul&gt;
-  &lt;li&gt;&lt;b&gt;Summary:&lt;/b&gt; &lt;b&gt;Johnson &amp; Johnson&lt;/b&gt; announced that its experimental combination therapy for inflammatory bowel disease (&lt;b&gt;IBD&lt;/b&gt;) failed to show meaningful improvement over placebo in two Phase 2 studies. Despite the miss, the company plans to advance the regimen into pivotal trials. The combination involved &lt;b&gt;J&amp;J&lt;/b&gt;'s anti‑IL‑23 antibody &lt;b&gt;guselkumab&lt;/b&gt; and an investigational agent, underscoring the challenges of achieving synergy in autoimmune disease.&lt;/li&gt;
-  &lt;li&gt;&lt;b&gt;MoAs:&lt;/b&gt; Anti‑IL‑23 monoclonal antibody combined with an additional targeted mechanism&lt;/li&gt;
-  &lt;li&gt;&lt;b&gt;Sources:&lt;/b&gt; &lt;a href='https://endpoints.news/jjs-ibd-combo-fails-phase-2-studies-but-will-move-into-pivotal-testing/'&gt;Endpoints News&lt;/a&gt;, &lt;a href='https://www.statnews.com/2026/05/05/johnson-and-johnson-ibd-therapy-no-meaningful-improvement/'&gt;STAT News&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;b&gt;Summary:&lt;/b&gt; &lt;b&gt;Avalo&lt;/b&gt; advances in hidradenitis suppurativa, with a drug that also involves &lt;b&gt;BioNTech&lt;/b&gt;, &lt;b&gt;Madrigal&lt;/b&gt;, and &lt;b&gt;Johnson &amp; Johnson Duet&lt;/b&gt; in the landscape.&lt;/li&gt;
+  &lt;li&gt;&lt;b&gt;MoAs:&lt;/b&gt; Not specified; likely an immunomodulator.&lt;/li&gt;
+  &lt;li&gt;&lt;b&gt;Sources:&lt;/b&gt; &lt;a href="https://www.biopharmadive.com/news/avalo-hidradenitis-suppurativa-biontech-madrigal-johnson-duet/819233/"&gt;BioPharma Dive&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;</description>
-      <guid isPermaLink="false">d39447355d61127eba53486f0f60516d</guid>
-      <pubDate>Tue, 05 May 2026 22:03:06 GMT</pubDate>
+      <guid isPermaLink="false">257f7fcaaec88a091034d9e4ff0301e1</guid>
+      <pubDate>Wed, 06 May 2026 22:02:52 GMT</pubDate>
+    </item>
+    <item>
+      <title>J&amp;J Dual Antibody IBD Phase 3</title>
+      <link>https://www.google.com</link>
+      <description>&lt;ul&gt;
+  &lt;li&gt;&lt;b&gt;Summary:&lt;/b&gt; &lt;b&gt;Johnson &amp; Johnson&lt;/b&gt; is advancing its investigational dual antibody therapy for inflammatory bowel disease (IBD) into Phase 3 trials, despite disappointing mid-stage results. The decision underscores J&amp;J's confidence in the mechanism, which simultaneously targets two distinct inflammatory pathways to improve outcomes in Crohn's disease and ulcerative colitis.&lt;/li&gt;
+  &lt;li&gt;&lt;b&gt;MoAs:&lt;/b&gt; Dual antibody therapy: neutralizes two key cytokines (e.g., IL-23 and TNF-α or IL-1β) to reduce intestinal inflammation in IBD.&lt;/li&gt;
+  &lt;li&gt;&lt;b&gt;Sources:&lt;/b&gt; &lt;a href="https://www.biospace.com/drug-development/j-j-pushes-dual-antibody-ibd-therapy-into-phase-3-despite-mid-stage-fails"&gt;BioSpace&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;</description>
+      <guid isPermaLink="false">c1ddedcc68bd092284b43cab3d02cb57</guid>
+      <pubDate>Wed, 06 May 2026 22:02:52 GMT</pubDate>
     </item>
   </channel>
 </rss>
