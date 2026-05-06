@@ -6,15 +6,26 @@
     <description>News digest covering Ophthalmology.</description>
     <atom:link href="https://www.google.com" rel="self" type="application/rss+xml"/>
     <item>
-      <title>Viridian Tepezza Rival Thyroid Eye Disease</title>
+      <title>BioCryst Eye Disease Candidate</title>
       <link>https://www.google.com</link>
       <description>&lt;ul&gt;
-  &lt;li&gt;&lt;b&gt;Summary:&lt;/b&gt; &lt;b&gt;Viridian Therapeutics&lt;/b&gt; reported positive results from a second Phrase 3 trial of its anti‑IGF‑1R antibody &lt;b&gt;elegrobart&lt;/b&gt; (VRDN‑001) for chronic thyroid eye disease (&lt;b&gt;TED&lt;/b&gt;). The drug showed significant improvement in proptosis and overall response compared to placebo. These data position elegrobart as a potential rival to &lt;b&gt;Horizon Therapeutics&lt;/b&gt;' &lt;b&gt;Tepezza&lt;/b&gt; (teprotumumab), and the company plans to submit for FDA approval.&lt;/li&gt;
-  &lt;li&gt;&lt;b&gt;MoAs:&lt;/b&gt; Insulin‑like growth factor‑1 receptor (IGF‑1R) blockade&lt;/li&gt;
-  &lt;li&gt;&lt;b&gt;Sources:&lt;/b&gt; &lt;a href='https://www.biopharmadive.com/news/viridian-chronic-thyroid-eye-disease-elegrobart-study-results/819308/'&gt;BioPharma Dive&lt;/a&gt;, &lt;a href='https://www.fiercebiotech.com/biotech/viridians-tepezza-rival-racks-second-phase-3-win-clearing-path-fda'&gt;Fierce Biotech&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;b&gt;Summary:&lt;/b&gt; &lt;b&gt;BioCryst Pharmaceuticals&lt;/b&gt; has discontinued its eye disease candidate after a second failed attempt to find a viable indication. The decision to cull the program underscores challenges in developing therapies for ophthalmic conditions and will allow BioCryst to refocus resources on other pipeline assets.&lt;/li&gt;
+  &lt;li&gt;&lt;b&gt;MoAs:&lt;/b&gt; N/A&lt;/li&gt;
+  &lt;li&gt;&lt;b&gt;Sources:&lt;/b&gt; &lt;a href="https://www.fiercebiotech.com/biotech/biocryst-culls-eye-disease-candidate-after-second-attempt-find-indication"&gt;Fierce Biotech&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;</description>
-      <guid isPermaLink="false">eac60bac1038a10e29f6fb551143270d</guid>
-      <pubDate>Tue, 05 May 2026 22:03:06 GMT</pubDate>
+      <guid isPermaLink="false">19066d3f06f87cf77b5f40e8b192262e</guid>
+      <pubDate>Wed, 06 May 2026 22:02:52 GMT</pubDate>
+    </item>
+    <item>
+      <title>Viridian Thyroid Eye Disease Phase 3</title>
+      <link>https://www.google.com</link>
+      <description>&lt;ul&gt;
+  &lt;li&gt;&lt;b&gt;Summary:&lt;/b&gt; &lt;b&gt;Viridian Therapeutics&lt;/b&gt; reported positive Phase 3 data for its drug &lt;b&gt;VRDN-001&lt;/b&gt; (anti-IGF-1R antibody) in thyroid eye disease, demonstrating significant improvements in proptosis and diplopia. The results vindicate the drug's potential and support a regulatory filing for this debilitating condition.&lt;/li&gt;
+  &lt;li&gt;&lt;b&gt;MoAs:&lt;/b&gt; Anti-IGF-1R antibody: inhibits insulin-like growth factor-1 receptor, reducing inflammation and fibroblast activation in orbital tissues.&lt;/li&gt;
+  &lt;li&gt;&lt;b&gt;Sources:&lt;/b&gt; &lt;a href="https://www.biospace.com/drug-development/viridian-turns-green-again-as-new-phase-3-data-vindicate-thyroid-eye-disease-drug"&gt;BioSpace&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;</description>
+      <guid isPermaLink="false">18515ccb29c54358a88fca6375609bd5</guid>
+      <pubDate>Wed, 06 May 2026 22:02:52 GMT</pubDate>
     </item>
   </channel>
 </rss>
