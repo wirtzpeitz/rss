@@ -6,59 +6,37 @@
     <description>News digest covering Oncology.</description>
     <atom:link href="https://www.google.com" rel="self" type="application/rss+xml"/>
     <item>
-      <title>BeOne Degradation vs Inhibition</title>
+      <title>FDA Reconsideration of Atara/Pierre Fabre Cell Therapy (Ebvallo)</title>
       <link>https://www.google.com</link>
       <description>&lt;ul&gt;
-  &lt;li&gt;&lt;b&gt;Summary:&lt;/b&gt; &lt;b&gt;BeOne&lt;/b&gt; is pursuing a targeted protein degradation approach rather than traditional inhibition for an oncology target. The company’s strategy aims to achieve more durable and potent effects by degrading disease-driving proteins, potentially overcoming resistance mechanisms seen with conventional inhibitors.&lt;/li&gt;
+  &lt;li&gt;&lt;b&gt;Summary:&lt;/b&gt; The &lt;b&gt;FDA&lt;/b&gt; has reversed its decision on &lt;b&gt;Ebvallo&lt;/b&gt; (tabelecleucel), an allogeneic T-cell therapy developed by &lt;b&gt;Atara Biotherapeutics&lt;/b&gt; and &lt;b&gt;Pierre Fabre&lt;/b&gt;, after previously rejecting it twice. The agency will reconsider the treatment for EBV-positive post-transplant lymphoproliferative disease (EBV+PTLD), raising hope for approval in a rare oncology indication.&lt;/li&gt;
+  &lt;li&gt;&lt;b&gt;MoAs:&lt;/b&gt; Ebvallo is an allogeneic T-cell immunotherapy that targets cells infected with Epstein-Barr virus (EBV) by engaging the T-cell receptor and eliminating EBV-positive tumor cells.&lt;/li&gt;
+  &lt;li&gt;&lt;b&gt;Sources:&lt;/b&gt; &lt;a href="https://www.biospace.com/fda/fda-reverses-course-on-atara-pierre-fabres-twice-rejected-cell-therapy-after-prasads-exit"&gt;BioSpace&lt;/a&gt;, &lt;a href="https://www.fiercepharma.com/pharma/fda-reconsider-surprisingly-rejected-cell-therapy-ebvallo-could-uniqure-be-next"&gt;Fierce Pharma&lt;/a&gt;, &lt;a href="https://endpoints.news/atara-pierre-fabres-cell-therapy-to-get-another-shot-at-fda-approval/"&gt;Endpoints News&lt;/a&gt;, &lt;a href="https://www.statnews.com/2026/05/07/fda-reconsider-rare-disease-drug-ebvallo/?utm_campaign=rss"&gt;STAT News&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;</description>
+      <guid isPermaLink="false">5ac0a5d2782c5e6f6c65b0ae300fc7bd</guid>
+      <pubDate>Thu, 07 May 2026 22:01:27 GMT</pubDate>
+    </item>
+    <item>
+      <title>Roche Phase 1 Mystery</title>
+      <link>https://www.google.com</link>
+      <description>&lt;ul&gt;
+  &lt;li&gt;&lt;b&gt;Summary:&lt;/b&gt; A mysterious Phase 1 candidate from Roche is profiled in Oncology Pipeline, with details on its mechanism and early-stage trial design for an undisclosed oncology target.&lt;/li&gt;
   &lt;li&gt;&lt;b&gt;MoAs:&lt;/b&gt; N/A&lt;/li&gt;
-  &lt;li&gt;&lt;b&gt;Sources:&lt;/b&gt; &lt;a href="https://www.oncologypipeline.com/apexonco/beone-chooses-degradation-over-inhibition"&gt;ApexOnco&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;b&gt;Sources:&lt;/b&gt; &lt;a href="https://www.oncologypipeline.com/apexonco/roches-phase-1-mystery"&gt;Oncology Pipeline&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;</description>
-      <guid isPermaLink="false">a7f69c5739805cb38945f6c26dee5322</guid>
-      <pubDate>Wed, 06 May 2026 22:02:52 GMT</pubDate>
+      <guid isPermaLink="false">e3af5ef86765abc84ed2e14158ec3de6</guid>
+      <pubDate>Thu, 07 May 2026 22:01:27 GMT</pubDate>
     </item>
     <item>
-      <title>IDEAYA Exits Werner and Pol Theta</title>
+      <title>Another Unituxin Challenger</title>
       <link>https://www.google.com</link>
       <description>&lt;ul&gt;
-  &lt;li&gt;&lt;b&gt;Summary:&lt;/b&gt; &lt;b&gt;IDEAYA Biosciences&lt;/b&gt; has announced the discontinuation of its two early-stage programs targeting Werner helicase (WRN) and Pol Theta (polymerase theta). The decision reflects a strategic prioritization, likely focusing resources on more advanced pipeline candidates. Werner and Pol Theta are implicated in DNA repair mechanisms relevant to cancer.&lt;/li&gt;
-  &lt;li&gt;&lt;b&gt;MoAs:&lt;/b&gt; WRN helicase inhibitor (discontinued), Pol Theta inhibitor (discontinued)&lt;/li&gt;
-  &lt;li&gt;&lt;b&gt;Sources:&lt;/b&gt; &lt;a href="https://www.oncologypipeline.com/apexonco/ideaya-exits-werner-and-pol-theta"&gt;ApexOnco&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;b&gt;Summary:&lt;/b&gt; A new challenger to Unituxin (dinutuximab) emerges in the neuroblastoma space, following Y-mAbs' move. Oncology Pipeline reports on the next anti-GD2 therapy candidate targeting high-risk neuroblastoma.&lt;/li&gt;
+  &lt;li&gt;&lt;b&gt;MoAs:&lt;/b&gt; Anti-GD2 monoclonal antibody (potential alternative or bispecific design)&lt;/li&gt;
+  &lt;li&gt;&lt;b&gt;Sources:&lt;/b&gt; &lt;a href="https://www.oncologypipeline.com/apexonco/another-unituxin-challenger-follows-serbs-move"&gt;Oncology Pipeline&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;</description>
-      <guid isPermaLink="false">6009284f3abb3c26e4ebdbcbffe887c0</guid>
-      <pubDate>Wed, 06 May 2026 22:02:52 GMT</pubDate>
-    </item>
-    <item>
-      <title>Exelixis Zanzalintinib Delay</title>
-      <link>https://www.google.com</link>
-      <description>&lt;ul&gt;
-  &lt;li&gt;&lt;b&gt;Summary:&lt;/b&gt; &lt;b&gt;Exelixis&lt;/b&gt; has reported a delay in the clinical development of &lt;b&gt;zanzalintinib&lt;/b&gt;, its next-generation tyrosine kinase inhibitor. The setback may affect timelines for ongoing or planned trials in various solid tumors. Zanzalintinib is designed to inhibit multiple kinase targets involved in tumor growth and angiogenesis.&lt;/li&gt;
-  &lt;li&gt;&lt;b&gt;MoAs:&lt;/b&gt; Multi-targeted tyrosine kinase inhibitor (VEGFR, MET, etc.)&lt;/li&gt;
-  &lt;li&gt;&lt;b&gt;Sources:&lt;/b&gt; &lt;a href="https://www.oncologypipeline.com/apexonco/exelixis-slips-out-zanzalintinib-delay"&gt;ApexOnco&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;</description>
-      <guid isPermaLink="false">c4142dcd713d3a5354d96dccedb84822</guid>
-      <pubDate>Wed, 06 May 2026 22:02:52 GMT</pubDate>
-    </item>
-    <item>
-      <title>Dark Proteins Cancer Immunotherapy</title>
-      <link>https://www.google.com</link>
-      <description>&lt;ul&gt;
-  &lt;li&gt;&lt;b&gt;Summary:&lt;/b&gt; Researchers are exploring "dark proteins" as novel targets for &lt;b&gt;cancer immunotherapy&lt;/b&gt; using advanced proteomics.&lt;/li&gt;
-  &lt;li&gt;&lt;b&gt;MoAs:&lt;/b&gt; Targeting uncharacterized proteins to elicit immune responses.&lt;/li&gt;
-  &lt;li&gt;&lt;b&gt;Sources:&lt;/b&gt; &lt;a href="https://www.statnews.com/2026/05/06/dark-proteins-cancer-immunotherapy-targets-proteomics-news/?utm_campaign=rss"&gt;STAT News&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;</description>
-      <guid isPermaLink="false">498c058dfd791497d227a153d20cb2c4</guid>
-      <pubDate>Wed, 06 May 2026 22:02:52 GMT</pubDate>
-    </item>
-    <item>
-      <title>Makary Defends Replimune Rejection</title>
-      <link>https://www.google.com</link>
-      <description>&lt;ul&gt;
-  &lt;li&gt;&lt;b&gt;Summary:&lt;/b&gt; FDA official &lt;b&gt;Dr. Makary&lt;/b&gt; defended the agency's rejection of &lt;b&gt;Replimune's&lt;/b&gt; oncolytic virus therapy &lt;b&gt;RP1&lt;/b&gt; combined with &lt;b&gt;nivolumab&lt;/b&gt; for melanoma, highlighting concerns over trial design and efficacy endpoints. The decision has heightened tensions between the FDA and biotech developers seeking accelerated approval for novel immunotherapies.&lt;/li&gt;
-  &lt;li&gt;&lt;b&gt;MoAs:&lt;/b&gt; RP1: engineered herpes simplex virus that selectively replicates in tumor cells, expresses GM-CSF and a fusogenic protein to stimulate antitumor immunity. Nivolumab: anti-PD-1 checkpoint inhibitor.&lt;/li&gt;
-  &lt;li&gt;&lt;b&gt;Sources:&lt;/b&gt; &lt;a href="https://www.biospace.com/fda/makary-defends-replimune-melanoma-rejection-again-as-fda-tensions-build"&gt;BioSpace&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;</description>
-      <guid isPermaLink="false">1a2c10a4f5907b78d3ca6091369e8c29</guid>
-      <pubDate>Wed, 06 May 2026 22:02:52 GMT</pubDate>
+      <guid isPermaLink="false">8a68d8d01e7e48051955e79a1607cc14</guid>
+      <pubDate>Thu, 07 May 2026 22:01:27 GMT</pubDate>
     </item>
   </channel>
 </rss>
