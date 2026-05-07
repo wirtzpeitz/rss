@@ -6,147 +6,37 @@
     <description>News digest covering Industry Events.</description>
     <atom:link href="https://www.google.com" rel="self" type="application/rss+xml"/>
     <item>
-      <title>FDA 1-Day Assessment Pilot</title>
+      <title>FDA Pilots AI-Informed Facility Inspections</title>
       <link>https://www.google.com</link>
       <description>&lt;ul&gt;
-  &lt;li&gt;&lt;b&gt;Summary:&lt;/b&gt; The FDA has launched a 1-day assessment pilot program aimed at refocusing inspection resources. This initiative is designed to streamline regulatory oversight and improve efficiency in manufacturing inspections.&lt;/li&gt;
+  &lt;li&gt;&lt;b&gt;Summary:&lt;/b&gt; The &lt;b&gt;FDA&lt;/b&gt; has launched a pilot program using artificial intelligence to conduct one-day facility inspections, aiming to increase efficiency and modernize regulatory oversight. The initiative could reduce the burden on manufacturers and improve detection of compliance issues.&lt;/li&gt;
   &lt;li&gt;&lt;b&gt;MoAs:&lt;/b&gt; N/A&lt;/li&gt;
-  &lt;li&gt;&lt;b&gt;Sources:&lt;/b&gt; &lt;a href='https://www.fiercepharma.com/manufacturing/fda-rolls-out-1-day-assessment-pilot-bid-refocus-inspection-resources'&gt;Fierce Pharma&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;b&gt;Sources:&lt;/b&gt; &lt;a href="https://www.biospace.com/news/fda-pilots-ai-informed-one-day-facility-inspections"&gt;BioSpace&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;</description>
-      <guid isPermaLink="false">c667b1dd27377bd80ae7f0b22413ad27</guid>
-      <pubDate>Wed, 06 May 2026 22:02:52 GMT</pubDate>
+      <guid isPermaLink="false">d175e84c88d2affbf053b1a6daea1424</guid>
+      <pubDate>Thu, 07 May 2026 22:01:27 GMT</pubDate>
     </item>
     <item>
-      <title>IRA Impact on Amgen/AbbVie Q1 Sales</title>
+      <title>Biotech Job Market and R&amp;D Postings</title>
       <link>https://www.google.com</link>
       <description>&lt;ul&gt;
-  &lt;li&gt;&lt;b&gt;Summary:&lt;/b&gt; Amgen and AbbVie have both indicated that the Inflation Reduction Act (IRA) drug price negotiations adversely affected their first-quarter sales. The legislation's impact on pricing is reshaping revenue expectations for major pharmaceutical companies.&lt;/li&gt;
+  &lt;li&gt;&lt;b&gt;Summary:&lt;/b&gt; The first quarter of 2026 saw a pickup in biotech job postings as the quarter progressed, driven by increased capital availability boosting R&amp;D employment. The rebound reflects growing investor confidence and expansion of early-stage research activities across the sector.&lt;/li&gt;
   &lt;li&gt;&lt;b&gt;MoAs:&lt;/b&gt; N/A&lt;/li&gt;
-  &lt;li&gt;&lt;b&gt;Sources:&lt;/b&gt; &lt;a href='https://endpoints.news/amgen-abbvie-say-ira-negotiations-impacted-q1-sales/'&gt;Endpoints News&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;b&gt;Sources:&lt;/b&gt; &lt;a href="https://www.biospace.com/job-trends/2026-q1-job-market-report-job-postings-picked-up-as-quarter-progressed"&gt;BioSpace&lt;/a&gt;, &lt;a href="https://www.biospace.com/job-trends/increased-capital-boosts-biotech-r-d-job-postings-employment"&gt;BioSpace&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;</description>
-      <guid isPermaLink="false">a33c60a3cc49f9eda6797941e6dcdef1</guid>
-      <pubDate>Wed, 06 May 2026 22:02:52 GMT</pubDate>
+      <guid isPermaLink="false">e349645d0a17b3a2630a58a237f91319</guid>
+      <pubDate>Thu, 07 May 2026 22:01:27 GMT</pubDate>
     </item>
     <item>
-      <title>Most Favored Nation Drug Pricing</title>
+      <title>FDA Rebuilding and Political Interference</title>
       <link>https://www.google.com</link>
       <description>&lt;ul&gt;
-  &lt;li&gt;&lt;b&gt;Summary:&lt;/b&gt; The White House has estimated $529 billion in savings over 10 years from most-favored-nation (MFN) drug pricing deals and is looking to expand the program. Articles from STAT News and Fierce Pharma discuss the policy's potential impact on pharmaceutical pricing.&lt;/li&gt;
+  &lt;li&gt;&lt;b&gt;Summary:&lt;/b&gt; The FDA is undergoing rebuilding efforts following the 'doge' era, with former regulators speaking out about the agency's challenges. The top three roles at FDA and CDC have been filled by 15 different people in less than 18 months, indicating a period of instability and turnover that has raised concerns about regulatory continuity and political interference.&lt;/li&gt;
   &lt;li&gt;&lt;b&gt;MoAs:&lt;/b&gt; N/A&lt;/li&gt;
-  &lt;li&gt;&lt;b&gt;Sources:&lt;/b&gt; &lt;a href='https://www.statnews.com/2026/05/06/most-favored-nation-drug-price-savings-estimated-529-billion/?utm_campaign=rss'&gt;STAT News&lt;/a&gt;, &lt;a href='https://www.fiercepharma.com/pharma/touting-529b-savings-over-10-years-white-house-looks-expand-mfn-deals-pharma'&gt;Fierce Pharma&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;b&gt;Sources:&lt;/b&gt; &lt;a href="https://www.statnews.com/2026/05/07/fda-rebuilding-after-doge-former-regulators-speaking-out/?utm_campaign=rss"&gt;STAT News&lt;/a&gt;, &lt;a href="https://www.biospace.com/fda/3-top-fda-cdc-roles-filled-by-15-different-people-in-less-than-18-months"&gt;BioSpace&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;</description>
-      <guid isPermaLink="false">a25ef2aa0100cb43693f638766c38cbe</guid>
-      <pubDate>Wed, 06 May 2026 22:02:52 GMT</pubDate>
-    </item>
-    <item>
-      <title>FDA Blocks COVID/Shingles Vaccine Studies</title>
-      <link>https://www.google.com</link>
-      <description>&lt;ul&gt;
-  &lt;li&gt;&lt;b&gt;Summary:&lt;/b&gt; The &lt;b&gt;FDA&lt;/b&gt; has blocked the publication of safety studies related to COVID-19 and shingles vaccines, as reported by The New York Times. The move raises concerns about transparency and regulatory oversight in vaccine safety monitoring. The specific studies and rationale for the block remain under scrutiny.&lt;/li&gt;
-  &lt;li&gt;&lt;b&gt;MoAs:&lt;/b&gt; N/A&lt;/li&gt;
-  &lt;li&gt;&lt;b&gt;Sources:&lt;/b&gt; &lt;a href="https://www.fiercepharma.com/pharma/fda-blocks-publication-covid-shingles-vaccine-safety-studies-nyt"&gt;Fierce Pharma&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;</description>
-      <guid isPermaLink="false">29237bde3ae196070a9d78c6e5444930</guid>
-      <pubDate>Wed, 06 May 2026 22:02:52 GMT</pubDate>
-    </item>
-    <item>
-      <title>FDA Flavored Vapes Approval</title>
-      <link>https://www.google.com</link>
-      <description>&lt;ul&gt;
-  &lt;li&gt;&lt;b&gt;Summary:&lt;/b&gt; The &lt;b&gt;FDA&lt;/b&gt; approved new flavored vapes, sparking debate over former President Trump's role.&lt;/li&gt;
-  &lt;li&gt;&lt;b&gt;MoAs:&lt;/b&gt; N/A&lt;/li&gt;
-  &lt;li&gt;&lt;b&gt;Sources:&lt;/b&gt; &lt;a href="https://www.statnews.com/2026/05/06/fda-approval-new-flavored-vapes-trump-role-questioned/?utm_campaign=rss"&gt;STAT News&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;</description>
-      <guid isPermaLink="false">db9cd656e91440184e4457db1b4d8407</guid>
-      <pubDate>Wed, 06 May 2026 22:02:52 GMT</pubDate>
-    </item>
-    <item>
-      <title>HHS Transparency Bid</title>
-      <link>https://www.google.com</link>
-      <description>&lt;ul&gt;
-  &lt;li&gt;&lt;b&gt;Summary:&lt;/b&gt; The &lt;b&gt;HHS&lt;/b&gt;'s radical transparency bid encountered repeated setbacks due to "unforced errors."&lt;/li&gt;
-  &lt;li&gt;&lt;b&gt;MoAs:&lt;/b&gt; N/A&lt;/li&gt;
-  &lt;li&gt;&lt;b&gt;Sources:&lt;/b&gt; &lt;a href="https://www.biospace.com/fda/unforced-errors-flummox-hhs-radical-transparency-bid-again"&gt;BioSpace&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;</description>
-      <guid isPermaLink="false">bd4185e102cc6aadf99dd22a837c02e7</guid>
-      <pubDate>Wed, 06 May 2026 22:02:52 GMT</pubDate>
-    </item>
-    <item>
-      <title>Novo Nordisk/Lilly French Fines</title>
-      <link>https://www.google.com</link>
-      <description>&lt;ul&gt;
-  &lt;li&gt;&lt;b&gt;Summary:&lt;/b&gt; &lt;b&gt;Novo Nordisk&lt;/b&gt; and &lt;b&gt;Eli Lilly&lt;/b&gt; were fined by French regulators for improper marketing of their obesity drugs (&lt;b&gt;semaglutide&lt;/b&gt;, &lt;b&gt;tirzepatide&lt;/b&gt;).&lt;/li&gt;
-  &lt;li&gt;&lt;b&gt;MoAs:&lt;/b&gt; GLP-1 receptor agonists.&lt;/li&gt;
-  &lt;li&gt;&lt;b&gt;Sources:&lt;/b&gt; &lt;a href="https://www.fiercepharma.com/marketing/novo-nordisk-eli-lilly-fined-french-regulators-over-obesity-drug-promotions"&gt;Fierce Pharma&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;</description>
-      <guid isPermaLink="false">b14c1dfac8ee338bc42a2770ed606ea5</guid>
-      <pubDate>Wed, 06 May 2026 22:02:52 GMT</pubDate>
-    </item>
-    <item>
-      <title>Pharma 340B Ad Campaign</title>
-      <link>https://www.google.com</link>
-      <description>&lt;ul&gt;
-  &lt;li&gt;&lt;b&gt;Summary:&lt;/b&gt; Pharmaceutical companies have launched an advertising campaign targeting the 340B drug pricing program, arguing that its expansion has led to higher costs for patients and the system. The campaign, covered by &lt;b&gt;STAT News&lt;/b&gt;, also references &lt;b&gt;Novo Nordisk's&lt;/b&gt; obesity pill sales as part of the broader pricing debate.&lt;/li&gt;
-  &lt;li&gt;&lt;b&gt;MoAs:&lt;/b&gt; N/A&lt;/li&gt;
-  &lt;li&gt;&lt;b&gt;Sources:&lt;/b&gt; &lt;a href="https://www.statnews.com/pharmalot/2026/05/06/pharma-ad-campaign-aimed-at-340b-novo-obesity-pill-sales/?utm_campaign=rss"&gt;STAT News&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;</description>
-      <guid isPermaLink="false">639c2505af0ba80148976709e750ca94</guid>
-      <pubDate>Wed, 06 May 2026 22:02:52 GMT</pubDate>
-    </item>
-    <item>
-      <title>HHS Overmedication Tackle</title>
-      <link>https://www.google.com</link>
-      <description>&lt;ul&gt;
-  &lt;li&gt;&lt;b&gt;Summary:&lt;/b&gt; The U.S. Department of Health and Human Services (&lt;b&gt;HHS&lt;/b&gt;) has launched a new initiative to address overmedication, aiming to reduce inappropriate prescribing and polypharmacy. The move could have broad implications for pharmaceutical companies and prescribers, as regulators seek to improve patient safety.&lt;/li&gt;
-  &lt;li&gt;&lt;b&gt;MoAs:&lt;/b&gt; N/A&lt;/li&gt;
-  &lt;li&gt;&lt;b&gt;Sources:&lt;/b&gt; &lt;a href="https://www.statnews.com/2026/05/06/health-news-hhs-tackles-alleged-overmedication/?utm_campaign=rss"&gt;STAT News&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;</description>
-      <guid isPermaLink="false">208932117c150dba0841499b9221e0e7</guid>
-      <pubDate>Wed, 06 May 2026 22:02:52 GMT</pubDate>
-    </item>
-    <item>
-      <title>FDA Turmoil at Gene Therapy Conference</title>
-      <link>https://www.google.com</link>
-      <description>&lt;ul&gt;
-  &lt;li&gt;&lt;b&gt;Summary:&lt;/b&gt; Uncertainty at the &lt;b&gt;FDA&lt;/b&gt; over gene therapy regulation was a key topic at a European gene therapy conference, as attendees discussed shifting approval standards, leadership changes, and the impact on development timelines. The turmoil reflects broader challenges in the regulatory landscape for advanced therapies.&lt;/li&gt;
-  &lt;li&gt;&lt;b&gt;MoAs:&lt;/b&gt; N/A&lt;/li&gt;
-  &lt;li&gt;&lt;b&gt;Sources:&lt;/b&gt; &lt;a href="https://www.statnews.com/2026/05/06/fda-turmoil-felt-at-gene-therapy-conference-europe/?utm_campaign=rss"&gt;STAT News&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;</description>
-      <guid isPermaLink="false">39fa551e118b04b7ae88d542f5801d6f</guid>
-      <pubDate>Wed, 06 May 2026 22:02:52 GMT</pubDate>
-    </item>
-    <item>
-      <title>OpenAI Healthcare AI Policy</title>
-      <link>https://www.google.com</link>
-      <description>&lt;ul&gt;
-  &lt;li&gt;&lt;b&gt;Summary:&lt;/b&gt; OpenAI published a policy blueprint aimed at unlocking the potential of artificial intelligence in healthcare, focusing on regulatory frameworks, data privacy, and clinical integration. The document outlines recommendations for federal agencies to accelerate AI adoption while ensuring safety and equity. &lt;b&gt;OpenAI&lt;/b&gt; emphasizes collaboration with healthcare providers and researchers to develop AI tools that enhance diagnostics, drug discovery, and patient care. The policy comes amid growing interest in AI's role in medicine and addresses concerns about bias, transparency, and validation.&lt;/li&gt;
-  &lt;li&gt;&lt;b&gt;MoAs:&lt;/b&gt; N/A&lt;/li&gt;
-  &lt;li&gt;&lt;b&gt;Sources:&lt;/b&gt; &lt;a href="https://www.statnews.com/2026/05/06/openai-policy-blueprint-unleashing-ai-potential-health-care/?utm_campaign=rss"&gt;STAT News&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;</description>
-      <guid isPermaLink="false">cbb233853aa1a4e006c0cb0f8008f1b6</guid>
-      <pubDate>Wed, 06 May 2026 22:02:52 GMT</pubDate>
-    </item>
-    <item>
-      <title>Psychedelics Executive Order</title>
-      <link>https://www.google.com</link>
-      <description>&lt;ul&gt;
-  &lt;li&gt;&lt;b&gt;Summary:&lt;/b&gt; A new executive order signed by President Trump directs federal agencies to expand research funding for psychedelic compounds, particularly &lt;b&gt;ibogaine&lt;/b&gt;, and to review scheduling classifications. The order aims to accelerate studies into psychedelic-assisted therapies for mental health conditions such as PTSD, depression, and addiction. It also mandates the creation of a task force to streamline regulatory pathways for investigational psychedelics. The policy shift is expected to benefit companies developing psychedelic-based treatments and may lead to rescheduling of certain substances from Schedule I to a less restrictive category.&lt;/li&gt;
-  &lt;li&gt;&lt;b&gt;MoAs:&lt;/b&gt; &lt;b&gt;Ibogaine&lt;/b&gt;: Non-competitive NMDA receptor antagonist; also modulates serotonin transporters and sigma-1 receptors, contributing to its anti-addictive and neuroplasticity-promoting effects.&lt;/li&gt;
-  &lt;li&gt;&lt;b&gt;Sources:&lt;/b&gt; &lt;a href="https://www.statnews.com/2026/05/06/psychedelics-executive-order-ibogaine-trump-research-funding-scheduling/?utm_campaign=rss"&gt;STAT News&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;</description>
-      <guid isPermaLink="false">b705ed3e063e514feea30f7fa52ec1ba</guid>
-      <pubDate>Wed, 06 May 2026 22:02:52 GMT</pubDate>
-    </item>
-    <item>
-      <title>Biotech Founder Pressure</title>
-      <link>https://www.google.com</link>
-      <description>&lt;ul&gt;
-  &lt;li&gt;&lt;b&gt;Summary:&lt;/b&gt; Biotech founders are facing mounting pressure from investors, board members, and market conditions as the sector slowly recovers from a prolonged downturn. The article discusses challenges including declining valuations, difficulty raising capital, and the need to demonstrate near-term milestones. Founders must navigate difficult decisions such as downsizing, pivoting pipelines, or pursuing mergers to survive. Industry experts note that while the funding environment shows signs of improvement, many early-stage companies remain vulnerable. The pressure underscores the broader trend of consolidation and efficiency-driven strategies in the biotech landscape.&lt;/li&gt;
-  &lt;li&gt;&lt;b&gt;MoAs:&lt;/b&gt; N/A&lt;/li&gt;
-  &lt;li&gt;&lt;b&gt;Sources:&lt;/b&gt; &lt;a href="https://www.biospace.com/business/founders-face-pressure-from-all-sides-as-biotech-crawls-toward-recovery"&gt;BioSpace&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;</description>
-      <guid isPermaLink="false">d3b2cbd826c8dbd4045e98b6699bb899</guid>
-      <pubDate>Wed, 06 May 2026 22:02:52 GMT</pubDate>
+      <guid isPermaLink="false">37abca5c075e878eb67e5c227e0508cb</guid>
+      <pubDate>Thu, 07 May 2026 22:01:27 GMT</pubDate>
     </item>
   </channel>
 </rss>
