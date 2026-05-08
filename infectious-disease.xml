@@ -6,15 +6,37 @@
     <description>News digest covering Infectious Disease.</description>
     <atom:link href="https://www.google.com" rel="self" type="application/rss+xml"/>
     <item>
-      <title>Hantavirus Outbreak on Cruise Ship</title>
+      <title>Gilead Yeztugo Launch</title>
       <link>https://www.google.com</link>
       <description>&lt;ul&gt;
-  &lt;li&gt;&lt;b&gt;Summary:&lt;/b&gt; A hantavirus outbreak on a cruise ship has led to key takeaways from a WHO briefing, highlighting transmission risks and containment measures. Luis Rodriguez retires from the CDC Vessel Sanitation Program amid the outbreak, while scientists emphasize that the event does not signal a new pandemic. The incident underscores the importance of sanitation protocols on cruise ships.&lt;/li&gt;
-  &lt;li&gt;&lt;b&gt;MoAs:&lt;/b&gt; N/A&lt;/li&gt;
-  &lt;li&gt;&lt;b&gt;Sources:&lt;/b&gt; &lt;a href="https://www.statnews.com/2026/05/07/hantavirus-outbreak-key-takeaways-who-cruise-ship-briefing/?utm_campaign=rss"&gt;STAT News&lt;/a&gt;, &lt;a href="https://www.statnews.com/2026/05/07/luis-rodriguez-retires-cdc-vessel-sanitation-program-amid-hantavirus-outbreak/?utm_campaign=rss"&gt;STAT News&lt;/a&gt;, &lt;a href="https://www.statnews.com/2026/05/07/hantavirus-cruise-ship-outbreak-scientists-say-not-new-pandemic/?utm_campaign=rss"&gt;STAT News&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;b&gt;Summary:&lt;/b&gt; &lt;b&gt;Gilead Sciences&lt;/b&gt; has set an ambitious first-year sales forecast of $1 billion for its new HIV drug &lt;b&gt;Yeztugo&lt;/b&gt;, reflecting an unprecedented launch trajectory. The drug is expected to compete in the HIV market. Gilead's Q1 results also highlighted strong performance of &lt;b&gt;Biktarvy&lt;/b&gt;.&lt;/li&gt;
+  &lt;li&gt;&lt;b&gt;MoAs:&lt;/b&gt; Yeztugo is a once-daily single-tablet regimen for HIV, likely containing an integrase strand transfer inhibitor (e.g., bictegravir) and NRTIs.&lt;/li&gt;
+  &lt;li&gt;&lt;b&gt;Sources:&lt;/b&gt; &lt;a href='https://www.pharmaceutical-technology.com/news/gilead-sciences-q1-results-hiv-biktarvy-yeztugo/'&gt;Pharmaceutical Technology&lt;/a&gt;, &lt;a href='https://www.fiercepharma.com/pharma/gilead-cranks-yeztugo-first-year-sales-forecast-1b-unprecedented-launch-trajectory'&gt;Fierce Pharma&lt;/a&gt;, &lt;a href='https://www.biospace.com/business/gilead-sets-blockbuster-bar-for-yeztugos-first-full-year-on-the-market'&gt;BioSpace&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;</description>
-      <guid isPermaLink="false">a13387f91f413f34e99edf9c7ff2cf8c</guid>
-      <pubDate>Thu, 07 May 2026 22:01:27 GMT</pubDate>
+      <guid isPermaLink="false">e04f48c3c4b40f13eeb93e04c620ef7b</guid>
+      <pubDate>Fri, 08 May 2026 22:02:24 GMT</pubDate>
+    </item>
+    <item>
+      <title>Hantavirus Outbreak</title>
+      <link>https://www.google.com</link>
+      <description>&lt;ul&gt;
+  &lt;li&gt;&lt;b&gt;Summary:&lt;/b&gt; Recent reports detail a hantavirus outbreak linked to a cruise ship in Spain, leading to evacuations in the Canary Islands. STAT News covers the outbreak itself and the rapid spread of misinformation related to the virus. The articles highlight the public health response and the challenges of managing both the disease and false information.&lt;/li&gt;
+  &lt;li&gt;&lt;b&gt;MoAs:&lt;/b&gt; N/A&lt;/li&gt;
+  &lt;li&gt;&lt;b&gt;Sources:&lt;/b&gt; &lt;a href='https://www.statnews.com/2026/05/08/hantavirus-outbreak-cruise-ship-spain-evacuations-canary-islands/?utm_campaign=rss'&gt;STAT News&lt;/a&gt;, &lt;a href='https://www.statnews.com/2026/05/08/hantavirus-outbreak-misinformation-spreads-faster-than-virus/?utm_campaign=rss'&gt;STAT News&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;</description>
+      <guid isPermaLink="false">bc8483c157b44eb3a57f4d33a4749bc7</guid>
+      <pubDate>Fri, 08 May 2026 22:02:24 GMT</pubDate>
+    </item>
+    <item>
+      <title>GSK Meningitis Campaign</title>
+      <link>https://www.google.com</link>
+      <description>&lt;ul&gt;
+  &lt;li&gt;&lt;b&gt;Summary:&lt;/b&gt; GSK launched a new marketing campaign for its meningitis vaccines, using a 'modern family' theme to appeal to broader audiences, including parents and young adults. The campaign aims to raise awareness about meningococcal disease and the importance of vaccination.&lt;/li&gt;
+  &lt;li&gt;&lt;b&gt;MoAs:&lt;/b&gt; N/A&lt;/li&gt;
+  &lt;li&gt;&lt;b&gt;Sources:&lt;/b&gt; &lt;a href='https://www.fiercepharma.com/marketing/gsk-tees-modern-family-meningitis-messaging'&gt;Fierce Pharma&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;</description>
+      <guid isPermaLink="false">91a01c1f18bc2afc00013855a253ee98</guid>
+      <pubDate>Fri, 08 May 2026 22:02:24 GMT</pubDate>
     </item>
   </channel>
 </rss>
