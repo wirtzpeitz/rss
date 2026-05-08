@@ -6,15 +6,26 @@
     <description>News digest covering Neurology.</description>
     <atom:link href="https://www.google.com" rel="self" type="application/rss+xml"/>
     <item>
-      <title>Clene ALS Treatment and Gold</title>
+      <title>Leqembi FDA Delay</title>
       <link>https://www.google.com</link>
       <description>&lt;ul&gt;
-  &lt;li&gt;&lt;b&gt;Summary:&lt;/b&gt; Clene Nanomedicine's CNM-Au8, a gold nanocrystal therapy for ALS, is under scrutiny. STAT News questions whether the treatment works, highlighting conflicting trial data on slowing disease progression.&lt;/li&gt;
-  &lt;li&gt;&lt;b&gt;MoAs:&lt;/b&gt; Gold nanocrystals that enhance cellular NAD+ levels, improve mitochondrial function, and reduce oxidative stress&lt;/li&gt;
-  &lt;li&gt;&lt;b&gt;Sources:&lt;/b&gt; &lt;a href="https://www.statnews.com/2026/05/07/clene-als-treatment-gold-does-it-work/?utm_campaign=rss"&gt;STAT News&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;b&gt;Summary:&lt;/b&gt; The FDA has delayed its decision on &lt;b&gt;Biogen&lt;/b&gt; and &lt;b&gt;Eisai&lt;/b&gt;'s subcutaneous formulation of &lt;b&gt;Leqembi&lt;/b&gt; (lecanemab) for Alzheimer's disease by three months. The delay may impact the rollout of the more convenient dosing option. Leqembi is an anti-amyloid beta antibody already approved intravenously.&lt;/li&gt;
+  &lt;li&gt;&lt;b&gt;MoAs:&lt;/b&gt; Lecanemab is a humanized monoclonal antibody that targets soluble amyloid beta protofibrils, reducing amyloid plaques in the brain.&lt;/li&gt;
+  &lt;li&gt;&lt;b&gt;Sources:&lt;/b&gt; &lt;a href='https://endpoints.news/fda-delays-leqembi-decision-artiva-raises-300m-pharvaris-prices-offering/'&gt;Endpoints News&lt;/a&gt;, &lt;a href='https://www.biospace.com/fda/biogen-eisai-hit-with-3-month-delay-for-starting-subq-alzheimers-therapy'&gt;BioSpace&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;</description>
-      <guid isPermaLink="false">e1a38e843accc95f3cc3fe43e64498cc</guid>
-      <pubDate>Thu, 07 May 2026 22:01:27 GMT</pubDate>
+      <guid isPermaLink="false">00fd397cad051d9093d4748e1bfcbdff</guid>
+      <pubDate>Fri, 08 May 2026 22:02:24 GMT</pubDate>
+    </item>
+    <item>
+      <title>J&amp;J Depression Project</title>
+      <link>https://www.google.com</link>
+      <description>&lt;ul&gt;
+  &lt;li&gt;&lt;b&gt;Summary:&lt;/b&gt; Johnson &amp; Johnson launches the 'Generation Fine' depression project, a marketing and awareness initiative aimed at destigmatizing depression and encouraging earlier intervention. The campaign leverages digital tools and partnerships to reach younger adults and promote the company's portfolio of depression treatments.&lt;/li&gt;
+  &lt;li&gt;&lt;b&gt;MoAs:&lt;/b&gt; N/A&lt;/li&gt;
+  &lt;li&gt;&lt;b&gt;Sources:&lt;/b&gt; &lt;a href="https://www.fiercepharma.com/marketing/johnson-johnson-launches-generation-fine-depression-project"&gt;Fierce Pharma&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;</description>
+      <guid isPermaLink="false">d596244b9b76a32ee72a368b107e1a9c</guid>
+      <pubDate>Fri, 08 May 2026 22:02:24 GMT</pubDate>
     </item>
   </channel>
 </rss>
