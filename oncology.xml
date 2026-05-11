@@ -6,37 +6,26 @@
     <description>News digest covering Oncology.</description>
     <atom:link href="https://www.google.com" rel="self" type="application/rss+xml"/>
     <item>
-      <title>Novartis RLT Centre Construction</title>
+      <title>Inhibrx OX40 Drug</title>
       <link>https://www.google.com</link>
       <description>&lt;ul&gt;
-  &lt;li&gt;&lt;b&gt;Summary:&lt;/b&gt; Construction has begun on a new radioligand therapy (RLT) centre for &lt;b&gt;Novartis&lt;/b&gt;. The facility will support the company's growing pipeline of targeted radiopharmaceuticals, which are used in oncology for precision cancer treatment, building on the success of drugs like &lt;b&gt;Lutathera&lt;/b&gt; and &lt;b&gt;Pluvicto&lt;/b&gt;.&lt;/li&gt;
-  &lt;li&gt;&lt;b&gt;MoAs:&lt;/b&gt; N/A (RLTs combine a targeting ligand with a radioactive isotope to deliver radiation specifically to cancer cells)&lt;/li&gt;
-  &lt;li&gt;&lt;b&gt;Sources:&lt;/b&gt; &lt;a href='https://www.pharmaceutical-technology.com/news/construction-begins-on-novartis-rlt-centre/'&gt;Pharmaceutical Technology&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;b&gt;Summary:&lt;/b&gt; Inhibrx reported positive early data from a mid-phase trial of its OX40-targeting antibody in combination with Merck's Keytruda (pembrolizumab). The combination shrank more tumors than Keytruda alone in patients with advanced solid tumors. Inhibrx’s OX40 agonist is designed to stimulate immune response, and the data has positioned the company as a potential M&amp;A target. The results were presented at a medical meeting, generating interest in the OX40 pathway as a next-generation immuno-oncology target.&lt;/li&gt;
+  &lt;li&gt;&lt;b&gt;MoAs:&lt;/b&gt; OX40 agonist (Inhibrx): Activates OX40 receptor on T cells, promoting T cell proliferation and survival. Pembrolizumab (Keytruda): Anti-PD-1 monoclonal antibody, blocks PD-1/PD-L1 interaction, restoring anti-tumor immune activity.&lt;/li&gt;
+  &lt;li&gt;&lt;b&gt;Sources:&lt;/b&gt; &lt;a href="https://www.oncologypipeline.com/apexonco/inhibrx-sees-positive-ox40-signs"&gt;ApexOnco&lt;/a&gt;, &lt;a href="https://endpoints.news/inhibrx-says-combo-therapy-shrank-more-tumors-than-mercks-keytruda-alone/"&gt;Endpoints News&lt;/a&gt;, &lt;a href="https://www.fiercebiotech.com/biotech/ox40-drug-inhibrx-mooted-ma-target-tops-keytruda-early-look-midphase-data"&gt;Fierce Biotech&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;</description>
-      <guid isPermaLink="false">ec1805f1c5ed712eb7147ed528f76c51</guid>
-      <pubDate>Fri, 08 May 2026 22:02:24 GMT</pubDate>
+      <guid isPermaLink="false">cb8596c47d8606e9535714d8961665b8</guid>
+      <pubDate>Mon, 11 May 2026 22:01:26 GMT</pubDate>
     </item>
     <item>
-      <title>Engene Cancer Sales Forecast Cut</title>
+      <title>Bizengri Approval</title>
       <link>https://www.google.com</link>
       <description>&lt;ul&gt;
-  &lt;li&gt;&lt;b&gt;Summary:&lt;/b&gt; Analysts have cut sales forecasts for &lt;b&gt;Engene&lt;/b&gt;'s cancer therapy after updated clinical data widened the efficacy gap compared to Johnson &amp; Johnson's competing treatment. The revision reflects concerns over the therapy's commercial potential and competitive positioning in the oncology market.&lt;/li&gt;
-  &lt;li&gt;&lt;b&gt;MoAs:&lt;/b&gt; N/A&lt;/li&gt;
-  &lt;li&gt;&lt;b&gt;Sources:&lt;/b&gt; &lt;a href='https://www.fiercebiotech.com/biotech/analysts-cut-engene-cancer-sales-forecast-after-updated-data-widen-gap-jj'&gt;Fierce Biotech&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;b&gt;Summary:&lt;/b&gt; Bizengri, a bispecific antibody developed by Partners Therapeutics, received its seventh FDA priority approval, this time for an ultra-rare bile duct cancer. The drug gained approval quickly after winning a rare pediatric disease priority review voucher. Bizengri targets two tumor-associated antigens and represents a new treatment option for patients with limited alternatives.&lt;/li&gt;
+  &lt;li&gt;&lt;b&gt;MoAs:&lt;/b&gt; Bispecific antibody that binds to two distinct tumor-associated antigens to promote immune-mediated tumor cell killing.&lt;/li&gt;
+  &lt;li&gt;&lt;b&gt;Sources:&lt;/b&gt; &lt;a href="https://www.fiercepharma.com/pharma/partners-bispecific-bizengri-nabs-7th-fda-national-priority-nod-rare-bile-duct-cancer"&gt;Fierce Pharma&lt;/a&gt;, &lt;a href="https://www.oncologypipeline.com/apexonco/out-nowhere-comes-super-fast-bizengri-approval"&gt;ApexOnco&lt;/a&gt;, &lt;a href="https://www.biospace.com/fda/partners-bizengri-cleared-by-fda-for-ultra-rare-cancer-days-after-winning-priority-voucher"&gt;BioSpace&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;</description>
-      <guid isPermaLink="false">f1115a178b433d2054dd227f04dc35d2</guid>
-      <pubDate>Fri, 08 May 2026 22:02:24 GMT</pubDate>
-    </item>
-    <item>
-      <title>Zai Lab Combo Therapy</title>
-      <link>https://www.google.com</link>
-      <description>&lt;ul&gt;
-  &lt;li&gt;&lt;b&gt;Summary:&lt;/b&gt; Zai Lab presents its strategy and rationale for developing combination therapies, highlighting preclinical and clinical data supporting the synergistic potential of its pipeline agents in oncology. The article argues for the value of combinatorial approaches in overcoming resistance and improving patient outcomes.&lt;/li&gt;
-  &lt;li&gt;&lt;b&gt;MoAs:&lt;/b&gt; N/A&lt;/li&gt;
-  &lt;li&gt;&lt;b&gt;Sources:&lt;/b&gt; &lt;a href="https://www.oncologypipeline.com/apexonco/zai-argues-case-combos"&gt;ApexOnco&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;</description>
-      <guid isPermaLink="false">8fe844595c88589496a0dd2789382977</guid>
-      <pubDate>Fri, 08 May 2026 22:02:24 GMT</pubDate>
+      <guid isPermaLink="false">c5cc6987b5f7250465bb387c7d329e2b</guid>
+      <pubDate>Mon, 11 May 2026 22:01:26 GMT</pubDate>
     </item>
   </channel>
 </rss>
