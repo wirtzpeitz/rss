@@ -6,26 +6,48 @@
     <description>News digest covering Neurology.</description>
     <atom:link href="https://www.google.com" rel="self" type="application/rss+xml"/>
     <item>
-      <title>Leqembi FDA Delay</title>
+      <title>Novo's Parkinson's Cell Therapy</title>
       <link>https://www.google.com</link>
       <description>&lt;ul&gt;
-  &lt;li&gt;&lt;b&gt;Summary:&lt;/b&gt; The FDA has delayed its decision on &lt;b&gt;Biogen&lt;/b&gt; and &lt;b&gt;Eisai&lt;/b&gt;'s subcutaneous formulation of &lt;b&gt;Leqembi&lt;/b&gt; (lecanemab) for Alzheimer's disease by three months. The delay may impact the rollout of the more convenient dosing option. Leqembi is an anti-amyloid beta antibody already approved intravenously.&lt;/li&gt;
-  &lt;li&gt;&lt;b&gt;MoAs:&lt;/b&gt; Lecanemab is a humanized monoclonal antibody that targets soluble amyloid beta protofibrils, reducing amyloid plaques in the brain.&lt;/li&gt;
-  &lt;li&gt;&lt;b&gt;Sources:&lt;/b&gt; &lt;a href='https://endpoints.news/fda-delays-leqembi-decision-artiva-raises-300m-pharvaris-prices-offering/'&gt;Endpoints News&lt;/a&gt;, &lt;a href='https://www.biospace.com/fda/biogen-eisai-hit-with-3-month-delay-for-starting-subq-alzheimers-therapy'&gt;BioSpace&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;b&gt;Summary:&lt;/b&gt; Cellular Intelligence has licensed Novo Nordisk’s shelved Parkinson’s disease cell therapy program. The program involves transplanting dopamine-producing neurons derived from stem cells to replace those lost in Parkinson's disease. Novo Nordisk had deprioritized the asset, but Cellular Intelligence plans to advance it into clinical development. The deal highlights continued interest in cell therapy approaches for neurodegenerative disorders.&lt;/li&gt;
+  &lt;li&gt;&lt;b&gt;MoAs:&lt;/b&gt; Cell therapy: Replacement of dopamine-producing neurons via transplantation of stem cell-derived dopaminergic neurons.&lt;/li&gt;
+  &lt;li&gt;&lt;b&gt;Sources:&lt;/b&gt; &lt;a href="https://www.pharmaceutical-technology.com/news/cellular-intelligence-licenses-novos-shelved-parkinsons-cell-therapy-programme/"&gt;Pharmaceutical Technology&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;</description>
-      <guid isPermaLink="false">00fd397cad051d9093d4748e1bfcbdff</guid>
-      <pubDate>Fri, 08 May 2026 22:02:24 GMT</pubDate>
+      <guid isPermaLink="false">9e86420e4e57e01f31f52c38c3f5c941</guid>
+      <pubDate>Mon, 11 May 2026 22:01:26 GMT</pubDate>
     </item>
     <item>
-      <title>J&amp;J Depression Project</title>
+      <title>Medicare Alzheimer's Drugs Leqembi/Kisunla</title>
       <link>https://www.google.com</link>
       <description>&lt;ul&gt;
-  &lt;li&gt;&lt;b&gt;Summary:&lt;/b&gt; Johnson &amp; Johnson launches the 'Generation Fine' depression project, a marketing and awareness initiative aimed at destigmatizing depression and encouraging earlier intervention. The campaign leverages digital tools and partnerships to reach younger adults and promote the company's portfolio of depression treatments.&lt;/li&gt;
-  &lt;li&gt;&lt;b&gt;MoAs:&lt;/b&gt; N/A&lt;/li&gt;
-  &lt;li&gt;&lt;b&gt;Sources:&lt;/b&gt; &lt;a href="https://www.fiercepharma.com/marketing/johnson-johnson-launches-generation-fine-depression-project"&gt;Fierce Pharma&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;b&gt;Summary:&lt;/b&gt; Medicare spending on Alzheimer's drugs Leqembi (lecanemab) and Kisunla (donanemab) has been lower than expected, partly due to lower-than-projected uptake and a narrower billing system that has prompted lobbying from manufacturers. The drugs, which slow cognitive decline by clearing amyloid beta, face challenges including limited patient eligibility, infusion requirements, and the need for regular monitoring. Despite initial hype, actual utilization has been modest, leading to lower government outlays than budgeted.&lt;/li&gt;
+  &lt;li&gt;&lt;b&gt;MoAs:&lt;/b&gt; Lecanemab (Leqembi): Anti-amyloid beta monoclonal antibody, clears soluble amyloid protofibrils. Donanemab (Kisunla): Anti-amyloid beta monoclonal antibody, targets pyroglutamate-modified amyloid beta plaques.&lt;/li&gt;
+  &lt;li&gt;&lt;b&gt;Sources:&lt;/b&gt; &lt;a href="https://www.statnews.com/2026/05/11/medicare-alzheimers-drugs-leqembi-kisunla-surprise-billing-lobbying/?utm_campaign=rss"&gt;STAT News&lt;/a&gt;, &lt;a href="https://www.statnews.com/2026/05/11/medicare-spending-less-than-expected-alzheimers-drugs-leqembi-kisunla/?utm_campaign=rss"&gt;STAT News&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;</description>
-      <guid isPermaLink="false">d596244b9b76a32ee72a368b107e1a9c</guid>
-      <pubDate>Fri, 08 May 2026 22:02:24 GMT</pubDate>
+      <guid isPermaLink="false">61d7bac7181e0280c2dec7512684b630</guid>
+      <pubDate>Mon, 11 May 2026 22:01:26 GMT</pubDate>
+    </item>
+    <item>
+      <title>Novo's Parkinson's Cell Therapy (Endpoints)</title>
+      <link>https://www.google.com</link>
+      <description>&lt;ul&gt;
+  &lt;li&gt;&lt;b&gt;Summary:&lt;/b&gt; Novo Nordisk is pursuing a Parkinson's disease cell therapy program, with news that the therapy has found a new home within the company. Separately, GSK is turning to China for a hepatitis B drug, indicating a broader trend of Western pharma tapping into Chinese biotech innovation.&lt;/li&gt;
+  &lt;li&gt;&lt;b&gt;MoAs:&lt;/b&gt; Cell replacement therapy using dopaminergic neurons derived from stem cells to restore dopamine production in the brains of Parkinson's patients.&lt;/li&gt;
+  &lt;li&gt;&lt;b&gt;Sources:&lt;/b&gt; &lt;a href="https://endpoints.news/new-home-for-novos-parkinsons-cell-therapy-gsk-turns-to-china-for-hep-b-drug/"&gt;Endpoints News&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;</description>
+      <guid isPermaLink="false">12a7d1ef2b528668e0292815f47fdced</guid>
+      <pubDate>Mon, 11 May 2026 22:01:26 GMT</pubDate>
+    </item>
+    <item>
+      <title>Medicare Alzheimer's Drugs Estrogen Patch</title>
+      <link>https://www.google.com</link>
+      <description>&lt;ul&gt;
+  &lt;li&gt;&lt;b&gt;Summary:&lt;/b&gt; The article discusses a shortage of estrogen patches used for treating Alzheimer's disease, and how Medicare's coverage policies for Alzheimer's drugs are affecting patient access. The estrogen patch shortage exacerbates challenges for patients relying on hormone therapy for Alzheimer's. No specific drug names are highlighted.&lt;/li&gt;
+  &lt;li&gt;&lt;b&gt;MoAs:&lt;/b&gt; N/A&lt;/li&gt;
+  &lt;li&gt;&lt;b&gt;Sources:&lt;/b&gt; &lt;a href='https://www.statnews.com/pharmalot/2026/05/11/medicare-alzheimers-drugs-estrogen-patch-shortage/?utm_campaign=rss'&gt;Stat News&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;</description>
+      <guid isPermaLink="false">490064f4949148a7ce21242b883e1f85</guid>
+      <pubDate>Mon, 11 May 2026 22:01:26 GMT</pubDate>
     </item>
   </channel>
 </rss>
