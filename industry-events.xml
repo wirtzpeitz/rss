@@ -6,125 +6,92 @@
     <description>News digest covering Industry Events.</description>
     <atom:link href="https://www.google.com" rel="self" type="application/rss+xml"/>
     <item>
-      <title>FDA Commissioner Makary Exit</title>
+      <title>Biotech News Roundup</title>
       <link>https://www.google.com</link>
       <description>&lt;ul&gt;
-  &lt;li&gt;&lt;b&gt;Summary:&lt;/b&gt; Multiple reports indicate that President Trump has signed off on plans to oust FDA Commissioner &lt;b&gt;Marty Makary&lt;/b&gt;. Makary's tenure has been controversial, drawing significant attention from industry stakeholders. Lawmakers and former FDA leaders have weighed in on the situation, which is expected to have broad implications for the agency's direction.&lt;/li&gt;
+  &lt;li&gt;&lt;b&gt;Summary:&lt;/b&gt; A roundup of biotech news covering Inhibrx, Fractyl, gene therapy developments, Capricor, the Bizengri voucher, and argenx. The article highlights multiple companies and developments across the sector, providing a snapshot of recent events in the biotech industry.&lt;/li&gt;
   &lt;li&gt;&lt;b&gt;MoAs:&lt;/b&gt; N/A&lt;/li&gt;
-  &lt;li&gt;&lt;b&gt;Sources:&lt;/b&gt; &lt;a href='https://www.fiercepharma.com/pharma/trump-plans-fire-fda-chief-makary-report'&gt;Fierce Pharma&lt;/a&gt;, &lt;a href='https://www.statnews.com/2026/05/08/fda-commissioner-marty-makary-exit-controversial-tenure/?utm_campaign=rss'&gt;STAT News&lt;/a&gt;, &lt;a href='https://www.biospace.com/fda/trump-signs-off-on-plan-to-oust-embattled-fda-commissioner-marty-makary-report'&gt;BioSpace&lt;/a&gt;, &lt;a href='https://endpoints.news/fda-commissioner-makary-to-be-fired/'&gt;Endpoints News&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;b&gt;Sources:&lt;/b&gt; &lt;a href="https://www.biopharmadive.com/news/inhibrx-fractyl-gene-therapy-capricor-bizengri-voucher-argenx/819798/"&gt;BioPharma Dive&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;</description>
-      <guid isPermaLink="false">b517a3606602fb2a998bd6f8418a7c22</guid>
-      <pubDate>Fri, 08 May 2026 22:02:24 GMT</pubDate>
+      <guid isPermaLink="false">010a8342dc68da65950eddecdecb4cbe</guid>
+      <pubDate>Mon, 11 May 2026 22:01:26 GMT</pubDate>
     </item>
     <item>
-      <title>Mifepristone Supreme Court</title>
+      <title>Biotech Layoffs</title>
       <link>https://www.google.com</link>
       <description>&lt;ul&gt;
-  &lt;li&gt;&lt;b&gt;Summary:&lt;/b&gt; Lawmakers and former FDA leaders are rallying behind &lt;b&gt;mifepristone&lt;/b&gt; as the Supreme Court weighs the drug's fate. The case could have broad implications for FDA authority and drug access. A broad coalition has filed amicus briefs supporting continued access to the abortion pill.&lt;/li&gt;
-  &lt;li&gt;&lt;b&gt;MoAs:&lt;/b&gt; Mifepristone is a progesterone receptor antagonist that blocks the hormone needed for pregnancy to continue, used in medication abortion.&lt;/li&gt;
-  &lt;li&gt;&lt;b&gt;Sources:&lt;/b&gt; &lt;a href='https://www.fiercepharma.com/pharma/lawmakers-former-fda-leaders-and-more-rally-behind-mifepristone-supreme-court-weighs'&gt;Fierce Pharma&lt;/a&gt;, &lt;a href='https://www.statnews.com/2026/05/08/supreme-court-mifepristone-amicus-briefs-pharma-former-fda-leaders/?utm_campaign=rss'&gt;STAT News&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;</description>
-      <guid isPermaLink="false">b5a2648eb2ad7cae20b4cbc3ae16553c</guid>
-      <pubDate>Fri, 08 May 2026 22:02:24 GMT</pubDate>
-    </item>
-    <item>
-      <title>Japan FY26 Price Revision</title>
-      <link>https://www.google.com</link>
-      <description>&lt;ul&gt;
-  &lt;li&gt;&lt;b&gt;Summary:&lt;/b&gt; Japan's FY26 drug price revision is expected to impact pharmaceutical companies operating in the country. The annual revision process adjusts reimbursement prices, affecting market dynamics and company revenues. Analysts assess potential implications for global drugmakers.&lt;/li&gt;
+  &lt;li&gt;&lt;b&gt;Summary:&lt;/b&gt; A report details recent biotech layoffs across the industry, reflecting ongoing cost-cutting and restructuring efforts as companies prioritize pipelines and extend cash runways in a challenging funding environment.&lt;/li&gt;
   &lt;li&gt;&lt;b&gt;MoAs:&lt;/b&gt; N/A&lt;/li&gt;
-  &lt;li&gt;&lt;b&gt;Sources:&lt;/b&gt; &lt;a href='https://www.pharmaceutical-technology.com/analyst-comment/japan-fy26-price-revision/'&gt;Pharmaceutical Technology&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;b&gt;Sources:&lt;/b&gt; &lt;a href="https://www.biopharmadive.com/news/biotech-layoffs-pharma-drug-jobs/819802/"&gt;BioPharma Dive&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;</description>
-      <guid isPermaLink="false">87e2688504ae5f3f3247d2ede6e1e399</guid>
-      <pubDate>Fri, 08 May 2026 22:02:24 GMT</pubDate>
+      <guid isPermaLink="false">22030dde0d8c832acc4af72bb28e781b</guid>
+      <pubDate>Mon, 11 May 2026 22:01:26 GMT</pubDate>
     </item>
     <item>
-      <title>AI in Pharma R&amp;D</title>
+      <title>FDA Makary Removal</title>
       <link>https://www.google.com</link>
       <description>&lt;ul&gt;
-  &lt;li&gt;&lt;b&gt;Summary:&lt;/b&gt; The role of artificial intelligence in pharmaceutical R&amp;D is evolving, with AI-guided labs approaching full autonomy. However, there is a talent gap as young AI experts often shun careers at large drugmakers, preferring tech companies. The industry continues to explore AI to accelerate drug discovery.&lt;/li&gt;
+  &lt;li&gt;&lt;b&gt;Summary:&lt;/b&gt; The reported removal of Dr. Martin Makary from the FDA could have broad positive implications for the biopharma industry, potentially signaling regulatory shifts. The article analyzes how leadership changes may affect drug approval processes and industry dynamics.&lt;/li&gt;
   &lt;li&gt;&lt;b&gt;MoAs:&lt;/b&gt; N/A&lt;/li&gt;
-  &lt;li&gt;&lt;b&gt;Sources:&lt;/b&gt; &lt;a href='https://www.pharmaceutical-technology.com/features/ai-guided-labs-are-approaching-full-autonomy/'&gt;Pharmaceutical Technology&lt;/a&gt;, &lt;a href='https://endpoints.news/pharma-not-really-top-young-ai-talent-shuns-careers-at-big-drugmakers/'&gt;Endpoints News&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;b&gt;Sources:&lt;/b&gt; &lt;a href='https://www.biospace.com/fda/makarys-reported-fda-removal-could-be-broad-positive-for-biopharma'&gt;BioSpace&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;</description>
-      <guid isPermaLink="false">9d412cad49847f25072b4e73408cf50d</guid>
-      <pubDate>Fri, 08 May 2026 22:02:24 GMT</pubDate>
+      <guid isPermaLink="false">4914ae329c1454a38c965811b7227fea</guid>
+      <pubDate>Mon, 11 May 2026 22:01:26 GMT</pubDate>
     </item>
     <item>
-      <title>Targeted Protein Degradation</title>
+      <title>FDA Pregnancy Safety Studies</title>
       <link>https://www.google.com</link>
       <description>&lt;ul&gt;
-  &lt;li&gt;&lt;b&gt;Summary:&lt;/b&gt; A sponsored feature discussing the emergence of targeted protein degradation (TPD) as a frontline modality in drug discovery. The piece covers key technological advances, major players, and the potential of TPD to address previously undruggable targets, signaling a shift in the pharmaceutical R&amp;D landscape.&lt;/li&gt;
+  &lt;li&gt;&lt;b&gt;Summary:&lt;/b&gt; The FDA issued final guidance on post-approval safety studies for drugs used during pregnancy. The guidance outlines requirements for monitoring long-term safety and efficacy in pregnant populations, impacting drug developers and regulatory submissions.&lt;/li&gt;
   &lt;li&gt;&lt;b&gt;MoAs:&lt;/b&gt; N/A&lt;/li&gt;
-  &lt;li&gt;&lt;b&gt;Sources:&lt;/b&gt; &lt;a href="https://www.fiercepharma.com/sponsored/targeted-protein-degradation-and-novel-modalities-getting-frontline"&gt;Fierce Pharma&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;b&gt;Sources:&lt;/b&gt; &lt;a href='https://www.pharmaceutical-technology.com/news/fda-final-guidance-pregnancy-post-approval-safety-studies/'&gt;Pharmaceutical Technology&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;</description>
-      <guid isPermaLink="false">653312ace2c41cd7d6ce12ad9f85382e</guid>
-      <pubDate>Fri, 08 May 2026 22:02:24 GMT</pubDate>
+      <guid isPermaLink="false">2c470206f039f1cb446a5d529bdfc7c4</guid>
+      <pubDate>Mon, 11 May 2026 22:01:26 GMT</pubDate>
     </item>
     <item>
-      <title>FDA EBVallo Leqembi Iqlik Argenx Blackstone Anagram</title>
+      <title>Biopharma Logistics</title>
       <link>https://www.google.com</link>
       <description>&lt;ul&gt;
-  &lt;li&gt;&lt;b&gt;Summary:&lt;/b&gt; A roundup of recent FDA actions and corporate moves, including updates on EBVallo (cell therapy for EBV), Leqembi (lecanemab for Alzheimer's), Iqlik, Argenx (efgartigimod), Blackstone's investments, and Anagram's pipeline. The article provides a snapshot of regulatory decisions, funding deals, and strategic shifts affecting the biopharma sector.&lt;/li&gt;
-  &lt;li&gt;&lt;b&gt;MoAs:&lt;/b&gt; Lecanemab: Anti-amyloid beta monoclonal antibody. EBVallo: Allogeneic T-cell therapy targeting EBV. Argenx (efgartigimod): FcRn antagonist.&lt;/li&gt;
-  &lt;li&gt;&lt;b&gt;Sources:&lt;/b&gt; &lt;a href="https://www.biopharmadive.com/news/fda-ebvallo-leqembi-iqlik-argenx-blackstone-anagram/819557/"&gt;BioPharma Dive&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;</description>
-      <guid isPermaLink="false">597471f329baf55683f2fd1b8d75362c</guid>
-      <pubDate>Fri, 08 May 2026 22:02:24 GMT</pubDate>
-    </item>
-    <item>
-      <title>Pharma Tariff Reality</title>
-      <link>https://www.google.com</link>
-      <description>&lt;ul&gt;
-  &lt;li&gt;&lt;b&gt;Summary:&lt;/b&gt; An analysis of the practical impact of tariffs on the pharmaceutical industry, examining supply chain vulnerabilities, cost pressures on drug manufacturers, and potential pricing implications. The article discusses how recent trade policies are reshaping sourcing and manufacturing decisions.&lt;/li&gt;
+  &lt;li&gt;&lt;b&gt;Summary:&lt;/b&gt; Two articles discuss critical operations in biopharma logistics, including precision in cold chain management and the capacity crunch driven by location challenges. These logistical issues impact supply chain efficiency and drug availability.&lt;/li&gt;
   &lt;li&gt;&lt;b&gt;MoAs:&lt;/b&gt; N/A&lt;/li&gt;
-  &lt;li&gt;&lt;b&gt;Sources:&lt;/b&gt; &lt;a href="https://www.fiercepharma.com/pharma/revisiting-pharmas-tariff-reality"&gt;Fierce Pharma&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;b&gt;Sources:&lt;/b&gt; &lt;a href='https://www.biopharmadive.com/spons/precision-in-motion-decoding-the-critical-operations-behind-the-logistics/819290/'&gt;BioPharma Dive&lt;/a&gt;, &lt;a href='https://www.biopharmadive.com/spons/the-capacity-crunch-in-biopharma-is-a-location-problem/819159/'&gt;BioPharma Dive&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;</description>
-      <guid isPermaLink="false">b6c4cb912396604ac64d577fe99a4ada</guid>
-      <pubDate>Fri, 08 May 2026 22:02:24 GMT</pubDate>
+      <guid isPermaLink="false">f99f4c5e75ab3a60081ad533f7e7a0f7</guid>
+      <pubDate>Mon, 11 May 2026 22:01:26 GMT</pubDate>
     </item>
     <item>
-      <title>FDA Gender Rule Change</title>
+      <title>AI Doctors Licenses</title>
       <link>https://www.google.com</link>
       <description>&lt;ul&gt;
-  &lt;li&gt;&lt;b&gt;Summary:&lt;/b&gt; The FDA announces a pilot program that changes gender-based rules for inspections, moving towards a more equitable and inclusive process. The article outlines the rationale and expected impact on regulatory oversight, emphasizing transparency and fairness in facility evaluations.&lt;/li&gt;
+  &lt;li&gt;&lt;b&gt;Summary:&lt;/b&gt; The article discusses a pilot program in Utah where AI systems are being considered for medical licensing, raising questions about regulation and scope of practice.&lt;/li&gt;
   &lt;li&gt;&lt;b&gt;MoAs:&lt;/b&gt; N/A&lt;/li&gt;
-  &lt;li&gt;&lt;b&gt;Sources:&lt;/b&gt; &lt;a href="https://www.statnews.com/pharmalot/2026/05/08/fda-gender-rule-change-pilot-program-for-inspections/?utm_campaign=rss"&gt;STAT News&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;b&gt;Sources:&lt;/b&gt; &lt;a href='https://www.statnews.com/2026/05/11/ai-doctors-licenses-utah-doctronic-pilot/?utm_campaign=rss'&gt;STAT&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;</description>
-      <guid isPermaLink="false">21094cc6be43d54cd8650a07a8ea5797</guid>
-      <pubDate>Fri, 08 May 2026 22:02:24 GMT</pubDate>
+      <guid isPermaLink="false">8b7f215a1cb6b61ece4c7cb5b1df7919</guid>
+      <pubDate>Mon, 11 May 2026 22:01:26 GMT</pubDate>
     </item>
     <item>
-      <title>Medicare Pediatric Medical Devices</title>
+      <title>No Surprises Act</title>
       <link>https://www.google.com</link>
       <description>&lt;ul&gt;
-  &lt;li&gt;&lt;b&gt;Summary:&lt;/b&gt; Medicare introduces a rapid pathway for pediatric medical devices, aiming to accelerate access to innovative technologies for children. The article details the program's eligibility criteria, reimbursement structure, and potential implications for device developers and young patients.&lt;/li&gt;
+  &lt;li&gt;&lt;b&gt;Summary:&lt;/b&gt; New rules for the No Surprises Act's dispute resolution process are detailed, aiming to reduce out-of-network billing surprises and streamline arbitration.&lt;/li&gt;
   &lt;li&gt;&lt;b&gt;MoAs:&lt;/b&gt; N/A&lt;/li&gt;
-  &lt;li&gt;&lt;b&gt;Sources:&lt;/b&gt; &lt;a href="https://www.statnews.com/2026/05/08/medicare-rapid-pathway-pediatric-medical-devices/?utm_campaign=rss"&gt;STAT News&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;b&gt;Sources:&lt;/b&gt; &lt;a href='https://www.statnews.com/2026/05/11/no-surprises-act-new-rules-dispute-resolution/?utm_campaign=rss'&gt;STAT&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;</description>
-      <guid isPermaLink="false">eed22cd9fca25a6a39f3c16f27e8e9db</guid>
-      <pubDate>Fri, 08 May 2026 22:02:24 GMT</pubDate>
+      <guid isPermaLink="false">4ec90cd029c43a6c1894b88f660e7453</guid>
+      <pubDate>Mon, 11 May 2026 22:01:26 GMT</pubDate>
     </item>
     <item>
-      <title>Former FDA Regulators Exit</title>
+      <title>FDA Rejections Manufacturing Data</title>
       <link>https://www.google.com</link>
       <description>&lt;ul&gt;
-  &lt;li&gt;&lt;b&gt;Summary:&lt;/b&gt; A report explores the reasons behind a wave of former FDA regulators leaving the agency, including burnout, low morale, and attractive private-sector opportunities. The article discusses the potential consequences for regulatory expertise and drug review timelines, and calls for reforms to retain talent.&lt;/li&gt;
+  &lt;li&gt;&lt;b&gt;Summary:&lt;/b&gt; Published FDA rejection letters reveal that manufacturing data gaps are a leading cause of drug application denials, emphasizing the need for robust quality control.&lt;/li&gt;
   &lt;li&gt;&lt;b&gt;MoAs:&lt;/b&gt; N/A&lt;/li&gt;
-  &lt;li&gt;&lt;b&gt;Sources:&lt;/b&gt; &lt;a href="https://www.statnews.com/2026/05/08/former-fda-regulators-on-why-they-left-status-report/?utm_campaign=rss"&gt;STAT News&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;b&gt;Sources:&lt;/b&gt; &lt;a href='https://www.biospace.com/fda/published-fda-rejections-point-to-manufacturing-data-gaps-as-key-stumbling-blocks'&gt;BioSpace&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;</description>
-      <guid isPermaLink="false">7e4db7cc1633fb18bdf3e1a0b19e137e</guid>
-      <pubDate>Fri, 08 May 2026 22:02:24 GMT</pubDate>
-    </item>
-    <item>
-      <title>Biotech News Roundup Capricor Scientists Age</title>
-      <link>https://www.google.com</link>
-      <description>&lt;ul&gt;
-  &lt;li&gt;&lt;b&gt;Summary:&lt;/b&gt; This week's biotech roundup covers Capricor Therapeutics suing a partner, a study suggesting that scientists become less innovative as they age, and other industry developments.&lt;/li&gt;
-  &lt;li&gt;&lt;b&gt;MoAs:&lt;/b&gt; N/A&lt;/li&gt;
-  &lt;li&gt;&lt;b&gt;Sources:&lt;/b&gt; &lt;a href="https://www.statnews.com/2026/05/08/biotech-news-capricor-sues-partner-scientists-age-more-and-innovate-less/?utm_campaign=rss"&gt;Stat News&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;</description>
-      <guid isPermaLink="false">eee31268d75ad04f4bc2600849b9c0f1</guid>
-      <pubDate>Fri, 08 May 2026 22:02:24 GMT</pubDate>
+      <guid isPermaLink="false">f426caa707b7c99c540517a665273833</guid>
+      <pubDate>Mon, 11 May 2026 22:01:26 GMT</pubDate>
     </item>
   </channel>
 </rss>
