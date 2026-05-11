@@ -6,48 +6,15 @@
     <description>News digest covering Rare Disease.</description>
     <atom:link href="https://www.google.com" rel="self" type="application/rss+xml"/>
     <item>
-      <title>Sarepta Therapeutics and Elevidys</title>
+      <title>Astellas Gene Therapy</title>
       <link>https://www.google.com</link>
       <description>&lt;ul&gt;
-  &lt;li&gt;&lt;b&gt;Summary:&lt;/b&gt; Sarepta Therapeutics reported earnings that fell short of analyst expectations, leading to a decline in stock price. The company is exercising caution in setting expectations for &lt;b&gt;Elevidys&lt;/b&gt;, its gene therapy for Duchenne muscular dystrophy, as it navigates commercial recovery and reimbursement challenges.&lt;/li&gt;
-  &lt;li&gt;&lt;b&gt;MoAs:&lt;/b&gt; Elevidys is a recombinant AAV-based gene therapy that delivers a micro-dystrophin gene to restore dystrophin expression in muscle cells.&lt;/li&gt;
-  &lt;li&gt;&lt;b&gt;Sources:&lt;/b&gt; &lt;a href="https://www.biopharmadive.com/news/sarepta-tumbles-earnings-elevidys-analysts-expecations/819585/"&gt;BioPharma Dive&lt;/a&gt;, &lt;a href="https://www.biospace.com/business/sarepta-says-to-exercise-prudence-in-setting-expectations-for-elevidys-recovery"&gt;BioSpace&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;b&gt;Summary:&lt;/b&gt; Astellas' gene therapy offers new hope to the rare disease community, particularly for patients with myotubular myopathy. Clinical trials for the therapy have resumed after a pause, showing promising early results in treating this devastating neuromuscular disorder.&lt;/li&gt;
+  &lt;li&gt;&lt;b&gt;MoAs:&lt;/b&gt; AAV-mediated gene replacement therapy delivering a functional copy of the MTM1 gene to muscle cells, addressing the underlying genetic defect of myotubular myopathy.&lt;/li&gt;
+  &lt;li&gt;&lt;b&gt;Sources:&lt;/b&gt; &lt;a href="https://www.statnews.com/2026/05/11/biotech-news-astellas-treatment-offers-hope-to-rare-disease-community/?utm_campaign=rss"&gt;STAT News&lt;/a&gt;, &lt;a href="https://www.statnews.com/2026/05/11/astellas-gene-therapy-trials-resume-promising-myotubular-myopathy-treatment/?utm_campaign=rss"&gt;STAT News&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;</description>
-      <guid isPermaLink="false">6bc0f9e864399ca91d6f9a12df8f1af3</guid>
-      <pubDate>Thu, 07 May 2026 22:01:27 GMT</pubDate>
-    </item>
-    <item>
-      <title>Entrada Therapeutics Duchenne Data</title>
-      <link>https://www.google.com</link>
-      <description>&lt;ul&gt;
-  &lt;li&gt;&lt;b&gt;Summary:&lt;/b&gt; &lt;b&gt;Entrada Therapeutics&lt;/b&gt; released disappointing clinical data for its Duchenne muscular dystrophy candidate, leading to a steep decline in its stock price. The early-stage trial results fell below expectations, handing a competitive advantage to &lt;b&gt;Novartis&lt;/b&gt; and other players in the Duchenne space. Entrada's therapy targets exon 44 skipping using a cell-penetrating peptide conjugated to an antisense oligonucleotide.&lt;/li&gt;
-  &lt;li&gt;&lt;b&gt;MoAs:&lt;/b&gt; The drug (likely &lt;b&gt;ENTR-601-44&lt;/b&gt;) is an antisense oligonucleotide that induces exon 44 skipping in the dystrophin gene, aiming to restore the reading frame and produce functional dystrophin.&lt;/li&gt;
-  &lt;li&gt;&lt;b&gt;Sources:&lt;/b&gt; &lt;a href="https://www.biopharmadive.com/news/entrada-duchenne-data-stock-biotech-clinical-trial/819602/"&gt;BioPharma Dive&lt;/a&gt;, &lt;a href="https://endpoints.news/entrada-stock-falls-on-duchenne-data-wegovy-expands-access/"&gt;Endpoints News&lt;/a&gt;, &lt;a href="https://www.fiercebiotech.com/biotech/entradas-stock-craters-dmd-data-underperform-expectations-handing-advantage-novartis"&gt;Fierce Biotech&lt;/a&gt;, &lt;a href="https://www.biospace.com/drug-development/entrada-crashes-as-duchenne-therapy-comes-in-below-expectations-in-early-study"&gt;BioSpace&lt;/a&gt;, &lt;a href="https://www.statnews.com/2026/05/07/entrada-duchenne-exon-skipping-study-disappointment/?utm_campaign=rss"&gt;STAT News&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;</description>
-      <guid isPermaLink="false">9b6a3d1316c9cb213875fc2127d9834b</guid>
-      <pubDate>Thu, 07 May 2026 22:01:27 GMT</pubDate>
-    </item>
-    <item>
-      <title>Blackstone Investment in Anagram for Cystic Fibrosis</title>
-      <link>https://www.google.com</link>
-      <description>&lt;ul&gt;
-  &lt;li&gt;&lt;b&gt;Summary:&lt;/b&gt; Investment firm &lt;b&gt;Blackstone&lt;/b&gt; has invested $250 million in &lt;b&gt;Anagram Therapeutics&lt;/b&gt; to address complications of cystic fibrosis (CF), specifically gastrointestinal manifestations. The funding supports Anagram's pipeline targeting CF-related exocrine pancreatic insufficiency and other gut issues.&lt;/li&gt;
-  &lt;li&gt;&lt;b&gt;MoAs:&lt;/b&gt; Not applicable (investment theme; Anagram's pipeline includes therapies targeting pancreatic enzyme replacement and gastrointestinal health in CF).&lt;/li&gt;
-  &lt;li&gt;&lt;b&gt;Sources:&lt;/b&gt; &lt;a href="https://endpoints.news/blackstone-puts-250m-into-anagram-to-tackle-cystic-fibrosis-complication/"&gt;Endpoints News&lt;/a&gt;, &lt;a href="https://www.fiercebiotech.com/biotech/blackstone-invests-250m-anagram-reduce-burden-cf-complication"&gt;Fierce Biotech&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;</description>
-      <guid isPermaLink="false">3950200f763533751f9c41386096c6e3</guid>
-      <pubDate>Thu, 07 May 2026 22:01:27 GMT</pubDate>
-    </item>
-    <item>
-      <title>Fibrosis IPF and Search for Better Therapies</title>
-      <link>https://www.google.com</link>
-      <description>&lt;ul&gt;
-  &lt;li&gt;&lt;b&gt;Summary:&lt;/b&gt; BioSpace explores the landscape of idiopathic pulmonary fibrosis (IPF) and the ongoing search for more effective therapies beyond current antifibrotic drugs like pirfenidone and nintedanib.&lt;/li&gt;
-  &lt;li&gt;&lt;b&gt;MoAs:&lt;/b&gt; Antifibrotic agents (e.g., TGF-β inhibition, tyrosine kinase inhibition); emerging mechanisms include integrin antagonists, autotaxin inhibitors, and senolytics&lt;/li&gt;
-  &lt;li&gt;&lt;b&gt;Sources:&lt;/b&gt; &lt;a href="https://www.biospace.com/drug-development/fibrosis-ipf-and-the-search-for-better-therapies"&gt;BioSpace&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;</description>
-      <guid isPermaLink="false">893fca0495aa479ca02c8421ca1244aa</guid>
-      <pubDate>Thu, 07 May 2026 22:01:27 GMT</pubDate>
+      <guid isPermaLink="false">6937bb7d6ddd1a9dff3d7788e672ee45</guid>
+      <pubDate>Mon, 11 May 2026 22:01:26 GMT</pubDate>
     </item>
   </channel>
 </rss>
