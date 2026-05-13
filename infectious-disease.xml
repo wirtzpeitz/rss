@@ -6,48 +6,15 @@
     <description>News digest covering Infectious Disease.</description>
     <atom:link href="https://www.google.com" rel="self" type="application/rss+xml"/>
     <item>
-      <title>GSK China Deal Bepirovirsen</title>
-      <link>https://www.google.com</link>
-      <description>&lt;ul&gt;
-  &lt;li&gt;&lt;b&gt;Summary:&lt;/b&gt; GSK has struck a deal with a Chinese biotech (Sino Biopharmaceutical) to license bepirovirsen, an antisense oligonucleotide therapy for chronic hepatitis B. The agreement gives GSK global rights to the drug outside of China, while the Chinese partner retains rights in its home market. Bepirovirsen is currently in late-stage clinical trials and has shown promise in achieving functional cure for hepatitis B by reducing viral DNA and surface antigen levels. The deal underscores GSK’s commitment to expanding its infectious disease pipeline.&lt;/li&gt;
-  &lt;li&gt;&lt;b&gt;MoAs:&lt;/b&gt; Bepirovirsen: Antisense oligonucleotide (ASO) targeting hepatitis B virus RNA, reduces production of viral proteins and inhibits viral replication.&lt;/li&gt;
-  &lt;li&gt;&lt;b&gt;Sources:&lt;/b&gt; &lt;a href="https://www.biopharmadive.com/news/gsk-china-deal-sino-bepirovirsen-hepatitis-b/819818/"&gt;BioPharma Dive&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;</description>
-      <guid isPermaLink="false">6560572fadff82a9c5b912dbc121ce00</guid>
-      <pubDate>Mon, 11 May 2026 22:01:26 GMT</pubDate>
-    </item>
-    <item>
-      <title>Rare Animal Skin Infection</title>
-      <link>https://www.google.com</link>
-      <description>&lt;ul&gt;
-  &lt;li&gt;&lt;b&gt;Summary:&lt;/b&gt; The article reports on clusters of a rare skin infection caused by Dermatophilus congolensis in Europe, primarily affecting men who have sex with men (MSM). This zoonotic infection raises public health concerns.&lt;/li&gt;
-  &lt;li&gt;&lt;b&gt;MoAs:&lt;/b&gt; N/A&lt;/li&gt;
-  &lt;li&gt;&lt;b&gt;Sources:&lt;/b&gt; &lt;a href='https://www.statnews.com/2026/05/11/rare-animal-skin-infection-msm-clusters-europe-dermatophilus-congolensis/?utm_campaign=rss'&gt;STAT&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;</description>
-      <guid isPermaLink="false">5f9320d3c05e07fc229be922f9029cee</guid>
-      <pubDate>Mon, 11 May 2026 22:01:26 GMT</pubDate>
-    </item>
-    <item>
-      <title>RSV Vaccine R&amp;D</title>
-      <link>https://www.google.com</link>
-      <description>&lt;ul&gt;
-  &lt;li&gt;&lt;b&gt;Summary:&lt;/b&gt; Advances in RSV vaccine research and development are reviewed, including multiple candidates in late-stage trials targeting older adults and infants.&lt;/li&gt;
-  &lt;li&gt;&lt;b&gt;MoAs:&lt;/b&gt; Prefusion F protein stabilization, viral vector (e.g., adenovirus), or live-attenuated RSV.&lt;/li&gt;
-  &lt;li&gt;&lt;b&gt;Sources:&lt;/b&gt; &lt;a href='https://www.biospace.com/advances-in-rsv-vaccine-research-and-development'&gt;BioSpace&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;</description>
-      <guid isPermaLink="false">fe7a6bd1b66f874e8e9e6d8a6f24763f</guid>
-      <pubDate>Mon, 11 May 2026 22:01:26 GMT</pubDate>
-    </item>
-    <item>
       <title>Hantavirus Outbreak</title>
       <link>https://www.google.com</link>
       <description>&lt;ul&gt;
-  &lt;li&gt;&lt;b&gt;Summary:&lt;/b&gt; A hantavirus outbreak on the MV Hondius cruise ship leads to CDC deferring to WHO for response, highlighting challenges in international outbreak management.&lt;/li&gt;
+  &lt;li&gt;&lt;b&gt;Summary:&lt;/b&gt; A hantavirus outbreak prompted a CDC briefing and biocontainment response, including actions on a cruise ship. The event also spurred discussions on pandemic preparedness between the CDC and WHO.&lt;/li&gt;
   &lt;li&gt;&lt;b&gt;MoAs:&lt;/b&gt; N/A&lt;/li&gt;
-  &lt;li&gt;&lt;b&gt;Sources:&lt;/b&gt; &lt;a href='https://www.statnews.com/2026/05/09/mv-hondius-hantavirus-outbreak-cdc-takes-back-seat-to-who/?utm_campaign=rss'&gt;STAT&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;b&gt;Sources:&lt;/b&gt; &lt;a href='https://www.statnews.com/2026/05/13/hantavirus-outbreak-cdc-briefing-cruise-ship-outbreak-response/?utm_campaign=rss'&gt;STAT News&lt;/a&gt;, &lt;a href='https://www.statnews.com/2026/05/13/hantavirus-biocontainment-response-cdc-who-pandemic-preparedness/?utm_campaign=rss'&gt;STAT News&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;</description>
-      <guid isPermaLink="false">3d3f96eb2f0c0dc8efdfbc4591c127e5</guid>
-      <pubDate>Mon, 11 May 2026 22:01:26 GMT</pubDate>
+      <guid isPermaLink="false">fc253a6c75d693f67ff1f9122dd09c54</guid>
+      <pubDate>Wed, 13 May 2026 22:00:39 GMT</pubDate>
     </item>
   </channel>
 </rss>
