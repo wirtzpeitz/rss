@@ -6,26 +6,37 @@
     <description>News digest covering Oncology.</description>
     <atom:link href="https://www.google.com" rel="self" type="application/rss+xml"/>
     <item>
-      <title>Inhibrx OX40 Drug</title>
+      <title>BeOne Medicines (Venclexta Challenger) FDA Approval</title>
       <link>https://www.google.com</link>
       <description>&lt;ul&gt;
-  &lt;li&gt;&lt;b&gt;Summary:&lt;/b&gt; Inhibrx reported positive early data from a mid-phase trial of its OX40-targeting antibody in combination with Merck's Keytruda (pembrolizumab). The combination shrank more tumors than Keytruda alone in patients with advanced solid tumors. Inhibrx’s OX40 agonist is designed to stimulate immune response, and the data has positioned the company as a potential M&amp;A target. The results were presented at a medical meeting, generating interest in the OX40 pathway as a next-generation immuno-oncology target.&lt;/li&gt;
-  &lt;li&gt;&lt;b&gt;MoAs:&lt;/b&gt; OX40 agonist (Inhibrx): Activates OX40 receptor on T cells, promoting T cell proliferation and survival. Pembrolizumab (Keytruda): Anti-PD-1 monoclonal antibody, blocks PD-1/PD-L1 interaction, restoring anti-tumor immune activity.&lt;/li&gt;
-  &lt;li&gt;&lt;b&gt;Sources:&lt;/b&gt; &lt;a href="https://www.oncologypipeline.com/apexonco/inhibrx-sees-positive-ox40-signs"&gt;ApexOnco&lt;/a&gt;, &lt;a href="https://endpoints.news/inhibrx-says-combo-therapy-shrank-more-tumors-than-mercks-keytruda-alone/"&gt;Endpoints News&lt;/a&gt;, &lt;a href="https://www.fiercebiotech.com/biotech/ox40-drug-inhibrx-mooted-ma-target-tops-keytruda-early-look-midphase-data"&gt;Fierce Biotech&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;b&gt;Summary:&lt;/b&gt; BeOne Medicines' &lt;b&gt;Beqalzi (sonrotoclax)&lt;/b&gt; received FDA approval as a first-in-class BCL-2 inhibitor for mantle cell lymphoma, challenging &lt;b&gt;Venclexta (venetoclax)&lt;/b&gt;. The approval was followed by an FDA warning about misleading TV advertisements for the drug.&lt;/li&gt;
+  &lt;li&gt;&lt;b&gt;MoAs:&lt;/b&gt; &lt;b&gt;Sonrotoclax (Beqalzi)&lt;/b&gt;: BCL-2 inhibitor; &lt;b&gt;Venetoclax (Venclexta)&lt;/b&gt;: BCL-2 inhibitor.&lt;/li&gt;
+  &lt;li&gt;&lt;b&gt;Sources:&lt;/b&gt; &lt;a href='https://www.fiercepharma.com/pharma/beone-venclexta-challenger-beqalzi-sonrotoclax-nets-fda-approval-first-bcl-2-mantle-cell'&gt;Fierce Pharma&lt;/a&gt;, &lt;a href='https://www.fiercepharma.com/marketing/beone-medicines-tv-drug-ad-clarity-hit-fda-watchdog-misleading-suggestions'&gt;Fierce Pharma&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;</description>
-      <guid isPermaLink="false">cb8596c47d8606e9535714d8961665b8</guid>
-      <pubDate>Mon, 11 May 2026 22:01:26 GMT</pubDate>
+      <guid isPermaLink="false">b5534e983c9324f9910857ddd79af779</guid>
+      <pubDate>Wed, 13 May 2026 22:00:39 GMT</pubDate>
     </item>
     <item>
-      <title>Bizengri Approval</title>
+      <title>Abeona Therapeutics Pivot to T-Cells</title>
       <link>https://www.google.com</link>
       <description>&lt;ul&gt;
-  &lt;li&gt;&lt;b&gt;Summary:&lt;/b&gt; Bizengri, a bispecific antibody developed by Partners Therapeutics, received its seventh FDA priority approval, this time for an ultra-rare bile duct cancer. The drug gained approval quickly after winning a rare pediatric disease priority review voucher. Bizengri targets two tumor-associated antigens and represents a new treatment option for patients with limited alternatives.&lt;/li&gt;
-  &lt;li&gt;&lt;b&gt;MoAs:&lt;/b&gt; Bispecific antibody that binds to two distinct tumor-associated antigens to promote immune-mediated tumor cell killing.&lt;/li&gt;
-  &lt;li&gt;&lt;b&gt;Sources:&lt;/b&gt; &lt;a href="https://www.fiercepharma.com/pharma/partners-bispecific-bizengri-nabs-7th-fda-national-priority-nod-rare-bile-duct-cancer"&gt;Fierce Pharma&lt;/a&gt;, &lt;a href="https://www.oncologypipeline.com/apexonco/out-nowhere-comes-super-fast-bizengri-approval"&gt;ApexOnco&lt;/a&gt;, &lt;a href="https://www.biospace.com/fda/partners-bizengri-cleared-by-fda-for-ultra-rare-cancer-days-after-winning-priority-voucher"&gt;BioSpace&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;b&gt;Summary:&lt;/b&gt; &lt;b&gt;Abeona Therapeutics&lt;/b&gt; is pivoting its focus to T-cell therapies, signaling a strategic shift from its previous gene therapy programs. The move positions the company to pursue oncology applications.&lt;/li&gt;
+  &lt;li&gt;&lt;b&gt;MoAs:&lt;/b&gt; Adoptive cell therapy (T-cell)&lt;/li&gt;
+  &lt;li&gt;&lt;b&gt;Sources:&lt;/b&gt; &lt;a href="https://endpoints.news/abeona-pivots-to-t-cells-astrazenecas-rare-disease-drug-passes-phase-3/"&gt;Endpoints News&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;</description>
-      <guid isPermaLink="false">c5cc6987b5f7250465bb387c7d329e2b</guid>
-      <pubDate>Mon, 11 May 2026 22:01:26 GMT</pubDate>
+      <guid isPermaLink="false">0558630e8a11e61b910f161f5d6be336</guid>
+      <pubDate>Wed, 13 May 2026 22:00:39 GMT</pubDate>
+    </item>
+    <item>
+      <title>C4 Therapeutics EGFR Degrader Discontinuation</title>
+      <link>https://www.google.com</link>
+      <description>&lt;ul&gt;
+  &lt;li&gt;&lt;b&gt;Summary:&lt;/b&gt; &lt;b&gt;C4 Therapeutics&lt;/b&gt; has discontinued development of its EGFR degrader, a targeted protein degradation asset aimed at treating EGFR-mutant cancers, following a strategic pipeline review.&lt;/li&gt;
+  &lt;li&gt;&lt;b&gt;MoAs:&lt;/b&gt; Targeted protein degradation (EGFR degrader)&lt;/li&gt;
+  &lt;li&gt;&lt;b&gt;Sources:&lt;/b&gt; &lt;a href="https://www.oncologypipeline.com/apexonco/c4-ditches-its-egfr-degrader"&gt;ApexOnco&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;</description>
+      <guid isPermaLink="false">6c604fc2a2e9a4fb641fa933d20fc28a</guid>
+      <pubDate>Wed, 13 May 2026 22:00:39 GMT</pubDate>
     </item>
   </channel>
 </rss>
