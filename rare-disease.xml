@@ -6,15 +6,37 @@
     <description>News digest covering Rare Disease.</description>
     <atom:link href="https://www.google.com" rel="self" type="application/rss+xml"/>
     <item>
-      <title>Astellas Gene Therapy</title>
+      <title>Gene Therapy Safety Concerns</title>
       <link>https://www.google.com</link>
       <description>&lt;ul&gt;
-  &lt;li&gt;&lt;b&gt;Summary:&lt;/b&gt; Astellas' gene therapy offers new hope to the rare disease community, particularly for patients with myotubular myopathy. Clinical trials for the therapy have resumed after a pause, showing promising early results in treating this devastating neuromuscular disorder.&lt;/li&gt;
-  &lt;li&gt;&lt;b&gt;MoAs:&lt;/b&gt; AAV-mediated gene replacement therapy delivering a functional copy of the MTM1 gene to muscle cells, addressing the underlying genetic defect of myotubular myopathy.&lt;/li&gt;
-  &lt;li&gt;&lt;b&gt;Sources:&lt;/b&gt; &lt;a href="https://www.statnews.com/2026/05/11/biotech-news-astellas-treatment-offers-hope-to-rare-disease-community/?utm_campaign=rss"&gt;STAT News&lt;/a&gt;, &lt;a href="https://www.statnews.com/2026/05/11/astellas-gene-therapy-trials-resume-promising-myotubular-myopathy-treatment/?utm_campaign=rss"&gt;STAT News&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;b&gt;Summary:&lt;/b&gt; Reports link gene therapy using viruses to a tumor in a boy, and raise concerns about cancer risks in patients with &lt;b&gt;Mucopolysaccharidosis type I (Hurler syndrome)&lt;/b&gt;, highlighting safety challenges for the field.&lt;/li&gt;
+  &lt;li&gt;&lt;b&gt;MoAs:&lt;/b&gt; N/A&lt;/li&gt;
+  &lt;li&gt;&lt;b&gt;Sources:&lt;/b&gt; &lt;a href='https://www.statnews.com/2026/05/13/biotech-news-gene-therapy-viruses-linked-to-a-boys-tumor/?utm_campaign=rss'&gt;STAT News&lt;/a&gt;, &lt;a href='https://www.statnews.com/2026/05/13/gene-therapy-cancer-risks-mps-hurler-syndrome/?utm_campaign=rss'&gt;STAT News&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;</description>
-      <guid isPermaLink="false">6937bb7d6ddd1a9dff3d7788e672ee45</guid>
-      <pubDate>Mon, 11 May 2026 22:01:26 GMT</pubDate>
+      <guid isPermaLink="false">d966275acaac9cd09e24bb4b54a612c4</guid>
+      <pubDate>Wed, 13 May 2026 22:00:39 GMT</pubDate>
+    </item>
+    <item>
+      <title>Tessera In Vivo Sickle Cell Therapy</title>
+      <link>https://www.google.com</link>
+      <description>&lt;ul&gt;
+  &lt;li&gt;&lt;b&gt;Summary:&lt;/b&gt; &lt;b&gt;Tessera&lt;/b&gt; has revealed the strongest data to date for its in vivo sickle cell therapy, demonstrating significant efficacy in patients with this rare genetic blood disorder.&lt;/li&gt;
+  &lt;li&gt;&lt;b&gt;MoAs:&lt;/b&gt; In vivo gene therapy (gene editing)&lt;/li&gt;
+  &lt;li&gt;&lt;b&gt;Sources:&lt;/b&gt; &lt;a href="https://endpoints.news/tessera-reveals-strongest-data-yet-for-in-vivo-sickle-cell-therapy/"&gt;Endpoints News&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;</description>
+      <guid isPermaLink="false">f0d7601dbd61ea388ba4e1fa2930a339</guid>
+      <pubDate>Wed, 13 May 2026 22:00:39 GMT</pubDate>
+    </item>
+    <item>
+      <title>Encoded Therapeutics Dravet Syndrome Study</title>
+      <link>https://www.google.com</link>
+      <description>&lt;ul&gt;
+  &lt;li&gt;&lt;b&gt;Summary:&lt;/b&gt; A study by &lt;b&gt;Encoded Therapeutics&lt;/b&gt; for Dravet syndrome evaluates the safety tradeoff of &lt;b&gt;sirolimus&lt;/b&gt;, highlighting the balance between seizure reduction and adverse effects in this rare epilepsy.&lt;/li&gt;
+  &lt;li&gt;&lt;b&gt;MoAs:&lt;/b&gt; mTOR inhibition&lt;/li&gt;
+  &lt;li&gt;&lt;b&gt;Sources:&lt;/b&gt; &lt;a href="https://www.statnews.com/2026/05/13/encoded-therapeutics-dravet-syndrome-study-sirolimus-safety-tradeoff/?utm_campaign=rss"&gt;STAT News&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;</description>
+      <guid isPermaLink="false">a6b360f98d8ef0466aa73a3536482788</guid>
+      <pubDate>Wed, 13 May 2026 22:00:39 GMT</pubDate>
     </item>
   </channel>
 </rss>
