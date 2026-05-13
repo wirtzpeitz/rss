@@ -6,92 +6,48 @@
     <description>News digest covering Industry Events.</description>
     <atom:link href="https://www.google.com" rel="self" type="application/rss+xml"/>
     <item>
-      <title>Biotech News Roundup</title>
+      <title>US Overdose Deaths Decline</title>
       <link>https://www.google.com</link>
       <description>&lt;ul&gt;
-  &lt;li&gt;&lt;b&gt;Summary:&lt;/b&gt; A roundup of biotech news covering Inhibrx, Fractyl, gene therapy developments, Capricor, the Bizengri voucher, and argenx. The article highlights multiple companies and developments across the sector, providing a snapshot of recent events in the biotech industry.&lt;/li&gt;
+  &lt;li&gt;&lt;b&gt;Summary:&lt;/b&gt; U.S. overdose deaths declined again in 2025, continuing a positive trend in the public health crisis and reflecting ongoing efforts in prevention and treatment.&lt;/li&gt;
   &lt;li&gt;&lt;b&gt;MoAs:&lt;/b&gt; N/A&lt;/li&gt;
-  &lt;li&gt;&lt;b&gt;Sources:&lt;/b&gt; &lt;a href="https://www.biopharmadive.com/news/inhibrx-fractyl-gene-therapy-capricor-bizengri-voucher-argenx/819798/"&gt;BioPharma Dive&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;b&gt;Sources:&lt;/b&gt; &lt;a href="https://www.statnews.com/2026/05/13/us-overdose-deaths-2025-fell-again/?utm_campaign=rss"&gt;STAT News&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;</description>
-      <guid isPermaLink="false">010a8342dc68da65950eddecdecb4cbe</guid>
-      <pubDate>Mon, 11 May 2026 22:01:26 GMT</pubDate>
+      <guid isPermaLink="false">083dcfdb01c3b8aef284a5e49a049d0f</guid>
+      <pubDate>Wed, 13 May 2026 22:00:39 GMT</pubDate>
     </item>
     <item>
-      <title>Biotech Layoffs</title>
+      <title>Medicare Hospice Enrollment Halt</title>
       <link>https://www.google.com</link>
       <description>&lt;ul&gt;
-  &lt;li&gt;&lt;b&gt;Summary:&lt;/b&gt; A report details recent biotech layoffs across the industry, reflecting ongoing cost-cutting and restructuring efforts as companies prioritize pipelines and extend cash runways in a challenging funding environment.&lt;/li&gt;
+  &lt;li&gt;&lt;b&gt;Summary:&lt;/b&gt; The Centers for Medicare &amp; Medicaid Services (CMS) has halted the enrollment of new hospice and home health providers, citing concerns over fraud and patient safety. This policy change impacts how new providers enter the Medicare program.&lt;/li&gt;
   &lt;li&gt;&lt;b&gt;MoAs:&lt;/b&gt; N/A&lt;/li&gt;
-  &lt;li&gt;&lt;b&gt;Sources:&lt;/b&gt; &lt;a href="https://www.biopharmadive.com/news/biotech-layoffs-pharma-drug-jobs/819802/"&gt;BioPharma Dive&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;b&gt;Sources:&lt;/b&gt; &lt;a href="https://www.statnews.com/2026/05/13/medicare-halts-enrollment-of-new-hospice-home-health-providers/?utm_campaign=rss"&gt;STAT News&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;</description>
-      <guid isPermaLink="false">22030dde0d8c832acc4af72bb28e781b</guid>
-      <pubDate>Mon, 11 May 2026 22:01:26 GMT</pubDate>
+      <guid isPermaLink="false">52549ea88ff7da5a5a3ab2db1c5f8e38</guid>
+      <pubDate>Wed, 13 May 2026 22:00:39 GMT</pubDate>
     </item>
     <item>
-      <title>FDA Makary Removal</title>
+      <title>EU Drug Import Reduction Plans</title>
       <link>https://www.google.com</link>
       <description>&lt;ul&gt;
-  &lt;li&gt;&lt;b&gt;Summary:&lt;/b&gt; The reported removal of Dr. Martin Makary from the FDA could have broad positive implications for the biopharma industry, potentially signaling regulatory shifts. The article analyzes how leadership changes may affect drug approval processes and industry dynamics.&lt;/li&gt;
+  &lt;li&gt;&lt;b&gt;Summary:&lt;/b&gt; The European Union has advanced plans to reduce its reliance on drug imports from non-EU countries, aiming to strengthen pharmaceutical supply chain security and domestic manufacturing capabilities.&lt;/li&gt;
   &lt;li&gt;&lt;b&gt;MoAs:&lt;/b&gt; N/A&lt;/li&gt;
-  &lt;li&gt;&lt;b&gt;Sources:&lt;/b&gt; &lt;a href='https://www.biospace.com/fda/makarys-reported-fda-removal-could-be-broad-positive-for-biopharma'&gt;BioSpace&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;b&gt;Sources:&lt;/b&gt; &lt;a href="https://www.pharmaceutical-technology.com/news/eu-advances-plans-to-reduce-reliance-on-drug-imports/"&gt;Pharmaceutical Technology&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;</description>
-      <guid isPermaLink="false">4914ae329c1454a38c965811b7227fea</guid>
-      <pubDate>Mon, 11 May 2026 22:01:26 GMT</pubDate>
+      <guid isPermaLink="false">741579e28e3834a752e6dd7676be7d46</guid>
+      <pubDate>Wed, 13 May 2026 22:00:39 GMT</pubDate>
     </item>
     <item>
-      <title>FDA Pregnancy Safety Studies</title>
+      <title>AI Medical Devices FDA Secret</title>
       <link>https://www.google.com</link>
       <description>&lt;ul&gt;
-  &lt;li&gt;&lt;b&gt;Summary:&lt;/b&gt; The FDA issued final guidance on post-approval safety studies for drugs used during pregnancy. The guidance outlines requirements for monitoring long-term safety and efficacy in pregnant populations, impacting drug developers and regulatory submissions.&lt;/li&gt;
+  &lt;li&gt;&lt;b&gt;Summary:&lt;/b&gt; An investigation reveals that the FDA's process for clearing AI medical devices is opaque and potentially compromised, with a 'dirty secret' involving undisclosed conflicts of interest and inadequate oversight.&lt;/li&gt;
   &lt;li&gt;&lt;b&gt;MoAs:&lt;/b&gt; N/A&lt;/li&gt;
-  &lt;li&gt;&lt;b&gt;Sources:&lt;/b&gt; &lt;a href='https://www.pharmaceutical-technology.com/news/fda-final-guidance-pregnancy-post-approval-safety-studies/'&gt;Pharmaceutical Technology&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;b&gt;Sources:&lt;/b&gt; &lt;a href="https://www.statnews.com/2026/05/13/ai-medical-devices-dirty-fda-secret-ai-prognosis/?utm_campaign=rss"&gt;STAT News&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;</description>
-      <guid isPermaLink="false">2c470206f039f1cb446a5d529bdfc7c4</guid>
-      <pubDate>Mon, 11 May 2026 22:01:26 GMT</pubDate>
-    </item>
-    <item>
-      <title>Biopharma Logistics</title>
-      <link>https://www.google.com</link>
-      <description>&lt;ul&gt;
-  &lt;li&gt;&lt;b&gt;Summary:&lt;/b&gt; Two articles discuss critical operations in biopharma logistics, including precision in cold chain management and the capacity crunch driven by location challenges. These logistical issues impact supply chain efficiency and drug availability.&lt;/li&gt;
-  &lt;li&gt;&lt;b&gt;MoAs:&lt;/b&gt; N/A&lt;/li&gt;
-  &lt;li&gt;&lt;b&gt;Sources:&lt;/b&gt; &lt;a href='https://www.biopharmadive.com/spons/precision-in-motion-decoding-the-critical-operations-behind-the-logistics/819290/'&gt;BioPharma Dive&lt;/a&gt;, &lt;a href='https://www.biopharmadive.com/spons/the-capacity-crunch-in-biopharma-is-a-location-problem/819159/'&gt;BioPharma Dive&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;</description>
-      <guid isPermaLink="false">f99f4c5e75ab3a60081ad533f7e7a0f7</guid>
-      <pubDate>Mon, 11 May 2026 22:01:26 GMT</pubDate>
-    </item>
-    <item>
-      <title>AI Doctors Licenses</title>
-      <link>https://www.google.com</link>
-      <description>&lt;ul&gt;
-  &lt;li&gt;&lt;b&gt;Summary:&lt;/b&gt; The article discusses a pilot program in Utah where AI systems are being considered for medical licensing, raising questions about regulation and scope of practice.&lt;/li&gt;
-  &lt;li&gt;&lt;b&gt;MoAs:&lt;/b&gt; N/A&lt;/li&gt;
-  &lt;li&gt;&lt;b&gt;Sources:&lt;/b&gt; &lt;a href='https://www.statnews.com/2026/05/11/ai-doctors-licenses-utah-doctronic-pilot/?utm_campaign=rss'&gt;STAT&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;</description>
-      <guid isPermaLink="false">8b7f215a1cb6b61ece4c7cb5b1df7919</guid>
-      <pubDate>Mon, 11 May 2026 22:01:26 GMT</pubDate>
-    </item>
-    <item>
-      <title>No Surprises Act</title>
-      <link>https://www.google.com</link>
-      <description>&lt;ul&gt;
-  &lt;li&gt;&lt;b&gt;Summary:&lt;/b&gt; New rules for the No Surprises Act's dispute resolution process are detailed, aiming to reduce out-of-network billing surprises and streamline arbitration.&lt;/li&gt;
-  &lt;li&gt;&lt;b&gt;MoAs:&lt;/b&gt; N/A&lt;/li&gt;
-  &lt;li&gt;&lt;b&gt;Sources:&lt;/b&gt; &lt;a href='https://www.statnews.com/2026/05/11/no-surprises-act-new-rules-dispute-resolution/?utm_campaign=rss'&gt;STAT&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;</description>
-      <guid isPermaLink="false">4ec90cd029c43a6c1894b88f660e7453</guid>
-      <pubDate>Mon, 11 May 2026 22:01:26 GMT</pubDate>
-    </item>
-    <item>
-      <title>FDA Rejections Manufacturing Data</title>
-      <link>https://www.google.com</link>
-      <description>&lt;ul&gt;
-  &lt;li&gt;&lt;b&gt;Summary:&lt;/b&gt; Published FDA rejection letters reveal that manufacturing data gaps are a leading cause of drug application denials, emphasizing the need for robust quality control.&lt;/li&gt;
-  &lt;li&gt;&lt;b&gt;MoAs:&lt;/b&gt; N/A&lt;/li&gt;
-  &lt;li&gt;&lt;b&gt;Sources:&lt;/b&gt; &lt;a href='https://www.biospace.com/fda/published-fda-rejections-point-to-manufacturing-data-gaps-as-key-stumbling-blocks'&gt;BioSpace&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;</description>
-      <guid isPermaLink="false">f426caa707b7c99c540517a665273833</guid>
-      <pubDate>Mon, 11 May 2026 22:01:26 GMT</pubDate>
+      <guid isPermaLink="false">926102f958fe8c29234b0f851a619097</guid>
+      <pubDate>Wed, 13 May 2026 22:00:39 GMT</pubDate>
     </item>
   </channel>
 </rss>
