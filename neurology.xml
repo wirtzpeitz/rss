@@ -6,15 +6,26 @@
     <description>News digest covering Neurology.</description>
     <atom:link href="https://www.google.com" rel="self" type="application/rss+xml"/>
     <item>
-      <title>Fosun/Aribio Alzheimer's Asset</title>
+      <title>Biogen's Tau Alzheimer's Therapy (BIIB080)</title>
       <link>https://www.google.com</link>
       <description>&lt;ul&gt;
-  &lt;li&gt;&lt;b&gt;Summary:&lt;/b&gt; &lt;b&gt;Fosun&lt;/b&gt; has paid $60 million for an option on &lt;b&gt;Aribio&lt;/b&gt;'s Phase 3 Alzheimer's asset, gaining rights to a potential disease-modifying therapy for this neurodegenerative condition.&lt;/li&gt;
-  &lt;li&gt;&lt;b&gt;MoAs:&lt;/b&gt; N/A&lt;/li&gt;
-  &lt;li&gt;&lt;b&gt;Sources:&lt;/b&gt; &lt;a href="https://www.fiercebiotech.com/biotech/fosun-pays-60m-option-aribios-phase-3-alzheimers-asset"&gt;Fierce Biotech&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;b&gt;Summary:&lt;/b&gt; &lt;b&gt;Biogen&lt;/b&gt; reported mixed results from a mid-stage study of its antisense oligonucleotide &lt;b&gt;BIIB080&lt;/b&gt; (diranersen) targeting tau in Alzheimer's disease. While the drug did not meet its primary endpoint in the Phase 2 trial, the company plans to advance the program to a pivotal Phase 3 study based on signals of cognitive benefit and biomarker reductions. The decision has prompted cautious optimism among analysts, who see potential in the tau-targeting approach as a complement to amyloid therapies like &lt;b&gt;Leqembi&lt;/b&gt;.&lt;/li&gt;
+  &lt;li&gt;&lt;b&gt;MoAs:&lt;/b&gt; Antisense oligonucleotide that reduces tau protein production&lt;/li&gt;
+  &lt;li&gt;&lt;b&gt;Sources:&lt;/b&gt; &lt;a href="https://www.biopharmadive.com/news/biogen-biib080-alzheimers-tau-clinical-results-study-trial/820256/"&gt;BioPharma Dive&lt;/a&gt;, &lt;a href="https://www.biospace.com/drug-development/biogen-takes-tau-alzheimers-therapy-to-phase-3-despite-mid-stage-fail-prompting-cautious-optimism"&gt;BioSpace&lt;/a&gt;, &lt;a href="https://www.fiercebiotech.com/biotech/biogen-advances-alzheimers-tau-program-despite-midphase-miss"&gt;Fierce Biotech&lt;/a&gt;, &lt;a href="https://endpoints.news/biogens-anti-tau-alzheimers-drug-misses-phase-2-goal-but-will-move-to-pivotal-study/"&gt;Endpoints News&lt;/a&gt;, &lt;a href="https://www.statnews.com/2026/05/14/biogen-alzheimers-tau-diranersen-midstage-study-mixed-results/?utm_campaign=rss"&gt;STAT News&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;</description>
-      <guid isPermaLink="false">c63c07d32015f826201343dd53477496</guid>
-      <pubDate>Wed, 13 May 2026 22:00:39 GMT</pubDate>
+      <guid isPermaLink="false">6528928d4d93d7bfeab0c026c70eed44</guid>
+      <pubDate>Thu, 14 May 2026 22:00:31 GMT</pubDate>
+    </item>
+    <item>
+      <title>Coya Therapeutics FDA Status</title>
+      <link>https://www.google.com</link>
+      <description>&lt;ul&gt;
+  &lt;li&gt;&lt;b&gt;Summary:&lt;/b&gt; Coya Therapeutics announced a regulatory update from the FDA regarding its investigational therapy &lt;b&gt;Coya-302&lt;/b&gt;, which is being developed for neurodegenerative diseases.&lt;/li&gt;
+  &lt;li&gt;&lt;b&gt;MoAs:&lt;/b&gt; N/A&lt;/li&gt;
+  &lt;li&gt;&lt;b&gt;Sources:&lt;/b&gt; &lt;a href="https://www.pharmaceutical-technology.com/news/coya-therapeutics-fda-status-coya-302/"&gt;Pharmaceutical Technology&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;</description>
+      <guid isPermaLink="false">d98f43dfdba716ef183b85ef24962d62</guid>
+      <pubDate>Thu, 14 May 2026 22:00:31 GMT</pubDate>
     </item>
   </channel>
 </rss>
