@@ -6,48 +6,59 @@
     <description>News digest covering Industry Events.</description>
     <atom:link href="https://www.google.com" rel="self" type="application/rss+xml"/>
     <item>
-      <title>US Overdose Deaths Decline</title>
+      <title>Regulatory and FDA Policy</title>
       <link>https://www.google.com</link>
       <description>&lt;ul&gt;
-  &lt;li&gt;&lt;b&gt;Summary:&lt;/b&gt; U.S. overdose deaths declined again in 2025, continuing a positive trend in the public health crisis and reflecting ongoing efforts in prevention and treatment.&lt;/li&gt;
+  &lt;li&gt;&lt;b&gt;Summary:&lt;/b&gt; This theme covers a range of U.S. regulatory and FDA policy developments. Key stories include the Supreme Court's decision to preserve access to the abortion pill &lt;b&gt;mifepristone&lt;/b&gt;, speculation about the next FDA commissioner with biopharma leaders rallying behind Dr. Richard &lt;b&gt;Pazdur&lt;/b&gt;, and the FDA floating a potential approach to repurpose approved drugs for new uses. Additionally, there is news about &lt;b&gt;Kyle Diamantas&lt;/b&gt; departing the FDA for biotech. These articles reflect broader industry and political dynamics affecting drug regulation and approval pathways.&lt;/li&gt;
   &lt;li&gt;&lt;b&gt;MoAs:&lt;/b&gt; N/A&lt;/li&gt;
-  &lt;li&gt;&lt;b&gt;Sources:&lt;/b&gt; &lt;a href="https://www.statnews.com/2026/05/13/us-overdose-deaths-2025-fell-again/?utm_campaign=rss"&gt;STAT News&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;b&gt;Sources:&lt;/b&gt; &lt;a href="https://www.statnews.com/2026/05/14/supreme-court-preserves-access-abortion-pill-mifepristone/?utm_campaign=rss"&gt;STAT News&lt;/a&gt;, &lt;a href="https://www.statnews.com/2026/05/14/next-fda-commissioner-bill-cassidy-primary-challenge-dc-diagnosis/?utm_campaign=rss"&gt;STAT News&lt;/a&gt;, &lt;a href="https://www.fiercepharma.com/pharma/biopharma-leaders-rally-behind-pazdur-fda-commissioner-pick-does-he-want-role"&gt;Fierce Pharma&lt;/a&gt;, &lt;a href="https://www.biospace.com/fda/biotech-leaders-pitch-pazdur-as-next-fda-chief"&gt;BioSpace&lt;/a&gt;, &lt;a href="https://www.fiercepharma.com/pharma/fda-floats-potential-approach-repurpose-approved-drugs-under-new-uses"&gt;Fierce Pharma&lt;/a&gt;, &lt;a href="https://www.statnews.com/2026/05/14/fda-kyle-diamantas-biotech/?utm_campaign=rss"&gt;STAT News&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;</description>
-      <guid isPermaLink="false">083dcfdb01c3b8aef284a5e49a049d0f</guid>
-      <pubDate>Wed, 13 May 2026 22:00:39 GMT</pubDate>
+      <guid isPermaLink="false">4e13cc255eafb13f19b729d8bef95852</guid>
+      <pubDate>Thu, 14 May 2026 22:00:31 GMT</pubDate>
     </item>
     <item>
-      <title>Medicare Hospice Enrollment Halt</title>
+      <title>Industry Hiring and Layoffs</title>
       <link>https://www.google.com</link>
       <description>&lt;ul&gt;
-  &lt;li&gt;&lt;b&gt;Summary:&lt;/b&gt; The Centers for Medicare &amp; Medicaid Services (CMS) has halted the enrollment of new hospice and home health providers, citing concerns over fraud and patient safety. This policy change impacts how new providers enter the Medicare program.&lt;/li&gt;
+  &lt;li&gt;&lt;b&gt;Summary:&lt;/b&gt; BioSpace reports that 17 companies are hiring in California, and the overall hiring outlook on BioSpace has risen year-over-year, yet layoffs continue to affect thousands of workers in the biopharma industry.&lt;/li&gt;
   &lt;li&gt;&lt;b&gt;MoAs:&lt;/b&gt; N/A&lt;/li&gt;
-  &lt;li&gt;&lt;b&gt;Sources:&lt;/b&gt; &lt;a href="https://www.statnews.com/2026/05/13/medicare-halts-enrollment-of-new-hospice-home-health-providers/?utm_campaign=rss"&gt;STAT News&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;b&gt;Sources:&lt;/b&gt; &lt;a href="https://www.biospace.com/job-trends/17-companies-hiring-in-california"&gt;BioSpace&lt;/a&gt;, &lt;a href="https://www.biospace.com/job-trends/hiring-outlook-job-opportunities-on-biospace-rise-yoy-but-layoffs-affect-thousands"&gt;BioSpace&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;</description>
-      <guid isPermaLink="false">52549ea88ff7da5a5a3ab2db1c5f8e38</guid>
-      <pubDate>Wed, 13 May 2026 22:00:39 GMT</pubDate>
+      <guid isPermaLink="false">0c6a662929a4a8a79960a9ac129bb127</guid>
+      <pubDate>Thu, 14 May 2026 22:00:31 GMT</pubDate>
     </item>
     <item>
-      <title>EU Drug Import Reduction Plans</title>
+      <title>Tariff Impact on Drugmakers</title>
       <link>https://www.google.com</link>
       <description>&lt;ul&gt;
-  &lt;li&gt;&lt;b&gt;Summary:&lt;/b&gt; The European Union has advanced plans to reduce its reliance on drug imports from non-EU countries, aiming to strengthen pharmaceutical supply chain security and domestic manufacturing capabilities.&lt;/li&gt;
+  &lt;li&gt;&lt;b&gt;Summary:&lt;/b&gt; New tariff regulations require drugmakers to undergo rigorous testing to qualify for lower tariff rates, potentially impacting pharmaceutical supply chains and pricing strategies.&lt;/li&gt;
   &lt;li&gt;&lt;b&gt;MoAs:&lt;/b&gt; N/A&lt;/li&gt;
-  &lt;li&gt;&lt;b&gt;Sources:&lt;/b&gt; &lt;a href="https://www.pharmaceutical-technology.com/news/eu-advances-plans-to-reduce-reliance-on-drug-imports/"&gt;Pharmaceutical Technology&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;b&gt;Sources:&lt;/b&gt; &lt;a href="https://endpoints.news/drugmakers-have-to-go-through-rigorous-tests-to-get-a-lower-tariff-rate/"&gt;Endpoints News&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;</description>
-      <guid isPermaLink="false">741579e28e3834a752e6dd7676be7d46</guid>
-      <pubDate>Wed, 13 May 2026 22:00:39 GMT</pubDate>
+      <guid isPermaLink="false">ee44d42883bef92ab12e9d0270aa3002</guid>
+      <pubDate>Thu, 14 May 2026 22:00:31 GMT</pubDate>
     </item>
     <item>
-      <title>AI Medical Devices FDA Secret</title>
+      <title>Medicare Chronic Care Pilot</title>
       <link>https://www.google.com</link>
       <description>&lt;ul&gt;
-  &lt;li&gt;&lt;b&gt;Summary:&lt;/b&gt; An investigation reveals that the FDA's process for clearing AI medical devices is opaque and potentially compromised, with a 'dirty secret' involving undisclosed conflicts of interest and inadequate oversight.&lt;/li&gt;
+  &lt;li&gt;&lt;b&gt;Summary:&lt;/b&gt; Medicare launched a pilot program aimed at improving access to digital health technologies for chronic care management, testing new reimbursement models and patient engagement tools.&lt;/li&gt;
   &lt;li&gt;&lt;b&gt;MoAs:&lt;/b&gt; N/A&lt;/li&gt;
-  &lt;li&gt;&lt;b&gt;Sources:&lt;/b&gt; &lt;a href="https://www.statnews.com/2026/05/13/ai-medical-devices-dirty-fda-secret-ai-prognosis/?utm_campaign=rss"&gt;STAT News&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;b&gt;Sources:&lt;/b&gt; &lt;a href="https://www.statnews.com/2026/05/14/medicare-chronic-care-pilot-access-digital-health-tech/?utm_campaign=rss"&gt;STAT News&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;</description>
-      <guid isPermaLink="false">926102f958fe8c29234b0f851a619097</guid>
-      <pubDate>Wed, 13 May 2026 22:00:39 GMT</pubDate>
+      <guid isPermaLink="false">aca6e88de896342bd4c220ba911bd395</guid>
+      <pubDate>Thu, 14 May 2026 22:00:31 GMT</pubDate>
+    </item>
+    <item>
+      <title>CDC Animal Testing Reduction</title>
+      <link>https://www.google.com</link>
+      <description>&lt;ul&gt;
+  &lt;li&gt;&lt;b&gt;Summary:&lt;/b&gt; The CDC plans to transfer monkeys to sanctuaries and reduce animal testing, shifting toward alternative methods for biomedical research and regulatory assessments.&lt;/li&gt;
+  &lt;li&gt;&lt;b&gt;MoAs:&lt;/b&gt; N/A&lt;/li&gt;
+  &lt;li&gt;&lt;b&gt;Sources:&lt;/b&gt; &lt;a href="https://www.statnews.com/pharmalot/2026/05/14/cdc-plans-transfer-monkeys-to-sanctuary-seeks-to-reduce-animal-testing/?utm_campaign=rss"&gt;STAT News&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;</description>
+      <guid isPermaLink="false">2fac551081657bf4349f3d8e7f82b15c</guid>
+      <pubDate>Thu, 14 May 2026 22:00:31 GMT</pubDate>
     </item>
   </channel>
 </rss>
