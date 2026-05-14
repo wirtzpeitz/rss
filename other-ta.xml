@@ -6,15 +6,15 @@
     <description>News digest covering Other TA.</description>
     <atom:link href="https://www.google.com" rel="self" type="application/rss+xml"/>
     <item>
-      <title>Periods and Mental Health</title>
+      <title>Alcohol Use Disorder Treatment</title>
       <link>https://www.google.com</link>
       <description>&lt;ul&gt;
-  &lt;li&gt;&lt;b&gt;Summary:&lt;/b&gt; The article explores the connection between menstrual cycles and mental health, discussing potential biological mechanisms and implications for treatment. It highlights the need for more research into how hormonal fluctuations affect mood disorders.&lt;/li&gt;
+  &lt;li&gt;&lt;b&gt;Summary:&lt;/b&gt; The treatment landscape for alcohol use disorder is evolving, with new pharmacological and behavioral interventions being explored to address this widespread condition.&lt;/li&gt;
   &lt;li&gt;&lt;b&gt;MoAs:&lt;/b&gt; N/A&lt;/li&gt;
-  &lt;li&gt;&lt;b&gt;Sources:&lt;/b&gt; &lt;a href='https://www.statnews.com/2026/05/11/health-news-connection-between-periods-and-mental-health/?utm_campaign=rss'&gt;Stat News&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;b&gt;Sources:&lt;/b&gt; &lt;a href="https://www.statnews.com/2026/05/14/alcohol-use-disorder-treatment-landscape-changing-deadliest-drug-series-part-4/?utm_campaign=rss"&gt;STAT News&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;</description>
-      <guid isPermaLink="false">1e933aba65a5a38055856df4677916ee</guid>
-      <pubDate>Mon, 11 May 2026 22:01:26 GMT</pubDate>
+      <guid isPermaLink="false">16d382fc2363e0deaac3643ad18160d1</guid>
+      <pubDate>Thu, 14 May 2026 22:00:31 GMT</pubDate>
     </item>
   </channel>
 </rss>
