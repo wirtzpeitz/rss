@@ -6,37 +6,70 @@
     <description>News digest covering Oncology.</description>
     <atom:link href="https://www.google.com" rel="self" type="application/rss+xml"/>
     <item>
-      <title>BeOne Medicines (Venclexta Challenger) FDA Approval</title>
+      <title>BeOne's FDA Approval in Lymphoma</title>
       <link>https://www.google.com</link>
       <description>&lt;ul&gt;
-  &lt;li&gt;&lt;b&gt;Summary:&lt;/b&gt; BeOne Medicines' &lt;b&gt;Beqalzi (sonrotoclax)&lt;/b&gt; received FDA approval as a first-in-class BCL-2 inhibitor for mantle cell lymphoma, challenging &lt;b&gt;Venclexta (venetoclax)&lt;/b&gt;. The approval was followed by an FDA warning about misleading TV advertisements for the drug.&lt;/li&gt;
-  &lt;li&gt;&lt;b&gt;MoAs:&lt;/b&gt; &lt;b&gt;Sonrotoclax (Beqalzi)&lt;/b&gt;: BCL-2 inhibitor; &lt;b&gt;Venetoclax (Venclexta)&lt;/b&gt;: BCL-2 inhibitor.&lt;/li&gt;
-  &lt;li&gt;&lt;b&gt;Sources:&lt;/b&gt; &lt;a href='https://www.fiercepharma.com/pharma/beone-venclexta-challenger-beqalzi-sonrotoclax-nets-fda-approval-first-bcl-2-mantle-cell'&gt;Fierce Pharma&lt;/a&gt;, &lt;a href='https://www.fiercepharma.com/marketing/beone-medicines-tv-drug-ad-clarity-hit-fda-watchdog-misleading-suggestions'&gt;Fierce Pharma&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;b&gt;Summary:&lt;/b&gt; &lt;b&gt;BeOne&lt;/b&gt; secured FDA approval for its next-generation BCL2 inhibitor in mantle cell lymphoma (MCL), marking the first approval for the company and opening a new therapeutic class beyond &lt;b&gt;Venclexta&lt;/b&gt; (venetoclax). The approval was based on robust clinical data showing high response rates. This positions BeOne to compete in the BCL2 inhibitor space and potentially expand into other hematologic malignancies.&lt;/li&gt;
+  &lt;li&gt;&lt;b&gt;MoAs:&lt;/b&gt; BCL2 inhibitor (induces apoptosis in cancer cells by blocking the anti-apoptotic BCL2 protein)&lt;/li&gt;
+  &lt;li&gt;&lt;b&gt;Sources:&lt;/b&gt; &lt;a href="https://www.statnews.com/2026/05/14/biotech-news-beone-wins-fda-approval-in-lymphoma-race/?utm_campaign=rss"&gt;STAT News&lt;/a&gt;, &lt;a href="https://www.oncologypipeline.com/apexonco/beone-bags-its-first-next-gen-approval"&gt;ApexOnco&lt;/a&gt;, &lt;a href="https://www.biospace.com/fda/beone-wins-mantle-cell-lymphoma-approval-opening-new-therapy-class"&gt;BioSpace&lt;/a&gt;, &lt;a href="https://endpoints.news/beones-next-gen-bcl2-inhibitor-wins-fda-approval-taking-aim-at-venclexta/"&gt;Endpoints News&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;</description>
-      <guid isPermaLink="false">b5534e983c9324f9910857ddd79af779</guid>
-      <pubDate>Wed, 13 May 2026 22:00:39 GMT</pubDate>
+      <guid isPermaLink="false">1e6d2ad3744a2abbf5a691cf010ac0cd</guid>
+      <pubDate>Thu, 14 May 2026 22:00:31 GMT</pubDate>
     </item>
     <item>
-      <title>Abeona Therapeutics Pivot to T-Cells</title>
+      <title>Create Medicines and In Vivo CAR-T</title>
       <link>https://www.google.com</link>
       <description>&lt;ul&gt;
-  &lt;li&gt;&lt;b&gt;Summary:&lt;/b&gt; &lt;b&gt;Abeona Therapeutics&lt;/b&gt; is pivoting its focus to T-cell therapies, signaling a strategic shift from its previous gene therapy programs. The move positions the company to pursue oncology applications.&lt;/li&gt;
-  &lt;li&gt;&lt;b&gt;MoAs:&lt;/b&gt; Adoptive cell therapy (T-cell)&lt;/li&gt;
-  &lt;li&gt;&lt;b&gt;Sources:&lt;/b&gt; &lt;a href="https://endpoints.news/abeona-pivots-to-t-cells-astrazenecas-rare-disease-drug-passes-phase-3/"&gt;Endpoints News&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;b&gt;Summary:&lt;/b&gt; &lt;b&gt;Create Medicines&lt;/b&gt; raised $122 million in Series B funding to advance its in vivo CAR-T platform, which aims to generate CAR-T cells directly inside patients using proprietary vectors. The approach could simplify manufacturing and reduce costs compared to ex vivo CAR-T therapies. The company plans to use the funds to push its lead programs into clinical trials for hematologic cancers.&lt;/li&gt;
+  &lt;li&gt;&lt;b&gt;MoAs:&lt;/b&gt; In vivo generation of CAR-T cells via targeted delivery of CAR-encoding genetic material&lt;/li&gt;
+  &lt;li&gt;&lt;b&gt;Sources:&lt;/b&gt; &lt;a href="https://www.biopharmadive.com/news/create-medicines-series-b-in-vivo-car-t-therapy/820226/"&gt;BioPharma Dive&lt;/a&gt;, &lt;a href="https://www.fiercebiotech.com/biotech/create-medicines-fashions-122m-fundraise-vivo-car-t-dreams"&gt;Fierce Biotech&lt;/a&gt;, &lt;a href="https://www.statnews.com/2026/05/14/create-medicines-car-t-raises-funding/?utm_campaign=rss"&gt;STAT News&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;</description>
-      <guid isPermaLink="false">0558630e8a11e61b910f161f5d6be336</guid>
-      <pubDate>Wed, 13 May 2026 22:00:39 GMT</pubDate>
+      <guid isPermaLink="false">2af5ab248206c734418e677bca30bf0f</guid>
+      <pubDate>Thu, 14 May 2026 22:00:31 GMT</pubDate>
     </item>
     <item>
-      <title>C4 Therapeutics EGFR Degrader Discontinuation</title>
+      <title>AstraZeneca's Imfinzi Bladder Cancer Trial</title>
       <link>https://www.google.com</link>
       <description>&lt;ul&gt;
-  &lt;li&gt;&lt;b&gt;Summary:&lt;/b&gt; &lt;b&gt;C4 Therapeutics&lt;/b&gt; has discontinued development of its EGFR degrader, a targeted protein degradation asset aimed at treating EGFR-mutant cancers, following a strategic pipeline review.&lt;/li&gt;
-  &lt;li&gt;&lt;b&gt;MoAs:&lt;/b&gt; Targeted protein degradation (EGFR degrader)&lt;/li&gt;
-  &lt;li&gt;&lt;b&gt;Sources:&lt;/b&gt; &lt;a href="https://www.oncologypipeline.com/apexonco/c4-ditches-its-egfr-degrader"&gt;ApexOnco&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;b&gt;Summary:&lt;/b&gt; &lt;b&gt;AstraZeneca&lt;/b&gt; announced a Phase 3 win for &lt;b&gt;Imfinzi&lt;/b&gt; (durvalumab) in a bladder cancer trial, adding to its immunotherapy footprint. The positive results position Imfinzi as a competitor to &lt;b&gt;Keytruda&lt;/b&gt; and the &lt;b&gt;Padcev&lt;/b&gt; combo from Merck/Pfizer. The trial evaluated Imfinzi as a monotherapy and in combination, showing improved outcomes in a difficult-to-treat population.&lt;/li&gt;
+  &lt;li&gt;&lt;b&gt;MoAs:&lt;/b&gt; Anti-PD-L1 monoclonal antibody (blocks PD-L1 binding to PD-1, reactivating antitumor immunity)&lt;/li&gt;
+  &lt;li&gt;&lt;b&gt;Sources:&lt;/b&gt; &lt;a href="https://www.fiercepharma.com/pharma/astrazeneca-scores-imfinzi-another-bladder-cancer-trial"&gt;Fierce Pharma&lt;/a&gt;, &lt;a href="https://endpoints.news/astrazeneca-follows-merck-with-phase-3-win-in-bladder-cancer/"&gt;Endpoints News&lt;/a&gt;, &lt;a href="https://www.oncologypipeline.com/apexonco/imfinzi-squares-keytruda-padcev-combo"&gt;ApexOnco&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;</description>
-      <guid isPermaLink="false">6c604fc2a2e9a4fb641fa933d20fc28a</guid>
-      <pubDate>Wed, 13 May 2026 22:00:39 GMT</pubDate>
+      <guid isPermaLink="false">a8493996027fa6bccdb02854c87902ac</guid>
+      <pubDate>Thu, 14 May 2026 22:00:31 GMT</pubDate>
+    </item>
+    <item>
+      <title>Degron Therapeutics and Molecular Glue</title>
+      <link>https://www.google.com</link>
+      <description>&lt;ul&gt;
+  &lt;li&gt;&lt;b&gt;Summary:&lt;/b&gt; &lt;b&gt;Degron Therapeutics&lt;/b&gt; raised $40 million to extend its Series A funding, supporting development of its molecular glue degrader platform for immunology and oncology indications. The platform induces proximity between target proteins and E3 ubiquitin ligases to trigger degradation, offering a novel therapeutic modality.&lt;/li&gt;
+  &lt;li&gt;&lt;b&gt;MoAs:&lt;/b&gt; Molecular glue-induced targeted protein degradation (triggers ubiquitination and proteasomal degradation of disease-relevant proteins)&lt;/li&gt;
+  &lt;li&gt;&lt;b&gt;Sources:&lt;/b&gt; &lt;a href="https://endpoints.news/degron-create-tennor-raise-capital-cabaletta-posts-car-t-data/"&gt;Endpoints News&lt;/a&gt;, &lt;a href="https://www.biospace.com/business/degron-adds-40m-to-series-a-supporting-immunology-plans-for-molecular-glue-platform"&gt;BioSpace&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;</description>
+      <guid isPermaLink="false">57cd6a6da62f84645abed22ba80f390b</guid>
+      <pubDate>Thu, 14 May 2026 22:00:31 GMT</pubDate>
+    </item>
+    <item>
+      <title>Sun Pharma Chemotherapy Recall</title>
+      <link>https://www.google.com</link>
+      <description>&lt;ul&gt;
+  &lt;li&gt;&lt;b&gt;Summary:&lt;/b&gt; Sun Pharma voluntarily recalled a batch of a chemotherapy drug in the U.S. due to potential glass particle contamination, raising concerns about manufacturing quality.&lt;/li&gt;
+  &lt;li&gt;&lt;b&gt;MoAs:&lt;/b&gt; N/A&lt;/li&gt;
+  &lt;li&gt;&lt;b&gt;Sources:&lt;/b&gt; &lt;a href="https://www.fiercepharma.com/manufacturing/sun-recalls-us-chemotherapy-batch-citing-glass-particle-contamination-concerns"&gt;Fierce Pharma&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;</description>
+      <guid isPermaLink="false">e58ced35c6739166cb10779c0f069ab3</guid>
+      <pubDate>Thu, 14 May 2026 22:00:31 GMT</pubDate>
+    </item>
+    <item>
+      <title>Imfinzi NHS Approval for Stomach Cancer</title>
+      <link>https://www.google.com</link>
+      <description>&lt;ul&gt;
+  &lt;li&gt;&lt;b&gt;Summary:&lt;/b&gt; Imfinzi (durvalumab) is set to become the first immunotherapy approved for stomach cancer patients on the NHS, marking a significant advance in gastric cancer treatment.&lt;/li&gt;
+  &lt;li&gt;&lt;b&gt;MoAs:&lt;/b&gt; PD-L1 inhibitor (immune checkpoint blockade)&lt;/li&gt;
+  &lt;li&gt;&lt;b&gt;Sources:&lt;/b&gt; &lt;a href="https://www.pharmaceutical-technology.com/news/imfinzi-set-to-become-first-immunotherapy-for-stomach-cancer-patients-on-nhs/"&gt;Pharmaceutical Technology&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;</description>
+      <guid isPermaLink="false">168c63cfc0248c9f687eb87e4f6c09ba</guid>
+      <pubDate>Thu, 14 May 2026 22:00:31 GMT</pubDate>
     </item>
   </channel>
 </rss>
