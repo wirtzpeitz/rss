@@ -6,48 +6,26 @@
     <description>News digest covering Cardio-Renal-Metabolic.</description>
     <atom:link href="https://www.google.com" rel="self" type="application/rss+xml"/>
     <item>
-      <title>Lilly Zepbound/Foundayo Weight Loss Maintenance</title>
+      <title>Orforglipron and Weight Loss</title>
       <link>https://www.google.com</link>
       <description>&lt;ul&gt;
-  &lt;li&gt;&lt;b&gt;Summary:&lt;/b&gt; Eli Lilly presented data showing that its drugs Zepbound and Foundayo effectively help patients maintain weight loss after switching from other treatments. The findings reinforce Lilly's leadership in the obesity market and offer new maintenance options for patients.&lt;/li&gt;
-  &lt;li&gt;&lt;b&gt;MoAs:&lt;/b&gt; Zepbound (tirzepatide): GIP and GLP-1 receptor agonist; Foundayo: mechanism not disclosed in available sources.&lt;/li&gt;
-  &lt;li&gt;&lt;b&gt;Sources:&lt;/b&gt; &lt;a href='https://www.biopharmadive.com/news/lilly-zepbound-foundayo-maintenance-obesity-weight-loss-glp1/820093/'&gt;BioPharma Dive&lt;/a&gt;, &lt;a href='https://www.biospace.com/drug-development/lilly-maintains-weight-loss-leadership-as-foundayo-zepbound-keep-pounds-off-after-switching'&gt;BioSpace&lt;/a&gt;, &lt;a href='https://endpoints.news/lilly-points-to-low-dose-zepbound-and-foundayo-as-weight-loss-maintenance-options/'&gt;Endpoints News&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;b&gt;Summary:&lt;/b&gt; Data presented at ECO 2026 on &lt;b&gt;orforglipron&lt;/b&gt;, an oral GLP-1 receptor agonist from &lt;b&gt;Eli Lilly&lt;/b&gt;, demonstrated sustained weight loss over extended treatment periods. The drug is being developed as a convenient once-daily oral option for obesity, potentially capturing a large market segment.&lt;/li&gt;
+  &lt;li&gt;&lt;b&gt;MoAs:&lt;/b&gt; Oral GLP-1 receptor agonist (promotes satiety and slows gastric emptying, leading to weight loss)&lt;/li&gt;
+  &lt;li&gt;&lt;b&gt;Sources:&lt;/b&gt; &lt;a href="https://www.pharmaceutical-technology.com/analyst-comment/eco-2026-orforglipron-sustained-weight-loss/"&gt;Pharmaceutical Technology&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;</description>
-      <guid isPermaLink="false">80e38b5c2cc3986ea15c2bc533da417d</guid>
-      <pubDate>Wed, 13 May 2026 22:00:39 GMT</pubDate>
+      <guid isPermaLink="false">6f643285ff622a634bf7905ee5c64556</guid>
+      <pubDate>Thu, 14 May 2026 22:00:31 GMT</pubDate>
     </item>
     <item>
-      <title>Novo Nordisk and Lilly GLP-1 Data</title>
+      <title>Gut Hormone Signals in T1D and Obesity</title>
       <link>https://www.google.com</link>
       <description>&lt;ul&gt;
-  &lt;li&gt;&lt;b&gt;Summary:&lt;/b&gt; Novo Nordisk and Eli Lilly touted early response and weight-loss maintenance data for their respective GLP-1-based therapies at the ECO 2026 congress. Novo's deal with Lexicon and its diabetes ambitions were also highlighted, along with discussions on body composition effects of &lt;b&gt;CagriSema&lt;/b&gt; (cagrilintide + semaglutide).&lt;/li&gt;
-  &lt;li&gt;&lt;b&gt;MoAs:&lt;/b&gt; &lt;b&gt;Semaglutide&lt;/b&gt;: GLP-1 receptor agonist; &lt;b&gt;Tirzepatide&lt;/b&gt;: GIP and GLP-1 receptor agonist; &lt;b&gt;Cagrilintide&lt;/b&gt;: amylin analog; &lt;b&gt;CagriSema&lt;/b&gt;: combination of cagrilintide and semaglutide.&lt;/li&gt;
-  &lt;li&gt;&lt;b&gt;Sources:&lt;/b&gt; &lt;a href='https://www.fiercebiotech.com/biotech/1b-novo-deal-and-diabetes-ambitions-undimmed-lexicon-good-shape-go-crazy'&gt;Fierce Biotech&lt;/a&gt;, &lt;a href='https://www.fiercepharma.com/pharma/novo-lilly-tout-respective-early-response-and-weight-loss-maintenance-data-glp-1-obesity'&gt;Fierce Pharma&lt;/a&gt;, &lt;a href='https://www.pharmaceutical-technology.com/analyst-comment/eco-2026-redefine-1-cagrisema-body-composition/'&gt;Pharmaceutical Technology&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;</description>
-      <guid isPermaLink="false">e26cd9dea640ec2e63b43c079db424d0</guid>
-      <pubDate>Wed, 13 May 2026 22:00:39 GMT</pubDate>
-    </item>
-    <item>
-      <title>Liver Disease MetALD Series</title>
-      <link>https://www.google.com</link>
-      <description>&lt;ul&gt;
-  &lt;li&gt;&lt;b&gt;Summary:&lt;/b&gt; Part 3 of the STAT series on liver disease examines MetALD (metabolic and alcohol-related liver disease), focusing on the deadliest drug involved and its impact on public health.&lt;/li&gt;
+  &lt;li&gt;&lt;b&gt;Summary:&lt;/b&gt; A study presented at ECO 2026 shows that gut hormone signals differ between individuals with type 1 diabetes and those with obesity, indicating distinct metabolic pathways that could inform targeted therapies.&lt;/li&gt;
   &lt;li&gt;&lt;b&gt;MoAs:&lt;/b&gt; N/A&lt;/li&gt;
-  &lt;li&gt;&lt;b&gt;Sources:&lt;/b&gt; &lt;a href="https://www.statnews.com/2026/05/13/liver-disease-metald-examined-part-3-stat-series-deadliest-drug/?utm_campaign=rss"&gt;STAT News&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;b&gt;Sources:&lt;/b&gt; &lt;a href="https://www.pharmaceutical-technology.com/analyst-comment/eco-2026-gut-hormone-signals-differ-in-t1d-obesity/"&gt;Pharmaceutical Technology&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;</description>
-      <guid isPermaLink="false">7c93fb5938b582b22f041fb3a04d1494</guid>
-      <pubDate>Wed, 13 May 2026 22:00:39 GMT</pubDate>
-    </item>
-    <item>
-      <title>UAE Approves AstraZeneca Baxfendy</title>
-      <link>https://www.google.com</link>
-      <description>&lt;ul&gt;
-  &lt;li&gt;&lt;b&gt;Summary:&lt;/b&gt; The United Arab Emirates has approved &lt;b&gt;AstraZeneca&lt;/b&gt;'s &lt;b&gt;Baxfendy&lt;/b&gt; for the treatment of hypertension. Baxfendy is a new combination therapy that offers an additional option for blood pressure management.&lt;/li&gt;
-  &lt;li&gt;&lt;b&gt;MoAs:&lt;/b&gt; Combination of an angiotensin receptor blocker (ARB) and a calcium channel blocker (CCB), exerting antihypertensive effects via vasodilation and reduced peripheral resistance.&lt;/li&gt;
-  &lt;li&gt;&lt;b&gt;Sources:&lt;/b&gt; &lt;a href="https://www.pharmaceutical-technology.com/news/uae-approves-astrazeneca-baxfendy-hypertension/"&gt;Pharmaceutical Technology&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;</description>
-      <guid isPermaLink="false">a37daa6e6ef83bf09ee52b406a3ae7a0</guid>
-      <pubDate>Wed, 13 May 2026 22:00:39 GMT</pubDate>
+      <guid isPermaLink="false">46e4136e8e2918ef5da2b6b38cf82a7c</guid>
+      <pubDate>Thu, 14 May 2026 22:00:31 GMT</pubDate>
     </item>
   </channel>
 </rss>
