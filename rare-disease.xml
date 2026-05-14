@@ -6,37 +6,26 @@
     <description>News digest covering Rare Disease.</description>
     <atom:link href="https://www.google.com" rel="self" type="application/rss+xml"/>
     <item>
-      <title>Gene Therapy Safety Concerns</title>
+      <title>Regenxbio Duchenne Gene Therapy</title>
       <link>https://www.google.com</link>
       <description>&lt;ul&gt;
-  &lt;li&gt;&lt;b&gt;Summary:&lt;/b&gt; Reports link gene therapy using viruses to a tumor in a boy, and raise concerns about cancer risks in patients with &lt;b&gt;Mucopolysaccharidosis type I (Hurler syndrome)&lt;/b&gt;, highlighting safety challenges for the field.&lt;/li&gt;
-  &lt;li&gt;&lt;b&gt;MoAs:&lt;/b&gt; N/A&lt;/li&gt;
-  &lt;li&gt;&lt;b&gt;Sources:&lt;/b&gt; &lt;a href='https://www.statnews.com/2026/05/13/biotech-news-gene-therapy-viruses-linked-to-a-boys-tumor/?utm_campaign=rss'&gt;STAT News&lt;/a&gt;, &lt;a href='https://www.statnews.com/2026/05/13/gene-therapy-cancer-risks-mps-hurler-syndrome/?utm_campaign=rss'&gt;STAT News&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;b&gt;Summary:&lt;/b&gt; &lt;b&gt;Regenxbio&lt;/b&gt; reported positive pivotal trial results for its Duchenne muscular dystrophy (DMD) gene therapy &lt;b&gt;RGX-202&lt;/b&gt;, showing functional improvements in patients. However, the data were marred by serious side effects, including a patient death, raising safety concerns. Despite this, the company plans to seek FDA approval in 2027. The mixed results have led to a stock slump and cautious reactions from analysts, though the therapy represents a potential new treatment option for DMD.&lt;/li&gt;
+  &lt;li&gt;&lt;b&gt;MoAs:&lt;/b&gt; Gene therapy delivering a microdystrophin transgene to restore dystrophin function&lt;/li&gt;
+  &lt;li&gt;&lt;b&gt;Sources:&lt;/b&gt; &lt;a href="https://www.biospace.com/drug-development/regenxbio-slumps-after-serious-side-effects-mar-Duchenne-gene%20therapy-results"&gt;BioSpace&lt;/a&gt;, &lt;a href="https://www.biopharmadive.com/news/regenxbio-duchenne-gene-therapy-results-fda/820145/"&gt;BioPharma Dive&lt;/a&gt;, &lt;a href="https://www.fiercebiotech.com/biotech/regenxbio-reaps-pivotal-win-duchenne-muscular-dystrophy-gene-therapy"&gt;Fierce Biotech&lt;/a&gt;, &lt;a href="https://endpoints.news/regenxbio-hits-duchenne-gene-therapy-milestone-eyes-2027-fda-approval/"&gt;Endpoints News&lt;/a&gt;, &lt;a href="https://www.statnews.com/2026/05/14/regenxbio-duchenne-gene-therapy-trial-results/?utm_campaign=rss"&gt;STAT News&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;</description>
-      <guid isPermaLink="false">d966275acaac9cd09e24bb4b54a612c4</guid>
-      <pubDate>Wed, 13 May 2026 22:00:39 GMT</pubDate>
+      <guid isPermaLink="false">56d75871a0bd20a0306af41d42f5a3a5</guid>
+      <pubDate>Thu, 14 May 2026 22:00:31 GMT</pubDate>
     </item>
     <item>
-      <title>Tessera In Vivo Sickle Cell Therapy</title>
+      <title>Pfizer EC Approval for Hympavzi</title>
       <link>https://www.google.com</link>
       <description>&lt;ul&gt;
-  &lt;li&gt;&lt;b&gt;Summary:&lt;/b&gt; &lt;b&gt;Tessera&lt;/b&gt; has revealed the strongest data to date for its in vivo sickle cell therapy, demonstrating significant efficacy in patients with this rare genetic blood disorder.&lt;/li&gt;
-  &lt;li&gt;&lt;b&gt;MoAs:&lt;/b&gt; In vivo gene therapy (gene editing)&lt;/li&gt;
-  &lt;li&gt;&lt;b&gt;Sources:&lt;/b&gt; &lt;a href="https://endpoints.news/tessera-reveals-strongest-data-yet-for-in-vivo-sickle-cell-therapy/"&gt;Endpoints News&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;b&gt;Summary:&lt;/b&gt; Pfizer received European Commission approval for &lt;b&gt;Hympavzi&lt;/b&gt; (marstacimab) for the treatment of hemophilia, offering a new prophylactic option for patients.&lt;/li&gt;
+  &lt;li&gt;&lt;b&gt;MoAs:&lt;/b&gt; Antibody against tissue factor pathway inhibitor (anti-TFPI)&lt;/li&gt;
+  &lt;li&gt;&lt;b&gt;Sources:&lt;/b&gt; &lt;a href="https://www.pharmaceutical-technology.com/news/pfizer-receives-ec-approval-hympavzi/"&gt;Pharmaceutical Technology&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;</description>
-      <guid isPermaLink="false">f0d7601dbd61ea388ba4e1fa2930a339</guid>
-      <pubDate>Wed, 13 May 2026 22:00:39 GMT</pubDate>
-    </item>
-    <item>
-      <title>Encoded Therapeutics Dravet Syndrome Study</title>
-      <link>https://www.google.com</link>
-      <description>&lt;ul&gt;
-  &lt;li&gt;&lt;b&gt;Summary:&lt;/b&gt; A study by &lt;b&gt;Encoded Therapeutics&lt;/b&gt; for Dravet syndrome evaluates the safety tradeoff of &lt;b&gt;sirolimus&lt;/b&gt;, highlighting the balance between seizure reduction and adverse effects in this rare epilepsy.&lt;/li&gt;
-  &lt;li&gt;&lt;b&gt;MoAs:&lt;/b&gt; mTOR inhibition&lt;/li&gt;
-  &lt;li&gt;&lt;b&gt;Sources:&lt;/b&gt; &lt;a href="https://www.statnews.com/2026/05/13/encoded-therapeutics-dravet-syndrome-study-sirolimus-safety-tradeoff/?utm_campaign=rss"&gt;STAT News&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;</description>
-      <guid isPermaLink="false">a6b360f98d8ef0466aa73a3536482788</guid>
-      <pubDate>Wed, 13 May 2026 22:00:39 GMT</pubDate>
+      <guid isPermaLink="false">fd153dbe1a7810a65a6e8a95a89ec2cf</guid>
+      <pubDate>Thu, 14 May 2026 22:00:31 GMT</pubDate>
     </item>
   </channel>
 </rss>
