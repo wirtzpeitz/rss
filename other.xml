@@ -6,59 +6,26 @@
     <description>News digest covering Other.</description>
     <atom:link href="https://www.google.com" rel="self" type="application/rss+xml"/>
     <item>
-      <title>Obesity Rates Global Trends</title>
+      <title>AI in Medicine and Training</title>
       <link>https://www.google.com</link>
       <description>&lt;ul&gt;
-  &lt;li&gt;&lt;b&gt;Summary:&lt;/b&gt; A new study highlights rising obesity rates in low-income countries while rates plateau in wealthier nations. The findings underscore global health disparities and the need for targeted interventions.&lt;/li&gt;
+  &lt;li&gt;&lt;b&gt;Summary:&lt;/b&gt; Penn Medicine is integrating artificial intelligence into physician training, while another article examines how AI agents are being used in addiction medicine, highlighting both promise and pitfalls.&lt;/li&gt;
   &lt;li&gt;&lt;b&gt;MoAs:&lt;/b&gt; N/A&lt;/li&gt;
-  &lt;li&gt;&lt;b&gt;Sources:&lt;/b&gt; &lt;a href="https://www.statnews.com/2026/05/13/obesity-rates-bmi-rising-low-income-countries-plateau-wealthier-nations/?utm_campaign=rss"&gt;STAT News&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;b&gt;Sources:&lt;/b&gt; &lt;a href="https://endpoints.news/how-penn-medicine-plans-to-use-ai-to-train-their-doctors/"&gt;Endpoints News&lt;/a&gt;, &lt;a href="https://www.statnews.com/2026/05/14/addiction-medicine-ai-agent-empathy-caring-misguided/?utm_campaign=rss"&gt;STAT News&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;</description>
-      <guid isPermaLink="false">ef3f15209597eaabc17a2f35c76d1407</guid>
-      <pubDate>Wed, 13 May 2026 22:00:39 GMT</pubDate>
+      <guid isPermaLink="false">8531129c00a6dd1d7b9396dd19b8fa3e</guid>
+      <pubDate>Thu, 14 May 2026 22:00:31 GMT</pubDate>
     </item>
     <item>
-      <title>Health Misinformation Social Media</title>
+      <title>Cell Therapy and Gene Therapy Advances</title>
       <link>https://www.google.com</link>
       <description>&lt;ul&gt;
-  &lt;li&gt;&lt;b&gt;Summary:&lt;/b&gt; The article discusses how doctors and hospitals are developing policies to combat health misinformation on social media, highlighting the challenges and strategies for protecting public health.&lt;/li&gt;
-  &lt;li&gt;&lt;b&gt;MoAs:&lt;/b&gt; N/A&lt;/li&gt;
-  &lt;li&gt;&lt;b&gt;Sources:&lt;/b&gt; &lt;a href="https://www.statnews.com/2026/05/13/health-misinformation-doctors-hospitals-social-media-policies/?utm_campaign=rss"&gt;STAT News&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;b&gt;Summary:&lt;/b&gt; Recent advances include Encoded's gene therapy reducing seizures in Dravet syndrome, ASGCT discussions on in vivo CAR-T, functional peptide screening for GPCRs and radiopharma, and a report on building the cell therapy future from MSCs to iPSCs.&lt;/li&gt;
+  &lt;li&gt;&lt;b&gt;MoAs:&lt;/b&gt; Gene therapy (AAV-mediated), CAR‑T cell therapy, functional peptide screening, iPSC‑derived cell therapy&lt;/li&gt;
+  &lt;li&gt;&lt;b&gt;Sources:&lt;/b&gt; &lt;a href="https://endpoints.news/encodeds-gene-therapy-reduced-seizures-in-dravet-syndrome/"&gt;Endpoints News&lt;/a&gt;, &lt;a href="https://endpoints.news/asgct-dispatch-in-vivo-car-t-is-everywhere-but-still-preclinical/"&gt;Endpoints News&lt;/a&gt;, &lt;a href="https://www.biospace.com/drug-development/gpcrs-radiopharma-and-the-rise-of-functional-peptide-screening"&gt;BioSpace&lt;/a&gt;, &lt;a href="https://www.biospace.com/drug-development/from-mscs-to-ipscs-building-the-cell-therapy-future"&gt;BioSpace&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;</description>
-      <guid isPermaLink="false">fc08719e274a98f359ef465702d8cefd</guid>
-      <pubDate>Wed, 13 May 2026 22:00:39 GMT</pubDate>
-    </item>
-    <item>
-      <title>Extreme Heat Health Disparities</title>
-      <link>https://www.google.com</link>
-      <description>&lt;ul&gt;
-  &lt;li&gt;&lt;b&gt;Summary:&lt;/b&gt; Black Americans are disproportionately affected by extreme heat, with health disparities worsening faster compared to other groups. The article explores the underlying social and environmental factors.&lt;/li&gt;
-  &lt;li&gt;&lt;b&gt;MoAs:&lt;/b&gt; N/A&lt;/li&gt;
-  &lt;li&gt;&lt;b&gt;Sources:&lt;/b&gt; &lt;a href="https://www.statnews.com/2026/05/13/health-news-extreme-heat-worsens-faster-for-black-american/?utm_campaign=rss"&gt;STAT News&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;</description>
-      <guid isPermaLink="false">4579a32bd98b9865dffebaff6c75c99d</guid>
-      <pubDate>Wed, 13 May 2026 22:00:39 GMT</pubDate>
-    </item>
-    <item>
-      <title>Gender Affirming Care DOJ Subpoenas</title>
-      <link>https://www.google.com</link>
-      <description>&lt;ul&gt;
-  &lt;li&gt;&lt;b&gt;Summary:&lt;/b&gt; The Department of Justice has issued subpoenas related to gender-affirming care for minors, suggesting a potential criminal probe into practices at hospitals and clinics.&lt;/li&gt;
-  &lt;li&gt;&lt;b&gt;MoAs:&lt;/b&gt; N/A&lt;/li&gt;
-  &lt;li&gt;&lt;b&gt;Sources:&lt;/b&gt; &lt;a href="https://www.statnews.com/2026/05/13/gender-affirming-care-minors-doj-subpoenas-suggest-criminal-probe/?utm_campaign=rss"&gt;STAT News&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;</description>
-      <guid isPermaLink="false">942f1e029fa01ab35c3ed53b416144d9</guid>
-      <pubDate>Wed, 13 May 2026 22:00:39 GMT</pubDate>
-    </item>
-    <item>
-      <title>Antidepressant Deprescribing</title>
-      <link>https://www.google.com</link>
-      <description>&lt;ul&gt;
-  &lt;li&gt;&lt;b&gt;Summary:&lt;/b&gt; The article discusses the growing trend of antidepressant deprescribing, particularly SSRIs, in the context of concerns over long-term use and side effects, with implications for patient care.&lt;/li&gt;
-  &lt;li&gt;&lt;b&gt;MoAs:&lt;/b&gt; N/A&lt;/li&gt;
-  &lt;li&gt;&lt;b&gt;Sources:&lt;/b&gt; &lt;a href="https://www.statnews.com/2026/05/13/antidepressant-deprescribing-kennedy-ssris/?utm_campaign=rss"&gt;STAT News&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;</description>
-      <guid isPermaLink="false">209bd1a11f191372345f641eebe6289c</guid>
-      <pubDate>Wed, 13 May 2026 22:00:39 GMT</pubDate>
+      <guid isPermaLink="false">c8bfc6dcec8193ed02919e2fad1d1df9</guid>
+      <pubDate>Thu, 14 May 2026 22:00:31 GMT</pubDate>
     </item>
   </channel>
 </rss>
