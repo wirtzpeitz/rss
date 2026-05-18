@@ -6,59 +6,92 @@
     <description>News digest covering Corporate Events.</description>
     <atom:link href="https://www.google.com" rel="self" type="application/rss+xml"/>
     <item>
-      <title>Macrogenics Manufacturing Sale</title>
+      <title>Sanofi/Wave Genetic Disease Updates</title>
       <link>https://www.google.com</link>
       <description>&lt;ul&gt;
-  &lt;li&gt;&lt;b&gt;Summary:&lt;/b&gt; &lt;b&gt;MacroGenics&lt;/b&gt; sold its manufacturing arm to &lt;b&gt;Bora Pharmaceuticals&lt;/b&gt; for $127 million, part of a strategic shift to an asset-light model. The sale includes a biologics manufacturing facility and CDMO operations. The move comes as MacroGenics focuses on its pipeline of oncology therapeutics.&lt;/li&gt;
+  &lt;li&gt;&lt;b&gt;Summary:&lt;/b&gt; &lt;b&gt;Sanofi&lt;/b&gt; and &lt;b&gt;Wave Life Sciences&lt;/b&gt; provided updates on their genetic disease programs, potentially ending a 40-year drought in the field. The partnership focuses on RNA-targeted therapies for rare genetic disorders.&lt;/li&gt;
   &lt;li&gt;&lt;b&gt;MoAs:&lt;/b&gt; N/A&lt;/li&gt;
-  &lt;li&gt;&lt;b&gt;Sources:&lt;/b&gt; &lt;a href="https://endpoints.news/macrogenics-sells-manufacturing-arm-west-pharma-discloses-cybersecurity-attack/"&gt;Endpoints News&lt;/a&gt;, &lt;a href="https://www.oncologypipeline.com/apexonco/macrogenics-changes-its-tune-linnet"&gt;ApexOnco&lt;/a&gt;, &lt;a href="https://www.fiercepharma.com/manufacturing/bora-snaps-macrogenics-manufacturing-cdmo-operations-127m"&gt;Fierce Pharma&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;b&gt;Sources:&lt;/b&gt; &lt;a href="https://www.fiercebiotech.com/biotech/sanofi-and-wave-post-genetic-disease-updates-race-end-fields-40-year-drought"&gt;FierceBiotech&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;</description>
-      <guid isPermaLink="false">9a27766e6a7d96fd1f7d69fa774c1be3</guid>
-      <pubDate>Thu, 14 May 2026 22:00:31 GMT</pubDate>
+      <guid isPermaLink="false">a1ba6427e48b330b0b8fddf54ced4531</guid>
+      <pubDate>Mon, 18 May 2026 22:01:47 GMT</pubDate>
     </item>
     <item>
-      <title>Takeda Layoffs</title>
+      <title>Novartis Terminates Plant Contract with Porton</title>
       <link>https://www.google.com</link>
       <description>&lt;ul&gt;
-  &lt;li&gt;&lt;b&gt;Summary:&lt;/b&gt; &lt;b&gt;Takeda&lt;/b&gt; announced layoffs affecting 4,500 employees as part of a broader transformation program. The restructuring aims to streamline operations and reduce costs amid patent expiries and pipeline challenges. The cuts represent a significant workforce reduction.&lt;/li&gt;
+  &lt;li&gt;&lt;b&gt;Summary:&lt;/b&gt; &lt;b&gt;Novartis&lt;/b&gt; terminated a plant contract with Chinese CDMO &lt;b&gt;Porton&lt;/b&gt;, threatening $64 million in legal claims. The move reflects ongoing tensions in the pharmaceutical manufacturing supply chain.&lt;/li&gt;
   &lt;li&gt;&lt;b&gt;MoAs:&lt;/b&gt; N/A&lt;/li&gt;
-  &lt;li&gt;&lt;b&gt;Sources:&lt;/b&gt; &lt;a href="https://www.biospace.com/business/takedas-transformation-program-leaves-4-500-jobless"&gt;BioSpace&lt;/a&gt;, &lt;a href="https://www.statnews.com/pharmalot/2026/05/14/biogen-regenxbio-report-results-for-alzheimers-duchenne-takeda-layoffs/?utm_campaign=rss"&gt;STAT News&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;b&gt;Sources:&lt;/b&gt; &lt;a href="https://www.fiercepharma.com/manufacturing/novartis-terminates-plant-contract-chinese-cdmo-porton-threatens-64m-legal-claims"&gt;FiercePharma&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;</description>
-      <guid isPermaLink="false">5831ba3fd7b1da6e7002fedc58b2eb47</guid>
-      <pubDate>Thu, 14 May 2026 22:00:31 GMT</pubDate>
+      <guid isPermaLink="false">43fe7a70c061185747071814b8024d81</guid>
+      <pubDate>Mon, 18 May 2026 22:01:47 GMT</pubDate>
     </item>
     <item>
-      <title>Zydus Acquires Assertio</title>
+      <title>Eli Lilly Teams with Caitlin Clark</title>
       <link>https://www.google.com</link>
       <description>&lt;ul&gt;
-  &lt;li&gt;&lt;b&gt;Summary:&lt;/b&gt; Zydus Lifesciences has agreed to acquire Assertio Therapeutics, expanding its specialty pharmaceutical portfolio.&lt;/li&gt;
+  &lt;li&gt;&lt;b&gt;Summary:&lt;/b&gt; &lt;b&gt;Eli Lilly&lt;/b&gt; announced a partnership with basketball star &lt;b&gt;Caitlin Clark&lt;/b&gt; to refurbish sports courts in Indianapolis neighborhoods, combining community engagement with brand promotion.&lt;/li&gt;
   &lt;li&gt;&lt;b&gt;MoAs:&lt;/b&gt; N/A&lt;/li&gt;
-  &lt;li&gt;&lt;b&gt;Sources:&lt;/b&gt; &lt;a href="https://www.pharmaceutical-technology.com/news/zydus-to-acquire-assertio/"&gt;Pharmaceutical Technology&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;b&gt;Sources:&lt;/b&gt; &lt;a href="https://www.fiercepharma.com/marketing/eli-lilly-teams-caitlin-clark-bounce-sports-courts-indianapolis-neighborhoods"&gt;FiercePharma&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;</description>
-      <guid isPermaLink="false">d4552c6d83b24114de8a57a143053261</guid>
-      <pubDate>Thu, 14 May 2026 22:00:31 GMT</pubDate>
+      <guid isPermaLink="false">cadd48cf35ad930cdafc0ebf3aced789</guid>
+      <pubDate>Mon, 18 May 2026 22:01:47 GMT</pubDate>
     </item>
     <item>
-      <title>Eli Lilly UNICEF Donation</title>
+      <title>Atrium Health Wake Med Merger</title>
       <link>https://www.google.com</link>
       <description>&lt;ul&gt;
-  &lt;li&gt;&lt;b&gt;Summary:&lt;/b&gt; Eli Lilly donated $50 million to UNICEF to support pediatric health initiatives globally, enhancing access to medicines and healthcare for children.&lt;/li&gt;
+  &lt;li&gt;&lt;b&gt;Summary:&lt;/b&gt; &lt;b&gt;Atrium Health&lt;/b&gt; and &lt;b&gt;WakeMed&lt;/b&gt; are pursuing a merger, with implications for the GMRS IPO and the broader health care landscape in North Carolina.&lt;/li&gt;
   &lt;li&gt;&lt;b&gt;MoAs:&lt;/b&gt; N/A&lt;/li&gt;
-  &lt;li&gt;&lt;b&gt;Sources:&lt;/b&gt; &lt;a href="https://www.fiercepharma.com/marketing/eli-lilly-delivers-50m-boost-unicefs-pediatric-health-push"&gt;Fierce Pharma&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;b&gt;Sources:&lt;/b&gt; &lt;a href="https://www.statnews.com/2026/05/18/atrium-health-wake-med-merger-gmrs-ipo-health-care-inc/?utm_campaign=rss"&gt;STAT&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;</description>
-      <guid isPermaLink="false">87caf4a7cb30a1a1db8056f2374b6989</guid>
-      <pubDate>Thu, 14 May 2026 22:00:31 GMT</pubDate>
+      <guid isPermaLink="false">6401271b0c1c71880cf98d0918fc3383</guid>
+      <pubDate>Mon, 18 May 2026 22:01:47 GMT</pubDate>
     </item>
     <item>
-      <title>Aptose Cash Crunch</title>
+      <title>Regeneron Parabilis Deal</title>
       <link>https://www.google.com</link>
       <description>&lt;ul&gt;
-  &lt;li&gt;&lt;b&gt;Summary:&lt;/b&gt; Aptose Biosciences faces a cash crunch and exits a blood cancer development pact after Hanmi Pharmaceutical's buyout blocked further progress, raising concerns about the company's financial viability.&lt;/li&gt;
+  &lt;li&gt;&lt;b&gt;Summary:&lt;/b&gt; &lt;b&gt;Regeneron&lt;/b&gt; entered into a partnership with &lt;b&gt;Parabilis&lt;/b&gt; to develop a new class of antibody‑drug conjugate (ADC) therapies. The deal could be worth up to $2.3 billion, including an upfront payment of $125 million. Parabilis brings its expertise in hard‑to‑target intracellular proteins, while Regeneron contributes its antibody and development capabilities.&lt;/li&gt;
   &lt;li&gt;&lt;b&gt;MoAs:&lt;/b&gt; N/A&lt;/li&gt;
-  &lt;li&gt;&lt;b&gt;Sources:&lt;/b&gt; &lt;a href="https://www.fiercebiotech.com/biotech/aptose-facing-cash-crunch-exits-blood-cancer-pact-after-hanmi-buyout-blocks-development"&gt;Fierce Biotech&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;b&gt;Sources:&lt;/b&gt; &lt;a href="https://endpoints.news/regeneron-reaches-125m-parabilis-deal-for-hard-to-catch-drug-targets/"&gt;Endpoints News&lt;/a&gt;, &lt;a href="https://www.biospace.com/deals/regeneron-parabilis-set-out-to-create-new-drug-class-in-deal-worth-up-to-2-3b"&gt;BioSpace&lt;/a&gt;, &lt;a href="https://www.fiercebiotech.com/biotech/regeneron-pens-23b-pact-parabilis-develop-new-type-adc-therapy"&gt;Fierce Biotech&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;</description>
-      <guid isPermaLink="false">f57a77fde59c27bc18bdeaf3412aac39</guid>
-      <pubDate>Thu, 14 May 2026 22:00:31 GMT</pubDate>
+      <guid isPermaLink="false">400ac8b128e2cc2385bd6812fb926057</guid>
+      <pubDate>Mon, 18 May 2026 22:01:47 GMT</pubDate>
+    </item>
+    <item>
+      <title>Quince Reverse Merger</title>
+      <link>https://www.google.com</link>
+      <description>&lt;ul&gt;
+  &lt;li&gt;&lt;b&gt;Summary:&lt;/b&gt; Cash‑strapped &lt;b&gt;Quince Therapeutics&lt;/b&gt;, after a rare disease drug failure, found a path forward through a reverse merger. The deal provides a lifeline for the company, which had been struggling financially following the clinical setback.&lt;/li&gt;
+  &lt;li&gt;&lt;b&gt;MoAs:&lt;/b&gt; N/A&lt;/li&gt;
+  &lt;li&gt;&lt;b&gt;Sources:&lt;/b&gt; &lt;a href="https://www.fiercebiotech.com/biotech/after-rare-disease-flop-cash-strapped-quince-finds-salvation-reverse-merger"&gt;Fierce Biotech&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;</description>
+      <guid isPermaLink="false">735edaaaba905542cfaefdf0fa7da5d4</guid>
+      <pubDate>Mon, 18 May 2026 22:01:47 GMT</pubDate>
+    </item>
+    <item>
+      <title>Bristol-Myers Houston Manufacturing Plant</title>
+      <link>https://www.google.com</link>
+      <description>&lt;ul&gt;
+  &lt;li&gt;&lt;b&gt;Summary:&lt;/b&gt; &lt;b&gt;Bristol-Myers Squibb&lt;/b&gt; is exploring the construction of a $1 billion manufacturing facility in Houston, Texas. The plant would support the company's growing biologics portfolio and cell therapy production. The filing indicates a potential significant expansion of Bristol's manufacturing footprint.&lt;/li&gt;
+  &lt;li&gt;&lt;b&gt;MoAs:&lt;/b&gt; N/A&lt;/li&gt;
+  &lt;li&gt;&lt;b&gt;Sources:&lt;/b&gt; &lt;a href="https://www.fiercepharma.com/manufacturing/bristol-myers-looks-houston-potential-1b-manufacturing-plant-filing"&gt;Fierce Pharma&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;</description>
+      <guid isPermaLink="false">0716dabc71985890bb2b287fd0116dfb</guid>
+      <pubDate>Mon, 18 May 2026 22:01:47 GMT</pubDate>
+    </item>
+    <item>
+      <title>Unlocking Value from Mature Drug Products</title>
+      <link>https://www.google.com</link>
+      <description>&lt;ul&gt;
+  &lt;li&gt;&lt;b&gt;Summary:&lt;/b&gt; An article from &lt;b&gt;BioPharma Dive&lt;/b&gt; discusses how pharmaceutical companies can unlock additional value from mature drug products through strategic outsourcing. The piece argues that by leveraging contract development and manufacturing organizations (CDMOs) for lifecycle management, companies can reduce costs, optimize supply chains, and extend the commercial viability of established brands. It provides a framework for evaluating which products are suitable for outsourcing and how to manage such partnerships effectively.&lt;/li&gt;
+  &lt;li&gt;&lt;b&gt;MoAs:&lt;/b&gt; N/A&lt;/li&gt;
+  &lt;li&gt;&lt;b&gt;Sources:&lt;/b&gt; &lt;a href="https://www.biopharmadive.com/spons/unlocking-more-value-from-mature-drug-products-through-strategic-outsourcin/820074/"&gt;BioPharma Dive&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;</description>
+      <guid isPermaLink="false">39f3bff151da454c11f44c72070c4ca6</guid>
+      <pubDate>Mon, 18 May 2026 22:01:47 GMT</pubDate>
     </item>
   </channel>
 </rss>
