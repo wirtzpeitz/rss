@@ -6,26 +6,59 @@
     <description>News digest covering Other.</description>
     <atom:link href="https://www.google.com" rel="self" type="application/rss+xml"/>
     <item>
-      <title>AI in Medicine and Training</title>
+      <title>Revolution Oncology Titan</title>
       <link>https://www.google.com</link>
       <description>&lt;ul&gt;
-  &lt;li&gt;&lt;b&gt;Summary:&lt;/b&gt; Penn Medicine is integrating artificial intelligence into physician training, while another article examines how AI agents are being used in addiction medicine, highlighting both promise and pitfalls.&lt;/li&gt;
+  &lt;li&gt;&lt;b&gt;Summary:&lt;/b&gt; Truist analysts argue that &lt;b&gt;Revolution Medicines&lt;/b&gt; could become the next oncology titan, citing the company's pipeline of RAS‑targeted therapies. The analysis highlights the potential of Revolution's RAS‑on multi‑inhibitors in addressing a broad range of RAS‑mutant cancers. No specific clinical data were discussed in the article.&lt;/li&gt;
   &lt;li&gt;&lt;b&gt;MoAs:&lt;/b&gt; N/A&lt;/li&gt;
-  &lt;li&gt;&lt;b&gt;Sources:&lt;/b&gt; &lt;a href="https://endpoints.news/how-penn-medicine-plans-to-use-ai-to-train-their-doctors/"&gt;Endpoints News&lt;/a&gt;, &lt;a href="https://www.statnews.com/2026/05/14/addiction-medicine-ai-agent-empathy-caring-misguided/?utm_campaign=rss"&gt;STAT News&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;b&gt;Sources:&lt;/b&gt; &lt;a href="https://www.biospace.com/drug-development/is-revolution-the-next-oncology-titan-truist-analysts-make-the-case"&gt;BioSpace&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;</description>
-      <guid isPermaLink="false">8531129c00a6dd1d7b9396dd19b8fa3e</guid>
-      <pubDate>Thu, 14 May 2026 22:00:31 GMT</pubDate>
+      <guid isPermaLink="false">08b1f59c21ae8a7d8f25c5c010410c19</guid>
+      <pubDate>Mon, 18 May 2026 22:01:47 GMT</pubDate>
     </item>
     <item>
-      <title>Cell Therapy and Gene Therapy Advances</title>
+      <title>Texas Detransition Clinic</title>
       <link>https://www.google.com</link>
       <description>&lt;ul&gt;
-  &lt;li&gt;&lt;b&gt;Summary:&lt;/b&gt; Recent advances include Encoded's gene therapy reducing seizures in Dravet syndrome, ASGCT discussions on in vivo CAR-T, functional peptide screening for GPCRs and radiopharma, and a report on building the cell therapy future from MSCs to iPSCs.&lt;/li&gt;
-  &lt;li&gt;&lt;b&gt;MoAs:&lt;/b&gt; Gene therapy (AAV-mediated), CAR‑T cell therapy, functional peptide screening, iPSC‑derived cell therapy&lt;/li&gt;
-  &lt;li&gt;&lt;b&gt;Sources:&lt;/b&gt; &lt;a href="https://endpoints.news/encodeds-gene-therapy-reduced-seizures-in-dravet-syndrome/"&gt;Endpoints News&lt;/a&gt;, &lt;a href="https://endpoints.news/asgct-dispatch-in-vivo-car-t-is-everywhere-but-still-preclinical/"&gt;Endpoints News&lt;/a&gt;, &lt;a href="https://www.biospace.com/drug-development/gpcrs-radiopharma-and-the-rise-of-functional-peptide-screening"&gt;BioSpace&lt;/a&gt;, &lt;a href="https://www.biospace.com/drug-development/from-mscs-to-ipscs-building-the-cell-therapy-future"&gt;BioSpace&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;b&gt;Summary:&lt;/b&gt; Texas opened a clinic dedicated to detransition care, addressing the needs of individuals who have undergone gender transition and wish to revert.&lt;/li&gt;
+  &lt;li&gt;&lt;b&gt;MoAs:&lt;/b&gt; N/A&lt;/li&gt;
+  &lt;li&gt;&lt;b&gt;Sources:&lt;/b&gt; &lt;a href='https://www.statnews.com/2026/05/18/health-news-texas-opens-detransition-clinic/'&gt;STAT News&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;</description>
-      <guid isPermaLink="false">c8bfc6dcec8193ed02919e2fad1d1df9</guid>
-      <pubDate>Thu, 14 May 2026 22:00:31 GMT</pubDate>
+      <guid isPermaLink="false">8328cbe044810d64aa552e78da22c77d</guid>
+      <pubDate>Mon, 18 May 2026 22:01:47 GMT</pubDate>
+    </item>
+    <item>
+      <title>Mammogram Conflicting Advice</title>
+      <link>https://www.google.com</link>
+      <description>&lt;ul&gt;
+  &lt;li&gt;&lt;b&gt;Summary:&lt;/b&gt; A &lt;b&gt;STAT News&lt;/b&gt; article explores the conflicting advice women receive about when to start mammogram screening. Different organizations recommend starting at ages 40, 45, or 50, with varying frequencies. The piece explains the evidence behind each guideline, the trade-offs between benefits (early detection) and harms (false positives, overdiagnosis), and how women can make informed decisions based on their individual risk factors.&lt;/li&gt;
+  &lt;li&gt;&lt;b&gt;MoAs:&lt;/b&gt; N/A&lt;/li&gt;
+  &lt;li&gt;&lt;b&gt;Sources:&lt;/b&gt; &lt;a href="https://www.statnews.com/2026/05/17/when-should-you-get-a-mammogram-conflicting-advice/?utm_campaign=rss"&gt;STAT News&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;</description>
+      <guid isPermaLink="false">91f5af318af02c5f0125db4018811bf6</guid>
+      <pubDate>Mon, 18 May 2026 22:01:47 GMT</pubDate>
+    </item>
+    <item>
+      <title>Bill Cassidy Loses Louisiana Primary</title>
+      <link>https://www.google.com</link>
+      <description>&lt;ul&gt;
+  &lt;li&gt;&lt;b&gt;Summary:&lt;/b&gt; Senator Bill Cassidy lost the Louisiana Republican primary after facing opposition from MAGA and MAHA factions. The election outcome is reported by STAT News, which covered the campaign dynamics and Trump's involvement.&lt;/li&gt;
+  &lt;li&gt;&lt;b&gt;MoAs:&lt;/b&gt; N/A&lt;/li&gt;
+  &lt;li&gt;&lt;b&gt;Sources:&lt;/b&gt; &lt;a href="https://www.statnews.com/2026/05/17/bill-cassidy-loses-louisiana-primary-after-maga-maha-opposition/?utm_campaign=rss"&gt;STAT News&lt;/a&gt;, &lt;a href="https://www.statnews.com/2026/05/16/trump-blasts-bill-cassidy-louisiana-republican-primary/?utm_campaign=rss"&gt;STAT News&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;</description>
+      <guid isPermaLink="false">3a79b8b2761fa6a1fe4b1a6e99b4c5ef</guid>
+      <pubDate>Mon, 18 May 2026 22:01:47 GMT</pubDate>
+    </item>
+    <item>
+      <title>Blue Zones Interview with Eric Topol</title>
+      <link>https://www.google.com</link>
+      <description>&lt;ul&gt;
+  &lt;li&gt;&lt;b&gt;Summary:&lt;/b&gt; Transcript of an interview with Eric Topol and Shelley Wood discussing Blue Zones, longevity, and health outcomes. The interview explores the science behind centenarian communities and lessons for public health.&lt;/li&gt;
+  &lt;li&gt;&lt;b&gt;MoAs:&lt;/b&gt; N/A&lt;/li&gt;
+  &lt;li&gt;&lt;b&gt;Sources:&lt;/b&gt; &lt;a href="https://www.statnews.com/2026/05/16/blue-zones-eric-topol-shelley-wood-interview-transcript/?utm_campaign=rss"&gt;STAT News&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;</description>
+      <guid isPermaLink="false">9a0eb100c2cc160e36a70b90affdc5a0</guid>
+      <pubDate>Mon, 18 May 2026 22:01:47 GMT</pubDate>
     </item>
   </channel>
 </rss>
