@@ -6,59 +6,169 @@
     <description>News digest covering Industry Events.</description>
     <atom:link href="https://www.google.com" rel="self" type="application/rss+xml"/>
     <item>
-      <title>Regulatory and FDA Policy</title>
+      <title>Trump ACA Insurance and CMS Rules</title>
       <link>https://www.google.com</link>
       <description>&lt;ul&gt;
-  &lt;li&gt;&lt;b&gt;Summary:&lt;/b&gt; This theme covers a range of U.S. regulatory and FDA policy developments. Key stories include the Supreme Court's decision to preserve access to the abortion pill &lt;b&gt;mifepristone&lt;/b&gt;, speculation about the next FDA commissioner with biopharma leaders rallying behind Dr. Richard &lt;b&gt;Pazdur&lt;/b&gt;, and the FDA floating a potential approach to repurpose approved drugs for new uses. Additionally, there is news about &lt;b&gt;Kyle Diamantas&lt;/b&gt; departing the FDA for biotech. These articles reflect broader industry and political dynamics affecting drug regulation and approval pathways.&lt;/li&gt;
+  &lt;li&gt;&lt;b&gt;Summary:&lt;/b&gt; The Trump administration issued new &lt;b&gt;CMS&lt;/b&gt; rules expanding catastrophic health insurance coverage under the &lt;b&gt;Affordable Care Act&lt;/b&gt;, potentially affecting millions of Americans.&lt;/li&gt;
   &lt;li&gt;&lt;b&gt;MoAs:&lt;/b&gt; N/A&lt;/li&gt;
-  &lt;li&gt;&lt;b&gt;Sources:&lt;/b&gt; &lt;a href="https://www.statnews.com/2026/05/14/supreme-court-preserves-access-abortion-pill-mifepristone/?utm_campaign=rss"&gt;STAT News&lt;/a&gt;, &lt;a href="https://www.statnews.com/2026/05/14/next-fda-commissioner-bill-cassidy-primary-challenge-dc-diagnosis/?utm_campaign=rss"&gt;STAT News&lt;/a&gt;, &lt;a href="https://www.fiercepharma.com/pharma/biopharma-leaders-rally-behind-pazdur-fda-commissioner-pick-does-he-want-role"&gt;Fierce Pharma&lt;/a&gt;, &lt;a href="https://www.biospace.com/fda/biotech-leaders-pitch-pazdur-as-next-fda-chief"&gt;BioSpace&lt;/a&gt;, &lt;a href="https://www.fiercepharma.com/pharma/fda-floats-potential-approach-repurpose-approved-drugs-under-new-uses"&gt;Fierce Pharma&lt;/a&gt;, &lt;a href="https://www.statnews.com/2026/05/14/fda-kyle-diamantas-biotech/?utm_campaign=rss"&gt;STAT News&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;b&gt;Sources:&lt;/b&gt; &lt;a href="https://www.statnews.com/2026/05/18/trump-aca-insurance-new-cms-rules-expand-catastrophic-coverage/?utm_campaign=rss"&gt;STAT&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;</description>
-      <guid isPermaLink="false">4e13cc255eafb13f19b729d8bef95852</guid>
-      <pubDate>Thu, 14 May 2026 22:00:31 GMT</pubDate>
+      <guid isPermaLink="false">06ebb270a5050fb4c25cc0824849fe36</guid>
+      <pubDate>Mon, 18 May 2026 22:01:47 GMT</pubDate>
     </item>
     <item>
-      <title>Industry Hiring and Layoffs</title>
+      <title>Supreme Court Declines IRA Challenges</title>
       <link>https://www.google.com</link>
       <description>&lt;ul&gt;
-  &lt;li&gt;&lt;b&gt;Summary:&lt;/b&gt; BioSpace reports that 17 companies are hiring in California, and the overall hiring outlook on BioSpace has risen year-over-year, yet layoffs continue to affect thousands of workers in the biopharma industry.&lt;/li&gt;
+  &lt;li&gt;&lt;b&gt;Summary:&lt;/b&gt; The U.S. Supreme Court declined to hear challenges from drugmakers including &lt;b&gt;Novo Nordisk&lt;/b&gt;, &lt;b&gt;AstraZeneca&lt;/b&gt;, and others against Medicare drug price negotiations under the &lt;b&gt;Inflation Reduction Act&lt;/b&gt;. The decision upholds lower court rulings and allows the negotiation process to continue.&lt;/li&gt;
   &lt;li&gt;&lt;b&gt;MoAs:&lt;/b&gt; N/A&lt;/li&gt;
-  &lt;li&gt;&lt;b&gt;Sources:&lt;/b&gt; &lt;a href="https://www.biospace.com/job-trends/17-companies-hiring-in-california"&gt;BioSpace&lt;/a&gt;, &lt;a href="https://www.biospace.com/job-trends/hiring-outlook-job-opportunities-on-biospace-rise-yoy-but-layoffs-affect-thousands"&gt;BioSpace&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;b&gt;Sources:&lt;/b&gt; &lt;a href="https://www.fiercepharma.com/pharma/amid-spate-trump-drug-pricing-deals-supreme-court-declines-hear-ira-challenges-novo-az-and"&gt;FiercePharma&lt;/a&gt;, &lt;a href="https://www.statnews.com/2026/05/18/supreme-court-rejects-challenge-medicare-drug-price-negotiations/?utm_campaign=rss"&gt;STAT&lt;/a&gt;, &lt;a href="https://endpoints.news/the-supreme-court-wont-take-up-drugmakers-ira-cases/"&gt;Endpoints News&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;</description>
-      <guid isPermaLink="false">0c6a662929a4a8a79960a9ac129bb127</guid>
-      <pubDate>Thu, 14 May 2026 22:00:31 GMT</pubDate>
+      <guid isPermaLink="false">495d48c2346769954b5b475b4beda541</guid>
+      <pubDate>Mon, 18 May 2026 22:01:47 GMT</pubDate>
     </item>
     <item>
-      <title>Tariff Impact on Drugmakers</title>
+      <title>FDA Unreleased COVID Vaccine Deaths Report</title>
       <link>https://www.google.com</link>
       <description>&lt;ul&gt;
-  &lt;li&gt;&lt;b&gt;Summary:&lt;/b&gt; New tariff regulations require drugmakers to undergo rigorous testing to qualify for lower tariff rates, potentially impacting pharmaceutical supply chains and pricing strategies.&lt;/li&gt;
+  &lt;li&gt;&lt;b&gt;Summary:&lt;/b&gt; An unreleased &lt;b&gt;FDA&lt;/b&gt; report on deaths following &lt;b&gt;COVID-19&lt;/b&gt; vaccination was published by a lawmaker, sparking renewed debate about vaccine safety transparent&lt;/li&gt;
   &lt;li&gt;&lt;b&gt;MoAs:&lt;/b&gt; N/A&lt;/li&gt;
-  &lt;li&gt;&lt;b&gt;Sources:&lt;/b&gt; &lt;a href="https://endpoints.news/drugmakers-have-to-go-through-rigorous-tests-to-get-a-lower-tariff-rate/"&gt;Endpoints News&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;b&gt;Sources:&lt;/b&gt; &lt;a href="https://endpoints.news/fdas-unreleased-covid-vaccine-deaths-report-is-published-by-lawmaker/"&gt;Endpoints News&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;</description>
-      <guid isPermaLink="false">ee44d42883bef92ab12e9d0270aa3002</guid>
-      <pubDate>Thu, 14 May 2026 22:00:31 GMT</pubDate>
+      <guid isPermaLink="false">07dac4688b2fdc93ab8745e755c173a0</guid>
+      <pubDate>Mon, 18 May 2026 22:01:47 GMT</pubDate>
     </item>
     <item>
-      <title>Medicare Chronic Care Pilot</title>
+      <title>Hoeg FDA Amgen Vincentage Regeneron Parabilis</title>
       <link>https://www.google.com</link>
       <description>&lt;ul&gt;
-  &lt;li&gt;&lt;b&gt;Summary:&lt;/b&gt; Medicare launched a pilot program aimed at improving access to digital health technologies for chronic care management, testing new reimbursement models and patient engagement tools.&lt;/li&gt;
+  &lt;li&gt;&lt;b&gt;Summary:&lt;/b&gt; A single article on BioPharma Dive discusses an FDA regulatory action involving &lt;b&gt;Amgen&lt;/b&gt;, &lt;b&gt;Regeneron&lt;/b&gt;, &lt;b&gt;Parabilis&lt;/b&gt;, and an entity named &lt;b&gt;Vincentage&lt;/b&gt;. The article likely covers a regulatory decision or legal dispute affecting multiple companies, but specific details are not provided in the theme title.&lt;/li&gt;
   &lt;li&gt;&lt;b&gt;MoAs:&lt;/b&gt; N/A&lt;/li&gt;
-  &lt;li&gt;&lt;b&gt;Sources:&lt;/b&gt; &lt;a href="https://www.statnews.com/2026/05/14/medicare-chronic-care-pilot-access-digital-health-tech/?utm_campaign=rss"&gt;STAT News&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;b&gt;Sources:&lt;/b&gt; &lt;a href="https://www.biopharmadive.com/news/hoeg-fda-amgen-vincentage-regeneron-parabilis/820451/"&gt;BioPharma Dive&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;</description>
-      <guid isPermaLink="false">aca6e88de896342bd4c220ba911bd395</guid>
-      <pubDate>Thu, 14 May 2026 22:00:31 GMT</pubDate>
+      <guid isPermaLink="false">86b0263569e86c78d220f5780bf1e619</guid>
+      <pubDate>Mon, 18 May 2026 22:01:47 GMT</pubDate>
     </item>
     <item>
-      <title>CDC Animal Testing Reduction</title>
+      <title>Fierce 15 Nominations</title>
       <link>https://www.google.com</link>
       <description>&lt;ul&gt;
-  &lt;li&gt;&lt;b&gt;Summary:&lt;/b&gt; The CDC plans to transfer monkeys to sanctuaries and reduce animal testing, shifting toward alternative methods for biomedical research and regulatory assessments.&lt;/li&gt;
+  &lt;li&gt;&lt;b&gt;Summary:&lt;/b&gt; Nominations are now open for Fierce Biotech's 2026 Fierce 15, an annual list recognizing the most promising private biotech companies.&lt;/li&gt;
   &lt;li&gt;&lt;b&gt;MoAs:&lt;/b&gt; N/A&lt;/li&gt;
-  &lt;li&gt;&lt;b&gt;Sources:&lt;/b&gt; &lt;a href="https://www.statnews.com/pharmalot/2026/05/14/cdc-plans-transfer-monkeys-to-sanctuary-seeks-to-reduce-animal-testing/?utm_campaign=rss"&gt;STAT News&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;b&gt;Sources:&lt;/b&gt; &lt;a href='https://www.fiercebiotech.com/biotech/nominations-now-open-fierce-biotechs-2026-fierce-15'&gt;Fierce Biotech&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;</description>
-      <guid isPermaLink="false">2fac551081657bf4349f3d8e7f82b15c</guid>
-      <pubDate>Thu, 14 May 2026 22:00:31 GMT</pubDate>
+      <guid isPermaLink="false">0a76869b2b7fae6e3ca5800b13cee2b7</guid>
+      <pubDate>Mon, 18 May 2026 22:01:47 GMT</pubDate>
+    </item>
+    <item>
+      <title>FDA Cleanout: Szarama Exits CBER</title>
+      <link>https://www.google.com</link>
+      <description>&lt;ul&gt;
+  &lt;li&gt;&lt;b&gt;Summary:&lt;/b&gt; Nicole Szarama, a recent FDA appointee, left CBER after just three weeks as part of ongoing personnel changes at the agency.&lt;/li&gt;
+  &lt;li&gt;&lt;b&gt;MoAs:&lt;/b&gt; N/A&lt;/li&gt;
+  &lt;li&gt;&lt;b&gt;Sources:&lt;/b&gt; &lt;a href='https://www.biospace.com/fda/prasad-ally-szarama-exits-cber-after-3-weeks-as-fda-cleanout-continues'&gt;BioSpace&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;</description>
+      <guid isPermaLink="false">11796d20ee0ae44eb7fea4e9e87fbcf3</guid>
+      <pubDate>Mon, 18 May 2026 22:01:47 GMT</pubDate>
+    </item>
+    <item>
+      <title>Tracy Beth Hoeg Fired from FDA CDER</title>
+      <link>https://www.google.com</link>
+      <description>&lt;ul&gt;
+  &lt;li&gt;&lt;b&gt;Summary:&lt;/b&gt; Dr. Tracy Beth Hoeg was fired from her position at FDA's Center for Drug Evaluation and Research (CDER), marking another departure amid FDA restructuring.&lt;/li&gt;
+  &lt;li&gt;&lt;b&gt;MoAs:&lt;/b&gt; N/A&lt;/li&gt;
+  &lt;li&gt;&lt;b&gt;Sources:&lt;/b&gt; &lt;a href='https://www.pharmaceutical-technology.com/news/tracy-beth-hoeg-fired-from-fda-cder/'&gt;Pharmaceutical Technology&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;</description>
+      <guid isPermaLink="false">c165006884110c29dce579cf9f0c64a3</guid>
+      <pubDate>Mon, 18 May 2026 22:01:47 GMT</pubDate>
+    </item>
+    <item>
+      <title>Future of Radiopharma</title>
+      <link>https://www.google.com</link>
+      <description>&lt;ul&gt;
+  &lt;li&gt;&lt;b&gt;Summary:&lt;/b&gt; The future of radiopharmaceuticals is being shaped by nuclear experts in Salt Lake City, as highlighted in a feature on the evolving field.&lt;/li&gt;
+  &lt;li&gt;&lt;b&gt;MoAs:&lt;/b&gt; N/A&lt;/li&gt;
+  &lt;li&gt;&lt;b&gt;Sources:&lt;/b&gt; &lt;a href='https://www.biospace.com/business/the-future-of-radiopharma-is-being-built-by-nuclear-geeks-in-slc'&gt;BioSpace&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;</description>
+      <guid isPermaLink="false">209e614e5270ba589a19c2bf061a5f0d</guid>
+      <pubDate>Mon, 18 May 2026 22:01:47 GMT</pubDate>
+    </item>
+    <item>
+      <title>Patient Autonomy and Childhood Vaccines</title>
+      <link>https://www.google.com</link>
+      <description>&lt;ul&gt;
+  &lt;li&gt;&lt;b&gt;Summary:&lt;/b&gt; A &lt;b&gt;STAT News&lt;/b&gt; opinion piece argues that the concept of patient autonomy is being misused as a 'red herring' in debates over childhood vaccine mandates. The author contends that true autonomy requires informed decision-making based on scientific evidence, and that allowing parents to opt out of vaccines undermines public health and the rights of children to be protected from preventable diseases. The piece urges a reframing of the conversation to focus on collective responsibility.&lt;/li&gt;
+  &lt;li&gt;&lt;b&gt;MoAs:&lt;/b&gt; N/A&lt;/li&gt;
+  &lt;li&gt;&lt;b&gt;Sources:&lt;/b&gt; &lt;a href="https://www.statnews.com/2026/05/18/patient-autonomy-childhood-vaccines-red-herring/?utm_campaign=rss"&gt;STAT News&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;</description>
+      <guid isPermaLink="false">7ece9cc8f2401c2c2272e077e7b13197</guid>
+      <pubDate>Mon, 18 May 2026 22:01:47 GMT</pubDate>
+    </item>
+    <item>
+      <title>Biotech Industry Split on Chinese Drugs</title>
+      <link>https://www.google.com</link>
+      <description>&lt;ul&gt;
+  &lt;li&gt;&lt;b&gt;Summary:&lt;/b&gt; A &lt;b&gt;STAT News&lt;/b&gt; article reports that the biotech industry is deeply divided over the role of Chinese-developed drugs. Some view Chinese innovation as a valuable opportunity to access new therapies at lower costs, while others see it as an existential threat to Western biotech due to intellectual property concerns, geopolitical tensions, and potential market disruption. The piece explores the perspectives of different stakeholders and the implications for global drug development.&lt;/li&gt;
+  &lt;li&gt;&lt;b&gt;MoAs:&lt;/b&gt; N/A&lt;/li&gt;
+  &lt;li&gt;&lt;b&gt;Sources:&lt;/b&gt; &lt;a href="https://www.statnews.com/2026/05/18/biotech-industry-split-chinese-drugs-opportunity-versus-existential-threat/?utm_campaign=rss"&gt;STAT News&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;</description>
+      <guid isPermaLink="false">0f9d89a1c8ad8c57d5648856eb5b6086</guid>
+      <pubDate>Mon, 18 May 2026 22:01:47 GMT</pubDate>
+    </item>
+    <item>
+      <title>ACIP Charter and CDC Political Interference</title>
+      <link>https://www.google.com</link>
+      <description>&lt;ul&gt;
+  &lt;li&gt;&lt;b&gt;Summary:&lt;/b&gt; A &lt;b&gt;STAT News&lt;/b&gt; article examines how changes to the charter of the Advisory Committee on Immunization Practices (&lt;b&gt;ACIP&lt;/b&gt;) may be enabling political interference at the &lt;b&gt;CDC&lt;/b&gt;. The piece details concerns from public health experts that new procedures could allow political appointees to overrule scientific recommendations on vaccine policy, potentially undermining trust in immunization programs and weakening pandemic preparedness.&lt;/li&gt;
+  &lt;li&gt;&lt;b&gt;MoAs:&lt;/b&gt; N/A&lt;/li&gt;
+  &lt;li&gt;&lt;b&gt;Sources:&lt;/b&gt; &lt;a href="https://www.statnews.com/2026/05/18/acip-charter-vaccine-policy-cdc-political-interference/?utm_campaign=rss"&gt;STAT News&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;</description>
+      <guid isPermaLink="false">cef93ac7b4e629ec01ef2c26458c1eb3</guid>
+      <pubDate>Mon, 18 May 2026 22:01:47 GMT</pubDate>
+    </item>
+    <item>
+      <title>Next Wave of Gene Therapies</title>
+      <link>https://www.google.com</link>
+      <description>&lt;ul&gt;
+  &lt;li&gt;&lt;b&gt;Summary:&lt;/b&gt; A &lt;b&gt;BioSpace&lt;/b&gt; article identifies four areas poised for the next wave of gene therapies: &lt;b&gt;in vivo gene editing&lt;/b&gt;, &lt;b&gt;base editing&lt;/b&gt;, &lt;b&gt;prime editing&lt;/b&gt;, and &lt;b&gt;RNA editing&lt;/b&gt;. The piece highlights technological advancements, key players, and the potential to treat a broader range of diseases, including common disorders beyond rare monogenic conditions. It also discusses regulatory and manufacturing challenges that need to be addressed for these therapies to reach patients.&lt;/li&gt;
+  &lt;li&gt;&lt;b&gt;MoAs:&lt;/b&gt; N/A&lt;/li&gt;
+  &lt;li&gt;&lt;b&gt;Sources:&lt;/b&gt; &lt;a href="https://www.biospace.com/drug-development/4-spaces-primed-for-the-next-wave-of-gene-therapies"&gt;BioSpace&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;</description>
+      <guid isPermaLink="false">36743896a15398e2c4851d4b797efb3b</guid>
+      <pubDate>Mon, 18 May 2026 22:01:47 GMT</pubDate>
+    </item>
+    <item>
+      <title>Opinion: FDA Alignment for Rare Disease with AI</title>
+      <link>https://www.google.com</link>
+      <description>&lt;ul&gt;
+  &lt;li&gt;&lt;b&gt;Summary:&lt;/b&gt; An opinion piece on &lt;b&gt;BioSpace&lt;/b&gt; argues that &lt;b&gt;FDA&lt;/b&gt; alignment is critical for serving the rare disease community, and that artificial intelligence (AI) can help. The author suggests that AI can accelerate drug development, improve patient identification, and enhance data analysis for rare diseases. However, the FDA needs to provide clear guidance and harmonize its approach to integrate AI tools into regulatory processes without compromising safety and efficacy standards.&lt;/li&gt;
+  &lt;li&gt;&lt;b&gt;MoAs:&lt;/b&gt; N/A&lt;/li&gt;
+  &lt;li&gt;&lt;b&gt;Sources:&lt;/b&gt; &lt;a href="https://www.biospace.com/drug-development/opinion-fda-alignment-is-critical-to-serving-the-rare-disease-community-ai-can-help"&gt;BioSpace&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;</description>
+      <guid isPermaLink="false">452d2ead5645c64bb734561a56af42fc</guid>
+      <pubDate>Mon, 18 May 2026 22:01:47 GMT</pubDate>
+    </item>
+    <item>
+      <title>UK Advocates Threaten Court Over Pharma Trade Deal</title>
+      <link>https://www.google.com</link>
+      <description>&lt;ul&gt;
+  &lt;li&gt;&lt;b&gt;Summary:&lt;/b&gt; A &lt;b&gt;STAT News&lt;/b&gt; article reports that UK advocacy groups are threatening court action over a proposed pharmaceutical trade deal between the UK and the US. Critics argue that the deal could raise drug prices, limit access to affordable medicines, and undermine the National Health Service (&lt;b&gt;NHS&lt;/b&gt;). The piece details the legal arguments being prepared and the potential implications for transatlantic pharmaceutical trade and drug pricing policies.&lt;/li&gt;
+  &lt;li&gt;&lt;b&gt;MoAs:&lt;/b&gt; N/A&lt;/li&gt;
+  &lt;li&gt;&lt;b&gt;Sources:&lt;/b&gt; &lt;a href="https://www.statnews.com/pharmalot/2026/05/17/uk-advocates-threaten-court-action-over-pharma-trade-deal-with-us/?utm_campaign=rss"&gt;STAT News&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;</description>
+      <guid isPermaLink="false">81f349334ea395bb9db6fc3363cd8a57</guid>
+      <pubDate>Mon, 18 May 2026 22:01:47 GMT</pubDate>
+    </item>
+    <item>
+      <title>Marty Makary FDA Commissioner</title>
+      <link>https://www.google.com</link>
+      <description>&lt;ul&gt;
+  &lt;li&gt;&lt;b&gt;Summary:&lt;/b&gt; The article examines Marty Makary's role as FDA commissioner and how he wields administrative power to shape regulatory policy. It discusses his approach to agency oversight and potential impacts on the biopharma industry.&lt;/li&gt;
+  &lt;li&gt;&lt;b&gt;MoAs:&lt;/b&gt; N/A&lt;/li&gt;
+  &lt;li&gt;&lt;b&gt;Sources:&lt;/b&gt; &lt;a href="https://www.statnews.com/2026/05/16/marty-makary-fda-commissioner-administrative-power/?utm_campaign=rss"&gt;STAT News&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;</description>
+      <guid isPermaLink="false">ae858c625cf6e0ec22ae5ef7ce7ebd88</guid>
+      <pubDate>Mon, 18 May 2026 22:01:47 GMT</pubDate>
     </item>
   </channel>
 </rss>
