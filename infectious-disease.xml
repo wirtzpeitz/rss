@@ -6,15 +6,26 @@
     <description>News digest covering Infectious Disease.</description>
     <atom:link href="https://www.google.com" rel="self" type="application/rss+xml"/>
     <item>
-      <title>Hantavirus Outbreak</title>
+      <title>Ebola Outbreak and Merck Vaccine Ervebo</title>
       <link>https://www.google.com</link>
       <description>&lt;ul&gt;
-  &lt;li&gt;&lt;b&gt;Summary:&lt;/b&gt; A hantavirus outbreak prompted a CDC briefing and biocontainment response, including actions on a cruise ship. The event also spurred discussions on pandemic preparedness between the CDC and WHO.&lt;/li&gt;
-  &lt;li&gt;&lt;b&gt;MoAs:&lt;/b&gt; N/A&lt;/li&gt;
-  &lt;li&gt;&lt;b&gt;Sources:&lt;/b&gt; &lt;a href='https://www.statnews.com/2026/05/13/hantavirus-outbreak-cdc-briefing-cruise-ship-outbreak-response/?utm_campaign=rss'&gt;STAT News&lt;/a&gt;, &lt;a href='https://www.statnews.com/2026/05/13/hantavirus-biocontainment-response-cdc-who-pandemic-preparedness/?utm_campaign=rss'&gt;STAT News&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;b&gt;Summary:&lt;/b&gt; An ongoing &lt;b&gt;Ebola&lt;/b&gt; outbreak in Uganda, the Democratic Republic of Congo, and South Sudan has been declared a Public Health Emergency of International Concern. Experts are weighing the use of &lt;b&gt;Merck&lt;/b&gt;'s &lt;b&gt;Ervebo&lt;/b&gt; vaccine to control the spread. The CDC has announced travel bans, and suspected cases have been reported in the U.S.&lt;/li&gt;
+  &lt;li&gt;&lt;b&gt;MoAs:&lt;/b&gt; Ervebo is a live-attenuated vesicular stomatitis virus vector vaccine expressing the Ebola virus glycoprotein. It induces an immune response against Ebola virus.&lt;/li&gt;
+  &lt;li&gt;&lt;b&gt;Sources:&lt;/b&gt; &lt;a href="https://www.statnews.com/2026/05/18/ebola-outbreak-update-experts-weigh-use-merck-vaccine-ervebo/?utm_campaign=rss"&gt;STAT&lt;/a&gt;, &lt;a href="https://www.statnews.com/2026/05/18/cdc-ebola-travel-ban-announced-uganda-congo-south-sudan/?utm_campaign=rss"&gt;STAT&lt;/a&gt;, &lt;a href="https://www.pharmaceutical-technology.com/news/vaccine-void-means-current-ebola-outbreak-declared-international-emergency/"&gt;Pharmaceutical Technology&lt;/a&gt;, &lt;a href="https://www.statnews.com/2026/05/17/ebola-outbreak-congo-americans-exposure-suspected-cases/?utm_campaign=rss"&gt;STAT&lt;/a&gt;, &lt;a href="https://www.statnews.com/2026/05/17/who-ebola-drc-uganda-bundibugyo-pheic-public-health-emergency/?utm_campaign=rss"&gt;STAT&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;</description>
-      <guid isPermaLink="false">fc253a6c75d693f67ff1f9122dd09c54</guid>
-      <pubDate>Wed, 13 May 2026 22:00:39 GMT</pubDate>
+      <guid isPermaLink="false">57e47b1fe312bc73fc4e41bfdb07bd5b</guid>
+      <pubDate>Mon, 18 May 2026 22:01:47 GMT</pubDate>
+    </item>
+    <item>
+      <title>Hantavirus Outbreak on Cruise Ship</title>
+      <link>https://www.google.com</link>
+      <description>&lt;ul&gt;
+  &lt;li&gt;&lt;b&gt;Summary:&lt;/b&gt; An outbreak of hantavirus on a cruise ship is reported, drawing comparisons to COVID-19 flashbacks and fueling conspiracy theories. Health authorities are investigating the source and implementing containment measures.&lt;/li&gt;
+  &lt;li&gt;&lt;b&gt;MoAs:&lt;/b&gt; N/A&lt;/li&gt;
+  &lt;li&gt;&lt;b&gt;Sources:&lt;/b&gt; &lt;a href="https://www.statnews.com/2026/05/17/hantavirus-outbreak-cruise-ship-covid-flashbacks-conspiracy-theories/?utm_campaign=rss"&gt;STAT News&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;</description>
+      <guid isPermaLink="false">aedd03a590670a2b40c034362df6fc39</guid>
+      <pubDate>Mon, 18 May 2026 22:01:47 GMT</pubDate>
     </item>
   </channel>
 </rss>
