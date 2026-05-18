@@ -6,26 +6,37 @@
     <description>News digest covering Rare Disease.</description>
     <atom:link href="https://www.google.com" rel="self" type="application/rss+xml"/>
     <item>
-      <title>Regenxbio Duchenne Gene Therapy</title>
+      <title>Amgen Tavneos Liver Toxicity</title>
       <link>https://www.google.com</link>
       <description>&lt;ul&gt;
-  &lt;li&gt;&lt;b&gt;Summary:&lt;/b&gt; &lt;b&gt;Regenxbio&lt;/b&gt; reported positive pivotal trial results for its Duchenne muscular dystrophy (DMD) gene therapy &lt;b&gt;RGX-202&lt;/b&gt;, showing functional improvements in patients. However, the data were marred by serious side effects, including a patient death, raising safety concerns. Despite this, the company plans to seek FDA approval in 2027. The mixed results have led to a stock slump and cautious reactions from analysts, though the therapy represents a potential new treatment option for DMD.&lt;/li&gt;
-  &lt;li&gt;&lt;b&gt;MoAs:&lt;/b&gt; Gene therapy delivering a microdystrophin transgene to restore dystrophin function&lt;/li&gt;
-  &lt;li&gt;&lt;b&gt;Sources:&lt;/b&gt; &lt;a href="https://www.biospace.com/drug-development/regenxbio-slumps-after-serious-side-effects-mar-Duchenne-gene%20therapy-results"&gt;BioSpace&lt;/a&gt;, &lt;a href="https://www.biopharmadive.com/news/regenxbio-duchenne-gene-therapy-results-fda/820145/"&gt;BioPharma Dive&lt;/a&gt;, &lt;a href="https://www.fiercebiotech.com/biotech/regenxbio-reaps-pivotal-win-duchenne-muscular-dystrophy-gene-therapy"&gt;Fierce Biotech&lt;/a&gt;, &lt;a href="https://endpoints.news/regenxbio-hits-duchenne-gene-therapy-milestone-eyes-2027-fda-approval/"&gt;Endpoints News&lt;/a&gt;, &lt;a href="https://www.statnews.com/2026/05/14/regenxbio-duchenne-gene-therapy-trial-results/?utm_campaign=rss"&gt;STAT News&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;b&gt;Summary:&lt;/b&gt; &lt;b&gt;Amgen&lt;/b&gt;'s rare disease drug &lt;b&gt;Tavneos&lt;/b&gt; (avacopan) has been linked to liver toxicity and at least 20 deaths in Japan, according to reports. Amgen stands by the drug, which is approved for ANCA-associated vasculitis, citing its benefit-risk profile.&lt;/li&gt;
+  &lt;li&gt;&lt;b&gt;MoAs:&lt;/b&gt; Tavneos (avacopan) is a complement 5a receptor (C5aR) antagonist that blocks the pro-inflammatory complement pathway, reducing neutrophil activation and vascular damage.&lt;/li&gt;
+  &lt;li&gt;&lt;b&gt;Sources:&lt;/b&gt; &lt;a href="https://endpoints.news/amgen-stands-by-rare-disease-drug-tavneos-amid-japan-liver-toxicity-report/"&gt;Endpoints News&lt;/a&gt;, &lt;a href="https://www.biospace.com/business/amgens-rare-disease-drug-tavneos-tied-to-20-deaths-in-japan"&gt;BioSpace&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;</description>
-      <guid isPermaLink="false">56d75871a0bd20a0306af41d42f5a3a5</guid>
-      <pubDate>Thu, 14 May 2026 22:00:31 GMT</pubDate>
+      <guid isPermaLink="false">563fdfd7eecd0a258f0066778a3937bb</guid>
+      <pubDate>Mon, 18 May 2026 22:01:47 GMT</pubDate>
     </item>
     <item>
-      <title>Pfizer EC Approval for Hympavzi</title>
+      <title>BioMarin Inozyme Flop</title>
       <link>https://www.google.com</link>
       <description>&lt;ul&gt;
-  &lt;li&gt;&lt;b&gt;Summary:&lt;/b&gt; Pfizer received European Commission approval for &lt;b&gt;Hympavzi&lt;/b&gt; (marstacimab) for the treatment of hemophilia, offering a new prophylactic option for patients.&lt;/li&gt;
-  &lt;li&gt;&lt;b&gt;MoAs:&lt;/b&gt; Antibody against tissue factor pathway inhibitor (anti-TFPI)&lt;/li&gt;
-  &lt;li&gt;&lt;b&gt;Sources:&lt;/b&gt; &lt;a href="https://www.pharmaceutical-technology.com/news/pfizer-receives-ec-approval-hympavzi/"&gt;Pharmaceutical Technology&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;b&gt;Summary:&lt;/b&gt; &lt;b&gt;BioMarin&lt;/b&gt;'s $270 million bet on &lt;b&gt;Inozyme&lt;/b&gt; appears troubled after Inozyme's rare disease drug missed its key Phase 3 endpoint. The drug was being developed for a rare genetic condition, potentially related to ENPP1 deficiency. The failure raises questions about BioMarin's investment strategy and the future of the program.&lt;/li&gt;
+  &lt;li&gt;&lt;b&gt;MoAs:&lt;/b&gt; N/A (drug not specified; Inozyme's pipeline includes INZ-701, an ENPP1 enzyme replacement therapy).&lt;/li&gt;
+  &lt;li&gt;&lt;b&gt;Sources:&lt;/b&gt; &lt;a href="https://www.fiercebiotech.com/biotech/biomarins-270m-inozyme-bet-looks-trouble-after-rare-disease-drug-misses-key-ph-3-goal"&gt;Fierce Biotech&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;</description>
-      <guid isPermaLink="false">fd153dbe1a7810a65a6e8a95a89ec2cf</guid>
-      <pubDate>Thu, 14 May 2026 22:00:31 GMT</pubDate>
+      <guid isPermaLink="false">02be5b2d70dd505ff7190b54e02a8b94</guid>
+      <pubDate>Mon, 18 May 2026 22:01:47 GMT</pubDate>
+    </item>
+    <item>
+      <title>Design Therapeutics Friedreich Ataxia</title>
+      <link>https://www.google.com</link>
+      <description>&lt;ul&gt;
+  &lt;li&gt;&lt;b&gt;Summary:&lt;/b&gt; Design Therapeutics presented data on its investigational therapy for Friedreich Ataxia, a rare neurodegenerative disorder, showing potential for disease modification.&lt;/li&gt;
+  &lt;li&gt;&lt;b&gt;MoAs:&lt;/b&gt; N/A&lt;/li&gt;
+  &lt;li&gt;&lt;b&gt;Sources:&lt;/b&gt; &lt;a href='https://endpoints.news/design-therapeutics-friedreich-ataxia-data-vincentages-obesity-results-from-china/'&gt;Endpoints News&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;</description>
+      <guid isPermaLink="false">cfc239f4f4b4be9a3b5f5a7fec273d8c</guid>
+      <pubDate>Mon, 18 May 2026 22:01:47 GMT</pubDate>
     </item>
   </channel>
 </rss>
