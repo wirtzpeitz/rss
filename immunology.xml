@@ -6,15 +6,15 @@
     <description>News digest covering Immunology.</description>
     <atom:link href="https://www.google.com" rel="self" type="application/rss+xml"/>
     <item>
-      <title>BMS Sotyktu EC Approval</title>
+      <title>UCB Bimzelx vs AbbVie Skyrizi</title>
       <link>https://www.google.com</link>
       <description>&lt;ul&gt;
-  &lt;li&gt;&lt;b&gt;Summary:&lt;/b&gt; Bristol-Myers Squibb's &lt;b&gt;Sotyktu&lt;/b&gt; (deucravacitinib) has secured European Commission approval for the treatment of moderate-to-severe plaque psoriasis. This oral TYK2 inhibitor offers a new therapeutic option for patients.&lt;/li&gt;
-  &lt;li&gt;&lt;b&gt;MoAs:&lt;/b&gt; Tyrosine kinase 2 (TYK2) inhibitor&lt;/li&gt;
-  &lt;li&gt;&lt;b&gt;Sources:&lt;/b&gt; &lt;a href='https://www.pharmaceutical-technology.com/news/bms-sotyktu-secures-ec-approval/'&gt;Pharmaceutical Technology&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;b&gt;Summary:&lt;/b&gt; &lt;b&gt;UCB&lt;/b&gt; presented data showing &lt;b&gt;Bimzelx (bimekizumab)&lt;/b&gt; achieved a head-to-head win over &lt;b&gt;AbbVie&lt;/b&gt;’s &lt;b&gt;Skyrizi (risankizumab)&lt;/b&gt; in a clinical trial, demonstrating superior efficacy in an immunology indication (likely psoriasis or psoriatic arthritis).&lt;/li&gt;
+  &lt;li&gt;&lt;b&gt;MoAs:&lt;/b&gt; Bimzelx: dual IL-17A and IL-17F inhibitor; Skyrizi: IL-23p19 inhibitor.&lt;/li&gt;
+  &lt;li&gt;&lt;b&gt;Sources:&lt;/b&gt; &lt;a href="https://www.fiercepharma.com/pharma/ucb-presents-data-bimzelxs-head-head-win-over-abbvies-skyrizi"&gt;Fierce Pharma&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;</description>
-      <guid isPermaLink="false">8c484d931c0218c9398e4911db7c4f8a</guid>
-      <pubDate>Mon, 11 May 2026 22:01:26 GMT</pubDate>
+      <guid isPermaLink="false">2561e558f747657a07bc8bb5fc70ca05</guid>
+      <pubDate>Tue, 19 May 2026 22:00:48 GMT</pubDate>
     </item>
   </channel>
 </rss>
