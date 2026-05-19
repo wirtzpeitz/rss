@@ -6,26 +6,37 @@
     <description>News digest covering Infectious Disease.</description>
     <atom:link href="https://www.google.com" rel="self" type="application/rss+xml"/>
     <item>
-      <title>Ebola Outbreak and Merck Vaccine Ervebo</title>
+      <title>UK Hantavirus Antiviral Supply</title>
       <link>https://www.google.com</link>
       <description>&lt;ul&gt;
-  &lt;li&gt;&lt;b&gt;Summary:&lt;/b&gt; An ongoing &lt;b&gt;Ebola&lt;/b&gt; outbreak in Uganda, the Democratic Republic of Congo, and South Sudan has been declared a Public Health Emergency of International Concern. Experts are weighing the use of &lt;b&gt;Merck&lt;/b&gt;'s &lt;b&gt;Ervebo&lt;/b&gt; vaccine to control the spread. The CDC has announced travel bans, and suspected cases have been reported in the U.S.&lt;/li&gt;
-  &lt;li&gt;&lt;b&gt;MoAs:&lt;/b&gt; Ervebo is a live-attenuated vesicular stomatitis virus vector vaccine expressing the Ebola virus glycoprotein. It induces an immune response against Ebola virus.&lt;/li&gt;
-  &lt;li&gt;&lt;b&gt;Sources:&lt;/b&gt; &lt;a href="https://www.statnews.com/2026/05/18/ebola-outbreak-update-experts-weigh-use-merck-vaccine-ervebo/?utm_campaign=rss"&gt;STAT&lt;/a&gt;, &lt;a href="https://www.statnews.com/2026/05/18/cdc-ebola-travel-ban-announced-uganda-congo-south-sudan/?utm_campaign=rss"&gt;STAT&lt;/a&gt;, &lt;a href="https://www.pharmaceutical-technology.com/news/vaccine-void-means-current-ebola-outbreak-declared-international-emergency/"&gt;Pharmaceutical Technology&lt;/a&gt;, &lt;a href="https://www.statnews.com/2026/05/17/ebola-outbreak-congo-americans-exposure-suspected-cases/?utm_campaign=rss"&gt;STAT&lt;/a&gt;, &lt;a href="https://www.statnews.com/2026/05/17/who-ebola-drc-uganda-bundibugyo-pheic-public-health-emergency/?utm_campaign=rss"&gt;STAT&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;b&gt;Summary:&lt;/b&gt; The UK government is bolstering its antiviral supply to prepare for potential hantavirus outbreaks, ensuring readiness against this infectious disease threat.&lt;/li&gt;
+  &lt;li&gt;&lt;b&gt;MoAs:&lt;/b&gt; N/A&lt;/li&gt;
+  &lt;li&gt;&lt;b&gt;Sources:&lt;/b&gt; &lt;a href="https://www.pharmaceutical-technology.com/news/uk-government-bolsters-antiviral-supply-for-hantavirus/"&gt;Pharmaceutical Technology&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;</description>
-      <guid isPermaLink="false">57e47b1fe312bc73fc4e41bfdb07bd5b</guid>
-      <pubDate>Mon, 18 May 2026 22:01:47 GMT</pubDate>
+      <guid isPermaLink="false">a776b6c2a34fe5dec71d522a3aa20ff5</guid>
+      <pubDate>Tue, 19 May 2026 22:00:48 GMT</pubDate>
     </item>
     <item>
-      <title>Hantavirus Outbreak on Cruise Ship</title>
+      <title>FDA COVID Vaccine Safety Report</title>
       <link>https://www.google.com</link>
       <description>&lt;ul&gt;
-  &lt;li&gt;&lt;b&gt;Summary:&lt;/b&gt; An outbreak of hantavirus on a cruise ship is reported, drawing comparisons to COVID-19 flashbacks and fueling conspiracy theories. Health authorities are investigating the source and implementing containment measures.&lt;/li&gt;
-  &lt;li&gt;&lt;b&gt;MoAs:&lt;/b&gt; N/A&lt;/li&gt;
-  &lt;li&gt;&lt;b&gt;Sources:&lt;/b&gt; &lt;a href="https://www.statnews.com/2026/05/17/hantavirus-outbreak-cruise-ship-covid-flashbacks-conspiracy-theories/?utm_campaign=rss"&gt;STAT News&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;b&gt;Summary:&lt;/b&gt; An FDA report concludes that no child deaths have been definitively caused by COVID-19 vaccination, reinforcing the safety profile of mRNA and other authorized vaccines in pediatric populations.&lt;/li&gt;
+  &lt;li&gt;&lt;b&gt;MoAs:&lt;/b&gt; mRNA vaccines (e.g., &lt;b&gt;BNT162b2&lt;/b&gt;, &lt;b&gt;mRNA-1273&lt;/b&gt;) encode spike protein; viral vector vaccines (e.g., &lt;b&gt;Ad26.COV2.S&lt;/b&gt;) use adenovirus vector&lt;/li&gt;
+  &lt;li&gt;&lt;b&gt;Sources:&lt;/b&gt; &lt;a href="https://www.biospace.com/fda/fdas-own-report-shows-no-child-deaths-definitively-caused-by-covid-vaccination"&gt;BioSpace&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;</description>
-      <guid isPermaLink="false">aedd03a590670a2b40c034362df6fc39</guid>
-      <pubDate>Mon, 18 May 2026 22:01:47 GMT</pubDate>
+      <guid isPermaLink="false">b3e69389f366fe298fe6006e7937cec3</guid>
+      <pubDate>Tue, 19 May 2026 22:00:48 GMT</pubDate>
+    </item>
+    <item>
+      <title>Ebola Travel Ban and Vaccine</title>
+      <link>https://www.google.com</link>
+      <description>&lt;ul&gt;
+  &lt;li&gt;&lt;b&gt;Summary:&lt;/b&gt; This STAT News article examines the debate over implementing travel bans in response to Ebola outbreaks and the role of existing vaccines in control efforts. It discusses the efficacy of the older Ebola vaccine (rVSV-ZEBOV) and the potential public health consequences of travel restrictions.&lt;/li&gt;
+  &lt;li&gt;&lt;b&gt;MoAs:&lt;/b&gt; Ebola vaccine (rVSV-ZEBOV/Ervebo) - live attenuated recombinant vesicular stomatitis virus vector expressing Zaire ebolavirus glycoprotein&lt;/li&gt;
+  &lt;li&gt;&lt;b&gt;Sources:&lt;/b&gt; &lt;a href="https://www.statnews.com/2026/05/19/health-news-ebola-travel-ban-and-old-vaccine/"&gt;STAT News&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;</description>
+      <guid isPermaLink="false">82ad3ecd6b26a588228690e139b32f32</guid>
+      <pubDate>Tue, 19 May 2026 22:00:48 GMT</pubDate>
     </item>
   </channel>
 </rss>
