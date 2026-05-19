@@ -6,70 +6,37 @@
     <description>News digest covering Oncology.</description>
     <atom:link href="https://www.google.com" rel="self" type="application/rss+xml"/>
     <item>
-      <title>Merck Sacituzumab (Sac-TMT) Wins</title>
+      <title>Merck Keytruda Colorectal Cancer Trial</title>
       <link>https://www.google.com</link>
       <description>&lt;ul&gt;
-  &lt;li&gt;&lt;b&gt;Summary:&lt;/b&gt; &lt;b&gt;Merck&lt;/b&gt; and its partner &lt;b&gt;Kelun-Biotech&lt;/b&gt; announced a pivotal Phase 3 win for &lt;b&gt;Sac-TMT&lt;/b&gt; (sacituzumab tirumotecan) in endometrial cancer, marking the first global Phase 3 success for this Trop-2-directed antibody-drug conjugate (ADC). The trial met its primary endpoint ahead of schedule, supporting regulatory submissions. Sac-TMT is part of a burgeoning class of ADCs targeting Trop-2, which includes &lt;b&gt;Trodelvy&lt;/b&gt; (sacituzumab govitecan). The positive data reinforce the potential of this ADC in endometrial cancer, an area with limited treatment options.&lt;/li&gt;
-  &lt;li&gt;&lt;b&gt;MoAs:&lt;/b&gt; Antibody-drug conjugate (ADC) targeting trophoblast cell-surface antigen 2 (Trop-2); delivers a topoisomerase I inhibitor payload to tumor cells.&lt;/li&gt;
-  &lt;li&gt;&lt;b&gt;Sources:&lt;/b&gt; &lt;a href="https://www.oncologypipeline.com/apexonco/merck-claims-its-first-pivotal-sacituzumab-win"&gt;ApexOnco&lt;/a&gt;, &lt;a href="https://www.fiercepharma.com/pharma/merck-kelun-score-sac-tmt-endometrial-cancer-trial"&gt;Fierce Pharma&lt;/a&gt;, &lt;a href="https://www.biopharmadive.com/news/merck-kelun-china-adc-sacTMT-endometrial-cancer-data/820472/"&gt;BioPharma Dive&lt;/a&gt;, &lt;a href="https://endpoints.news/mercks-adc-sac-tmt-gets-its-first-global-phase-3-win-ahead-of-schedule/"&gt;Endpoints News&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;b&gt;Summary:&lt;/b&gt; &lt;b&gt;Merck&lt;/b&gt; has entered into a supply agreement with &lt;b&gt;Exelixis&lt;/b&gt; to support a clinical trial combining &lt;b&gt;Keytruda (pembrolizumab)&lt;/b&gt; with Exelixis’s investigational agent for colorectal cancer. The partnership aims to evaluate the combination's potential in this difficult-to-treat indication.&lt;/li&gt;
+  &lt;li&gt;&lt;b&gt;MoAs:&lt;/b&gt; Anti-PD-1 immune checkpoint inhibitor – binds to PD-1 receptor on T cells, preventing tumor-induced immune suppression and restoring antitumor activity.&lt;/li&gt;
+  &lt;li&gt;&lt;b&gt;Sources:&lt;/b&gt; &lt;a href="https://www.fiercebiotech.com/biotech/merck-inks-keytruda-supply-pact-support-exelixis-colorectal-cancer-trial"&gt;Fierce Biotech&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;</description>
-      <guid isPermaLink="false">56bf3b1d591ffcfcea9119cc4ab7ca7d</guid>
-      <pubDate>Mon, 18 May 2026 22:01:47 GMT</pubDate>
+      <guid isPermaLink="false">c89518532ed9dd59097081d857f2eac7</guid>
+      <pubDate>Tue, 19 May 2026 22:00:48 GMT</pubDate>
     </item>
     <item>
-      <title>EHA 2026 Preview: Bristol's Celmod</title>
+      <title>Merck TROP2 Antibody-Drug Conjugate</title>
       <link>https://www.google.com</link>
       <description>&lt;ul&gt;
-  &lt;li&gt;&lt;b&gt;Summary:&lt;/b&gt; &lt;b&gt;Bristol-Myers Squibb&lt;/b&gt; is set to present clinical data for its novel cereblon E3 ligase modulator (&lt;b&gt;Celmod&lt;/b&gt;) at the EHA 2026 congress. The preview highlights the agent's potential in hematologic malignancies, building on the company's expertise in immunomodulatory drugs (IMiDs) and CELMoDs. Specific trial details were not disclosed in the single article.&lt;/li&gt;
-  &lt;li&gt;&lt;b&gt;MoAs:&lt;/b&gt; Cereblon E3 ligase modulator (CELMoD); induces ubiquitin‑mediated degradation of transcription factors Ikaros (IKZF1) and Aiolos (IKZF3), leading to anti‑myeloma and anti‑lymphoma activity.&lt;/li&gt;
-  &lt;li&gt;&lt;b&gt;Sources:&lt;/b&gt; &lt;a href="https://www.oncologypipeline.com/apexonco/eha-2026-preview-bristols-celmod-reveal"&gt;ApexOnco&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;b&gt;Summary:&lt;/b&gt; &lt;b&gt;Merck&lt;/b&gt;’s &lt;b&gt;TROP2 antibody-drug conjugate (SKB264/MK-2870)&lt;/b&gt;, developed in partnership with &lt;b&gt;Kelun&lt;/b&gt;, demonstrated improved survival in patients with endometrial cancer, validating the billion-dollar deal. The ADC targets TROP2, a protein overexpressed in multiple solid tumors.&lt;/li&gt;
+  &lt;li&gt;&lt;b&gt;MoAs:&lt;/b&gt; TROP2-targeted antibody-drug conjugate – the antibody binds to TROP2 antigen on cancer cells, is internalized, and releases a cytotoxic topoisomerase I inhibitor payload to kill the cell.&lt;/li&gt;
+  &lt;li&gt;&lt;b&gt;Sources:&lt;/b&gt; &lt;a href="https://www.biospace.com/drug-development/mercks-billion-dollar-kelun-bet-pays-off-as-trop2-improves-survival-in-endometrial-cancer"&gt;BioSpace&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;</description>
-      <guid isPermaLink="false">ebcb83eccb251627ed93990e95e48b84</guid>
-      <pubDate>Mon, 18 May 2026 22:01:47 GMT</pubDate>
+      <guid isPermaLink="false">c26dc230023fe2aed812d3cb3898c9c0</guid>
+      <pubDate>Tue, 19 May 2026 22:00:48 GMT</pubDate>
     </item>
     <item>
-      <title>Enhertu Early Breast Cancer Approvals</title>
+      <title>AbbVie Pivekimab Pivotal</title>
       <link>https://www.google.com</link>
       <description>&lt;ul&gt;
-  &lt;li&gt;&lt;b&gt;Summary:&lt;/b&gt; The FDA granted dual approvals for &lt;b&gt;Enhertu&lt;/b&gt; (trastuzumab deruxtecan, &lt;b&gt;Daiichi Sankyo&lt;/b&gt; and &lt;b&gt;AstraZeneca&lt;/b&gt;) in early breast cancer. The approvals expand the use of this HER2‑directed antibody‑drug conjugate to earlier lines of therapy, potentially changing treatment paradigms for HER2‑positive and HER2‑low breast cancer patients.&lt;/li&gt;
-  &lt;li&gt;&lt;b&gt;MoAs:&lt;/b&gt; Antibody‑drug conjugate (ADC) targeting human epidermal growth factor receptor 2 (HER2); delivers topoisomerase I inhibitor payload (deruxtecan) after internalization, causing DNA damage and cell death. Also exhibits a bystander effect due to membrane‑permeable payload.&lt;/li&gt;
-  &lt;li&gt;&lt;b&gt;Sources:&lt;/b&gt; &lt;a href="https://www.fiercepharma.com/pharma/daiichi-astrazeneca-enhertu-breaks-early-breast-cancer-dual-fda-approvals"&gt;Fierce Pharma&lt;/a&gt;, &lt;a href="https://www.pharmaceutical-technology.com/news/fda-enhertu-breast-cancer/"&gt;Pharmaceutical Technology&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;b&gt;Summary:&lt;/b&gt; AbbVie has advanced &lt;b&gt;pivekimab&lt;/b&gt;, a CD123-targeted antibody-drug conjugate, into pivotal trials. The drug is being evaluated for the treatment of certain hematologic malignancies, including blastic plasmacytoid dendritic cell neoplasm (BPDCN) and acute myeloid leukemia.&lt;/li&gt;
+  &lt;li&gt;&lt;b&gt;MoAs:&lt;/b&gt; CD123-directed antibody-drug conjugate (ADC) that delivers a cytotoxic payload to CD123-expressing cells.&lt;/li&gt;
+  &lt;li&gt;&lt;b&gt;Sources:&lt;/b&gt; &lt;a href="https://www.oncologypipeline.com/apexonco/abbvie-takes-pivekimab-pivotal"&gt;ApexOnco&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;</description>
-      <guid isPermaLink="false">041f44fd5b9b5e696be163e2736782d4</guid>
-      <pubDate>Mon, 18 May 2026 22:01:47 GMT</pubDate>
-    </item>
-    <item>
-      <title>Regeneron Fianlimab Melanoma Failure</title>
-      <link>https://www.google.com</link>
-      <description>&lt;ul&gt;
-  &lt;li&gt;&lt;b&gt;Summary:&lt;/b&gt; Regeneron's anti-LAG-3 antibody fianlimab missed its primary endpoint in a Phase 3 melanoma trial, failing to beat Merck's Keytruda and adding to setbacks for LAG-3 inhibitors.&lt;/li&gt;
-  &lt;li&gt;&lt;b&gt;MoAs:&lt;/b&gt; LAG-3 inhibitor&lt;/li&gt;
-  &lt;li&gt;&lt;b&gt;Sources:&lt;/b&gt; &lt;a href='https://www.biopharmadive.com/news/regeneron-cancer-immunotherapy-fianlimab-lag3-melanoma-study-results/820443/'&gt;BioPharma Dive&lt;/a&gt;, &lt;a href='https://www.statnews.com/pharmalot/2026/05/18/biotech-has-china-problem-regeneron-melanoma-drug-flops/'&gt;STAT News&lt;/a&gt;, &lt;a href='https://www.oncologypipeline.com/apexonco/fianlimab-flunks-its-big-test'&gt;Oncology Pipeline&lt;/a&gt;, &lt;a href='https://www.biospace.com/drug-development/regeneron-misses-again-as-melanoma-combo-bows-to-mercks-keytruda-in-phase-3'&gt;BioSpace&lt;/a&gt;, &lt;a href='https://endpoints.news/regenerons-phase-3-skin-cancer-miss-adds-to-mounting-failures-in-lag-3/'&gt;Endpoints News&lt;/a&gt;, &lt;a href='https://www.fiercebiotech.com/biotech/regeneron-rocked-failure-defining-catalyst-pivotal-melanoma-trial-misses'&gt;Fierce Biotech&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;</description>
-      <guid isPermaLink="false">3e8326da79e32baf90839071f11a748a</guid>
-      <pubDate>Mon, 18 May 2026 22:01:47 GMT</pubDate>
-    </item>
-    <item>
-      <title>Ovarian Cancer Opportunity</title>
-      <link>https://www.google.com</link>
-      <description>&lt;ul&gt;
-  &lt;li&gt;&lt;b&gt;Summary:&lt;/b&gt; A sponsored article from &lt;b&gt;Pharmaceutical Technology&lt;/b&gt; discusses the complexity of conducting global clinical trials for &lt;b&gt;ovarian cancer&lt;/b&gt;. It highlights challenges in patient recruitment, regulatory variation across countries, and the need for strategic trial design to accelerate development of new therapies. The piece emphasizes the importance of partnerships and innovative approaches to overcome these hurdles and unlock opportunities in this therapeutic area.&lt;/li&gt;
-  &lt;li&gt;&lt;b&gt;MoAs:&lt;/b&gt; N/A&lt;/li&gt;
-  &lt;li&gt;&lt;b&gt;Sources:&lt;/b&gt; &lt;a href="https://www.pharmaceutical-technology.com/sponsored/the-ovarian-cancer-opportunity-overcoming-complexity-in-global-studies/"&gt;Pharmaceutical Technology&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;</description>
-      <guid isPermaLink="false">df202122b328d8995ee7d780ec5831fc</guid>
-      <pubDate>Mon, 18 May 2026 22:01:47 GMT</pubDate>
-    </item>
-    <item>
-      <title>Revolution Pancreatic Cancer Drug</title>
-      <link>https://www.google.com</link>
-      <description>&lt;ul&gt;
-  &lt;li&gt;&lt;b&gt;Summary:&lt;/b&gt; A &lt;b&gt;BioSpace&lt;/b&gt; article discusses whether &lt;b&gt;Revolution Medicines&lt;/b&gt;' experimental pancreatic cancer drug can be surpassed by new candidates from &lt;b&gt;Immuneering&lt;/b&gt; and &lt;b&gt;Actuate Therapeutics&lt;/b&gt;. Revolution's drug, likely a &lt;b&gt;SOS1 inhibitor&lt;/b&gt; targeting the RAS pathway, has shown promising early data. Immuneering's &lt;b&gt;IMM-1-104&lt;/b&gt; and Actuate's approach aim to improve upon efficacy or tolerability. The piece highlights the growing competition in the KRAS-mutant pancreatic cancer space and the need for better treatments.&lt;/li&gt;
-  &lt;li&gt;&lt;b&gt;MoAs:&lt;/b&gt; SOS1 inhibitor (RAS pathway inhibitor) for Revolution's drug; for Immuneering: dual MEK/ERK inhibitor; for Actuate: not specified but likely a targeted therapy&lt;/li&gt;
-  &lt;li&gt;&lt;b&gt;Sources:&lt;/b&gt; &lt;a href="https://www.biospace.com/drug-development/can-revolutions-miracle-pancreatic-cancer-drug-be-topped-immuneering-actuate-say-yes"&gt;BioSpace&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;</description>
-      <guid isPermaLink="false">104289e13b9f55346bf85ede5319eb28</guid>
-      <pubDate>Mon, 18 May 2026 22:01:47 GMT</pubDate>
+      <guid isPermaLink="false">c2b404730ffa60b944377c56808874c0</guid>
+      <pubDate>Tue, 19 May 2026 22:00:48 GMT</pubDate>
     </item>
   </channel>
 </rss>
