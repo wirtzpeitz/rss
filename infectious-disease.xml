@@ -6,37 +6,37 @@
     <description>News digest covering Infectious Disease.</description>
     <atom:link href="https://www.google.com" rel="self" type="application/rss+xml"/>
     <item>
-      <title>UK Hantavirus Antiviral Supply</title>
+      <title>Pfizer Next-Gen Pneumonia Vaccine</title>
       <link>https://www.google.com</link>
       <description>&lt;ul&gt;
-  &lt;li&gt;&lt;b&gt;Summary:&lt;/b&gt; The UK government is bolstering its antiviral supply to prepare for potential hantavirus outbreaks, ensuring readiness against this infectious disease threat.&lt;/li&gt;
-  &lt;li&gt;&lt;b&gt;MoAs:&lt;/b&gt; N/A&lt;/li&gt;
-  &lt;li&gt;&lt;b&gt;Sources:&lt;/b&gt; &lt;a href="https://www.pharmaceutical-technology.com/news/uk-government-bolsters-antiviral-supply-for-hantavirus/"&gt;Pharmaceutical Technology&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;b&gt;Summary:&lt;/b&gt; Pfizer's next-generation pneumococcal vaccine candidate has outperformed Prevnar 20 in a clinical trial, as reported by Endpoints News. The vaccine aims to provide broader protection against pneumonia-causing bacteria. Pfizer is also raising $175M (possibly relay financing) to support development and manufacturing.&lt;/li&gt;
+  &lt;li&gt;&lt;b&gt;MoAs:&lt;/b&gt; Pneumococcal vaccine (induces immune response against Streptococcus pneumoniae polysaccharides; conjugate vaccine mechanism)&lt;/li&gt;
+  &lt;li&gt;&lt;b&gt;Sources:&lt;/b&gt; &lt;a href='https://endpoints.news/pfizers-next-gen-pneumonia-shot-beats-prevnar-20-relay-raises-175m/'&gt;Endpoints News&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;</description>
-      <guid isPermaLink="false">a776b6c2a34fe5dec71d522a3aa20ff5</guid>
-      <pubDate>Tue, 19 May 2026 22:00:48 GMT</pubDate>
+      <guid isPermaLink="false">bb70db8336fe2c843920254e6c23d076</guid>
+      <pubDate>Wed, 20 May 2026 22:00:42 GMT</pubDate>
     </item>
     <item>
-      <title>FDA COVID Vaccine Safety Report</title>
+      <title>Moderna Hantavirus</title>
       <link>https://www.google.com</link>
       <description>&lt;ul&gt;
-  &lt;li&gt;&lt;b&gt;Summary:&lt;/b&gt; An FDA report concludes that no child deaths have been definitively caused by COVID-19 vaccination, reinforcing the safety profile of mRNA and other authorized vaccines in pediatric populations.&lt;/li&gt;
-  &lt;li&gt;&lt;b&gt;MoAs:&lt;/b&gt; mRNA vaccines (e.g., &lt;b&gt;BNT162b2&lt;/b&gt;, &lt;b&gt;mRNA-1273&lt;/b&gt;) encode spike protein; viral vector vaccines (e.g., &lt;b&gt;Ad26.COV2.S&lt;/b&gt;) use adenovirus vector&lt;/li&gt;
-  &lt;li&gt;&lt;b&gt;Sources:&lt;/b&gt; &lt;a href="https://www.biospace.com/fda/fdas-own-report-shows-no-child-deaths-definitively-caused-by-covid-vaccination"&gt;BioSpace&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;b&gt;Summary:&lt;/b&gt; &lt;b&gt;Moderna&lt;/b&gt;’s stock rose amid news of a hantavirus outbreak in the U.S., drawing attention to its infectious disease platform. The Biospace report notes that Moderna is developing an mRNA vaccine candidate (mRNA-1989) against hantavirus, building on the same technology used for COVID-19. While no clinical data have been released, the outbreak reignites interest in Moderna’s pipeline beyond SARS‑CoV‑2. The company’s ability to rapidly pivot to emerging pathogens remains a key differentiator in the vaccine space.&lt;/li&gt;
+  &lt;li&gt;&lt;b&gt;MoAs:&lt;/b&gt; mRNA-based vaccine; encodes viral antigens to induce immune response&lt;/li&gt;
+  &lt;li&gt;&lt;b&gt;Sources:&lt;/b&gt; &lt;a href="https://www.biospace.com/business/modernas-stock-rides-hantavirus-fears-as-spotlight-returns-to-infectious-disease-platform"&gt;Biospace&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;</description>
-      <guid isPermaLink="false">b3e69389f366fe298fe6006e7937cec3</guid>
-      <pubDate>Tue, 19 May 2026 22:00:48 GMT</pubDate>
+      <guid isPermaLink="false">880bc3bc25cabdd6200834ef70cdf901</guid>
+      <pubDate>Wed, 20 May 2026 22:00:42 GMT</pubDate>
     </item>
     <item>
-      <title>Ebola Travel Ban and Vaccine</title>
+      <title>Ebola Outbreak DRC</title>
       <link>https://www.google.com</link>
       <description>&lt;ul&gt;
-  &lt;li&gt;&lt;b&gt;Summary:&lt;/b&gt; This STAT News article examines the debate over implementing travel bans in response to Ebola outbreaks and the role of existing vaccines in control efforts. It discusses the efficacy of the older Ebola vaccine (rVSV-ZEBOV) and the potential public health consequences of travel restrictions.&lt;/li&gt;
-  &lt;li&gt;&lt;b&gt;MoAs:&lt;/b&gt; Ebola vaccine (rVSV-ZEBOV/Ervebo) - live attenuated recombinant vesicular stomatitis virus vector expressing Zaire ebolavirus glycoprotein&lt;/li&gt;
-  &lt;li&gt;&lt;b&gt;Sources:&lt;/b&gt; &lt;a href="https://www.statnews.com/2026/05/19/health-news-ebola-travel-ban-and-old-vaccine/"&gt;STAT News&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;b&gt;Summary:&lt;/b&gt; A new Ebola virus disease outbreak in the Democratic Republic of the Congo (DRC) is overwhelming healthcare workers and response teams. STAT News articles report that health‑care workers are among those infected, US aid cuts are hampering containment efforts, and the WHO is investigating the outbreak alongside the DRC government. The situation is reminiscent of earlier epidemics that required massive international coordination. Questions remain about vaccine availability (e.g., &lt;b&gt;Ervebo&lt;/b&gt;), therapeutic stockpiles, and the impact of reduced funding on outbreak response capabilities.&lt;/li&gt;
+  &lt;li&gt;&lt;b&gt;MoAs:&lt;/b&gt; N/A (vaccines and therapeutics are secondary; outbreak context)&lt;/li&gt;
+  &lt;li&gt;&lt;b&gt;Sources:&lt;/b&gt; &lt;a href="https://www.statnews.com/2026/05/20/ebola-patients-suffering-health-care-workers/?utm_campaign=rss"&gt;STAT News&lt;/a&gt;, &lt;a href="https://www.statnews.com/2026/05/20/who-ebola-response-outbreak-investigation-drc-marco-rubio/?utm_campaign=rss"&gt;STAT News&lt;/a&gt;, &lt;a href="https://www.statnews.com/2026/05/19/us-aid-cuts-hamper-drc-ebola-response/?utm_campaign=rss"&gt;STAT News&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;</description>
-      <guid isPermaLink="false">82ad3ecd6b26a588228690e139b32f32</guid>
-      <pubDate>Tue, 19 May 2026 22:00:48 GMT</pubDate>
+      <guid isPermaLink="false">d516929e173644ba0c65a5f751783daa</guid>
+      <pubDate>Wed, 20 May 2026 22:00:42 GMT</pubDate>
     </item>
   </channel>
 </rss>
