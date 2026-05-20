@@ -6,15 +6,26 @@
     <description>News digest covering Ophthalmology.</description>
     <atom:link href="https://www.google.com" rel="self" type="application/rss+xml"/>
     <item>
-      <title>Astellas Stem Cell Eye Therapy</title>
+      <title>Immunovant FcRn Inhibitor Failure</title>
       <link>https://www.google.com</link>
       <description>&lt;ul&gt;
-  &lt;li&gt;&lt;b&gt;Summary:&lt;/b&gt; &lt;b&gt;Astellas Pharma&lt;/b&gt; presented early clinical data for a stem cell-derived therapy targeting eye diseases. The investigational treatment, derived from induced pluripotent stem cells (iPSCs), is designed to restore vision in patients with retinal conditions. Early results suggest potential efficacy and safety.&lt;/li&gt;
-  &lt;li&gt;&lt;b&gt;MoAs:&lt;/b&gt; Stem cell therapy: iPSC-derived retinal pigment epithelial cells intended to replace damaged cells in the retina, potentially restoring visual function.&lt;/li&gt;
-  &lt;li&gt;&lt;b&gt;Sources:&lt;/b&gt; &lt;a href='https://endpoints.news/astellas-touts-data-from-early-test-of-stem-cell-derived-eye-therapy/'&gt;Endpoints News&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;b&gt;Summary:&lt;/b&gt; Immunovant has discontinued its FcRn inhibitor after a failed trial in an eye disease, paying $39 million to wind down the program, as reported by Fierce Biotech. The FcRn inhibitor, which targets the neonatal Fc receptor to reduce pathogenic IgG antibodies, failed to meet endpoints in the ophthalmology indication. Immunovant will refocus its pipeline on other autoimmune indications.&lt;/li&gt;
+  &lt;li&gt;&lt;b&gt;MoAs:&lt;/b&gt; FcRn inhibitor (mechanism: blocks neonatal Fc receptor, reducing recycling of IgG antibodies and lowering pathogenic IgG levels)&lt;/li&gt;
+  &lt;li&gt;&lt;b&gt;Sources:&lt;/b&gt; &lt;a href='https://www.fiercebiotech.com/biotech/immunovant-pays-out-39m-call-time-fcrn-inhibitor-after-eye-disease-fails'&gt;Fierce Biotech&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;</description>
-      <guid isPermaLink="false">014f6cfd05329c1033104d2598c71416</guid>
-      <pubDate>Fri, 08 May 2026 22:02:24 GMT</pubDate>
+      <guid isPermaLink="false">9e4c1688882349f48daf669a18dafaa4</guid>
+      <pubDate>Wed, 20 May 2026 22:00:42 GMT</pubDate>
+    </item>
+    <item>
+      <title>Tarsus John Cena Campaign</title>
+      <link>https://www.google.com</link>
+      <description>&lt;ul&gt;
+  &lt;li&gt;&lt;b&gt;Summary:&lt;/b&gt; &lt;b&gt;Tarsus Pharmaceuticals&lt;/b&gt; has enlisted WWE superstar John Cena in a direct-to-consumer campaign for &lt;b&gt;Xdemvy&lt;/b&gt; (lotilaner), approved for Demodex blepharitis. The Fierce Pharma article notes that the campaign leverages Cena’s mass appeal to raise awareness of the eyelid condition, which is often underdiagnosed. Tarsus aims to drive patient visits to ophthalmologists and increase prescription uptake. The move follows the drug’s launch and underscores the importance of celebrity endorsement in niche ophthalmology markets.&lt;/li&gt;
+  &lt;li&gt;&lt;b&gt;MoAs:&lt;/b&gt; Lotilaner: gamma-aminobutyric acid (GABA)-gated chloride channel inhibitor (antiparasitic)&lt;/li&gt;
+  &lt;li&gt;&lt;b&gt;Sources:&lt;/b&gt; &lt;a href="https://www.fiercepharma.com/marketing/tarsus-taps-john-cena-its-latest-demodex-blepharitis-campaign"&gt;Fierce Pharma&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;</description>
+      <guid isPermaLink="false">b0012d9e20ee9aed58bd8db30347a959</guid>
+      <pubDate>Wed, 20 May 2026 22:00:42 GMT</pubDate>
     </item>
   </channel>
 </rss>
