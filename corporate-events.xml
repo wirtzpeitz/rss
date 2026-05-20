@@ -6,114 +6,125 @@
     <description>News digest covering Corporate Events.</description>
     <atom:link href="https://www.google.com" rel="self" type="application/rss+xml"/>
     <item>
-      <title>Roche Xofluza Licensing Deal</title>
+      <title>Lilly/Engage Bio Acquisition</title>
       <link>https://www.google.com</link>
       <description>&lt;ul&gt;
-  &lt;li&gt;&lt;b&gt;Summary:&lt;/b&gt; &lt;b&gt;Roche&lt;/b&gt; signed a licensing deal with the &lt;b&gt;Medicines Patent Pool&lt;/b&gt; to allow generic manufacturing of &lt;b&gt;Xofluza (baloxavir marboxil)&lt;/b&gt; in 129 low- and middle-income countries, expanding global access to the influenza antiviral.&lt;/li&gt;
-  &lt;li&gt;&lt;b&gt;MoAs:&lt;/b&gt; Cap-dependent endonuclease inhibitor – blocks influenza virus mRNA synthesis by inhibiting the cap-dependent endonuclease activity of the viral polymerase.&lt;/li&gt;
-  &lt;li&gt;&lt;b&gt;Sources:&lt;/b&gt; &lt;a href="https://www.fiercepharma.com/pharma/roche-signs-generic-xofluza-licensing-deal-medicines-patent-pool-129-countries"&gt;Fierce Pharma&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;b&gt;Summary:&lt;/b&gt; Eli Lilly has acquired Engage Bio in a deal valued at approximately $202 million, as reported by BioSpace and Fierce Biotech. The acquisition gives Lilly a preclinical DNA delivery platform, bolstering its capabilities in gene therapy and nucleic acid therapeutics. The transaction underscores Lilly's aggressive deal-making strategy to expand its pipeline.&lt;/li&gt;
+  &lt;li&gt;&lt;b&gt;MoAs:&lt;/b&gt; N/A (acquisition focused on platform technology)&lt;/li&gt;
+  &lt;li&gt;&lt;b&gt;Sources:&lt;/b&gt; &lt;a href='https://www.biospace.com/deals/lilly-and-engage-bio-tie-the-knot-with-202m-acquisition'&gt;BioSpace&lt;/a&gt;, &lt;a href='https://www.fiercebiotech.com/biotech/busy-lilly-closes-202m-deal-preclinical-dna-delivery-biotech-engage'&gt;Fierce Biotech&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;</description>
-      <guid isPermaLink="false">585bb7dd993035351649c2801e57df87</guid>
-      <pubDate>Tue, 19 May 2026 22:00:48 GMT</pubDate>
+      <guid isPermaLink="false">486f8edc6717d8956908bf0c04e1355b</guid>
+      <pubDate>Wed, 20 May 2026 22:00:42 GMT</pubDate>
     </item>
     <item>
-      <title>Mentari/Inmed Migraine Merger</title>
+      <title>Parabilis IPO</title>
       <link>https://www.google.com</link>
       <description>&lt;ul&gt;
-  &lt;li&gt;&lt;b&gt;Summary:&lt;/b&gt; &lt;b&gt;Mentari&lt;/b&gt; and &lt;b&gt;Inmed&lt;/b&gt; have agreed to merge, forming a combined company focused on developing novel migraine therapies. The deal aims to consolidate their pipelines and resources to accelerate drug development.&lt;/li&gt;
-  &lt;li&gt;&lt;b&gt;MoAs:&lt;/b&gt; N/A&lt;/li&gt;
-  &lt;li&gt;&lt;b&gt;Sources:&lt;/b&gt; &lt;a href="https://www.biopharmadive.com/news/mentari-inmed-deal-acquisition-migraine-combined-company/820610/"&gt;BioPharma Dive&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;b&gt;Summary:&lt;/b&gt; Parabilis Biotech, a biotech company focused on peptide therapeutics and desmoid tumors, has filed for an IPO shortly after inking a deal with Regeneron. The IPO plans were revealed by BioPharma Dive, Endpoints News, and Fierce Biotech. Parabilis aims to raise funds to advance its pipeline into Phase 3 trials, capitalizing on a hot IPO market.&lt;/li&gt;
+  &lt;li&gt;&lt;b&gt;MoAs:&lt;/b&gt; Peptide therapeutics (MoA varies by candidate; includes potential inhibition of signaling pathways in desmoid tumors)&lt;/li&gt;
+  &lt;li&gt;&lt;b&gt;Sources:&lt;/b&gt; &lt;a href='https://www.biopharmadive.com/news/parabilis-biotech-ipo-helicon-peptide-desmoid/820709/'&gt;BioPharma Dive&lt;/a&gt;, &lt;a href='https://endpoints.news/parabilis-reveals-ipo-plans-the-day-after-regeneron-deal-as-listings-heat-up/'&gt;Endpoints News&lt;/a&gt;, &lt;a href='https://www.fiercebiotech.com/biotech/parabilis-fresh-inking-regeneron-pact-plans-ipo-fund-tumor-drugs-phase-3-push'&gt;Fierce Biotech&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;</description>
-      <guid isPermaLink="false">247b8adc93fa9abd9192ed636d113efb</guid>
-      <pubDate>Tue, 19 May 2026 22:00:48 GMT</pubDate>
+      <guid isPermaLink="false">090facb85439ba860bff72a1372a7bcb</guid>
+      <pubDate>Wed, 20 May 2026 22:00:42 GMT</pubDate>
     </item>
     <item>
-      <title>Paragon Offshoot Reverse Merger Migraine</title>
+      <title>Bristol-Myers Squibb AI Deal with Anthropic</title>
       <link>https://www.google.com</link>
       <description>&lt;ul&gt;
-  &lt;li&gt;&lt;b&gt;Summary:&lt;/b&gt; An offshoot of &lt;b&gt;Paragon&lt;/b&gt; has chosen a reverse merger to advance its migraine drug candidates. This financial maneuver allows the company to access public markets and fund development without a traditional IPO.&lt;/li&gt;
-  &lt;li&gt;&lt;b&gt;MoAs:&lt;/b&gt; N/A&lt;/li&gt;
-  &lt;li&gt;&lt;b&gt;Sources:&lt;/b&gt; &lt;a href="https://endpoints.news/another-paragon-offshoot-chooses-reverse-merger-this-time-for-migraine-drugs/"&gt;Endpoints News&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;b&gt;Summary:&lt;/b&gt; Bristol-Myers Squibb has partnered with Anthropic to deploy the Claude AI platform across its enterprise for widespread AI adoption to accelerate drug R&amp;D globally. The deal was reported by Fierce Pharma and BioPharma Dive. BMS aims to leverage AI to streamline drug discovery and development processes, potentially reducing timelines and costs.&lt;/li&gt;
+  &lt;li&gt;&lt;b&gt;MoAs:&lt;/b&gt; N/A (AI platform)&lt;/li&gt;
+  &lt;li&gt;&lt;b&gt;Sources:&lt;/b&gt; &lt;a href='https://www.fiercepharma.com/pharma/bristol-myers-taps-anthropic-claude-enterprise-wide-ai-adoption-speed-drug-rd-global'&gt;Fierce Pharma&lt;/a&gt;, &lt;a href='https://www.biopharmadive.com/news/bristol-myers-deepens-ai-investment-anthropic-deal/820697/'&gt;BioPharma Dive&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;</description>
-      <guid isPermaLink="false">347e6d20aca865b73d88caf04fa4dc38</guid>
-      <pubDate>Tue, 19 May 2026 22:00:48 GMT</pubDate>
+      <guid isPermaLink="false">3f104e7473ab06d1d323b4570c9f2f83</guid>
+      <pubDate>Wed, 20 May 2026 22:00:42 GMT</pubDate>
     </item>
     <item>
-      <title>Incyte AI Drug Discovery Deal</title>
+      <title>Incyte/Genesis AI Drug Discovery Pact</title>
       <link>https://www.google.com</link>
       <description>&lt;ul&gt;
-  &lt;li&gt;&lt;b&gt;Summary:&lt;/b&gt; Incyte has signed a deal with Edison Scientific to train artificial intelligence models for drug discovery. The collaboration aims to leverage AI to accelerate the identification of novel therapeutic targets and compounds.&lt;/li&gt;
-  &lt;li&gt;&lt;b&gt;MoAs:&lt;/b&gt; N/A&lt;/li&gt;
-  &lt;li&gt;&lt;b&gt;Sources:&lt;/b&gt; &lt;a href="https://www.fiercebiotech.com/biotech/incyte-inks-deal-edison-scientific-train-ai-through-drug-discovery"&gt;Fierce Biotech&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;b&gt;Summary:&lt;/b&gt; Incyte has paid Genesis $80 million to expand an existing AI-fueled drug discovery collaboration, as reported by Fierce Biotech. The expanded pact will leverage generative AI to identify novel drug candidates across multiple therapeutic areas, reinforcing Incyte's commitment to AI-driven discovery.&lt;/li&gt;
+  &lt;li&gt;&lt;b&gt;MoAs:&lt;/b&gt; N/A (AI drug discovery collaboration)&lt;/li&gt;
+  &lt;li&gt;&lt;b&gt;Sources:&lt;/b&gt; &lt;a href='https://www.fiercebiotech.com/biotech/incyte-pays-genesis-80m-expand-ai-fueled-drug-discovery-pact'&gt;Fierce Biotech&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;</description>
-      <guid isPermaLink="false">0e58ea4f5c43d8cb1751c8426459445f</guid>
-      <pubDate>Tue, 19 May 2026 22:00:48 GMT</pubDate>
+      <guid isPermaLink="false">86760cf362b1ff845c94968b90cecd78</guid>
+      <pubDate>Wed, 20 May 2026 22:00:42 GMT</pubDate>
     </item>
     <item>
-      <title>Novo Nordisk R&amp;D Streamlining</title>
+      <title>Takeda Pay-for-Delay Lawsuit</title>
       <link>https://www.google.com</link>
       <description>&lt;ul&gt;
-  &lt;li&gt;&lt;b&gt;Summary:&lt;/b&gt; Novo Nordisk's research chief states that the company's streamlined R&amp;D operations are speeding up drug discovery. The reorganization allows for more efficient decision-making and faster progression of pipeline candidates.&lt;/li&gt;
-  &lt;li&gt;&lt;b&gt;MoAs:&lt;/b&gt; N/A&lt;/li&gt;
-  &lt;li&gt;&lt;b&gt;Sources:&lt;/b&gt; &lt;a href="https://endpoints.news/qa-novo-research-chief-petersen-says-streamlined-rd-speeds-discovery/"&gt;Endpoints News&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;b&gt;Summary:&lt;/b&gt; Takeda faces an $885 million hit following a landmark pay-for-delay lawsuit verdict, as reported by Pharmaceutical Technology. The lawsuit alleged that Takeda engaged in anti-competitive practices by paying generic manufacturers to delay market entry of cheaper versions of its drug. The verdict could have significant financial and reputational implications for Takeda.&lt;/li&gt;
+  &lt;li&gt;&lt;b&gt;MoAs:&lt;/b&gt; N/A (legal matter)&lt;/li&gt;
+  &lt;li&gt;&lt;b&gt;Sources:&lt;/b&gt; &lt;a href='https://www.pharmaceutical-technology.com/news/takeda-faces-885m-hit-after-landmark-pay-for-delay-lawsuit-verdict/'&gt;Pharmaceutical Technology&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;</description>
-      <guid isPermaLink="false">4ca7fa17f8f002beb298bfe406e8aa56</guid>
-      <pubDate>Tue, 19 May 2026 22:00:48 GMT</pubDate>
+      <guid isPermaLink="false">857e950f20e6630a47db84fdb30d0056</guid>
+      <pubDate>Wed, 20 May 2026 22:00:42 GMT</pubDate>
     </item>
     <item>
-      <title>Acceleron Leaders IPF Biotech</title>
+      <title>Gilead/Yuhan API Deal</title>
       <link>https://www.google.com</link>
       <description>&lt;ul&gt;
-  &lt;li&gt;&lt;b&gt;Summary:&lt;/b&gt; Former leaders of Acceleron, along with Westlake, have launched a new biotechnology company focused on idiopathic pulmonary fibrosis (IPF). The startup aims to develop novel therapies for this rare lung disease.&lt;/li&gt;
+  &lt;li&gt;&lt;b&gt;Summary:&lt;/b&gt; &lt;b&gt;Gilead Sciences&lt;/b&gt; has signed a $140 million supply agreement with South Korean contract manufacturer &lt;b&gt;Yuhan Corporation&lt;/b&gt; to secure active pharmaceutical ingredients (APIs) for its antiviral portfolio. The Fierce Pharma article explains that the deal strengthens Gilead’s supply chain resilience and expands Yuhan’s role as a key API producer. The partnership highlights the growing trend of pharmaceutical companies diversifying manufacturing sources, particularly for critical HIV and hepatitis drugs.&lt;/li&gt;
   &lt;li&gt;&lt;b&gt;MoAs:&lt;/b&gt; N/A&lt;/li&gt;
-  &lt;li&gt;&lt;b&gt;Sources:&lt;/b&gt; &lt;a href="https://endpoints.news/acceleron-leaders-and-westlake-jumpstart-new-ipf-biotech/"&gt;Endpoints News&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;b&gt;Sources:&lt;/b&gt; &lt;a href="https://www.fiercepharma.com/manufacturing/gilead-signs-140m-deal-korean-api-manufacturer-yuhan"&gt;Fierce Pharma&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;</description>
-      <guid isPermaLink="false">0314f14c025caa914a38f2ab4450e7b7</guid>
-      <pubDate>Tue, 19 May 2026 22:00:48 GMT</pubDate>
+      <guid isPermaLink="false">ff7b234017d8bbd5dc9e5083868b3984</guid>
+      <pubDate>Wed, 20 May 2026 22:00:42 GMT</pubDate>
     </item>
     <item>
-      <title>Regeneron Parabilis Deal</title>
+      <title>Qiagen/Nvidia AI Drug Discovery</title>
       <link>https://www.google.com</link>
       <description>&lt;ul&gt;
-  &lt;li&gt;&lt;b&gt;Summary:&lt;/b&gt; Regeneron has entered into a deal with Parabilis to utilize Helic-on conjugates technology. The partnership is intended to advance the development of next-generation antibody-drug conjugates.&lt;/li&gt;
+  &lt;li&gt;&lt;b&gt;Summary:&lt;/b&gt; &lt;b&gt;Qiagen&lt;/b&gt; and &lt;b&gt;Nvidia&lt;/b&gt; have announced a partnership to leverage &lt;b&gt;AI&lt;/b&gt; for drug discovery, combining Qiagen's bioinformatics expertise with Nvidia's computing power to accelerate target identification and development.&lt;/li&gt;
   &lt;li&gt;&lt;b&gt;MoAs:&lt;/b&gt; N/A&lt;/li&gt;
-  &lt;li&gt;&lt;b&gt;Sources:&lt;/b&gt; &lt;a href="https://www.pharmaceutical-technology.com/news/regeneron-parabilis-deal-helicon-conjugates/"&gt;Pharmaceutical Technology&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;b&gt;Sources:&lt;/b&gt; &lt;a href="https://www.pharmaceutical-technology.com/news/qiagen-nvidia-ai-drug-discovery/"&gt;Pharmaceutical Technology&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;</description>
-      <guid isPermaLink="false">9f176006893714d534afeb0c3329149c</guid>
-      <pubDate>Tue, 19 May 2026 22:00:48 GMT</pubDate>
+      <guid isPermaLink="false">6730e39eeff569109dc66d30ffe329c0</guid>
+      <pubDate>Wed, 20 May 2026 22:00:42 GMT</pubDate>
     </item>
     <item>
-      <title>Full Life Technologies Funding</title>
+      <title>Serb Idefirix Rights</title>
       <link>https://www.google.com</link>
       <description>&lt;ul&gt;
-  &lt;li&gt;&lt;b&gt;Summary:&lt;/b&gt; Full Life Technologies has raised $150 million in a funding round, with significant participation from Quince. The proceeds will be used to advance the company's pipeline of targeted radiopharmaceuticals.&lt;/li&gt;
-  &lt;li&gt;&lt;b&gt;MoAs:&lt;/b&gt; N/A&lt;/li&gt;
-  &lt;li&gt;&lt;b&gt;Sources:&lt;/b&gt; &lt;a href="https://endpoints.news/full-life-technologies-raises-150m-quince-finds-a-new-life/"&gt;Endpoints News&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;b&gt;Summary:&lt;/b&gt; &lt;b&gt;Serb&lt;/b&gt; has secured the rights to &lt;b&gt;Idefirix&lt;/b&gt; (imlifidase), an IgG-cleaving enzyme for desensitization in kidney transplantation. This acquisition strengthens Serb's specialty pharmaceutical portfolio in transplant medicine.&lt;/li&gt;
+  &lt;li&gt;&lt;b&gt;MoAs:&lt;/b&gt; Imlifidase: IgG-cleaving endopeptidase (reduces donor-specific antibodies).&lt;/li&gt;
+  &lt;li&gt;&lt;b&gt;Sources:&lt;/b&gt; &lt;a href="https://www.pharmaceutical-technology.com/news/serb-to-acquire-idefirix-rights/"&gt;Pharmaceutical Technology&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;</description>
-      <guid isPermaLink="false">73823c02be4a115713c9f03500f481f1</guid>
-      <pubDate>Tue, 19 May 2026 22:00:48 GMT</pubDate>
+      <guid isPermaLink="false">34ca4a5f04c4b126dabd161bda7d888a</guid>
+      <pubDate>Wed, 20 May 2026 22:00:42 GMT</pubDate>
     </item>
     <item>
-      <title>Nourish Virtual Nutrition Care Funding</title>
+      <title>GHO Capital/CBC Merger</title>
       <link>https://www.google.com</link>
       <description>&lt;ul&gt;
-  &lt;li&gt;&lt;b&gt;Summary:&lt;/b&gt; Nourish, a virtual nutrition care platform, has raised $100 million in funding. The company plans to expand its services and technology to provide personalized nutrition guidance to patients.&lt;/li&gt;
+  &lt;li&gt;&lt;b&gt;Summary:&lt;/b&gt; &lt;b&gt;GHO Capital&lt;/b&gt; and &lt;b&gt;CBC Group&lt;/b&gt; are merging to create what could become the largest healthcare-specialist investor, combining European and Asia-Pacific expertise.&lt;/li&gt;
   &lt;li&gt;&lt;b&gt;MoAs:&lt;/b&gt; N/A&lt;/li&gt;
-  &lt;li&gt;&lt;b&gt;Sources:&lt;/b&gt; &lt;a href="https://endpoints.news/nourish-raises-100m-for-virtual-nutrition-care/"&gt;Endpoints News&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;b&gt;Sources:&lt;/b&gt; &lt;a href="https://www.pharmaceutical-technology.com/news/healthcare-investment-firm-merger-gho-cdc-european-apac/"&gt;Pharmaceutical Technology&lt;/a&gt;, &lt;a href="https://endpoints.news/gho-capital-cbc-group-to-merge-forming-what-could-be-the-largest-healthcare-specialist-investor/"&gt;Endpoints News&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;</description>
-      <guid isPermaLink="false">6615b5af8c555b90c0f0ff4d0c45f976</guid>
-      <pubDate>Tue, 19 May 2026 22:00:48 GMT</pubDate>
+      <guid isPermaLink="false">389d5ec66cec0c0112bd8c3e528bd9bc</guid>
+      <pubDate>Wed, 20 May 2026 22:00:42 GMT</pubDate>
     </item>
     <item>
-      <title>Takeda Layoffs</title>
+      <title>CG Life CCO Appointment</title>
       <link>https://www.google.com</link>
       <description>&lt;ul&gt;
-  &lt;li&gt;&lt;b&gt;Summary:&lt;/b&gt; Takeda conducted significant layoffs in May, contributing to a year-over-year increase in job cuts across the biopharma industry. The restructuring is part of the company's ongoing cost-saving measures.&lt;/li&gt;
+  &lt;li&gt;&lt;b&gt;Summary:&lt;/b&gt; &lt;b&gt;CG Life&lt;/b&gt; has appointed &lt;b&gt;Collette Douaihy&lt;/b&gt; as Chief Creative Officer, continuing its C-suite expansion.&lt;/li&gt;
   &lt;li&gt;&lt;b&gt;MoAs:&lt;/b&gt; N/A&lt;/li&gt;
-  &lt;li&gt;&lt;b&gt;Sources:&lt;/b&gt; &lt;a href="https://www.biospace.com/job-trends/takeda-cuts-send-layoffs-soaring-in-may-rising-year-over-year"&gt;BioSpace&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;b&gt;Sources:&lt;/b&gt; &lt;a href="https://www.fiercepharma.com/marketing/cg-life-appoints-collette-douaihy-chief-creative-officer-c-suite-buildout-continues"&gt;Fierce Pharma&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;</description>
-      <guid isPermaLink="false">42949bf7d86e4b1d0138b42fcc25db9d</guid>
-      <pubDate>Tue, 19 May 2026 22:00:48 GMT</pubDate>
+      <guid isPermaLink="false">3948d4dd5f0a4c59149625546fec5c86</guid>
+      <pubDate>Wed, 20 May 2026 22:00:42 GMT</pubDate>
+    </item>
+    <item>
+      <title>Amgen CFO Retirement</title>
+      <link>https://www.google.com</link>
+      <description>&lt;ul&gt;
+  &lt;li&gt;&lt;b&gt;Summary:&lt;/b&gt; &lt;b&gt;Amgen&lt;/b&gt; CFO &lt;b&gt;David Griffith&lt;/b&gt; is retiring, and a former finance veteran is returning from &lt;b&gt;Galderma&lt;/b&gt; to take over the role.&lt;/li&gt;
+  &lt;li&gt;&lt;b&gt;MoAs:&lt;/b&gt; N/A&lt;/li&gt;
+  &lt;li&gt;&lt;b&gt;Sources:&lt;/b&gt; &lt;a href="https://www.fiercepharma.com/pharma/amgen-cfo-griffith-retire-former-finance-vet-returns-fold-galderma"&gt;Fierce Pharma&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;</description>
+      <guid isPermaLink="false">9f4e72c4f7d9c868118db0b8c135962a</guid>
+      <pubDate>Wed, 20 May 2026 22:00:42 GMT</pubDate>
     </item>
   </channel>
 </rss>
