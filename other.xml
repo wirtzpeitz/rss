@@ -6,70 +6,26 @@
     <description>News digest covering Other.</description>
     <atom:link href="https://www.google.com" rel="self" type="application/rss+xml"/>
     <item>
-      <title>Dexcom CGM New Uses</title>
+      <title>23andMe/HealthEx DNA Data</title>
       <link>https://www.google.com</link>
       <description>&lt;ul&gt;
-  &lt;li&gt;&lt;b&gt;Summary:&lt;/b&gt; Dexcom is exploring new applications for its continuous glucose monitoring (CGM) sensors beyond traditional diabetes management, leveraging health tech advancements to expand their utility.&lt;/li&gt;
+  &lt;li&gt;&lt;b&gt;Summary:&lt;/b&gt; &lt;b&gt;23andMe&lt;/b&gt; and startup &lt;b&gt;HealthEx&lt;/b&gt; are partnering to link consumer genetic data with electronic health records (EHRs), according to STAT News. The collaboration aims to build a large, real‑world dataset that could accelerate drug discovery and biomarker identification. Privacy advocates caution about consent and data security, while researchers see potential for improving polygenic risk scores and pharmacogenomics. The deal marks another step toward integrating direct‑to‑consumer genomics into mainstream clinical research.&lt;/li&gt;
   &lt;li&gt;&lt;b&gt;MoAs:&lt;/b&gt; N/A&lt;/li&gt;
-  &lt;li&gt;&lt;b&gt;Sources:&lt;/b&gt; &lt;a href="https://www.statnews.com/2026/05/19/dexcom-cgm-sensors-new-uses-health-tech/"&gt;STAT News&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;b&gt;Sources:&lt;/b&gt; &lt;a href="https://www.statnews.com/2026/05/19/23andme-healthex-to-connect-dna-data-with-health-records/?utm_campaign=rss"&gt;STAT News&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;</description>
-      <guid isPermaLink="false">8c369539e408475132635755f51868c8</guid>
-      <pubDate>Tue, 19 May 2026 22:00:48 GMT</pubDate>
+      <guid isPermaLink="false">6eaa93d59315c1e144e80f740c11fb8b</guid>
+      <pubDate>Wed, 20 May 2026 22:00:42 GMT</pubDate>
     </item>
     <item>
-      <title>Maryland Ozempic Price Cap</title>
+      <title>GLP-1 Consumer Relationship</title>
       <link>https://www.google.com</link>
       <description>&lt;ul&gt;
-  &lt;li&gt;&lt;b&gt;Summary:&lt;/b&gt; Maryland's state affordability board has placed a price cap on &lt;b&gt;Ozempic&lt;/b&gt; (semaglutide), a GLP-1 receptor agonist used for diabetes and weight management, in an effort to control drug costs for residents.&lt;/li&gt;
-  &lt;li&gt;&lt;b&gt;MoAs:&lt;/b&gt; GLP-1 receptor agonist&lt;/li&gt;
-  &lt;li&gt;&lt;b&gt;Sources:&lt;/b&gt; &lt;a href="https://www.statnews.com/pharmalot/2026/05/18/maryland-state-affordability-board-places-price-cap-on-ozempic/"&gt;STAT News&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;</description>
-      <guid isPermaLink="false">2063c737fd634721956644ed8a594be1</guid>
-      <pubDate>Tue, 19 May 2026 22:00:48 GMT</pubDate>
-    </item>
-    <item>
-      <title>Virginia Drug Pricing Panel Veto</title>
-      <link>https://www.google.com</link>
-      <description>&lt;ul&gt;
-  &lt;li&gt;&lt;b&gt;Summary:&lt;/b&gt; Virginia's governor vetoed a bill that would have created a panel to lower drug costs, blocking efforts to regulate pharmaceutical pricing at the state level.&lt;/li&gt;
+  &lt;li&gt;&lt;b&gt;Summary:&lt;/b&gt; Endpoints News examines how &lt;b&gt;GLP-1&lt;/b&gt; drugs are transforming pharma's relationship with consumers, driving changes in marketing, patient engagement, and direct-to-consumer strategies as these therapies gain widespread adoption.&lt;/li&gt;
   &lt;li&gt;&lt;b&gt;MoAs:&lt;/b&gt; N/A&lt;/li&gt;
-  &lt;li&gt;&lt;b&gt;Sources:&lt;/b&gt; &lt;a href="https://www.statnews.com/pharmalot/2026/05/19/virginia-governor-vetoes-bill-to-create-panel-to-lower-drug-costs/"&gt;STAT News&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;b&gt;Sources:&lt;/b&gt; &lt;a href="https://endpoints.news/driven-by-glp-1s-pharmas-relationship-with-consumers-is-starting-to-change/"&gt;Endpoints News&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;</description>
-      <guid isPermaLink="false">6c77dbbc94efa6dcac355b07e77627cc</guid>
-      <pubDate>Tue, 19 May 2026 22:00:48 GMT</pubDate>
-    </item>
-    <item>
-      <title>Fetal Alcohol Exposure Series</title>
-      <link>https://www.google.com</link>
-      <description>&lt;ul&gt;
-  &lt;li&gt;&lt;b&gt;Summary:&lt;/b&gt; This article is part of STAT News' 'Deadliest Drug' series, focusing on the effects of drinking during pregnancy. It explores the medical, social, and policy dimensions of fetal alcohol exposure, including risks, prevention, and long-term outcomes for affected children.&lt;/li&gt;
-  &lt;li&gt;&lt;b&gt;MoAs:&lt;/b&gt; N/A&lt;/li&gt;
-  &lt;li&gt;&lt;b&gt;Sources:&lt;/b&gt; &lt;a href="https://www.statnews.com/2026/05/19/drinking-while-pregnant-fetal-alcohol-exposure-explored-part-5-deadliest-drug-series/"&gt;STAT News&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;</description>
-      <guid isPermaLink="false">562e0c8abe121f3dd9714b78d3ae593c</guid>
-      <pubDate>Tue, 19 May 2026 22:00:48 GMT</pubDate>
-    </item>
-    <item>
-      <title>Insurance Transplant Medication Access</title>
-      <link>https://www.google.com</link>
-      <description>&lt;ul&gt;
-  &lt;li&gt;&lt;b&gt;Summary:&lt;/b&gt; This STAT News article highlights the difficulties patients face in obtaining insurance approval for transplant medications, including denials, high costs, and access barriers. It examines the impact on patient outcomes and the broader healthcare system.&lt;/li&gt;
-  &lt;li&gt;&lt;b&gt;MoAs:&lt;/b&gt; N/A&lt;/li&gt;
-  &lt;li&gt;&lt;b&gt;Sources:&lt;/b&gt; &lt;a href="https://www.statnews.com/2026/05/19/insurance-approval-denial-cost-access-transplant-medication/"&gt;STAT News&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;</description>
-      <guid isPermaLink="false">6872677ee595cf0a5e04a17f3d82565c</guid>
-      <pubDate>Tue, 19 May 2026 22:00:48 GMT</pubDate>
-    </item>
-    <item>
-      <title>Consumer Health State</title>
-      <link>https://www.google.com</link>
-      <description>&lt;ul&gt;
-  &lt;li&gt;&lt;b&gt;Summary:&lt;/b&gt; Endpoints News reports on the current landscape of consumer health, covering trends in health technology, patient engagement, wellness products, and market dynamics. The article provides an overview of how consumers interact with the healthcare system and emerging innovations.&lt;/li&gt;
-  &lt;li&gt;&lt;b&gt;MoAs:&lt;/b&gt; N/A&lt;/li&gt;
-  &lt;li&gt;&lt;b&gt;Sources:&lt;/b&gt; &lt;a href="https://endpoints.news/the-state-of-consumer-health/"&gt;Endpoints News&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;</description>
-      <guid isPermaLink="false">baff2c5cdd82f5c80217ffa73eb27252</guid>
-      <pubDate>Tue, 19 May 2026 22:00:48 GMT</pubDate>
+      <guid isPermaLink="false">f22646991588c1bdcd4dd3bb54bee72e</guid>
+      <pubDate>Wed, 20 May 2026 22:00:42 GMT</pubDate>
     </item>
   </channel>
 </rss>
