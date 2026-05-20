@@ -6,37 +6,26 @@
     <description>News digest covering Oncology.</description>
     <atom:link href="https://www.google.com" rel="self" type="application/rss+xml"/>
     <item>
-      <title>Merck Keytruda Colorectal Cancer Trial</title>
+      <title>Daiichi Sankyo Cancer Strategy</title>
       <link>https://www.google.com</link>
       <description>&lt;ul&gt;
-  &lt;li&gt;&lt;b&gt;Summary:&lt;/b&gt; &lt;b&gt;Merck&lt;/b&gt; has entered into a supply agreement with &lt;b&gt;Exelixis&lt;/b&gt; to support a clinical trial combining &lt;b&gt;Keytruda (pembrolizumab)&lt;/b&gt; with Exelixis’s investigational agent for colorectal cancer. The partnership aims to evaluate the combination's potential in this difficult-to-treat indication.&lt;/li&gt;
-  &lt;li&gt;&lt;b&gt;MoAs:&lt;/b&gt; Anti-PD-1 immune checkpoint inhibitor – binds to PD-1 receptor on T cells, preventing tumor-induced immune suppression and restoring antitumor activity.&lt;/li&gt;
-  &lt;li&gt;&lt;b&gt;Sources:&lt;/b&gt; &lt;a href="https://www.fiercebiotech.com/biotech/merck-inks-keytruda-supply-pact-support-exelixis-colorectal-cancer-trial"&gt;Fierce Biotech&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;b&gt;Summary:&lt;/b&gt; After a challenging two years, &lt;b&gt;Daiichi Sankyo&lt;/b&gt; has unveiled a revitalized oncology strategy centered on antibody‑drug conjugates (&lt;b&gt;ADCs&lt;/b&gt;) and next‑generation platforms. The Biospace article details plans to expand beyond &lt;b&gt;Enhertu&lt;/b&gt; (trastuzumab deruxtecan) into new tumor types and combination regimens. The company also aims to leverage its proprietary DXd ADC technology for both solid tumors and hematologic malignancies. Daiichi’s renewed focus on early‑stage pipeline development and strategic partnerships aims to regain momentum in the fiercely competitive cancer drug market.&lt;/li&gt;
+  &lt;li&gt;&lt;b&gt;MoAs:&lt;/b&gt; Trastuzumab deruxtecan (Enhertu): HER2-directed ADC with topoisomerase I inhibitor payload; other ADCs under development utilize similar DXd technology&lt;/li&gt;
+  &lt;li&gt;&lt;b&gt;Sources:&lt;/b&gt; &lt;a href="https://www.biospace.com/drug-development/daiichi-emerges-from-bruising-2-years-with-vision-for-cracking-cancers-big-leagues"&gt;Biospace&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;</description>
-      <guid isPermaLink="false">c89518532ed9dd59097081d857f2eac7</guid>
-      <pubDate>Tue, 19 May 2026 22:00:48 GMT</pubDate>
+      <guid isPermaLink="false">c7974624e89bb411cd601f2d984a95bf</guid>
+      <pubDate>Wed, 20 May 2026 22:00:42 GMT</pubDate>
     </item>
     <item>
-      <title>Merck TROP2 Antibody-Drug Conjugate</title>
+      <title>Anktiva Papillary Date</title>
       <link>https://www.google.com</link>
       <description>&lt;ul&gt;
-  &lt;li&gt;&lt;b&gt;Summary:&lt;/b&gt; &lt;b&gt;Merck&lt;/b&gt;’s &lt;b&gt;TROP2 antibody-drug conjugate (SKB264/MK-2870)&lt;/b&gt;, developed in partnership with &lt;b&gt;Kelun&lt;/b&gt;, demonstrated improved survival in patients with endometrial cancer, validating the billion-dollar deal. The ADC targets TROP2, a protein overexpressed in multiple solid tumors.&lt;/li&gt;
-  &lt;li&gt;&lt;b&gt;MoAs:&lt;/b&gt; TROP2-targeted antibody-drug conjugate – the antibody binds to TROP2 antigen on cancer cells, is internalized, and releases a cytotoxic topoisomerase I inhibitor payload to kill the cell.&lt;/li&gt;
-  &lt;li&gt;&lt;b&gt;Sources:&lt;/b&gt; &lt;a href="https://www.biospace.com/drug-development/mercks-billion-dollar-kelun-bet-pays-off-as-trop2-improves-survival-in-endometrial-cancer"&gt;BioSpace&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;b&gt;Summary:&lt;/b&gt; &lt;b&gt;Anktiva&lt;/b&gt; (nogapendekin alfa inbakicept) has received a PDUFA date from the FDA for the treatment of papillary bladder cancer, marking a potential new option in urothelial carcinoma.&lt;/li&gt;
+  &lt;li&gt;&lt;b&gt;MoAs:&lt;/b&gt; Nogapendekin alfa inbakicept: IL-15 superagonist (stimulates NK and T cell antitumor activity).&lt;/li&gt;
+  &lt;li&gt;&lt;b&gt;Sources:&lt;/b&gt; &lt;a href="https://www.oncologypipeline.com/apexonco/anktiva-gets-its-papillary-date-destiny"&gt;ApexOnco&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;</description>
-      <guid isPermaLink="false">c26dc230023fe2aed812d3cb3898c9c0</guid>
-      <pubDate>Tue, 19 May 2026 22:00:48 GMT</pubDate>
-    </item>
-    <item>
-      <title>AbbVie Pivekimab Pivotal</title>
-      <link>https://www.google.com</link>
-      <description>&lt;ul&gt;
-  &lt;li&gt;&lt;b&gt;Summary:&lt;/b&gt; AbbVie has advanced &lt;b&gt;pivekimab&lt;/b&gt;, a CD123-targeted antibody-drug conjugate, into pivotal trials. The drug is being evaluated for the treatment of certain hematologic malignancies, including blastic plasmacytoid dendritic cell neoplasm (BPDCN) and acute myeloid leukemia.&lt;/li&gt;
-  &lt;li&gt;&lt;b&gt;MoAs:&lt;/b&gt; CD123-directed antibody-drug conjugate (ADC) that delivers a cytotoxic payload to CD123-expressing cells.&lt;/li&gt;
-  &lt;li&gt;&lt;b&gt;Sources:&lt;/b&gt; &lt;a href="https://www.oncologypipeline.com/apexonco/abbvie-takes-pivekimab-pivotal"&gt;ApexOnco&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;</description>
-      <guid isPermaLink="false">c2b404730ffa60b944377c56808874c0</guid>
-      <pubDate>Tue, 19 May 2026 22:00:48 GMT</pubDate>
+      <guid isPermaLink="false">da8614d57e886dfc2e1b138cd79dbe9d</guid>
+      <pubDate>Wed, 20 May 2026 22:00:42 GMT</pubDate>
     </item>
   </channel>
 </rss>
