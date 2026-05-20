@@ -6,81 +6,136 @@
     <description>News digest covering Industry Events.</description>
     <atom:link href="https://www.google.com" rel="self" type="application/rss+xml"/>
     <item>
-      <title>TrumpRx Generic Drug Portal</title>
+      <title>In Utero Gene Therapy</title>
       <link>https://www.google.com</link>
       <description>&lt;ul&gt;
-  &lt;li&gt;&lt;b&gt;Summary:&lt;/b&gt; The &lt;b&gt;TrumpRx&lt;/b&gt; generic drug purchasing portal has expanded significantly, with the White House adding 600 generic medicines to the site. This expansion occurs amid political turmoil, including Senator Cassidy's loss and a Supreme Court setback for the pharmaceutical industry. The portal also integrates partnerships with &lt;b&gt;Amazon Pharmacy&lt;/b&gt;, &lt;b&gt;Mark Cuban's&lt;/b&gt; cost-plus drug company, and &lt;b&gt;GoodRx&lt;/b&gt; to broaden access and lower drug costs.&lt;/li&gt;
+  &lt;li&gt;&lt;b&gt;Summary:&lt;/b&gt; The field of in utero gene therapy is nearing a landmark moment with the first FDA trial application, as reported by STAT News. The progress has also sparked ethical debate regarding embryo editing, as discussed by Endpoints News. The advancement of fetal gene therapy raises questions about the boundaries of prenatal genetic intervention and the societal implications of editing the human germline.&lt;/li&gt;
   &lt;li&gt;&lt;b&gt;MoAs:&lt;/b&gt; N/A&lt;/li&gt;
-  &lt;li&gt;&lt;b&gt;Sources:&lt;/b&gt; &lt;a href="https://endpoints.news/trumprx-adds-hundreds-of-generic-medicines-to-site/"&gt;Endpoints News&lt;/a&gt;, &lt;a href="https://www.fiercepharma.com/pharma/white-house-adds-600-generic-meds-trumprx-purchasing-portal"&gt;Fierce Pharma&lt;/a&gt;, &lt;a href="https://www.statnews.com/2026/05/19/trumprx-generic-drugs-cassidy-loses-fda-turmoil-dc-diagnosis/"&gt;STAT News&lt;/a&gt;, &lt;a href="https://www.statnews.com/pharmalot/2026/05/19/supreme-court-setback-for-pharma-trumprx-expands/"&gt;STAT News&lt;/a&gt;, &lt;a href="https://www.statnews.com/2026/05/18/trumprx-adds-generic-drugs-amazon-pharmacy-mark-cuban-goodrx/"&gt;STAT News&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;b&gt;Sources:&lt;/b&gt; &lt;a href='https://www.statnews.com/2026/05/20/tippi-mackenzie-in-utero-gene-therapy-nears-first-fda-trial/?utm_campaign=rss'&gt;STAT News&lt;/a&gt;, &lt;a href='https://endpoints.news/fetal-gene-therapys-progress-calls-into-question-the-taboo-on-embryo-editing/'&gt;Endpoints News&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;</description>
-      <guid isPermaLink="false">de76c867cea017a3cc64b74d4d16b28d</guid>
-      <pubDate>Tue, 19 May 2026 22:00:48 GMT</pubDate>
+      <guid isPermaLink="false">137a648a54815ffd870c0f0afdb76d74</guid>
+      <pubDate>Wed, 20 May 2026 22:00:42 GMT</pubDate>
     </item>
     <item>
-      <title>Takeda Pay-for-Delay Verdict</title>
+      <title>GLP-1 Import Restrictions</title>
       <link>https://www.google.com</link>
       <description>&lt;ul&gt;
-  &lt;li&gt;&lt;b&gt;Summary:&lt;/b&gt; Takeda has been ordered to pay approximately $885 million in a pay-for-delay antitrust case. The verdict relates to allegations that the company unlawfully delayed generic competition for its blockbuster drug.&lt;/li&gt;
-  &lt;li&gt;&lt;b&gt;MoAs:&lt;/b&gt; N/A&lt;/li&gt;
-  &lt;li&gt;&lt;b&gt;Sources:&lt;/b&gt; &lt;a href="https://www.fiercepharma.com/pharma/takeda-slapped-885m-verdict-pay-delay-antitrust-case"&gt;Fierce Pharma&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;b&gt;Summary:&lt;/b&gt; The FDA has issued a warning letter to a Chinese supplier for violating GLP-1 import restrictions, as reported by BioSpace. The action highlights ongoing regulatory scrutiny over the importation of GLP-1 receptor agonists, a class of drugs widely used for diabetes and weight loss. The enforcement is part of efforts to prevent unauthorized drugs from entering the US market.&lt;/li&gt;
+  &lt;li&gt;&lt;b&gt;MoAs:&lt;/b&gt; GLP-1 receptor agonists (mechanism: agonism of GLP-1 receptor, enhancing insulin secretion and promoting satiety)&lt;/li&gt;
+  &lt;li&gt;&lt;b&gt;Sources:&lt;/b&gt; &lt;a href='https://www.biospace.com/fda/fda-sends-warning-letter-after-chinese-supplier-breaks-glp-1-import-restrictions'&gt;BioSpace&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;</description>
-      <guid isPermaLink="false">f047068603c21c6f2dcdce28213d69c9</guid>
-      <pubDate>Tue, 19 May 2026 22:00:48 GMT</pubDate>
+      <guid isPermaLink="false">ace48c8e14b4ed78c42d1c8d08f8bf2f</guid>
+      <pubDate>Wed, 20 May 2026 22:00:42 GMT</pubDate>
     </item>
     <item>
-      <title>Pharma R&amp;D Performance Ranking</title>
+      <title>CEO Pay Ratios</title>
       <link>https://www.google.com</link>
       <description>&lt;ul&gt;
-  &lt;li&gt;&lt;b&gt;Summary:&lt;/b&gt; A new ranking of pharmaceutical companies by R&amp;D performance highlights innovation and invention metrics, providing a comparative analysis of how major players are advancing drug discovery and development.&lt;/li&gt;
+  &lt;li&gt;&lt;b&gt;Summary:&lt;/b&gt; A Biospace analysis reveals stark disparities in CEO‑to‑median‑employee pay ratios across the biopharma industry. At &lt;b&gt;Johnson &amp; Johnson&lt;/b&gt;, CEO Joaquin Duato earns 358 times the median employee, while &lt;b&gt;Vertex Pharmaceuticals&lt;/b&gt; CEO Reshma Kewalramani’s ratio is just 80 times. The article examines how compensation structures reflect company size, performance, and governance philosophies. These figures come amid increasing scrutiny of executive pay, particularly in an industry where drug pricing remains a political flashpoint.&lt;/li&gt;
   &lt;li&gt;&lt;b&gt;MoAs:&lt;/b&gt; N/A&lt;/li&gt;
-  &lt;li&gt;&lt;b&gt;Sources:&lt;/b&gt; &lt;a href="https://www.statnews.com/2026/05/19/biotech-news-new-ranking-of-pharma-companies-by-rd-performance/"&gt;STAT News&lt;/a&gt;, &lt;a href="https://www.statnews.com/2026/05/19/pharma-rankings-innovation-invention/"&gt;STAT News&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;b&gt;Sources:&lt;/b&gt; &lt;a href="https://www.biospace.com/business/j-js-duato-makes-358-times-his-median-employee-vertex-ceo-makes-just-80-times"&gt;Biospace&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;</description>
-      <guid isPermaLink="false">9dcfeca94cdc0eaff0b20431ebab4c72</guid>
-      <pubDate>Tue, 19 May 2026 22:00:48 GMT</pubDate>
+      <guid isPermaLink="false">3434b457cfb7fa840bde9166fcc94b8f</guid>
+      <pubDate>Wed, 20 May 2026 22:00:42 GMT</pubDate>
     </item>
     <item>
-      <title>No Surprises Act Dispute Resolution</title>
+      <title>FDA Leadership Vacuum</title>
       <link>https://www.google.com</link>
       <description>&lt;ul&gt;
-  &lt;li&gt;&lt;b&gt;Summary:&lt;/b&gt; The No Surprises Act's dispute resolution process is leading to extraordinary payouts, raising concerns about the effectiveness and cost of the healthcare policy designed to protect patients from unexpected medical bills.&lt;/li&gt;
+  &lt;li&gt;&lt;b&gt;Summary:&lt;/b&gt; The FDA continues to operate without a permanent commissioner as acting leaders and potential candidates, including &lt;b&gt;Richard Pazdur&lt;/b&gt;, decline to formally announce bids. Biospace coverage highlights that the leadership vacuum is creating uncertainty around policy direction, especially for oncology drug approvals and accelerated pathways. The absence of a confirmed commissioner also affects morale at the agency and raises concerns about the agency's ability to respond to public health crises. Other regulatory topics, including drug pricing and review timelines, are also being affected by the stalled appointment process.&lt;/li&gt;
   &lt;li&gt;&lt;b&gt;MoAs:&lt;/b&gt; N/A&lt;/li&gt;
-  &lt;li&gt;&lt;b&gt;Sources:&lt;/b&gt; &lt;a href="https://www.statnews.com/2026/05/19/no-surprises-act-dispute-resolution-fuels-extraordinary-payouts/"&gt;STAT News&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;b&gt;Sources:&lt;/b&gt; &lt;a href="https://www.biospace.com/fda/pazdur-declines-to-announce-candidacy-for-vacated-fda-commissioner-role"&gt;Biospace&lt;/a&gt;, &lt;a href="https://www.biospace.com/fda/fdas-absent-leaders-the-millions-pharma-ceos-make-and-pancreatic-cancers-momentum"&gt;Biospace&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;</description>
-      <guid isPermaLink="false">b854c1eaa0faf7b43d4535057ee13f94</guid>
-      <pubDate>Tue, 19 May 2026 22:00:48 GMT</pubDate>
+      <guid isPermaLink="false">7c798d01fa14489b319824a556c05098</guid>
+      <pubDate>Wed, 20 May 2026 22:00:42 GMT</pubDate>
     </item>
     <item>
-      <title>Canadian Medical Societies Conflict of Interest</title>
+      <title>NIH Leadership Vacuum</title>
       <link>https://www.google.com</link>
       <description>&lt;ul&gt;
-  &lt;li&gt;&lt;b&gt;Summary:&lt;/b&gt; Canadian medical societies lack sufficient conflict-of-interest policies, according to a report highlighting the need for stronger ethical guidelines to ensure transparency and independence from pharmaceutical industry influence.&lt;/li&gt;
+  &lt;li&gt;&lt;b&gt;Summary:&lt;/b&gt; Stat News reports on a leadership vacuum at the &lt;b&gt;NIH&lt;/b&gt; and broader &lt;b&gt;HHS&lt;/b&gt;, highlighting that 15 of 27 institutes are operating under acting directors, raising concerns about decision-making and strategic direction.&lt;/li&gt;
   &lt;li&gt;&lt;b&gt;MoAs:&lt;/b&gt; N/A&lt;/li&gt;
-  &lt;li&gt;&lt;b&gt;Sources:&lt;/b&gt; &lt;a href="https://www.statnews.com/pharmalot/2026/05/19/canadian-medical-societies-lack-sufficient-conflict-of-interest-policies/"&gt;STAT News&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;b&gt;Sources:&lt;/b&gt; &lt;a href="https://www.statnews.com/2026/05/20/health-news-leadership-vacuum-at-nih-and-broader-hhs/?utm_campaign=rss"&gt;STAT News&lt;/a&gt;, &lt;a href="https://www.statnews.com/2026/05/20/nih-leadership-questions-15-of-27-institutes-acting-directors/?utm_campaign=rss"&gt;STAT News&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;</description>
-      <guid isPermaLink="false">7a2e9d8c838a380c4a4dec200d7b894c</guid>
-      <pubDate>Tue, 19 May 2026 22:00:48 GMT</pubDate>
+      <guid isPermaLink="false">a2218164766612d08396b856d15eb83f</guid>
+      <pubDate>Wed, 20 May 2026 22:00:42 GMT</pubDate>
     </item>
     <item>
-      <title>FDA Talent Loss David Kessler</title>
+      <title>Kennedy Appointments</title>
       <link>https://www.google.com</link>
       <description>&lt;ul&gt;
-  &lt;li&gt;&lt;b&gt;Summary:&lt;/b&gt; Former FDA Commissioner David Kessler asserts that the FDA can thrive despite talent loss, offering perspective on the agency's resilience and ability to maintain regulatory excellence amid workforce challenges.&lt;/li&gt;
+  &lt;li&gt;&lt;b&gt;Summary:&lt;/b&gt; Stat News covers &lt;b&gt;Robert F. Kennedy Jr.&lt;/b&gt;'s firing of vice chairs of the &lt;b&gt;U.S. Preventive Services Task Force&lt;/b&gt; and the appointment of &lt;b&gt;Stephanie Haridopolos&lt;/b&gt; as interim Surgeon General, signaling significant personnel changes in public health leadership.&lt;/li&gt;
   &lt;li&gt;&lt;b&gt;MoAs:&lt;/b&gt; N/A&lt;/li&gt;
-  &lt;li&gt;&lt;b&gt;Sources:&lt;/b&gt; &lt;a href="https://www.statnews.com/2026/05/19/fda-can-thrive-despite-talent-loss-says-david-kessler-former-commissioner/"&gt;STAT News&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;b&gt;Sources:&lt;/b&gt; &lt;a href="https://www.statnews.com/2026/05/20/kennedy-fires-vice-chairs-us-preventive-services-task-force/?utm_campaign=rss"&gt;STAT News&lt;/a&gt;, &lt;a href="https://www.statnews.com/2026/05/20/kennedy-names-stephanie-haridopolos-interim-surgeon-general/?utm_campaign=rss"&gt;STAT News&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;</description>
-      <guid isPermaLink="false">6301a4983e7ff63396f2531c8eaca5d7</guid>
-      <pubDate>Tue, 19 May 2026 22:00:48 GMT</pubDate>
+      <guid isPermaLink="false">efbb353a1d612bb9e3bd961c5db79e13</guid>
+      <pubDate>Wed, 20 May 2026 22:00:42 GMT</pubDate>
     </item>
     <item>
-      <title>Nicotine-Free Generation Laws</title>
+      <title>Rare Disease Biotech CEO Summit</title>
       <link>https://www.google.com</link>
       <description>&lt;ul&gt;
-  &lt;li&gt;&lt;b&gt;Summary:&lt;/b&gt; This article covers legislative efforts in the United Kingdom and Massachusetts to create a 'nicotine-free generation' by prohibiting the sale of tobacco and nicotine products to individuals born after a certain date. It discusses the rationale, public health benefits, and criticisms of such laws.&lt;/li&gt;
+  &lt;li&gt;&lt;b&gt;Summary:&lt;/b&gt; At a &lt;b&gt;STAT Summit&lt;/b&gt;, CEOs of rare disease biotech companies discussed &lt;b&gt;FDA&lt;/b&gt; uncertainty, regulatory hurdles, and the challenges of bringing therapies to patients in an evolving policy landscape.&lt;/li&gt;
   &lt;li&gt;&lt;b&gt;MoAs:&lt;/b&gt; N/A&lt;/li&gt;
-  &lt;li&gt;&lt;b&gt;Sources:&lt;/b&gt; &lt;a href="https://www.statnews.com/2026/05/19/nicotine-free-generation-united-kingdom-massachusetts-laws/"&gt;STAT News&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;b&gt;Sources:&lt;/b&gt; &lt;a href="https://www.statnews.com/2026/05/20/rare-disease-biotech-ceos-discuss-fda-uncertainty-stat-summit/?utm_campaign=rss"&gt;STAT News&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;</description>
-      <guid isPermaLink="false">b0866b9582f26dcfa5f7b39590a8f410</guid>
-      <pubDate>Tue, 19 May 2026 22:00:48 GMT</pubDate>
+      <guid isPermaLink="false">2149fd687c66fbdb4558464186eea3e5</guid>
+      <pubDate>Wed, 20 May 2026 22:00:42 GMT</pubDate>
+    </item>
+    <item>
+      <title>China Biotech Competition</title>
+      <link>https://www.google.com</link>
+      <description>&lt;ul&gt;
+  &lt;li&gt;&lt;b&gt;Summary:&lt;/b&gt; Endpoints News argues that the next big pharma company will likely emerge from China, while Stat News reports that drugmakers are guarding intellectual property more tightly as competition from Chinese biotech intensifies.&lt;/li&gt;
+  &lt;li&gt;&lt;b&gt;MoAs:&lt;/b&gt; N/A&lt;/li&gt;
+  &lt;li&gt;&lt;b&gt;Sources:&lt;/b&gt; &lt;a href="https://endpoints.news/the-next-big-pharma-company-will-come-from-china/"&gt;Endpoints News&lt;/a&gt;, &lt;a href="https://www.statnews.com/2026/05/20/biotech-news-drugmakers-guard-ip-more-tightly-amid-china-competiti/?utm_campaign=rss"&gt;STAT News&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;</description>
+      <guid isPermaLink="false">f6d84384dbc7668e0160153088d54eb9</guid>
+      <pubDate>Wed, 20 May 2026 22:00:42 GMT</pubDate>
+    </item>
+    <item>
+      <title>Medicare AI Prior Authorization</title>
+      <link>https://www.google.com</link>
+      <description>&lt;ul&gt;
+  &lt;li&gt;&lt;b&gt;Summary:&lt;/b&gt; Stat News reports that Democrats are forcing a vote to end &lt;b&gt;Medicare&lt;/b&gt;'s &lt;b&gt;AI-driven prior authorization pilot&lt;/b&gt; program, citing concerns over patient access and algorithmic bias.&lt;/li&gt;
+  &lt;li&gt;&lt;b&gt;MoAs:&lt;/b&gt; N/A&lt;/li&gt;
+  &lt;li&gt;&lt;b&gt;Sources:&lt;/b&gt; &lt;a href="https://www.statnews.com/2026/05/20/democrats-force-vote-to-end-medicare-ai-prior-authorization-pilot/?utm_campaign=rss"&gt;STAT News&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;</description>
+      <guid isPermaLink="false">072ba81e845ea81714361377ba826c10</guid>
+      <pubDate>Wed, 20 May 2026 22:00:42 GMT</pubDate>
+    </item>
+    <item>
+      <title>Medicare Long-Term Care Proposal</title>
+      <link>https://www.google.com</link>
+      <description>&lt;ul&gt;
+  &lt;li&gt;&lt;b&gt;Summary:&lt;/b&gt; Senate Democrats have proposed a new plan to add long-term care coverage to &lt;b&gt;Medicare&lt;/b&gt;, aiming to address the growing need for aging and disability support, as covered by Stat News.&lt;/li&gt;
+  &lt;li&gt;&lt;b&gt;MoAs:&lt;/b&gt; N/A&lt;/li&gt;
+  &lt;li&gt;&lt;b&gt;Sources:&lt;/b&gt; &lt;a href="https://www.statnews.com/2026/05/20/medicare-long-term-care-coverage-new-proposal-senate-democrats/?utm_campaign=rss"&gt;STAT News&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;</description>
+      <guid isPermaLink="false">38e15bb2d425146fb0cef632b6ee8648</guid>
+      <pubDate>Wed, 20 May 2026 22:00:42 GMT</pubDate>
+    </item>
+    <item>
+      <title>Florida Medicaid Funds</title>
+      <link>https://www.google.com</link>
+      <description>&lt;ul&gt;
+  &lt;li&gt;&lt;b&gt;Summary:&lt;/b&gt; Stat News reports that Florida hospitals received an additional $8 billion in &lt;b&gt;Medicaid&lt;/b&gt; funding ahead of expected limits under the Trump administration, providing a temporary financial boost.&lt;/li&gt;
+  &lt;li&gt;&lt;b&gt;MoAs:&lt;/b&gt; N/A&lt;/li&gt;
+  &lt;li&gt;&lt;b&gt;Sources:&lt;/b&gt; &lt;a href="https://www.statnews.com/2026/05/20/florida-hospitals-get-8-billion-extra-medicaid-funds-before-trump-limits/?utm_campaign=rss"&gt;STAT News&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;</description>
+      <guid isPermaLink="false">18ca572d4bbb83b3fe6e08b1da4b6ff8</guid>
+      <pubDate>Wed, 20 May 2026 22:00:42 GMT</pubDate>
+    </item>
+    <item>
+      <title>Biotech Investor Mood Kessler</title>
+      <link>https://www.google.com</link>
+      <description>&lt;ul&gt;
+  &lt;li&gt;&lt;b&gt;Summary:&lt;/b&gt; A &lt;b&gt;STAT News&lt;/b&gt; article examines biotech investor sentiment and features former FDA Commissioner &lt;b&gt;David Kessler&lt;/b&gt; discussing confidence in the sector's future.&lt;/li&gt;
+  &lt;li&gt;&lt;b&gt;MoAs:&lt;/b&gt; N/A&lt;/li&gt;
+  &lt;li&gt;&lt;b&gt;Sources:&lt;/b&gt; &lt;a href="https://www.statnews.com/pharmalot/2026/05/20/biotech-investors-mood-former-fda-commissioner-kessler-confidence/?utm_campaign=rss"&gt;STAT News&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;</description>
+      <guid isPermaLink="false">f1388a14f764d486fd9babac98d3b4b2</guid>
+      <pubDate>Wed, 20 May 2026 22:00:42 GMT</pubDate>
     </item>
   </channel>
 </rss>
