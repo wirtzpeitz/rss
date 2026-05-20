@@ -6,48 +6,26 @@
     <description>News digest covering Rare Disease.</description>
     <atom:link href="https://www.google.com" rel="self" type="application/rss+xml"/>
     <item>
-      <title>Relay Therapeutics PI3K Inhibitor</title>
+      <title>Oorja Bio Fibrosis Drug</title>
       <link>https://www.google.com</link>
       <description>&lt;ul&gt;
-  &lt;li&gt;&lt;b&gt;Summary:&lt;/b&gt; &lt;b&gt;Relay Therapeutics&lt;/b&gt; reported that its &lt;b&gt;PI3Kα inhibitor (RLY-2608)&lt;/b&gt; achieved a 60% response rate in a Phase 2 study for vascular anomalies, a rare disease. This efficacy bar surpassed Novartis's &lt;b&gt;alpelisib&lt;/b&gt;, positioning Relay's candidate as a potential best-in-class treatment for these blood vessel disorders.&lt;/li&gt;
-  &lt;li&gt;&lt;b&gt;MoAs:&lt;/b&gt; PI3Kα inhibitor – inhibits the alpha isoform of phosphoinositide 3-kinase, blocking downstream signaling pathways that promote cell growth and survival in abnormal vasculature.&lt;/li&gt;
-  &lt;li&gt;&lt;b&gt;Sources:&lt;/b&gt; &lt;a href="https://www.biospace.com/drug-development/relay-doubles-the-bar-outpacing-novartis-with-a-60-response-in-rare-disease"&gt;BioSpace&lt;/a&gt;, &lt;a href="https://www.biopharmadive.com/news/relay-zovegalisib-vascular-anomalies-study-results/820532/"&gt;BioPharma Dive&lt;/a&gt;, &lt;a href="https://endpoints.news/relays-pi3k%CE%B1-inhibitor-clears-efficacy-bar-in-phase-2-vascular-anomalies-study/"&gt;Endpoints News&lt;/a&gt;, &lt;a href="https://www.fiercebiotech.com/biotech/relay-full-steam-ahead-pi3k-inhibitor-fueled-first-data-blood-vessel-disorders"&gt;Fierce Biotech&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;b&gt;Summary:&lt;/b&gt; Oorja Bio has launched with $30 million to advance an IPF (idiopathic pulmonary fibrosis) drug candidate originally from South Korea. The startup is developing a fibrosis candidate, as reported by BioPharma Dive and Fierce Biotech. IPF is a rare and progressive lung disease with high unmet need, and Oorja aims to bring new treatment options to patients.&lt;/li&gt;
+  &lt;li&gt;&lt;b&gt;MoAs:&lt;/b&gt; Antifibrotic mechanism (likely targeting TGF-beta or other fibrotic pathways; specific MoA not disclosed but candidate from South Korean biotech)&lt;/li&gt;
+  &lt;li&gt;&lt;b&gt;Sources:&lt;/b&gt; &lt;a href='https://www.biopharmadive.com/news/oorja-biotech-startup-westlake-ipf-drug-acceleron/820718/'&gt;BioPharma Dive&lt;/a&gt;, &lt;a href='https://www.fiercebiotech.com/biotech/30m-launch-oorja-bio-breathes-new-life-south-korean-fibrosis-candidate'&gt;Fierce Biotech&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;</description>
-      <guid isPermaLink="false">cc6c0c4eddac8d4debfd6fb66012d0c1</guid>
-      <pubDate>Tue, 19 May 2026 22:00:48 GMT</pubDate>
+      <guid isPermaLink="false">c98e5290db799aefa02fc90f154ef78d</guid>
+      <pubDate>Wed, 20 May 2026 22:00:42 GMT</pubDate>
     </item>
     <item>
-      <title>BioMarin Rare Disease Setback</title>
+      <title>Beam vs Wave AATD Editing</title>
       <link>https://www.google.com</link>
       <description>&lt;ul&gt;
-  &lt;li&gt;&lt;b&gt;Summary:&lt;/b&gt; &lt;b&gt;BioMarin&lt;/b&gt; experienced a major setback as its investigational therapy for &lt;b&gt;ENPP1 deficiency&lt;/b&gt; failed in a Phase 3 trial, showing no clinical benefit. This flop deals a blow to the company's rare disease portfolio, previously hit by other pipeline disappointments.&lt;/li&gt;
-  &lt;li&gt;&lt;b&gt;MoAs:&lt;/b&gt; Enzyme replacement therapy – provides functional ENPP1 enzyme to compensate for the genetic deficiency that leads to metabolic abnormalities.&lt;/li&gt;
-  &lt;li&gt;&lt;b&gt;Sources:&lt;/b&gt; &lt;a href="https://www.biopharmadive.com/news/biomarins-enpp1-deficiency-inozyme-study-results/820585/"&gt;BioPharma Dive&lt;/a&gt;, &lt;a href="https://www.biospace.com/drug-development/biomarin-suffers-another-blow-to-rare-disease-portfolio-in-phase-3-flop"&gt;BioSpace&lt;/a&gt;, &lt;a href="https://endpoints.news/biomarins-rare-disease-therapy-shows-no-clinical-benefit-in-phase-3-test/"&gt;Endpoints News&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;b&gt;Summary:&lt;/b&gt; Beam Therapeutics and Wave Life Sciences are advancing gene-editing therapies for alpha-1 antitrypsin deficiency (AATD). A recent Biospace report highlights that &lt;b&gt;Beam&lt;/b&gt; has shown promising efficacy, seemingly outperforming &lt;b&gt;Wave&lt;/b&gt; in preclinical or early clinical data. Both companies aim to correct the underlying genetic defect in AATD, a rare liver and lung disease. The competition underscores the potential of in vivo gene editing to address monogenic disorders. Beam’s approach uses base editing, while Wave employs a combination of RNA editing and antisense oligonucleotides. The next readouts will be pivotal for determining which platform offers better durability and safety.&lt;/li&gt;
+  &lt;li&gt;&lt;b&gt;MoAs:&lt;/b&gt; Base editing (Beam); RNA editing/antisense oligonucleotides (Wave)&lt;/li&gt;
+  &lt;li&gt;&lt;b&gt;Sources:&lt;/b&gt; &lt;a href="https://www.biospace.com/drug-development/beam-one-ups-wave-as-both-show-promise-of-genetic-editing-for-aatd"&gt;Biospace&lt;/a&gt;, &lt;a href="https://www.biospace.com/drug-development/beam-one-ups-wave-as-both-show-editings-efficacy-for-aatd"&gt;Biospace&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;</description>
-      <guid isPermaLink="false">5c1f10d814d08a278bb3fb6608fd2bc6</guid>
-      <pubDate>Tue, 19 May 2026 22:00:48 GMT</pubDate>
-    </item>
-    <item>
-      <title>Wave Life Sciences RNA Editing AATD</title>
-      <link>https://www.google.com</link>
-      <description>&lt;ul&gt;
-  &lt;li&gt;&lt;b&gt;Summary:&lt;/b&gt; &lt;b&gt;Wave Life Sciences&lt;/b&gt; is developing an RNA editing therapy for &lt;b&gt;Alpha-1 Antitrypsin Deficiency (AATD)&lt;/b&gt;, aiming for monthly dosing. The therapy uses a proprietary platform to correct the underlying genetic mutation in the SERPINA1 gene.&lt;/li&gt;
-  &lt;li&gt;&lt;b&gt;MoAs:&lt;/b&gt; RNA editing – uses an engineered guide RNA to recruit endogenous ADAR enzymes to edit specific adenosine to inosine in the target mRNA, correcting the mutation and restoring functional AAT protein production.&lt;/li&gt;
-  &lt;li&gt;&lt;b&gt;Sources:&lt;/b&gt; &lt;a href="https://endpoints.news/wave-aims-for-monthly-dosing-with-rna-editing-treatment-for-aatd/"&gt;Endpoints News&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;</description>
-      <guid isPermaLink="false">3936475a582123b31ff2a012d44696b1</guid>
-      <pubDate>Tue, 19 May 2026 22:00:48 GMT</pubDate>
-    </item>
-    <item>
-      <title>AI Rare Disease Treatment Discovery</title>
-      <link>https://www.google.com</link>
-      <description>&lt;ul&gt;
-  &lt;li&gt;&lt;b&gt;Summary:&lt;/b&gt; Artificial intelligence was used to identify a treatment for a newborn with an ultra-rare disease, demonstrating the potential of AI-driven approaches in diagnosing and developing therapies for rare conditions.&lt;/li&gt;
-  &lt;li&gt;&lt;b&gt;MoAs:&lt;/b&gt; N/A&lt;/li&gt;
-  &lt;li&gt;&lt;b&gt;Sources:&lt;/b&gt; &lt;a href="https://www.statnews.com/2026/05/19/ai-helped-find-treatment-newborn-ultra-rare-disease/"&gt;STAT News&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;</description>
-      <guid isPermaLink="false">7f4db9313f1b07c4fe6709259436f0df</guid>
-      <pubDate>Tue, 19 May 2026 22:00:48 GMT</pubDate>
+      <guid isPermaLink="false">93fe98bb63b7ca194dea322ef4a00875</guid>
+      <pubDate>Wed, 20 May 2026 22:00:42 GMT</pubDate>
     </item>
   </channel>
 </rss>
