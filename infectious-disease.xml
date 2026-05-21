@@ -6,37 +6,26 @@
     <description>News digest covering Infectious Disease.</description>
     <atom:link href="https://www.google.com" rel="self" type="application/rss+xml"/>
     <item>
-      <title>Pfizer Next-Gen Pneumonia Vaccine</title>
+      <title>Gilead Visceral Leishmaniasis</title>
       <link>https://www.google.com</link>
       <description>&lt;ul&gt;
-  &lt;li&gt;&lt;b&gt;Summary:&lt;/b&gt; Pfizer's next-generation pneumococcal vaccine candidate has outperformed Prevnar 20 in a clinical trial, as reported by Endpoints News. The vaccine aims to provide broader protection against pneumonia-causing bacteria. Pfizer is also raising $175M (possibly relay financing) to support development and manufacturing.&lt;/li&gt;
-  &lt;li&gt;&lt;b&gt;MoAs:&lt;/b&gt; Pneumococcal vaccine (induces immune response against Streptococcus pneumoniae polysaccharides; conjugate vaccine mechanism)&lt;/li&gt;
-  &lt;li&gt;&lt;b&gt;Sources:&lt;/b&gt; &lt;a href='https://endpoints.news/pfizers-next-gen-pneumonia-shot-beats-prevnar-20-relay-raises-175m/'&gt;Endpoints News&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;b&gt;Summary:&lt;/b&gt; &lt;b&gt;Gilead Sciences&lt;/b&gt; has renewed its collaboration with the World Health Organization to help eliminate visceral leishmaniasis, a deadly parasitic disease. The company pledged 400,000 doses of its liposomal amphotericin B product &lt;b&gt;AmBisome&lt;/b&gt; for expanded access in endemic regions. This long‑standing partnership aims to reduce disease burden through donated treatments and technical support.&lt;/li&gt;
+  &lt;li&gt;&lt;b&gt;MoAs:&lt;/b&gt; AmBisome (liposomal amphotericin B) binds to ergosterol in the cell membrane of Leishmania parasites, forming pores that lead to ion leakage and cell death. The liposomal formulation reduces toxicity while enhancing delivery to infected tissues.&lt;/li&gt;
+  &lt;li&gt;&lt;b&gt;Sources:&lt;/b&gt; &lt;a href="https://www.pharmaceutical-technology.com/news/gilead-teams-up-with-who-again-to-eliminate-parasitic-tropical-disease/"&gt;Pharmaceutical Technology&lt;/a&gt;, &lt;a href="https://www.fiercepharma.com/pharma/gilead-pledges-400k-ambiosome-doses-fight-visceral-leishmaniasis-expanded-who-collab"&gt;Fierce Pharma&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;</description>
-      <guid isPermaLink="false">bb70db8336fe2c843920254e6c23d076</guid>
-      <pubDate>Wed, 20 May 2026 22:00:42 GMT</pubDate>
+      <guid isPermaLink="false">4d2a281384188aa47bb2d4db8506c090</guid>
+      <pubDate>Thu, 21 May 2026 22:01:08 GMT</pubDate>
     </item>
     <item>
-      <title>Moderna Hantavirus</title>
+      <title>Roche Flu Drug Licensing</title>
       <link>https://www.google.com</link>
       <description>&lt;ul&gt;
-  &lt;li&gt;&lt;b&gt;Summary:&lt;/b&gt; &lt;b&gt;Moderna&lt;/b&gt;’s stock rose amid news of a hantavirus outbreak in the U.S., drawing attention to its infectious disease platform. The Biospace report notes that Moderna is developing an mRNA vaccine candidate (mRNA-1989) against hantavirus, building on the same technology used for COVID-19. While no clinical data have been released, the outbreak reignites interest in Moderna’s pipeline beyond SARS‑CoV‑2. The company’s ability to rapidly pivot to emerging pathogens remains a key differentiator in the vaccine space.&lt;/li&gt;
-  &lt;li&gt;&lt;b&gt;MoAs:&lt;/b&gt; mRNA-based vaccine; encodes viral antigens to induce immune response&lt;/li&gt;
-  &lt;li&gt;&lt;b&gt;Sources:&lt;/b&gt; &lt;a href="https://www.biospace.com/business/modernas-stock-rides-hantavirus-fears-as-spotlight-returns-to-infectious-disease-platform"&gt;Biospace&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;b&gt;Summary:&lt;/b&gt; &lt;b&gt;Roche&lt;/b&gt; entered a licensing agreement that clears generic drug manufacturers to produce an antiviral flu drug, likely expanding access to influenza treatment in underserved regions.&lt;/li&gt;
+  &lt;li&gt;&lt;b&gt;MoAs:&lt;/b&gt; N/A&lt;/li&gt;
+  &lt;li&gt;&lt;b&gt;Sources:&lt;/b&gt; &lt;a href="https://www.biospace.com/news/roche-licensing-pact-clears-generic-drugmakers-to-manufacture-antiviral-flu-drug"&gt;BioSpace&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;</description>
-      <guid isPermaLink="false">880bc3bc25cabdd6200834ef70cdf901</guid>
-      <pubDate>Wed, 20 May 2026 22:00:42 GMT</pubDate>
-    </item>
-    <item>
-      <title>Ebola Outbreak DRC</title>
-      <link>https://www.google.com</link>
-      <description>&lt;ul&gt;
-  &lt;li&gt;&lt;b&gt;Summary:&lt;/b&gt; A new Ebola virus disease outbreak in the Democratic Republic of the Congo (DRC) is overwhelming healthcare workers and response teams. STAT News articles report that health‑care workers are among those infected, US aid cuts are hampering containment efforts, and the WHO is investigating the outbreak alongside the DRC government. The situation is reminiscent of earlier epidemics that required massive international coordination. Questions remain about vaccine availability (e.g., &lt;b&gt;Ervebo&lt;/b&gt;), therapeutic stockpiles, and the impact of reduced funding on outbreak response capabilities.&lt;/li&gt;
-  &lt;li&gt;&lt;b&gt;MoAs:&lt;/b&gt; N/A (vaccines and therapeutics are secondary; outbreak context)&lt;/li&gt;
-  &lt;li&gt;&lt;b&gt;Sources:&lt;/b&gt; &lt;a href="https://www.statnews.com/2026/05/20/ebola-patients-suffering-health-care-workers/?utm_campaign=rss"&gt;STAT News&lt;/a&gt;, &lt;a href="https://www.statnews.com/2026/05/20/who-ebola-response-outbreak-investigation-drc-marco-rubio/?utm_campaign=rss"&gt;STAT News&lt;/a&gt;, &lt;a href="https://www.statnews.com/2026/05/19/us-aid-cuts-hamper-drc-ebola-response/?utm_campaign=rss"&gt;STAT News&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;</description>
-      <guid isPermaLink="false">d516929e173644ba0c65a5f751783daa</guid>
-      <pubDate>Wed, 20 May 2026 22:00:42 GMT</pubDate>
+      <guid isPermaLink="false">06854c991d80ceab9704d5fb69c46b33</guid>
+      <pubDate>Thu, 21 May 2026 22:01:08 GMT</pubDate>
     </item>
   </channel>
 </rss>
