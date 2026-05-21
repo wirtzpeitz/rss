@@ -6,15 +6,15 @@
     <description>News digest covering Immunology.</description>
     <atom:link href="https://www.google.com" rel="self" type="application/rss+xml"/>
     <item>
-      <title>AbbVie vs UCB Psoriatic Arthritis</title>
+      <title>Immunovant Arthritis Trial</title>
       <link>https://www.google.com</link>
       <description>&lt;ul&gt;
-  &lt;li&gt;&lt;b&gt;Summary:&lt;/b&gt; In a head-to-head trial, &lt;b&gt;AbbVie&lt;/b&gt;’s IL-23 inhibitor &lt;b&gt;Skyrizi&lt;/b&gt; (risankizumab) failed to demonstrate superiority over &lt;b&gt;UCB&lt;/b&gt;’s IL-17A/F inhibitor &lt;b&gt;Bimzelx&lt;/b&gt; (bimekizumab) in psoriatic arthritis. The Biospace report details that Bimzelx achieved better composite response rates, challenging Skyrizi’s position in the immunology market. This result could shift prescribing patterns, especially given Bimzelx’s dual IL-17 blockade. The data highlight the competitive landscape for TNF‑α alternatives in PsA and the growing importance of head-to-head comparisons in rheumatology.&lt;/li&gt;
-  &lt;li&gt;&lt;b&gt;MoAs:&lt;/b&gt; Risankizumab: anti-IL-23 p19 monoclonal antibody; Bimekizumab: anti-IL-17A/F monoclonal antibody&lt;/li&gt;
-  &lt;li&gt;&lt;b&gt;Sources:&lt;/b&gt; &lt;a href="https://www.biospace.com/drug-development/abbvies-new-immunology-standard-bearer-skyrizi-kneels-to-ucbs-bimzelx-in-psoriatic-arthritis"&gt;Biospace&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;b&gt;Summary:&lt;/b&gt; Shares of &lt;b&gt;Immunovant&lt;/b&gt; surged following positive data from an arthritis trial for its anti-FcRn antibody &lt;b&gt;batoclimab&lt;/b&gt;. The treatment demonstrated significant efficacy in reducing disease activity, bolstering the company's pipeline in autoimmune indications.&lt;/li&gt;
+  &lt;li&gt;&lt;b&gt;MoAs:&lt;/b&gt; FcRn antagonist (neonatal Fc receptor inhibition reduces pathogenic IgG levels)&lt;/li&gt;
+  &lt;li&gt;&lt;b&gt;Sources:&lt;/b&gt; &lt;a href="https://www.statnews.com/2026/05/21/biotech-news-immunovant-shares-surge-on-arthritis-trial-data/?utm_campaign=rss"&gt;Stat News&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;</description>
-      <guid isPermaLink="false">d39fe49f0744006990c8574bdd285e33</guid>
-      <pubDate>Wed, 20 May 2026 22:00:42 GMT</pubDate>
+      <guid isPermaLink="false">bfb174f005f5e1bda28fa9e04a3f3ecd</guid>
+      <pubDate>Thu, 21 May 2026 22:01:08 GMT</pubDate>
     </item>
   </channel>
 </rss>
