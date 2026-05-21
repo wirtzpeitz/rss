@@ -6,26 +6,37 @@
     <description>News digest covering Rare Disease.</description>
     <atom:link href="https://www.google.com" rel="self" type="application/rss+xml"/>
     <item>
-      <title>Oorja Bio Fibrosis Drug</title>
+      <title>Amgen Tavneos Liver Injury</title>
       <link>https://www.google.com</link>
       <description>&lt;ul&gt;
-  &lt;li&gt;&lt;b&gt;Summary:&lt;/b&gt; Oorja Bio has launched with $30 million to advance an IPF (idiopathic pulmonary fibrosis) drug candidate originally from South Korea. The startup is developing a fibrosis candidate, as reported by BioPharma Dive and Fierce Biotech. IPF is a rare and progressive lung disease with high unmet need, and Oorja aims to bring new treatment options to patients.&lt;/li&gt;
-  &lt;li&gt;&lt;b&gt;MoAs:&lt;/b&gt; Antifibrotic mechanism (likely targeting TGF-beta or other fibrotic pathways; specific MoA not disclosed but candidate from South Korean biotech)&lt;/li&gt;
-  &lt;li&gt;&lt;b&gt;Sources:&lt;/b&gt; &lt;a href='https://www.biopharmadive.com/news/oorja-biotech-startup-westlake-ipf-drug-acceleron/820718/'&gt;BioPharma Dive&lt;/a&gt;, &lt;a href='https://www.fiercebiotech.com/biotech/30m-launch-oorja-bio-breathes-new-life-south-korean-fibrosis-candidate'&gt;Fierce Biotech&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;b&gt;Summary:&lt;/b&gt; &lt;b&gt;Amgen&lt;/b&gt;'s drug &lt;b&gt;Tavneos&lt;/b&gt; (avacopan) faces increased scrutiny over liver injury risks. Regulatory updates include a label modification in Japan, where the drug has been linked to 20 deaths. The safety concerns prompt a reevaluation of its benefit-risk profile for ANCA-associated vasculitis.&lt;/li&gt;
+  &lt;li&gt;&lt;b&gt;MoAs:&lt;/b&gt; Complement C5a receptor antagonist&lt;/li&gt;
+  &lt;li&gt;&lt;b&gt;Sources:&lt;/b&gt; &lt;a href="https://www.fiercepharma.com/pharma/amgens-tavneos-facing-liver-injury-scrutiny-gets-label-update-patient-starts-resume-japan"&gt;Fierce Pharma&lt;/a&gt;, &lt;a href="https://www.biospace.com/business/amgens-rare-disease-drug-tavneos-tied-to-20-deaths-in-japan"&gt;BioSpace&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;</description>
-      <guid isPermaLink="false">c98e5290db799aefa02fc90f154ef78d</guid>
-      <pubDate>Wed, 20 May 2026 22:00:42 GMT</pubDate>
+      <guid isPermaLink="false">2193d318144c802ae90fc08c63a0f9ac</guid>
+      <pubDate>Thu, 21 May 2026 22:01:08 GMT</pubDate>
     </item>
     <item>
-      <title>Beam vs Wave AATD Editing</title>
+      <title>BioMarin Voxzogo Hypochondroplasia</title>
       <link>https://www.google.com</link>
       <description>&lt;ul&gt;
-  &lt;li&gt;&lt;b&gt;Summary:&lt;/b&gt; Beam Therapeutics and Wave Life Sciences are advancing gene-editing therapies for alpha-1 antitrypsin deficiency (AATD). A recent Biospace report highlights that &lt;b&gt;Beam&lt;/b&gt; has shown promising efficacy, seemingly outperforming &lt;b&gt;Wave&lt;/b&gt; in preclinical or early clinical data. Both companies aim to correct the underlying genetic defect in AATD, a rare liver and lung disease. The competition underscores the potential of in vivo gene editing to address monogenic disorders. Beam’s approach uses base editing, while Wave employs a combination of RNA editing and antisense oligonucleotides. The next readouts will be pivotal for determining which platform offers better durability and safety.&lt;/li&gt;
-  &lt;li&gt;&lt;b&gt;MoAs:&lt;/b&gt; Base editing (Beam); RNA editing/antisense oligonucleotides (Wave)&lt;/li&gt;
-  &lt;li&gt;&lt;b&gt;Sources:&lt;/b&gt; &lt;a href="https://www.biospace.com/drug-development/beam-one-ups-wave-as-both-show-promise-of-genetic-editing-for-aatd"&gt;Biospace&lt;/a&gt;, &lt;a href="https://www.biospace.com/drug-development/beam-one-ups-wave-as-both-show-editings-efficacy-for-aatd"&gt;Biospace&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;b&gt;Summary:&lt;/b&gt; &lt;b&gt;BioMarin&lt;/b&gt; plans to file for regulatory approval of &lt;b&gt;Voxzogo&lt;/b&gt; (vosoritide) in hypochondroplasia following positive trial results. The study met primary endpoints, demonstrating a larger-than-expected effect on linear growth, potentially expanding the drug's indication beyond achondroplasia.&lt;/li&gt;
+  &lt;li&gt;&lt;b&gt;MoAs:&lt;/b&gt; C-type natriuretic peptide (CNP) analog, stimulates growth plate activity&lt;/li&gt;
+  &lt;li&gt;&lt;b&gt;Sources:&lt;/b&gt; &lt;a href="https://www.fiercepharma.com/pharma/biomarin-will-file-voxzogo-expansion-after-scoring-hch-study"&gt;Fierce Pharma&lt;/a&gt;, &lt;a href="https://www.biopharmadive.com/news/biomarin-voxzogo-results-hypochondroplasia-trial-results-fda-application/820873/"&gt;BioPharma Dive&lt;/a&gt;, &lt;a href="https://endpoints.news/biomarin-to-seek-further-approval-of-voxzogo-in-form-of-short-stature/"&gt;Endpoints News&lt;/a&gt;, &lt;a href="https://www.biospace.com/drug-development/biomarin-bounces-back-as-voxzogo-performs-bigger-than-expected-in-new-indication"&gt;BioSpace&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;</description>
-      <guid isPermaLink="false">93fe98bb63b7ca194dea322ef4a00875</guid>
-      <pubDate>Wed, 20 May 2026 22:00:42 GMT</pubDate>
+      <guid isPermaLink="false">cf5e7e93a98c050397cbbfdc23cab65f</guid>
+      <pubDate>Thu, 21 May 2026 22:01:08 GMT</pubDate>
+    </item>
+    <item>
+      <title>Trikafta Cystic Fibrosis Long-Term Data</title>
+      <link>https://www.google.com</link>
+      <description>&lt;ul&gt;
+  &lt;li&gt;&lt;b&gt;Summary:&lt;/b&gt; Long-term data presented at ATS 2026 demonstrated durable benefit of &lt;b&gt;Trikafta&lt;/b&gt; (elexacaftor/tezacaftor/ivacaftor) for cystic fibrosis patients. The results support sustained efficacy and safety over extended treatment duration.&lt;/li&gt;
+  &lt;li&gt;&lt;b&gt;MoAs:&lt;/b&gt; CFTR potentiator (ivacaftor) and correctors (elexacaftor, tezacaftor)&lt;/li&gt;
+  &lt;li&gt;&lt;b&gt;Sources:&lt;/b&gt; &lt;a href="https://www.pharmaceutical-technology.com/analyst-comment/ats-2026-long-term-data-show-durable-benefit-of-trikafta-for-cystic-fibrosis-2/"&gt;Pharmaceutical Technology&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;</description>
+      <guid isPermaLink="false">460ce0648f1173473bf2ea79a5a6f37b</guid>
+      <pubDate>Thu, 21 May 2026 22:01:08 GMT</pubDate>
     </item>
   </channel>
 </rss>
