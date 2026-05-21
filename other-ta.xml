@@ -6,15 +6,37 @@
     <description>News digest covering Other TA.</description>
     <atom:link href="https://www.google.com" rel="self" type="application/rss+xml"/>
     <item>
-      <title>Vertanical VER01 FDA Status</title>
+      <title>Lilly Obesity Drug Trial and Alzheimer's Claims</title>
       <link>https://www.google.com</link>
       <description>&lt;ul&gt;
-  &lt;li&gt;&lt;b&gt;Summary:&lt;/b&gt; Vertanical's investigational drug &lt;b&gt;VER01&lt;/b&gt; has received a regulatory status designation from the U.S. FDA. The compound is being developed as a potential treatment for anxiety and other central nervous system disorders.&lt;/li&gt;
-  &lt;li&gt;&lt;b&gt;MoAs:&lt;/b&gt; N/A&lt;/li&gt;
-  &lt;li&gt;&lt;b&gt;Sources:&lt;/b&gt; &lt;a href="https://www.pharmaceutical-technology.com/news/vertanicals-ver01-gains-fda-status/"&gt;Pharmaceutical Technology&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;b&gt;Summary:&lt;/b&gt; Eli Lilly faces scrutiny over its obesity drug clinical trial data and marketing claims for its Alzheimer's treatment. The Pharmalot report questions the robustness of the obesity trial's endpoints and highlights concerns about the evidence supporting Lilly's Alzheimer's drug efficacy. The combination of therapeutic areas—metabolic and neurologic—has raised questions about the company's clinical development strategy and regulatory transparency.&lt;/li&gt;
+  &lt;li&gt;&lt;b&gt;MoAs:&lt;/b&gt; N/A (specific drug not identified in the theme summary)&lt;/li&gt;
+  &lt;li&gt;&lt;b&gt;Sources:&lt;/b&gt; &lt;a href="https://www.statnews.com/pharmalot/2026/05/21/lilly-obesity-drug-trial-alzheimer-drug-claims-questioned/?utm_campaign=rss"&gt;STAT News&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;</description>
-      <guid isPermaLink="false">c40fc114fa78113de785a675eea5de94</guid>
-      <pubDate>Tue, 19 May 2026 22:00:48 GMT</pubDate>
+      <guid isPermaLink="false">d026953cc09f6ec592ebc4b548bb3fc7</guid>
+      <pubDate>Thu, 21 May 2026 22:01:08 GMT</pubDate>
+    </item>
+    <item>
+      <title>ATS 2026 COPD Emphysema Gene</title>
+      <link>https://www.google.com</link>
+      <description>&lt;ul&gt;
+  &lt;li&gt;&lt;b&gt;Summary:&lt;/b&gt; At the American Thoracic Society (ATS) 2026 conference, researchers identified the PABPC4 gene as a key driver of emphysema in chronic obstructive pulmonary disease (COPD). The finding was presented as part of a larger genetic analysis linking specific gene expression patterns to lung tissue destruction. The discovery could open new avenues for targeted therapies aimed at halting or reversing emphysema progression.&lt;/li&gt;
+  &lt;li&gt;&lt;b&gt;MoAs:&lt;/b&gt; N/A (gene identified; no specific drug mechanism)&lt;/li&gt;
+  &lt;li&gt;&lt;b&gt;Sources:&lt;/b&gt; &lt;a href="https://www.pharmaceutical-technology.com/analyst-comment/ats-2026-pabpc4-gene-identified-as-a-key-driver-of-emphysema-in-copd/"&gt;Pharmaceutical Technology&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;</description>
+      <guid isPermaLink="false">ffd0df06813cd22e8c651aaeb31a3dac</guid>
+      <pubDate>Thu, 21 May 2026 22:01:08 GMT</pubDate>
+    </item>
+    <item>
+      <title>Infex Lung Disease Candidate</title>
+      <link>https://www.google.com</link>
+      <description>&lt;ul&gt;
+  &lt;li&gt;&lt;b&gt;Summary:&lt;/b&gt; &lt;b&gt;Infex&lt;/b&gt;, following in the footsteps of &lt;b&gt;Insmed&lt;/b&gt;, advanced its lung disease candidate after positive Phase 2a data. The drug is a DPP-1 inhibitor targeting neutrophil-driven inflammation in bronchiectasis.&lt;/li&gt;
+  &lt;li&gt;&lt;b&gt;MoAs:&lt;/b&gt; Dipeptidyl peptidase 1 (DPP-1) inhibitor&lt;/li&gt;
+  &lt;li&gt;&lt;b&gt;Sources:&lt;/b&gt; &lt;a href="https://www.fiercebiotech.com/biotech/infex-following-insmeds-footsteps-advances-lung-disease-candidate-after-clearing-phase-2a"&gt;Fierce Biotech&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;</description>
+      <guid isPermaLink="false">3a91e431f8f1a2262499fdd2f6edbe54</guid>
+      <pubDate>Thu, 21 May 2026 22:01:08 GMT</pubDate>
     </item>
   </channel>
 </rss>
