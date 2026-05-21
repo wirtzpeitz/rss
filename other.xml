@@ -6,26 +6,81 @@
     <description>News digest covering Other.</description>
     <atom:link href="https://www.google.com" rel="self" type="application/rss+xml"/>
     <item>
-      <title>23andMe/HealthEx DNA Data</title>
+      <title>Ogilvy Health AI Marketing</title>
       <link>https://www.google.com</link>
       <description>&lt;ul&gt;
-  &lt;li&gt;&lt;b&gt;Summary:&lt;/b&gt; &lt;b&gt;23andMe&lt;/b&gt; and startup &lt;b&gt;HealthEx&lt;/b&gt; are partnering to link consumer genetic data with electronic health records (EHRs), according to STAT News. The collaboration aims to build a large, real‑world dataset that could accelerate drug discovery and biomarker identification. Privacy advocates caution about consent and data security, while researchers see potential for improving polygenic risk scores and pharmacogenomics. The deal marks another step toward integrating direct‑to‑consumer genomics into mainstream clinical research.&lt;/li&gt;
+  &lt;li&gt;&lt;b&gt;Summary:&lt;/b&gt; A Fierce Pharma feature examines how &lt;b&gt;Ogilvy Health&lt;/b&gt; is leveraging artificial intelligence to accelerate marketing campaigns, using nano‑influencers for targeted reach, and implementing Responsible Influencer Activation (RIA) to ensure compliance in regulated pharma marketing. The agency's perspective highlights the transformative role of AI in streamlining content creation and measuring engagement while maintaining regulatory guardrails.&lt;/li&gt;
   &lt;li&gt;&lt;b&gt;MoAs:&lt;/b&gt; N/A&lt;/li&gt;
-  &lt;li&gt;&lt;b&gt;Sources:&lt;/b&gt; &lt;a href="https://www.statnews.com/2026/05/19/23andme-healthex-to-connect-dna-data-with-health-records/?utm_campaign=rss"&gt;STAT News&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;b&gt;Sources:&lt;/b&gt; &lt;a href="https://www.fiercepharma.com/marketing/inside-agency-view-ogilvy-health-ais-light-speed-nano-influencers-and-rise-ria"&gt;Fierce Pharma&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;</description>
-      <guid isPermaLink="false">6eaa93d59315c1e144e80f740c11fb8b</guid>
-      <pubDate>Wed, 20 May 2026 22:00:42 GMT</pubDate>
+      <guid isPermaLink="false">b9cc16e383c8bb61a27e2b414a6b64c2</guid>
+      <pubDate>Thu, 21 May 2026 22:01:08 GMT</pubDate>
     </item>
     <item>
-      <title>GLP-1 Consumer Relationship</title>
+      <title>Prediction Markets for Clinical Trials</title>
       <link>https://www.google.com</link>
       <description>&lt;ul&gt;
-  &lt;li&gt;&lt;b&gt;Summary:&lt;/b&gt; Endpoints News examines how &lt;b&gt;GLP-1&lt;/b&gt; drugs are transforming pharma's relationship with consumers, driving changes in marketing, patient engagement, and direct-to-consumer strategies as these therapies gain widespread adoption.&lt;/li&gt;
+  &lt;li&gt;&lt;b&gt;Summary:&lt;/b&gt; Prediction markets are emerging as a tool for betting on clinical trial outcomes, offering a novel approach to forecasting drug approval and trial success probabilities in the biotech sector.&lt;/li&gt;
   &lt;li&gt;&lt;b&gt;MoAs:&lt;/b&gt; N/A&lt;/li&gt;
-  &lt;li&gt;&lt;b&gt;Sources:&lt;/b&gt; &lt;a href="https://endpoints.news/driven-by-glp-1s-pharmas-relationship-with-consumers-is-starting-to-change/"&gt;Endpoints News&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;b&gt;Sources:&lt;/b&gt; &lt;a href="https://www.fiercebiotech.com/biotech/betting-biotech-prediction-markets-set-sights-clinical-trials"&gt;Fierce Biotech&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;</description>
-      <guid isPermaLink="false">f22646991588c1bdcd4dd3bb54bee72e</guid>
-      <pubDate>Wed, 20 May 2026 22:00:42 GMT</pubDate>
+      <guid isPermaLink="false">3c2399a9c7a6f226d376b11a9b96805e</guid>
+      <pubDate>Thu, 21 May 2026 22:01:08 GMT</pubDate>
+    </item>
+    <item>
+      <title>Elevance Medicare Advantage Fraud</title>
+      <link>https://www.google.com</link>
+      <description>&lt;ul&gt;
+  &lt;li&gt;&lt;b&gt;Summary:&lt;/b&gt; &lt;b&gt;Elevance Health&lt;/b&gt; faces a Medicare Advantage fraud case, with a deposition that could expose alleged overbilling practices. The case highlights ongoing scrutiny of the Medicare Advantage program.&lt;/li&gt;
+  &lt;li&gt;&lt;b&gt;MoAs:&lt;/b&gt; N/A&lt;/li&gt;
+  &lt;li&gt;&lt;b&gt;Sources:&lt;/b&gt; &lt;a href="https://www.statnews.com/2026/05/21/elevance-medicare-advantage-fraud-case-peter-haytaian-deposition/?utm_campaign=rss"&gt;Stat News&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;</description>
+      <guid isPermaLink="false">01a69a1af16d211232cd3081a543cf64</guid>
+      <pubDate>Thu, 21 May 2026 22:01:08 GMT</pubDate>
+    </item>
+    <item>
+      <title>RFK Jr Screen Time Warning</title>
+      <link>https://www.google.com</link>
+      <description>&lt;ul&gt;
+  &lt;li&gt;&lt;b&gt;Summary:&lt;/b&gt; &lt;b&gt;Robert F. Kennedy Jr.&lt;/b&gt; issued a warning about the dangers of excessive screen time, linking it to mental health issues.&lt;/li&gt;
+  &lt;li&gt;&lt;b&gt;MoAs:&lt;/b&gt; N/A&lt;/li&gt;
+  &lt;li&gt;&lt;b&gt;Sources:&lt;/b&gt; &lt;a href="https://www.statnews.com/2026/05/21/rfk-jr-s-screen-time-warning/?utm_campaign=rss"&gt;STAT News&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;</description>
+      <guid isPermaLink="false">65b9cc48e58425ca748109e25914b506</guid>
+      <pubDate>Thu, 21 May 2026 22:01:08 GMT</pubDate>
+    </item>
+    <item>
+      <title>Retained Bullet Fragments Depression</title>
+      <link>https://www.google.com</link>
+      <description>&lt;ul&gt;
+  &lt;li&gt;&lt;b&gt;Summary:&lt;/b&gt; A report highlights the link between retained bullet fragments, lead poisoning, and depression among trauma survivors.&lt;/li&gt;
+  &lt;li&gt;&lt;b&gt;MoAs:&lt;/b&gt; N/A&lt;/li&gt;
+  &lt;li&gt;&lt;b&gt;Sources:&lt;/b&gt; &lt;a href="https://www.statnews.com/2026/05/21/retained-bullet-fragments-depression-lead-poisoning-trauma/?utm_campaign=rss"&gt;STAT News&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;</description>
+      <guid isPermaLink="false">67f49a4c3edbe5996993d31a5ec701dc</guid>
+      <pubDate>Thu, 21 May 2026 22:01:08 GMT</pubDate>
+    </item>
+    <item>
+      <title>AI Scientist Tools</title>
+      <link>https://www.google.com</link>
+      <description>&lt;ul&gt;
+  &lt;li&gt;&lt;b&gt;Summary:&lt;/b&gt; A STAT News report examines the practical utility of AI scientist tools in biomedical research. The article questions whether these tools, which promise to accelerate hypothesis generation and experimental design, are delivering meaningful results in practice. It highlights challenges such as reproducibility, integration into existing workflows, and the need for rigorous validation. The piece concludes that while AI tools hold potential, their current impact is limited without proper context and domain expertise.&lt;/li&gt;
+  &lt;li&gt;&lt;b&gt;MoAs:&lt;/b&gt; N/A&lt;/li&gt;
+  &lt;li&gt;&lt;b&gt;Sources:&lt;/b&gt; &lt;a href="https://www.statnews.com/2026/05/21/are-ai-scientist-tools-actually-useful-ai-prognosis/?utm_campaign=rss"&gt;STAT News&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;</description>
+      <guid isPermaLink="false">e1876c46c3f2829309b555f7a5c09f79</guid>
+      <pubDate>Thu, 21 May 2026 22:01:08 GMT</pubDate>
+    </item>
+    <item>
+      <title>Quality by Design Clinical Data</title>
+      <link>https://www.google.com</link>
+      <description>&lt;ul&gt;
+  &lt;li&gt;&lt;b&gt;Summary:&lt;/b&gt; A sponsored article from Pharmaceutical Technology discusses the challenges posed by disconnected systems in clinical data management. It advocates for a Quality by Design (QbD) approach to streamline data collection and ensure integrity. The piece emphasizes that siloed data sources can lead to inefficiencies, errors, and delays in clinical trials, and proposes integrated platforms as a solution to enhance data quality and regulatory compliance.&lt;/li&gt;
+  &lt;li&gt;&lt;b&gt;MoAs:&lt;/b&gt; N/A&lt;/li&gt;
+  &lt;li&gt;&lt;b&gt;Sources:&lt;/b&gt; &lt;a href="https://www.pharmaceutical-technology.com/sponsored/quality-by-design-the-impact-of-disconnected-systems-on-clinical-data/"&gt;Pharmaceutical Technology&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;</description>
+      <guid isPermaLink="false">ced136231f833a4b879d26e2d74dfd5e</guid>
+      <pubDate>Thu, 21 May 2026 22:01:08 GMT</pubDate>
     </item>
   </channel>
 </rss>
