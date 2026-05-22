@@ -6,114 +6,81 @@
     <description>News digest covering Corporate Events.</description>
     <atom:link href="https://www.google.com" rel="self" type="application/rss+xml"/>
     <item>
-      <title>Lilly Trulicity Fraud Lawsuit</title>
+      <title>Recordati Takeover Bid</title>
       <link>https://www.google.com</link>
       <description>&lt;ul&gt;
-  &lt;li&gt;&lt;b&gt;Summary:&lt;/b&gt; &lt;b&gt;Eli Lilly&lt;/b&gt; has filed a lawsuit accusing church‑linked pharmacies, wholesalers, and other entities of defrauding the company of more than $200 million involving the diabetes drug &lt;b&gt;Trulicity (dulaglutide)&lt;/b&gt;. The lawsuit alleges systematic billing and rebate fraud schemes. The case highlights ongoing concerns about drug distribution integrity and manufacturer exposure to fraudulent claims.&lt;/li&gt;
+  &lt;li&gt;&lt;b&gt;Summary:&lt;/b&gt; A consortium led by &lt;b&gt;CVC Capital Partners&lt;/b&gt; has tabled a €12.4 billion takeover bid to take Italian drugmaker &lt;b&gt;Recordati&lt;/b&gt; private. The offer includes a tender for all outstanding shares and a delisting plan. The deal would give the private equity firm control of Recordati's stable of rare-disease drugs and established commercial infrastructure. Separately, a related article notes that &lt;b&gt;SOBI&lt;/b&gt;'s gout drug passed a Phase 3 test, though this is tangential to the core theme.&lt;/li&gt;
   &lt;li&gt;&lt;b&gt;MoAs:&lt;/b&gt; N/A&lt;/li&gt;
-  &lt;li&gt;&lt;b&gt;Sources:&lt;/b&gt; &lt;a href="https://www.fiercepharma.com/pharma/lilly-accuses-church-linked-pharmacies-wholesalers-and-more-defrauding-more-200m-trulicity"&gt;Fierce Pharma&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;b&gt;Sources:&lt;/b&gt; &lt;a href='https://endpoints.news/tender-offer-for-recordati-sobis-gout-drug-passes-phase-3-test/'&gt;Endpoints News&lt;/a&gt;, &lt;a href='https://www.pharmaceutical-technology.com/news/cvc-consortium-tables-12-4bn-bid-to-delist-italian-drugmaker-recordati/'&gt;Pharmaceutical Technology&lt;/a&gt;, &lt;a href='https://www.biospace.com/deals/recordati-fields-12-4b-go-private-offer'&gt;BioSpace&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;</description>
-      <guid isPermaLink="false">9c461580381526322c4c1334022831f6</guid>
-      <pubDate>Thu, 21 May 2026 22:01:08 GMT</pubDate>
+      <guid isPermaLink="false">26171249e6e8a5f0ef9679151caad0ca</guid>
+      <pubDate>Fri, 22 May 2026 22:00:46 GMT</pubDate>
     </item>
     <item>
-      <title>RA Capital SPAC Biotech Merger</title>
+      <title>AbbVie Layoffs (Allergan Aesthetics)</title>
       <link>https://www.google.com</link>
       <description>&lt;ul&gt;
-  &lt;li&gt;&lt;b&gt;Summary:&lt;/b&gt; &lt;b&gt;RA Capital Management&lt;/b&gt; is merging its special‑purpose acquisition company (SPAC) with a Chinese biotech company, according to BioPharma Dive. The deal involves a specific pricing structure and reflects the continued use of SPAC vehicles to bring private biotechs to public markets, particularly cross‑border transactions involving China‑based firms.&lt;/li&gt;
+  &lt;li&gt;&lt;b&gt;Summary:&lt;/b&gt; &lt;b&gt;AbbVie&lt;/b&gt; has announced plans to lay off 85 employees tied to its &lt;b&gt;Allergan Aesthetics&lt;/b&gt; division in California, as part of a broader workforce reduction. The cuts come as the company consolidates operations following the Allergan acquisition. A second article notes &lt;b&gt;Novartis&lt;/b&gt; also disclosed 76 layoffs in New Jersey, but the core theme focuses on AbbVie's restructuring within its aesthetics unit.&lt;/li&gt;
   &lt;li&gt;&lt;b&gt;MoAs:&lt;/b&gt; N/A&lt;/li&gt;
-  &lt;li&gt;&lt;b&gt;Sources:&lt;/b&gt; &lt;a href="https://www.biopharmadive.com/news/ra-capital-spac-biotech-china-merger-pricing/820878/"&gt;BioPharma Dive&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;b&gt;Sources:&lt;/b&gt; &lt;a href='https://www.fiercepharma.com/pharma/abbvie-plots-85-summer-layoffs-tied-allergan-aesthetics-workforce-california'&gt;Fierce Pharma&lt;/a&gt;, &lt;a href='https://www.fiercepharma.com/pharma/novartis-unleash-another-76-cuts-nj-while-abbvie-plots-85-layoffs-ca'&gt;Fierce Pharma&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;</description>
-      <guid isPermaLink="false">66afc9d48d25a72ad107f05ebda14f9a</guid>
-      <pubDate>Thu, 21 May 2026 22:01:08 GMT</pubDate>
+      <guid isPermaLink="false">d56e4ce06be65d67d7527de13c6ae47c</guid>
+      <pubDate>Fri, 22 May 2026 22:00:46 GMT</pubDate>
     </item>
     <item>
-      <title>Incyte AI Deals</title>
+      <title>Gilead Tubulis Acquisition</title>
       <link>https://www.google.com</link>
       <description>&lt;ul&gt;
-  &lt;li&gt;&lt;b&gt;Summary:&lt;/b&gt; &lt;b&gt;Incyte&lt;/b&gt; has signed partnership deals with &lt;b&gt;Genesis Molecular AI&lt;/b&gt; and &lt;b&gt;Edison Scientific&lt;/b&gt;, leveraging artificial intelligence to accelerate drug discovery and development.&lt;/li&gt;
+  &lt;li&gt;&lt;b&gt;Summary:&lt;/b&gt; &lt;b&gt;Gilead Sciences&lt;/b&gt; has acquired &lt;b&gt;Tubulis&lt;/b&gt;, a German biotechnology company specializing in antibody-drug conjugates (ADCs). Tubulis' proprietary platform enables the generation of ADCs with improved stability and efficacy. The acquisition bolsters Gilead's oncology pipeline, adding novel conjugation technologies that could be applied to develop next-generation ADCs. Financial terms were not disclosed.&lt;/li&gt;
   &lt;li&gt;&lt;b&gt;MoAs:&lt;/b&gt; N/A&lt;/li&gt;
-  &lt;li&gt;&lt;b&gt;Sources:&lt;/b&gt; &lt;a href="https://endpoints.news/incyte-signs-ai-deals-with-genesis-molecular-ai-edison-scientific/"&gt;Endpoints News&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;b&gt;Sources:&lt;/b&gt; &lt;a href='https://www.pharmaceutical-technology.com/news/gilead-sciences-acquires-tubulis/'&gt;Pharmaceutical Technology&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;</description>
-      <guid isPermaLink="false">f1b737c6a1dba2bd1d39ae4a30463f10</guid>
-      <pubDate>Thu, 21 May 2026 22:01:08 GMT</pubDate>
+      <guid isPermaLink="false">a2603d6cca2727d9ec564494c88816dc</guid>
+      <pubDate>Fri, 22 May 2026 22:00:46 GMT</pubDate>
     </item>
     <item>
-      <title>BMS Texas Campus and Novartis Slovenia</title>
+      <title>Amgen CFO Retirement</title>
       <link>https://www.google.com</link>
       <description>&lt;ul&gt;
-  &lt;li&gt;&lt;b&gt;Summary:&lt;/b&gt; Bristol Myers Squibb (BMS) is planning a new corporate campus in Texas, signaling expansion of its operational footprint in the U.S. Meanwhile, Novartis is seeking to evict a tenant from its Slovenian campus, indicating a consolidation or repurposing of its European real estate assets. Both moves reflect strategic resource allocation in the competitive biopharma landscape.&lt;/li&gt;
+  &lt;li&gt;&lt;b&gt;Summary:&lt;/b&gt; &lt;b&gt;Amgen&lt;/b&gt;'s Chief Financial Officer is retiring, following former R&amp;D chief David Reese. Meanwhile, &lt;b&gt;Sanofi&lt;/b&gt; is reportedly lining up a new neurology leader amid broader executive changes.&lt;/li&gt;
   &lt;li&gt;&lt;b&gt;MoAs:&lt;/b&gt; N/A&lt;/li&gt;
-  &lt;li&gt;&lt;b&gt;Sources:&lt;/b&gt; &lt;a href="https://endpoints.news/bms-eyes-new-campus-in-texas-novartis-looks-to-evict-tenant-at-slovenian-campus/"&gt;Endpoints News&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;b&gt;Sources:&lt;/b&gt; &lt;a href="https://endpoints.news/amgen-cfo-to-follow-david-reese-into-retirement-sanofi-lines-up-a-neurology-leader/"&gt;Endpoints News&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;</description>
-      <guid isPermaLink="false">5764658abf35468b9530f66cc81397fc</guid>
-      <pubDate>Thu, 21 May 2026 22:01:08 GMT</pubDate>
+      <guid isPermaLink="false">602b5a60f2fefe72b9c9fcbbe80d35de</guid>
+      <pubDate>Fri, 22 May 2026 22:00:46 GMT</pubDate>
     </item>
     <item>
-      <title>Vaxart Shareholder Battle</title>
+      <title>Gilead API Supply Deal</title>
       <link>https://www.google.com</link>
       <description>&lt;ul&gt;
-  &lt;li&gt;&lt;b&gt;Summary:&lt;/b&gt; Vaxart is engaged in a contentious battle with shareholders over a proposed stock split. The company is seeking shareholder support to approve the split, which is aimed at stabilizing its stock price and avoiding delisting. Opponents argue the move could dilute existing shares and reflect poorly on the company's financial health.&lt;/li&gt;
+  &lt;li&gt;&lt;b&gt;Summary:&lt;/b&gt; &lt;b&gt;Gilead Sciences&lt;/b&gt; has signed a $140 million agreement for active pharmaceutical ingredient (API) supply with a Korean manufacturer, strengthening its supply chain ties in Asia.&lt;/li&gt;
   &lt;li&gt;&lt;b&gt;MoAs:&lt;/b&gt; N/A&lt;/li&gt;
-  &lt;li&gt;&lt;b&gt;Sources:&lt;/b&gt; &lt;a href="https://www.biospace.com/business/vaxart-seeks-shareholder-support-as-battle-over-stock-split-brews"&gt;BioSpace&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;b&gt;Sources:&lt;/b&gt; &lt;a href="https://www.biospace.com/deals/gilead-inks-140m-api-supply-deal-tightening-ties-to-korean-manufacturer"&gt;BioSpace&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;</description>
-      <guid isPermaLink="false">ce4169462a145ad84fbb782426d61efd</guid>
-      <pubDate>Thu, 21 May 2026 22:01:08 GMT</pubDate>
+      <guid isPermaLink="false">4c9fa6842860d49c305d9c0357245627</guid>
+      <pubDate>Fri, 22 May 2026 22:00:46 GMT</pubDate>
     </item>
     <item>
-      <title>Biopharma AI Integration Deals</title>
+      <title>Retro Biosciences Longevity</title>
       <link>https://www.google.com</link>
       <description>&lt;ul&gt;
-  &lt;li&gt;&lt;b&gt;Summary:&lt;/b&gt; Lilly, Bristol Myers Squibb (BMS), and Incyte have each struck separate deals to integrate artificial intelligence into their drug discovery and development pipelines. These partnerships aim to leverage AI for target identification, biomarker discovery, and clinical trial optimization, reflecting a broader trend of biopharma companies embracing digital innovation to accelerate R&amp;D.&lt;/li&gt;
+  &lt;li&gt;&lt;b&gt;Summary:&lt;/b&gt; &lt;b&gt;Retro Biosciences&lt;/b&gt;, a biotechnology company focused on longevity, has received a new valuation, signaling continued investor interest in the anti-aging space.&lt;/li&gt;
   &lt;li&gt;&lt;b&gt;MoAs:&lt;/b&gt; N/A&lt;/li&gt;
-  &lt;li&gt;&lt;b&gt;Sources:&lt;/b&gt; &lt;a href="https://www.biospace.com/deals/lilly-bms-incyte-strike-deals-to-keep-biopharmas-ai-integration-rolling"&gt;BioSpace&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;b&gt;Sources:&lt;/b&gt; &lt;a href="https://www.statnews.com/2026/05/22/retro-biosciences-longevity-valuation/?utm_campaign=rss"&gt;STAT News&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;</description>
-      <guid isPermaLink="false">e4c8eabfe98deac1294f48f55e0acb1b</guid>
-      <pubDate>Thu, 21 May 2026 22:01:08 GMT</pubDate>
+      <guid isPermaLink="false">efee6f312b6ce37fa143cc153444a5cc</guid>
+      <pubDate>Fri, 22 May 2026 22:00:46 GMT</pubDate>
     </item>
     <item>
-      <title>Liminatus CAR-T Acquisition</title>
+      <title>Genentech Academic Papers</title>
       <link>https://www.google.com</link>
       <description>&lt;ul&gt;
-  &lt;li&gt;&lt;b&gt;Summary:&lt;/b&gt; Struggling biotech Liminatus has agreed to acquire Innocs AI in a stock deal valued at $320 million. The acquisition is intended to bolster Liminatus's pipeline with Innocs's CAR-T therapy platform, combining artificial intelligence-driven discovery with cell therapy manufacturing. The deal aims to turn around Liminatus's fortunes by tapping into the growing market for engineered T-cell treatments.&lt;/li&gt;
-  &lt;li&gt;&lt;b&gt;MoAs:&lt;/b&gt; Chimeric Antigen Receptor T-cell (CAR-T) therapy (modality); specific target not disclosed&lt;/li&gt;
-  &lt;li&gt;&lt;b&gt;Sources:&lt;/b&gt; &lt;a href="https://www.fiercebiotech.com/biotech/struggling-liminatus-pays-320m-stock-car-t-biotech-innocs-ai"&gt;Fierce Biotech&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;</description>
-      <guid isPermaLink="false">3449c319c6491bff91d57506501d9cac</guid>
-      <pubDate>Thu, 21 May 2026 22:01:08 GMT</pubDate>
-    </item>
-    <item>
-      <title>Lilly Engage Bio Acquisition</title>
-      <link>https://www.google.com</link>
-      <description>&lt;ul&gt;
-  &lt;li&gt;&lt;b&gt;Summary:&lt;/b&gt; Eli Lilly has acquired Engage Bio for $202 million, gaining access to its non-viral DNA delivery platform. The technology enables safer and more efficient delivery of genetic material for gene therapies and cell therapies. The acquisition reinforces Lilly's commitment to genetic medicine and expands its toolkit for developing next-generation therapies.&lt;/li&gt;
-  &lt;li&gt;&lt;b&gt;MoAs:&lt;/b&gt; N/A (platform technology; non-viral DNA delivery)&lt;/li&gt;
-  &lt;li&gt;&lt;b&gt;Sources:&lt;/b&gt; &lt;a href="https://www.pharmaceutical-technology.com/news/eli-lilly-acquires-engage-bio-202m-non-viral-dna-delivery-platform/"&gt;Pharmaceutical Technology&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;</description>
-      <guid isPermaLink="false">733707f84a86d8b974b319a85ea21a19</guid>
-      <pubDate>Thu, 21 May 2026 22:01:08 GMT</pubDate>
-    </item>
-    <item>
-      <title>Fujifilm iPSC Facility</title>
-      <link>https://www.google.com</link>
-      <description>&lt;ul&gt;
-  &lt;li&gt;&lt;b&gt;Summary:&lt;/b&gt; Fujifilm has opened a new manufacturing facility dedicated to induced pluripotent stem cell (iPSC) production. The facility aims to support the growing demand for iPSC-derived therapies, including cell therapies for regenerative medicine and drug discovery applications. This expansion positions Fujifilm as a key contract development and manufacturing organization (CDMO) in the stem cell space.&lt;/li&gt;
-  &lt;li&gt;&lt;b&gt;MoAs:&lt;/b&gt; Induced pluripotent stem cell (iPSC) technology (modality)&lt;/li&gt;
-  &lt;li&gt;&lt;b&gt;Sources:&lt;/b&gt; &lt;a href="https://www.pharmaceutical-technology.com/news/fujifilm-opens-new-ipsc-facility/"&gt;Pharmaceutical Technology&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;</description>
-      <guid isPermaLink="false">b40df6c8a16a928b5872143c5b8e0e1c</guid>
-      <pubDate>Thu, 21 May 2026 22:01:08 GMT</pubDate>
-    </item>
-    <item>
-      <title>BMS Anthropic Claude AI</title>
-      <link>https://www.google.com</link>
-      <description>&lt;ul&gt;
-  &lt;li&gt;&lt;b&gt;Summary:&lt;/b&gt; &lt;b&gt;Bristol Myers Squibb&lt;/b&gt; has implemented &lt;b&gt;Anthropic&lt;/b&gt;'s Claude AI to enhance drug discovery and operational efficiency. The partnership leverages AI to accelerate research and development.&lt;/li&gt;
+  &lt;li&gt;&lt;b&gt;Summary:&lt;/b&gt; &lt;b&gt;Genentech&lt;/b&gt; has been soliciting academics to author papers that could help blunt proposed pharmaceutical reforms in Washington, D.C., according to a report.&lt;/li&gt;
   &lt;li&gt;&lt;b&gt;MoAs:&lt;/b&gt; N/A&lt;/li&gt;
-  &lt;li&gt;&lt;b&gt;Sources:&lt;/b&gt; &lt;a href="https://www.pharmaceutical-technology.com/news/bms-anthropic-claude-implementation/"&gt;Pharmaceutical Technology&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;b&gt;Sources:&lt;/b&gt; &lt;a href="https://www.statnews.com/pharmalot/2026/05/22/genentech-soliciting-academics-write-papers-to-blunt-pharma-reforms-dc/?utm_campaign=rss"&gt;STAT News&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;</description>
-      <guid isPermaLink="false">0ad49eae5397d46ebe485f11e7b005fc</guid>
-      <pubDate>Thu, 21 May 2026 22:01:08 GMT</pubDate>
+      <guid isPermaLink="false">d4429483ff9f389118b8e3750db8d7cc</guid>
+      <pubDate>Fri, 22 May 2026 22:00:46 GMT</pubDate>
     </item>
   </channel>
 </rss>
