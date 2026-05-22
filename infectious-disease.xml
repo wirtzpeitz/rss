@@ -6,26 +6,37 @@
     <description>News digest covering Infectious Disease.</description>
     <atom:link href="https://www.google.com" rel="self" type="application/rss+xml"/>
     <item>
-      <title>Gilead Visceral Leishmaniasis</title>
+      <title>Gilead Hepatitis D Drug Approval</title>
       <link>https://www.google.com</link>
       <description>&lt;ul&gt;
-  &lt;li&gt;&lt;b&gt;Summary:&lt;/b&gt; &lt;b&gt;Gilead Sciences&lt;/b&gt; has renewed its collaboration with the World Health Organization to help eliminate visceral leishmaniasis, a deadly parasitic disease. The company pledged 400,000 doses of its liposomal amphotericin B product &lt;b&gt;AmBisome&lt;/b&gt; for expanded access in endemic regions. This long‑standing partnership aims to reduce disease burden through donated treatments and technical support.&lt;/li&gt;
-  &lt;li&gt;&lt;b&gt;MoAs:&lt;/b&gt; AmBisome (liposomal amphotericin B) binds to ergosterol in the cell membrane of Leishmania parasites, forming pores that lead to ion leakage and cell death. The liposomal formulation reduces toxicity while enhancing delivery to infected tissues.&lt;/li&gt;
-  &lt;li&gt;&lt;b&gt;Sources:&lt;/b&gt; &lt;a href="https://www.pharmaceutical-technology.com/news/gilead-teams-up-with-who-again-to-eliminate-parasitic-tropical-disease/"&gt;Pharmaceutical Technology&lt;/a&gt;, &lt;a href="https://www.fiercepharma.com/pharma/gilead-pledges-400k-ambiosome-doses-fight-visceral-leishmaniasis-expanded-who-collab"&gt;Fierce Pharma&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;b&gt;Summary:&lt;/b&gt; The U.S. FDA approved &lt;b&gt;Gilead Sciences&lt;/b&gt;' hepatitis D drug &lt;b&gt;bulevirtide&lt;/b&gt; (brand name &lt;b&gt;Hepcludex&lt;/b&gt;), four years after an initial rejection. Bulevirtide is a first-in-class entry inhibitor that blocks the sodium taurocholate cotransporting polypeptide (NTCP) receptor, preventing the hepatitis D virus from infecting hepatocytes. The approval provides the first FDA-endorsed therapy for hepatitis D, a severe form of viral hepatitis that affects patients co-infected with hepatitis B.&lt;/li&gt;
+  &lt;li&gt;&lt;b&gt;MoAs:&lt;/b&gt; NTCP-mediated entry inhibitor&lt;/li&gt;
+  &lt;li&gt;&lt;b&gt;Sources:&lt;/b&gt; &lt;a href='https://endpoints.news/fda-clears-gileads-hepatitis-d-drug-four-years-after-prior-rejection/'&gt;Endpoints News&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;</description>
-      <guid isPermaLink="false">4d2a281384188aa47bb2d4db8506c090</guid>
-      <pubDate>Thu, 21 May 2026 22:01:08 GMT</pubDate>
+      <guid isPermaLink="false">926585a0e72d51697351b862b1d31ff1</guid>
+      <pubDate>Fri, 22 May 2026 22:00:46 GMT</pubDate>
     </item>
     <item>
-      <title>Roche Flu Drug Licensing</title>
+      <title>Moderna mRNA Flu Shot</title>
       <link>https://www.google.com</link>
       <description>&lt;ul&gt;
-  &lt;li&gt;&lt;b&gt;Summary:&lt;/b&gt; &lt;b&gt;Roche&lt;/b&gt; entered a licensing agreement that clears generic drug manufacturers to produce an antiviral flu drug, likely expanding access to influenza treatment in underserved regions.&lt;/li&gt;
-  &lt;li&gt;&lt;b&gt;MoAs:&lt;/b&gt; N/A&lt;/li&gt;
-  &lt;li&gt;&lt;b&gt;Sources:&lt;/b&gt; &lt;a href="https://www.biospace.com/news/roche-licensing-pact-clears-generic-drugmakers-to-manufacture-antiviral-flu-drug"&gt;BioSpace&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;b&gt;Summary:&lt;/b&gt; &lt;b&gt;Moderna&lt;/b&gt;'s mRNA-based influenza vaccine, which was previously rebuffed by regulators, is set to face scrutiny from an FDA advisory committee (AdComm). The committee will review data to determine the vaccine's safety and efficacy.&lt;/li&gt;
+  &lt;li&gt;&lt;b&gt;MoAs:&lt;/b&gt; mRNA vaccine encoding influenza virus antigens to induce an immune response against seasonal flu strains.&lt;/li&gt;
+  &lt;li&gt;&lt;b&gt;Sources:&lt;/b&gt; &lt;a href="https://www.biospace.com/fda/modernas-once-rebuffed-mrna-flu-shot-to-face-scrutiny-from-fda-adcomm"&gt;BioSpace&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;</description>
-      <guid isPermaLink="false">06854c991d80ceab9704d5fb69c46b33</guid>
-      <pubDate>Thu, 21 May 2026 22:01:08 GMT</pubDate>
+      <guid isPermaLink="false">b16d8c4d2a99e20571d33fed69ee37a4</guid>
+      <pubDate>Fri, 22 May 2026 22:00:46 GMT</pubDate>
+    </item>
+    <item>
+      <title>ECDC STI Report</title>
+      <link>https://www.google.com</link>
+      <description>&lt;ul&gt;
+  &lt;li&gt;&lt;b&gt;Summary:&lt;/b&gt; According to an ECDC report covered by Pharmaceutical Technology, sexually transmitted infection (STI) cases across Europe have reached record highs, raising implications for public health and pharmaceutical interventions.&lt;/li&gt;
+  &lt;li&gt;&lt;b&gt;MoAs:&lt;/b&gt; N/A&lt;/li&gt;
+  &lt;li&gt;&lt;b&gt;Sources:&lt;/b&gt; &lt;a href="https://www.pharmaceutical-technology.com/news/ecdc-report-european-sti-cases-reach-record-high/"&gt;Pharmaceutical Technology&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;</description>
+      <guid isPermaLink="false">6a4abfb3e2b86a2af985dde61137da73</guid>
+      <pubDate>Fri, 22 May 2026 22:00:46 GMT</pubDate>
     </item>
   </channel>
 </rss>
