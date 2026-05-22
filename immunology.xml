@@ -6,15 +6,15 @@
     <description>News digest covering Immunology.</description>
     <atom:link href="https://www.google.com" rel="self" type="application/rss+xml"/>
     <item>
-      <title>Immunovant Arthritis Trial</title>
+      <title>BioAge NLRP3 Pipeline</title>
       <link>https://www.google.com</link>
       <description>&lt;ul&gt;
-  &lt;li&gt;&lt;b&gt;Summary:&lt;/b&gt; Shares of &lt;b&gt;Immunovant&lt;/b&gt; surged following positive data from an arthritis trial for its anti-FcRn antibody &lt;b&gt;batoclimab&lt;/b&gt;. The treatment demonstrated significant efficacy in reducing disease activity, bolstering the company's pipeline in autoimmune indications.&lt;/li&gt;
-  &lt;li&gt;&lt;b&gt;MoAs:&lt;/b&gt; FcRn antagonist (neonatal Fc receptor inhibition reduces pathogenic IgG levels)&lt;/li&gt;
-  &lt;li&gt;&lt;b&gt;Sources:&lt;/b&gt; &lt;a href="https://www.statnews.com/2026/05/21/biotech-news-immunovant-shares-surge-on-arthritis-trial-data/?utm_campaign=rss"&gt;Stat News&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;b&gt;Summary:&lt;/b&gt; &lt;b&gt;BioAge Labs&lt;/b&gt; CEO discussed the company's NLRP3 inhibitor pipeline and ambitions to develop an oral pill targeting age-related diseases driven by chronic inflammation.&lt;/li&gt;
+  &lt;li&gt;&lt;b&gt;MoAs:&lt;/b&gt; &lt;b&gt;NLRP3 inhibitor&lt;/b&gt;: targets the NLRP3 inflammasome to reduce inflammation associated with aging and various inflammatory conditions.&lt;/li&gt;
+  &lt;li&gt;&lt;b&gt;Sources:&lt;/b&gt; &lt;a href="https://www.fiercebiotech.com/biotech/bioage-ceo-talks-nlrp3-and-pipeline-pill-ambitions"&gt;Fierce Biotech&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;</description>
-      <guid isPermaLink="false">bfb174f005f5e1bda28fa9e04a3f3ecd</guid>
-      <pubDate>Thu, 21 May 2026 22:01:08 GMT</pubDate>
+      <guid isPermaLink="false">4d17c75999ef4a1418cb5614316be6cc</guid>
+      <pubDate>Fri, 22 May 2026 22:00:46 GMT</pubDate>
     </item>
   </channel>
 </rss>
