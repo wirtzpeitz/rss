@@ -6,15 +6,15 @@
     <description>News digest covering Neurology.</description>
     <atom:link href="https://www.google.com" rel="self" type="application/rss+xml"/>
     <item>
-      <title>BMS Neuroscience Pipeline</title>
+      <title>Biogen/Denali Parkinson's Trial Failure</title>
       <link>https://www.google.com</link>
       <description>&lt;ul&gt;
-  &lt;li&gt;&lt;b&gt;Summary:&lt;/b&gt; &lt;b&gt;Bristol Myers Squibb&lt;/b&gt; is advancing a neuroscience pipeline that includes potential treatments for Alzheimer's disease and psychosis, with a focus on the drug &lt;b&gt;Cobenfy&lt;/b&gt; (combination therapy). The strategy builds on recent acquisitions and internal research.&lt;/li&gt;
-  &lt;li&gt;&lt;b&gt;MoAs:&lt;/b&gt; N/A&lt;/li&gt;
-  &lt;li&gt;&lt;b&gt;Sources:&lt;/b&gt; &lt;a href="https://www.biopharmadive.com/news/bristol-myers-neuroscience-gault-rhodes-alzheimers-psychiatry-cobenfy/820811/"&gt;BioPharma Dive&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;b&gt;Summary:&lt;/b&gt; &lt;b&gt;Biogen&lt;/b&gt; and &lt;b&gt;Denali Therapeutics&lt;/b&gt; have discontinued their Parkinson's disease program after a Phase 2 trial of the LRRK2 inhibitor &lt;b&gt;BIIB122&lt;/b&gt; (DNL151) failed to meet its primary endpoint. The study enrolled patients with non-genetic Parkinson's, testing whether LRRK2 inhibition could slow disease progression. Despite promising preclinical data and biomarker evidence of target engagement, the drug did not show a clinical benefit. The companies will cease further development, marking a setback for the LRRK2 approach in sporadic Parkinson's.&lt;/li&gt;
+  &lt;li&gt;&lt;b&gt;MoAs:&lt;/b&gt; LRRK2 kinase inhibitor&lt;/li&gt;
+  &lt;li&gt;&lt;b&gt;Sources:&lt;/b&gt; &lt;a href='https://www.biopharmadive.com/news/biogen-denali-parkinsons-trial-failure-lrrk2/820961/'&gt;BioPharma Dive&lt;/a&gt;, &lt;a href='https://www.biospace.com/drug-development/biogen-denali-pull-plug-on-parkinsons-program-after-mid-stage-flop'&gt;BioSpace&lt;/a&gt;, &lt;a href='https://endpoints.news/biogen-denali-to-drop-drug-in-non-genetic-parkinsons-after-mid-stage-study-flop/'&gt;Endpoints News&lt;/a&gt;, &lt;a href='https://www.fiercebiotech.com/biotech/biogen-axes-denali-partnered-parkinsons-prospect-after-phase-2-flop'&gt;Fierce Biotech&lt;/a&gt;, &lt;a href='https://www.statnews.com/2026/05/21/parkinsons-disease-biogen-denali-therapy/?utm_campaign=rss'&gt;STAT News&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;</description>
-      <guid isPermaLink="false">6fdea8e953d0df51feebb8d02e9cf809</guid>
-      <pubDate>Thu, 21 May 2026 22:01:08 GMT</pubDate>
+      <guid isPermaLink="false">2b299c15a58e242c7e4a5dafcb9eda3b</guid>
+      <pubDate>Fri, 22 May 2026 22:00:46 GMT</pubDate>
     </item>
   </channel>
 </rss>
