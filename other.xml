@@ -6,81 +6,70 @@
     <description>News digest covering Other.</description>
     <atom:link href="https://www.google.com" rel="self" type="application/rss+xml"/>
     <item>
-      <title>Ogilvy Health AI Marketing</title>
+      <title>Novartis/Avidity and CAR-T</title>
       <link>https://www.google.com</link>
       <description>&lt;ul&gt;
-  &lt;li&gt;&lt;b&gt;Summary:&lt;/b&gt; A Fierce Pharma feature examines how &lt;b&gt;Ogilvy Health&lt;/b&gt; is leveraging artificial intelligence to accelerate marketing campaigns, using nano‑influencers for targeted reach, and implementing Responsible Influencer Activation (RIA) to ensure compliance in regulated pharma marketing. The agency's perspective highlights the transformative role of AI in streamlining content creation and measuring engagement while maintaining regulatory guardrails.&lt;/li&gt;
+  &lt;li&gt;&lt;b&gt;Summary:&lt;/b&gt; Two articles explore next-generation therapies. The first covers &lt;b&gt;Novartis&lt;/b&gt;' interest in &lt;b&gt;Avidity Biosciences&lt;/b&gt;' antibody-oligonucleotide conjugate platform, suggesting it could be applied beyond muscular dystrophies to other diseases. The second article discusses the evolving CAR-T landscape, with executives arguing that both current ex vivo CAR-T and emerging in vivo approaches can coexist. &lt;b&gt;Novartis&lt;/b&gt; remains a key player in CAR-T, while &lt;b&gt;Avidity&lt;/b&gt; represents a separate modality for targeted gene therapy.&lt;/li&gt;
   &lt;li&gt;&lt;b&gt;MoAs:&lt;/b&gt; N/A&lt;/li&gt;
-  &lt;li&gt;&lt;b&gt;Sources:&lt;/b&gt; &lt;a href="https://www.fiercepharma.com/marketing/inside-agency-view-ogilvy-health-ais-light-speed-nano-influencers-and-rise-ria"&gt;Fierce Pharma&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;b&gt;Sources:&lt;/b&gt; &lt;a href='https://endpoints.news/novartis-says-aviditys-science-could-apply-beyond-muscular-dystrophies/'&gt;Endpoints News&lt;/a&gt;, &lt;a href='https://www.fiercebiotech.com/biotech/has-novartis-t-charge-been-overtaken-vivo-car-ts-execs-argue-theres-room-both'&gt;Fierce Biotech&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;</description>
-      <guid isPermaLink="false">b9cc16e383c8bb61a27e2b414a6b64c2</guid>
-      <pubDate>Thu, 21 May 2026 22:01:08 GMT</pubDate>
+      <guid isPermaLink="false">e5480b93796c9652e58976cd649cb2c4</guid>
+      <pubDate>Fri, 22 May 2026 22:00:46 GMT</pubDate>
     </item>
     <item>
-      <title>Prediction Markets for Clinical Trials</title>
+      <title>Concept Life Sciences Drug Discovery</title>
       <link>https://www.google.com</link>
       <description>&lt;ul&gt;
-  &lt;li&gt;&lt;b&gt;Summary:&lt;/b&gt; Prediction markets are emerging as a tool for betting on clinical trial outcomes, offering a novel approach to forecasting drug approval and trial success probabilities in the biotech sector.&lt;/li&gt;
+  &lt;li&gt;&lt;b&gt;Summary:&lt;/b&gt; &lt;b&gt;Concept Life Sciences&lt;/b&gt; launched OpenBench, a new drug discovery platform designed to accelerate early-stage research and development in partnership with pharmaceutical and biotech companies.&lt;/li&gt;
   &lt;li&gt;&lt;b&gt;MoAs:&lt;/b&gt; N/A&lt;/li&gt;
-  &lt;li&gt;&lt;b&gt;Sources:&lt;/b&gt; &lt;a href="https://www.fiercebiotech.com/biotech/betting-biotech-prediction-markets-set-sights-clinical-trials"&gt;Fierce Biotech&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;b&gt;Sources:&lt;/b&gt; &lt;a href="https://www.pharmaceutical-technology.com/news/concept-life-sciences-openbench-drug-discovery/"&gt;Pharmaceutical Technology&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;</description>
-      <guid isPermaLink="false">3c2399a9c7a6f226d376b11a9b96805e</guid>
-      <pubDate>Thu, 21 May 2026 22:01:08 GMT</pubDate>
+      <guid isPermaLink="false">42f2eac6144132e51e634d9ad3dc4c9b</guid>
+      <pubDate>Fri, 22 May 2026 22:00:46 GMT</pubDate>
     </item>
     <item>
-      <title>Elevance Medicare Advantage Fraud</title>
+      <title>Pharma Reputation (AbbVie/GSK)</title>
       <link>https://www.google.com</link>
       <description>&lt;ul&gt;
-  &lt;li&gt;&lt;b&gt;Summary:&lt;/b&gt; &lt;b&gt;Elevance Health&lt;/b&gt; faces a Medicare Advantage fraud case, with a deposition that could expose alleged overbilling practices. The case highlights ongoing scrutiny of the Medicare Advantage program.&lt;/li&gt;
+  &lt;li&gt;&lt;b&gt;Summary:&lt;/b&gt; The article from Fierce Pharma discusses the race between AbbVie and GSK to improve their patient reputation on a UK leaderboard. It highlights strategies for patient-centric reputation management and marketing approaches.&lt;/li&gt;
   &lt;li&gt;&lt;b&gt;MoAs:&lt;/b&gt; N/A&lt;/li&gt;
-  &lt;li&gt;&lt;b&gt;Sources:&lt;/b&gt; &lt;a href="https://www.statnews.com/2026/05/21/elevance-medicare-advantage-fraud-case-peter-haytaian-deposition/?utm_campaign=rss"&gt;Stat News&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;b&gt;Sources:&lt;/b&gt; &lt;a href="https://www.fiercepharma.com/marketing/abbvie-gsk-race-patient-reputation-leaderboard-uk"&gt;Fierce Pharma&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;</description>
-      <guid isPermaLink="false">01a69a1af16d211232cd3081a543cf64</guid>
-      <pubDate>Thu, 21 May 2026 22:01:08 GMT</pubDate>
+      <guid isPermaLink="false">eb5b45e514ee57af1cf753c4ffb446f7</guid>
+      <pubDate>Fri, 22 May 2026 22:00:46 GMT</pubDate>
     </item>
     <item>
-      <title>RFK Jr Screen Time Warning</title>
+      <title>3PL Pharma Trends</title>
       <link>https://www.google.com</link>
       <description>&lt;ul&gt;
-  &lt;li&gt;&lt;b&gt;Summary:&lt;/b&gt; &lt;b&gt;Robert F. Kennedy Jr.&lt;/b&gt; issued a warning about the dangers of excessive screen time, linking it to mental health issues.&lt;/li&gt;
+  &lt;li&gt;&lt;b&gt;Summary:&lt;/b&gt; This sponsored Q&amp;A from Pharmaceutical Technology explores how third-party logistics providers (3PLs) are navigating current pharmaceutical trends, including cold chain management, digitalization, and regulatory compliance.&lt;/li&gt;
   &lt;li&gt;&lt;b&gt;MoAs:&lt;/b&gt; N/A&lt;/li&gt;
-  &lt;li&gt;&lt;b&gt;Sources:&lt;/b&gt; &lt;a href="https://www.statnews.com/2026/05/21/rfk-jr-s-screen-time-warning/?utm_campaign=rss"&gt;STAT News&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;b&gt;Sources:&lt;/b&gt; &lt;a href="https://www.pharmaceutical-technology.com/sponsored/qa-how-3pls-are-navigating-the-latest-pharma-trends/"&gt;Pharmaceutical Technology&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;</description>
-      <guid isPermaLink="false">65b9cc48e58425ca748109e25914b506</guid>
-      <pubDate>Thu, 21 May 2026 22:01:08 GMT</pubDate>
+      <guid isPermaLink="false">e7bf86fafa36ceae201a74e5e318c2c6</guid>
+      <pubDate>Fri, 22 May 2026 22:00:46 GMT</pubDate>
     </item>
     <item>
-      <title>Retained Bullet Fragments Depression</title>
+      <title>Post-Approval Research</title>
       <link>https://www.google.com</link>
       <description>&lt;ul&gt;
-  &lt;li&gt;&lt;b&gt;Summary:&lt;/b&gt; A report highlights the link between retained bullet fragments, lead poisoning, and depression among trauma survivors.&lt;/li&gt;
+  &lt;li&gt;&lt;b&gt;Summary:&lt;/b&gt; A sponsored article from Pharmaceutical Technology discusses methods to accelerate post-approval research by streamlining the entire study lifecycle, focusing on operational efficiencies and regulatory strategies.&lt;/li&gt;
   &lt;li&gt;&lt;b&gt;MoAs:&lt;/b&gt; N/A&lt;/li&gt;
-  &lt;li&gt;&lt;b&gt;Sources:&lt;/b&gt; &lt;a href="https://www.statnews.com/2026/05/21/retained-bullet-fragments-depression-lead-poisoning-trauma/?utm_campaign=rss"&gt;STAT News&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;b&gt;Sources:&lt;/b&gt; &lt;a href="https://www.pharmaceutical-technology.com/sponsored/accelerate-post-approval-research-by-streamlining-the-entire-study-lifecycle/"&gt;Pharmaceutical Technology&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;</description>
-      <guid isPermaLink="false">67f49a4c3edbe5996993d31a5ec701dc</guid>
-      <pubDate>Thu, 21 May 2026 22:01:08 GMT</pubDate>
+      <guid isPermaLink="false">edf3c7a9a2efdc8e8b19c354b568db0d</guid>
+      <pubDate>Fri, 22 May 2026 22:00:46 GMT</pubDate>
     </item>
     <item>
-      <title>AI Scientist Tools</title>
+      <title>Seed Oils Health</title>
       <link>https://www.google.com</link>
       <description>&lt;ul&gt;
-  &lt;li&gt;&lt;b&gt;Summary:&lt;/b&gt; A STAT News report examines the practical utility of AI scientist tools in biomedical research. The article questions whether these tools, which promise to accelerate hypothesis generation and experimental design, are delivering meaningful results in practice. It highlights challenges such as reproducibility, integration into existing workflows, and the need for rigorous validation. The piece concludes that while AI tools hold potential, their current impact is limited without proper context and domain expertise.&lt;/li&gt;
+  &lt;li&gt;&lt;b&gt;Summary:&lt;/b&gt; A STAT News fact-check article evaluates health claims about seed oils versus animal fats like tallow, focusing on cardiac health. It clarifies the evidence behind dietary fat recommendations.&lt;/li&gt;
   &lt;li&gt;&lt;b&gt;MoAs:&lt;/b&gt; N/A&lt;/li&gt;
-  &lt;li&gt;&lt;b&gt;Sources:&lt;/b&gt; &lt;a href="https://www.statnews.com/2026/05/21/are-ai-scientist-tools-actually-useful-ai-prognosis/?utm_campaign=rss"&gt;STAT News&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;b&gt;Sources:&lt;/b&gt; &lt;a href="https://www.statnews.com/2026/05/22/seed-oils-healthy-fats-tallow-fact-check-cardiac-health/?utm_campaign=rss"&gt;STAT News&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;</description>
-      <guid isPermaLink="false">e1876c46c3f2829309b555f7a5c09f79</guid>
-      <pubDate>Thu, 21 May 2026 22:01:08 GMT</pubDate>
-    </item>
-    <item>
-      <title>Quality by Design Clinical Data</title>
-      <link>https://www.google.com</link>
-      <description>&lt;ul&gt;
-  &lt;li&gt;&lt;b&gt;Summary:&lt;/b&gt; A sponsored article from Pharmaceutical Technology discusses the challenges posed by disconnected systems in clinical data management. It advocates for a Quality by Design (QbD) approach to streamline data collection and ensure integrity. The piece emphasizes that siloed data sources can lead to inefficiencies, errors, and delays in clinical trials, and proposes integrated platforms as a solution to enhance data quality and regulatory compliance.&lt;/li&gt;
-  &lt;li&gt;&lt;b&gt;MoAs:&lt;/b&gt; N/A&lt;/li&gt;
-  &lt;li&gt;&lt;b&gt;Sources:&lt;/b&gt; &lt;a href="https://www.pharmaceutical-technology.com/sponsored/quality-by-design-the-impact-of-disconnected-systems-on-clinical-data/"&gt;Pharmaceutical Technology&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;</description>
-      <guid isPermaLink="false">ced136231f833a4b879d26e2d74dfd5e</guid>
-      <pubDate>Thu, 21 May 2026 22:01:08 GMT</pubDate>
+      <guid isPermaLink="false">839344f9860e2f7a60ab734588685cee</guid>
+      <pubDate>Fri, 22 May 2026 22:00:46 GMT</pubDate>
     </item>
   </channel>
 </rss>
