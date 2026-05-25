@@ -6,70 +6,15 @@
     <description>News digest covering Other.</description>
     <atom:link href="https://www.google.com" rel="self" type="application/rss+xml"/>
     <item>
-      <title>Novartis/Avidity and CAR-T</title>
+      <title>Perimenopause Misinformation and Supplements</title>
       <link>https://www.google.com</link>
       <description>&lt;ul&gt;
-  &lt;li&gt;&lt;b&gt;Summary:&lt;/b&gt; Two articles explore next-generation therapies. The first covers &lt;b&gt;Novartis&lt;/b&gt;' interest in &lt;b&gt;Avidity Biosciences&lt;/b&gt;' antibody-oligonucleotide conjugate platform, suggesting it could be applied beyond muscular dystrophies to other diseases. The second article discusses the evolving CAR-T landscape, with executives arguing that both current ex vivo CAR-T and emerging in vivo approaches can coexist. &lt;b&gt;Novartis&lt;/b&gt; remains a key player in CAR-T, while &lt;b&gt;Avidity&lt;/b&gt; represents a separate modality for targeted gene therapy.&lt;/li&gt;
+  &lt;li&gt;&lt;b&gt;Summary:&lt;/b&gt; A growing wave of misinformation surrounding perimenopause is being amplified by social media influencers, often promoting unregulated supplements and hormone therapies without scientific backing. This trend exploits gaps in medical education and patient awareness, leading many women to seek unproven treatments for symptoms like hot flashes, mood changes, and sleep disturbances. Experts call for better evidence-based communication and regulatory oversight.&lt;/li&gt;
   &lt;li&gt;&lt;b&gt;MoAs:&lt;/b&gt; N/A&lt;/li&gt;
-  &lt;li&gt;&lt;b&gt;Sources:&lt;/b&gt; &lt;a href='https://endpoints.news/novartis-says-aviditys-science-could-apply-beyond-muscular-dystrophies/'&gt;Endpoints News&lt;/a&gt;, &lt;a href='https://www.fiercebiotech.com/biotech/has-novartis-t-charge-been-overtaken-vivo-car-ts-execs-argue-theres-room-both'&gt;Fierce Biotech&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;b&gt;Sources:&lt;/b&gt; &lt;a href="https://www.statnews.com/2026/05/23/perimenopause-misinformation-influencers-supplements-hormones/?utm_campaign=rss"&gt;STAT News&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;</description>
-      <guid isPermaLink="false">e5480b93796c9652e58976cd649cb2c4</guid>
-      <pubDate>Fri, 22 May 2026 22:00:46 GMT</pubDate>
-    </item>
-    <item>
-      <title>Concept Life Sciences Drug Discovery</title>
-      <link>https://www.google.com</link>
-      <description>&lt;ul&gt;
-  &lt;li&gt;&lt;b&gt;Summary:&lt;/b&gt; &lt;b&gt;Concept Life Sciences&lt;/b&gt; launched OpenBench, a new drug discovery platform designed to accelerate early-stage research and development in partnership with pharmaceutical and biotech companies.&lt;/li&gt;
-  &lt;li&gt;&lt;b&gt;MoAs:&lt;/b&gt; N/A&lt;/li&gt;
-  &lt;li&gt;&lt;b&gt;Sources:&lt;/b&gt; &lt;a href="https://www.pharmaceutical-technology.com/news/concept-life-sciences-openbench-drug-discovery/"&gt;Pharmaceutical Technology&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;</description>
-      <guid isPermaLink="false">42f2eac6144132e51e634d9ad3dc4c9b</guid>
-      <pubDate>Fri, 22 May 2026 22:00:46 GMT</pubDate>
-    </item>
-    <item>
-      <title>Pharma Reputation (AbbVie/GSK)</title>
-      <link>https://www.google.com</link>
-      <description>&lt;ul&gt;
-  &lt;li&gt;&lt;b&gt;Summary:&lt;/b&gt; The article from Fierce Pharma discusses the race between AbbVie and GSK to improve their patient reputation on a UK leaderboard. It highlights strategies for patient-centric reputation management and marketing approaches.&lt;/li&gt;
-  &lt;li&gt;&lt;b&gt;MoAs:&lt;/b&gt; N/A&lt;/li&gt;
-  &lt;li&gt;&lt;b&gt;Sources:&lt;/b&gt; &lt;a href="https://www.fiercepharma.com/marketing/abbvie-gsk-race-patient-reputation-leaderboard-uk"&gt;Fierce Pharma&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;</description>
-      <guid isPermaLink="false">eb5b45e514ee57af1cf753c4ffb446f7</guid>
-      <pubDate>Fri, 22 May 2026 22:00:46 GMT</pubDate>
-    </item>
-    <item>
-      <title>3PL Pharma Trends</title>
-      <link>https://www.google.com</link>
-      <description>&lt;ul&gt;
-  &lt;li&gt;&lt;b&gt;Summary:&lt;/b&gt; This sponsored Q&amp;A from Pharmaceutical Technology explores how third-party logistics providers (3PLs) are navigating current pharmaceutical trends, including cold chain management, digitalization, and regulatory compliance.&lt;/li&gt;
-  &lt;li&gt;&lt;b&gt;MoAs:&lt;/b&gt; N/A&lt;/li&gt;
-  &lt;li&gt;&lt;b&gt;Sources:&lt;/b&gt; &lt;a href="https://www.pharmaceutical-technology.com/sponsored/qa-how-3pls-are-navigating-the-latest-pharma-trends/"&gt;Pharmaceutical Technology&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;</description>
-      <guid isPermaLink="false">e7bf86fafa36ceae201a74e5e318c2c6</guid>
-      <pubDate>Fri, 22 May 2026 22:00:46 GMT</pubDate>
-    </item>
-    <item>
-      <title>Post-Approval Research</title>
-      <link>https://www.google.com</link>
-      <description>&lt;ul&gt;
-  &lt;li&gt;&lt;b&gt;Summary:&lt;/b&gt; A sponsored article from Pharmaceutical Technology discusses methods to accelerate post-approval research by streamlining the entire study lifecycle, focusing on operational efficiencies and regulatory strategies.&lt;/li&gt;
-  &lt;li&gt;&lt;b&gt;MoAs:&lt;/b&gt; N/A&lt;/li&gt;
-  &lt;li&gt;&lt;b&gt;Sources:&lt;/b&gt; &lt;a href="https://www.pharmaceutical-technology.com/sponsored/accelerate-post-approval-research-by-streamlining-the-entire-study-lifecycle/"&gt;Pharmaceutical Technology&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;</description>
-      <guid isPermaLink="false">edf3c7a9a2efdc8e8b19c354b568db0d</guid>
-      <pubDate>Fri, 22 May 2026 22:00:46 GMT</pubDate>
-    </item>
-    <item>
-      <title>Seed Oils Health</title>
-      <link>https://www.google.com</link>
-      <description>&lt;ul&gt;
-  &lt;li&gt;&lt;b&gt;Summary:&lt;/b&gt; A STAT News fact-check article evaluates health claims about seed oils versus animal fats like tallow, focusing on cardiac health. It clarifies the evidence behind dietary fat recommendations.&lt;/li&gt;
-  &lt;li&gt;&lt;b&gt;MoAs:&lt;/b&gt; N/A&lt;/li&gt;
-  &lt;li&gt;&lt;b&gt;Sources:&lt;/b&gt; &lt;a href="https://www.statnews.com/2026/05/22/seed-oils-healthy-fats-tallow-fact-check-cardiac-health/?utm_campaign=rss"&gt;STAT News&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;</description>
-      <guid isPermaLink="false">839344f9860e2f7a60ab734588685cee</guid>
-      <pubDate>Fri, 22 May 2026 22:00:46 GMT</pubDate>
+      <guid isPermaLink="false">a1478eb4da2b8126c15d47b44712dc0a</guid>
+      <pubDate>Mon, 25 May 2026 21:59:23 GMT</pubDate>
     </item>
   </channel>
 </rss>
