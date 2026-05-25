@@ -6,48 +6,15 @@
     <description>News digest covering Oncology.</description>
     <atom:link href="https://www.google.com" rel="self" type="application/rss+xml"/>
     <item>
-      <title>Datroway (AstraZeneca/Daiichi Sankyo)</title>
+      <title>AstraZeneca Daiichi Datroway FDA Approval</title>
       <link>https://www.google.com</link>
       <description>&lt;ul&gt;
-  &lt;li&gt;&lt;b&gt;Summary:&lt;/b&gt; The U.S. Food and Drug Administration granted approval to &lt;b&gt;AstraZeneca&lt;/b&gt; and &lt;b&gt;Daiichi Sankyo&lt;/b&gt;'s &lt;b&gt;Datroway&lt;/b&gt; (datopotamab deruxtecan) for the first-line treatment of triple-negative breast cancer, outpacing &lt;b&gt;Gilead&lt;/b&gt;'s &lt;b&gt;Trodelvy&lt;/b&gt;. The decision was based on the &lt;b&gt;TROPION-Breast02&lt;/b&gt; trial, which demonstrated statistically significant improvements in progression-free survival and overall survival. Datroway is a TROP2-directed antibody-drug conjugate that delivers a topoisomerase I inhibitor payload, offering a new option for patients with this aggressive subtype.&lt;/li&gt;
-  &lt;li&gt;&lt;b&gt;MoAs:&lt;/b&gt; TROP2-directed antibody-drug conjugate (ADC) with topoisomerase I inhibitor (DXd) payload&lt;/li&gt;
-  &lt;li&gt;&lt;b&gt;Sources:&lt;/b&gt; &lt;a href='https://www.fiercepharma.com/pharma/astrazeneca-daiichi-beat-gilead-first-line-tnbc-fda-nod-datroway'&gt;Fierce Pharma&lt;/a&gt;, &lt;a href='https://endpoints.news/fda-grants-daiichi-sankyo-and-astrazenecas-datroway-a-key-breast-cancer-approval/'&gt;Endpoints News&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;b&gt;Summary:&lt;/b&gt; &lt;b&gt;AstraZeneca&lt;/b&gt; and &lt;b&gt;Daiichi Sankyo&lt;/b&gt; received FDA approval for &lt;b&gt;Datroway&lt;/b&gt; (datopotamab deruxtecan), a TROP2-directed antibody-drug conjugate. The approval covers treatment of certain advanced cancers, based on pivotal trial data demonstrating improved outcomes in patients with limited options. This marks the third approved indication for the drug, representing a major milestone in targeted cancer therapy.&lt;/li&gt;
+  &lt;li&gt;&lt;b&gt;MoAs:&lt;/b&gt; Antibody-drug conjugate targeting TROP2 on cancer cells, delivering a topoisomerase I inhibitor payload (deruxtecan) to induce DNA damage and cell death.&lt;/li&gt;
+  &lt;li&gt;&lt;b&gt;Sources:&lt;/b&gt; &lt;a href="https://www.pharmaceutical-technology.com/news/astrazeneca-daiichi-datroway-fda-approval/"&gt;Pharmaceutical Technology&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;</description>
-      <guid isPermaLink="false">e347c192a1bbc8437979c2b748803918</guid>
-      <pubDate>Fri, 22 May 2026 22:00:46 GMT</pubDate>
-    </item>
-    <item>
-      <title>AstraZeneca Breast Cancer Drug (EU vs FDA)</title>
-      <link>https://www.google.com</link>
-      <description>&lt;ul&gt;
-  &lt;li&gt;&lt;b&gt;Summary:&lt;/b&gt; Regulatory opinions diverged sharply for &lt;b&gt;AstraZeneca&lt;/b&gt;'s breast cancer drug &lt;b&gt;Datroway&lt;/b&gt; (datopotamab deruxtecan). The European Medicines Agency's &lt;b&gt;CHMP&lt;/b&gt; issued a positive opinion supporting approval for use in advanced breast cancer, citing robust efficacy data. In contrast, a U.S. FDA advisory committee voted against the drug earlier this year, raising concerns about interstitial lung disease and other toxicities. The split underscores differing benefit–risk assessments across regions, with the EU prioritizing the drug's clinical benefit in a population with limited options.&lt;/li&gt;
-  &lt;li&gt;&lt;b&gt;MoAs:&lt;/b&gt; TROP2-directed antibody-drug conjugate (ADC) with topoisomerase I inhibitor (DXd) payload&lt;/li&gt;
-  &lt;li&gt;&lt;b&gt;Sources:&lt;/b&gt; &lt;a href='https://endpoints.news/astrazeneca-wins-eu-backing-for-breast-cancer-drug-splitting-with-fda-panel/'&gt;Endpoints News&lt;/a&gt;, &lt;a href='https://www.fiercepharma.com/pharma/europes-chmp-gives-thumbs-azs-breast-cancer-drug-after-thumbs-down-fda-adcomm'&gt;Fierce Pharma&lt;/a&gt;, &lt;a href='https://www.statnews.com/2026/05/22/biotech-news-astrazeneca-breast-cancer-drug-mixed-eu-and-us-approval/?utm_campaign=rss'&gt;STAT News&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;</description>
-      <guid isPermaLink="false">8e4472e93327a748973a4b618c888095</guid>
-      <pubDate>Fri, 22 May 2026 22:00:46 GMT</pubDate>
-    </item>
-    <item>
-      <title>Merck/Kelun TROP2 ADC in Lung Cancer</title>
-      <link>https://www.google.com</link>
-      <description>&lt;ul&gt;
-  &lt;li&gt;&lt;b&gt;Summary:&lt;/b&gt; &lt;b&gt;Merck&lt;/b&gt; and &lt;b&gt;Kelun-Biotech&lt;/b&gt; reported positive Phase 3 data for their TROP2-directed ADC &lt;b&gt;SKB264&lt;/b&gt; (MK-2870) in first-line non-small cell lung cancer. When combined with &lt;b&gt;Keytruda&lt;/b&gt; (pembrolizumab), the ADC significantly improved overall survival versus chemotherapy plus Keytruda alone. The results validate the TROP2–Keytruda pairing as a potential new standard of care. The data also highlight the growing competitiveness of the ADC landscape, with multiple players pursuing TROP2 targets.&lt;/li&gt;
-  &lt;li&gt;&lt;b&gt;MoAs:&lt;/b&gt; TROP2-directed antibody-drug conjugate (ADC) with topoisomerase I inhibitor payload&lt;/li&gt;
-  &lt;li&gt;&lt;b&gt;Sources:&lt;/b&gt; &lt;a href='https://www.biospace.com/drug-development/kelun-merck-validate-trop2-keytruda-pairing-in-lung-cancer-with-improved-survival'&gt;BioSpace&lt;/a&gt;, &lt;a href='https://www.oncologypipeline.com/apexonco/asco-2026-preview-keluns-first-line-lung-cancer-win'&gt;ApexOnco&lt;/a&gt;, &lt;a href='https://www.fiercepharma.com/pharma/merck-kelun-adc-triple-wins-wisdom-china-licensing-deals-takeda-885m-antitrust-loss'&gt;Fierce Pharma&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;</description>
-      <guid isPermaLink="false">66b07573bd507fe341d520c5399f9ad4</guid>
-      <pubDate>Fri, 22 May 2026 22:00:46 GMT</pubDate>
-    </item>
-    <item>
-      <title>Ovarian Cancer (OSE Immunotherapeutics)</title>
-      <link>https://www.google.com</link>
-      <description>&lt;ul&gt;
-  &lt;li&gt;&lt;b&gt;Summary:&lt;/b&gt; OSE Immunotherapeutics reported a Phase 2 clinical trial win in ovarian cancer, supported by combination with &lt;b&gt;Keytruda&lt;/b&gt; (pembrolizumab). The positive data marks a significant step for the company in this indication.&lt;/li&gt;
-  &lt;li&gt;&lt;b&gt;MoAs:&lt;/b&gt; &lt;b&gt;pembrolizumab&lt;/b&gt;: anti-PD-1 checkpoint inhibitor; &lt;b&gt;OSE Immunotherapeutics' investigational agent&lt;/b&gt;: mechanism not specified in available information.&lt;/li&gt;
-  &lt;li&gt;&lt;b&gt;Sources:&lt;/b&gt; &lt;a href="https://www.fiercebiotech.com/biotech/ose-turns-heat-ovarian-cancer-phase-2-keytruda-supported-win"&gt;Fierce Biotech&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;</description>
-      <guid isPermaLink="false">b61c92d3d0d83a8f23654a161fa5a9a3</guid>
-      <pubDate>Fri, 22 May 2026 22:00:46 GMT</pubDate>
+      <guid isPermaLink="false">a39d5360de60068b681b9d2205ca1ddd</guid>
+      <pubDate>Mon, 25 May 2026 21:59:23 GMT</pubDate>
     </item>
   </channel>
 </rss>
