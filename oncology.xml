@@ -6,15 +6,48 @@
     <description>News digest covering Oncology.</description>
     <atom:link href="https://www.google.com" rel="self" type="application/rss+xml"/>
     <item>
-      <title>AstraZeneca Daiichi Datroway FDA Approval</title>
+      <title>AstraZeneca Camizestrant FDA Delay</title>
       <link>https://www.google.com</link>
       <description>&lt;ul&gt;
-  &lt;li&gt;&lt;b&gt;Summary:&lt;/b&gt; &lt;b&gt;AstraZeneca&lt;/b&gt; and &lt;b&gt;Daiichi Sankyo&lt;/b&gt; received FDA approval for &lt;b&gt;Datroway&lt;/b&gt; (datopotamab deruxtecan), a TROP2-directed antibody-drug conjugate. The approval covers treatment of certain advanced cancers, based on pivotal trial data demonstrating improved outcomes in patients with limited options. This marks the third approved indication for the drug, representing a major milestone in targeted cancer therapy.&lt;/li&gt;
-  &lt;li&gt;&lt;b&gt;MoAs:&lt;/b&gt; Antibody-drug conjugate targeting TROP2 on cancer cells, delivering a topoisomerase I inhibitor payload (deruxtecan) to induce DNA damage and cell death.&lt;/li&gt;
-  &lt;li&gt;&lt;b&gt;Sources:&lt;/b&gt; &lt;a href="https://www.pharmaceutical-technology.com/news/astrazeneca-daiichi-datroway-fda-approval/"&gt;Pharmaceutical Technology&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;b&gt;Summary:&lt;/b&gt; The FDA has delayed its decision on &lt;b&gt;camizestrant&lt;/b&gt; (AZD9833), &lt;b&gt;AstraZeneca&lt;/b&gt;'s oral selective estrogen receptor degrader (SERD) for advanced breast cancer, following a negative advisory committee vote. The panel raised concerns about the drug's efficacy and safety profile compared to existing therapies. Camizestrant is being developed for estrogen receptor-positive (ER+) breast cancer, a common subtype. The delay extends the review period, with a new decision date expected later in 2026. The news impacted AstraZeneca's stock and the broader oncology sector.&lt;/li&gt;
+  &lt;li&gt;&lt;b&gt;MoAs:&lt;/b&gt; Camizestrant is a next-generation oral SERD that binds to and degrades the estrogen receptor, blocking estrogen signaling that drives tumor growth in ER+ breast cancer.&lt;/li&gt;
+  &lt;li&gt;&lt;b&gt;Sources:&lt;/b&gt; &lt;a href="https://www.biopharmadive.com/news/astrazeneca-camizestrant-fda-delay-breast-cancer/821193/"&gt;BioPharma Dive&lt;/a&gt;, &lt;a href="https://www.apexonco.com/fda-takes-more-time-over-camizestrant"&gt;ApexOnco&lt;/a&gt;, &lt;a href="https://www.fiercepharma.com/biotech/fda-delays-ruling-astrazenecas-breast-cancer-drug-after-negative-adcomm-vote"&gt;Fierce Pharma&lt;/a&gt;, &lt;a href="https://www.fiercebiotech.com/biotech/fda-delays-ruling-astrazenecas-breast-cancer-drug-after-negative-adcomm-vote"&gt;Fierce Biotech&lt;/a&gt;, &lt;a href="https://endpoints.news/astrazenecas-breast-cancer-pdufa-delayed-arrowhead-aims-at-same-obesity-target-as-wave/"&gt;Endpoints News&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;</description>
-      <guid isPermaLink="false">a39d5360de60068b681b9d2205ca1ddd</guid>
-      <pubDate>Mon, 25 May 2026 21:59:23 GMT</pubDate>
+      <guid isPermaLink="false">a08bde6c4d2650d623cc391bede92444</guid>
+      <pubDate>Wed, 27 May 2026 22:00:43 GMT</pubDate>
+    </item>
+    <item>
+      <title>Akeso Ivonescimab ASCO Preview</title>
+      <link>https://www.google.com</link>
+      <description>&lt;ul&gt;
+  &lt;li&gt;&lt;b&gt;Summary:&lt;/b&gt; Ahead of the American Society of Clinical Oncology (&lt;b&gt;ASCO&lt;/b&gt;) 2026 annual meeting, attention is on &lt;b&gt;Akeso&lt;/b&gt;'s &lt;b&gt;ivonescimab&lt;/b&gt; (PD-1/VEGF bispecific antibody). The drug is expected to present pivotal data from a Phase 3 trial in first-line non-small cell lung cancer (NSCLC). Ivonescimab is designed to simultaneously block PD-1 and VEGF pathways, potentially improving efficacy over standard PD-1 inhibitors. Analysts anticipate high-stakes evaluation of the data, as positive results could position ivonescimab as a new standard of care. Akeso's stock has rallied on the excitement.&lt;/li&gt;
+  &lt;li&gt;&lt;b&gt;MoAs:&lt;/b&gt; Bispecific antibody that targets both PD-1 on T cells (checkpoint inhibition) and VEGF (anti-angiogenesis), combining two mechanisms to enhance anti-tumor immune response and inhibit tumor vascularization.&lt;/li&gt;
+  &lt;li&gt;&lt;b&gt;Sources:&lt;/b&gt; &lt;a href="https://www.fiercepharma.com/pharma/asco-preview-expectations-jacked-akeso-ivonescimab-face-scrutiny-high-stakes-plenary"&gt;Fierce Pharma&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;</description>
+      <guid isPermaLink="false">612aedc394d9450afade7b911d698b9a</guid>
+      <pubDate>Wed, 27 May 2026 22:00:43 GMT</pubDate>
+    </item>
+    <item>
+      <title>Kura Oncology Cancer Drug</title>
+      <link>https://www.google.com</link>
+      <description>&lt;ul&gt;
+  &lt;li&gt;&lt;b&gt;Summary:&lt;/b&gt; Kura Oncology has reported encouraging clinical data for its lead drug &lt;b&gt;ziftomenib&lt;/b&gt;, a menin inhibitor targeting acute myeloid leukemia, potentially unlocking a $2 billion market opportunity.&lt;/li&gt;
+  &lt;li&gt;&lt;b&gt;MoAs:&lt;/b&gt; Menin inhibitor&lt;/li&gt;
+  &lt;li&gt;&lt;b&gt;Sources:&lt;/b&gt; &lt;a href="https://www.biospace.com/drug-development/kuras-encouraging-cancer-drug-data-could-unlock-2b-market-opportunity"&gt;BioSpace&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;</description>
+      <guid isPermaLink="false">2c78726352c3fae5a9e866997f07def8</guid>
+      <pubDate>Wed, 27 May 2026 22:00:43 GMT</pubDate>
+    </item>
+    <item>
+      <title>Waypoint Bio CAR-T Trials in China</title>
+      <link>https://www.google.com</link>
+      <description>&lt;ul&gt;
+  &lt;li&gt;&lt;b&gt;Summary:&lt;/b&gt; Waypoint Bio has raised $20 million to initiate three CAR-T clinical trials in China, advancing its cell therapy pipeline for cancer treatment.&lt;/li&gt;
+  &lt;li&gt;&lt;b&gt;MoAs:&lt;/b&gt; Chimeric antigen receptor T-cell therapy (CAR-T)&lt;/li&gt;
+  &lt;li&gt;&lt;b&gt;Sources:&lt;/b&gt; &lt;a href="https://endpoints.news/waypoint-bio-raises-20m-to-run-three-car-t-trials-in-china/"&gt;Endpoints News&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;</description>
+      <guid isPermaLink="false">ff4390c6cded2b59509623e3cec9c43a</guid>
+      <pubDate>Wed, 27 May 2026 22:00:43 GMT</pubDate>
     </item>
   </channel>
 </rss>
