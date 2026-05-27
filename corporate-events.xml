@@ -6,15 +6,125 @@
     <description>News digest covering Corporate Events.</description>
     <atom:link href="https://www.google.com" rel="self" type="application/rss+xml"/>
     <item>
-      <title>Lilly Triple G and Makary Ouster</title>
+      <title>Viridian/WuXi Biologics Veligrotug Supply Deal</title>
       <link>https://www.google.com</link>
       <description>&lt;ul&gt;
-  &lt;li&gt;&lt;b&gt;Summary:&lt;/b&gt; &lt;b&gt;Eli Lilly&lt;/b&gt; continues to develop its &lt;b&gt;Triple G&lt;/b&gt; (triple gut hormone agonist) program, a potential next-generation obesity and metabolic disease therapy. Separately, the theme covers the ouster of Dr. &lt;b&gt;Marty Makary&lt;/b&gt; from a key health policy position, likely tied to shifting regulatory priorities. &lt;b&gt;Triple G&lt;/b&gt; targets multiple incretin receptors to maximize weight loss and glycemic control, signaling Lilly's aggressive push in the metabolic space. The personnel change may affect FDA or public health direction.&lt;/li&gt;
-  &lt;li&gt;&lt;b&gt;MoAs:&lt;/b&gt; Triple G: Agonist at GLP-1, GIP, and glucagon receptors; stimulates insulin secretion, slows gastric emptying, suppresses appetite, and increases energy expenditure.&lt;/li&gt;
-  &lt;li&gt;&lt;b&gt;Sources:&lt;/b&gt; &lt;a href="https://endpoints.news/inside-makarys-ouster-another-win-for-lillys-triple-g-and-more/"&gt;Endpoints News&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;b&gt;Summary:&lt;/b&gt; &lt;b&gt;Viridian Therapeutics&lt;/b&gt; has entered into a supply agreement with &lt;b&gt;WuXi Biologics&lt;/b&gt; for the manufacture of &lt;b&gt;veligrotug&lt;/b&gt;, its investigational therapy for thyroid eye disease (TED). The deal, announced while Viridian awaits an FDA decision on veligrotug, covers commercial-scale production. WuXi Biologics will provide manufacturing services to support potential launch. This partnership is critical for Viridian as it prepares for possible approval, ensuring a reliable supply chain for the drug candidate.&lt;/li&gt;
+  &lt;li&gt;&lt;b&gt;MoAs:&lt;/b&gt; Veligrotug is an anti-IGF-1 receptor monoclonal antibody that blocks the action of insulin-like growth factor 1, reducing inflammation and tissue remodeling in thyroid eye disease.&lt;/li&gt;
+  &lt;li&gt;&lt;b&gt;Sources:&lt;/b&gt; &lt;a href="https://www.fiercepharma.com/manufacturing/viridian-awaiting-fda-decision-taps-wuxi-bio-veligrotug-supply-deal"&gt;Fierce Pharma&lt;/a&gt;, &lt;a href="https://endpoints.news/wuxi-bio-signs-deal-to-manufacture-viridians-thyroid-eye-disease-drug/"&gt;Endpoints News&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;</description>
-      <guid isPermaLink="false">f5a17fee0eac0e02046c967e1de6e796</guid>
-      <pubDate>Mon, 25 May 2026 21:59:23 GMT</pubDate>
+      <guid isPermaLink="false">f025ec969fe21076d90e5f5283d7fbfa</guid>
+      <pubDate>Wed, 27 May 2026 22:00:43 GMT</pubDate>
+    </item>
+    <item>
+      <title>Protuoso Mix-and-Match Drug Platform</title>
+      <link>https://www.google.com</link>
+      <description>&lt;ul&gt;
+  &lt;li&gt;&lt;b&gt;Summary:&lt;/b&gt; California startup &lt;b&gt;Protuoso&lt;/b&gt; has raised $9.5 million to advance its 'mix-and-match' drug development platform. The technology allows rapid combination of different drug modalities (small molecules, biologics, nucleic acids) into single therapeutic constructs. The funding will support platform development and early pipeline work. Protuoso aims to streamline the creation of multi-target drugs for complex diseases, particularly in oncology and inflammation. The round was led by venture investors focused on early-stage biotech.&lt;/li&gt;
+  &lt;li&gt;&lt;b&gt;MoAs:&lt;/b&gt; N/A - The theme is about a technology platform, not a specific drug or mechanism of action.&lt;/li&gt;
+  &lt;li&gt;&lt;b&gt;Sources:&lt;/b&gt; &lt;a href="https://www.pharmaceutical-technology.com/news/california-startup-protuoso-raises-9-5m-for-mix-and-match-drug-platform/"&gt;Pharmaceutical Technology&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;</description>
+      <guid isPermaLink="false">ee85669bf51952708e79343b50360c85</guid>
+      <pubDate>Wed, 27 May 2026 22:00:43 GMT</pubDate>
+    </item>
+    <item>
+      <title>Kardigan IPO</title>
+      <link>https://www.google.com</link>
+      <description>&lt;ul&gt;
+  &lt;li&gt;&lt;b&gt;Summary:&lt;/b&gt; Cardiovascular biotech &lt;b&gt;Kardigan&lt;/b&gt; has filed for an initial public offering (IPO) on the Nasdaq, aiming to raise funds to advance its late-stage pipeline of heart failure and cardiovascular therapies. The company's lead program targets heart failure with reduced ejection fraction (HFrEF) and is in Phase 3. Kardigan also has earlier-stage candidates for hypertrophic cardiomyopathy and other conditions. The IPO filing highlights renewed interest in cardiovascular biotech investing. Financial terms were not disclosed, but the company hopes to capitalize on its promising clinical data.&lt;/li&gt;
+  &lt;li&gt;&lt;b&gt;MoAs:&lt;/b&gt; N/A - The theme is about the company's IPO, not specific drug mechanisms. Kardigan's pipeline includes small molecules targeting myosin and other cardiac proteins.&lt;/li&gt;
+  &lt;li&gt;&lt;b&gt;Sources:&lt;/b&gt; &lt;a href="https://www.biopharmadive.com/news/kardigan-ipo-filing-biotech-cardiovascular-heart-drug/821233/"&gt;BioPharma Dive&lt;/a&gt;, &lt;a href="https://www.pharmaceutical-technology.com/news/kardigan-cardiology-biotech-ipo/"&gt;Pharmaceutical Technology&lt;/a&gt;, &lt;a href="https://www.fiercebiotech.com/biotech/kardigan-itching-ipo-fund-late-stage-cardiovascular-pipeline"&gt;Fierce Biotech&lt;/a&gt;, &lt;a href="https://endpoints.news/kardigan-readies-nasdaq-ipo-to-back-three-cardio-drugs/"&gt;Endpoints News&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;</description>
+      <guid isPermaLink="false">3b912d1c2a247cd93a441c535e258d80</guid>
+      <pubDate>Wed, 27 May 2026 22:00:43 GMT</pubDate>
+    </item>
+    <item>
+      <title>J&amp;J Orthopedics Business Separation</title>
+      <link>https://www.google.com</link>
+      <description>&lt;ul&gt;
+  &lt;li&gt;&lt;b&gt;Summary:&lt;/b&gt; &lt;b&gt;Johnson &amp; Johnson&lt;/b&gt; announced it will separate its orthopedics business into an independent company, part of a broader restructuring. The move includes laying off 56 employees in New Jersey. The separation aims to streamline operations and sharpen focus on its core pharmaceutical and medtech segments.&lt;/li&gt;
+  &lt;li&gt;&lt;b&gt;MoAs:&lt;/b&gt; N/A&lt;/li&gt;
+  &lt;li&gt;&lt;b&gt;Sources:&lt;/b&gt; &lt;a href="https://www.fiercepharma.com/pharma/jj-separates-its-orthopedics-business-it-lays-56-new-jersey"&gt;Fierce Pharma&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;</description>
+      <guid isPermaLink="false">84bc9f18e17cbdc9c0575737610b4712</guid>
+      <pubDate>Wed, 27 May 2026 22:00:43 GMT</pubDate>
+    </item>
+    <item>
+      <title>CordenPharma GLP-1 Manufacturing Deal</title>
+      <link>https://www.google.com</link>
+      <description>&lt;ul&gt;
+  &lt;li&gt;&lt;b&gt;Summary:&lt;/b&gt; &lt;b&gt;CordenPharma&lt;/b&gt;, a contract development and manufacturing organization (CDMO) specializing in peptides, signed a deal to expand its GLP-1 manufacturing capabilities. The company plans to establish new production sites to meet surging demand for GLP-1 receptor agonists used in diabetes and obesity treatments.&lt;/li&gt;
+  &lt;li&gt;&lt;b&gt;MoAs:&lt;/b&gt; N/A (manufacturing expansion for peptide CDMO; GLP-1 drugs are GLP-1 receptor agonists)&lt;/li&gt;
+  &lt;li&gt;&lt;b&gt;Sources:&lt;/b&gt; &lt;a href="https://www.fiercepharma.com/manufacturing/glp-1-manufacturer-cordenpharma-strikes-deal-peptide-cdmo-lining-new-production-sites"&gt;Fierce Pharma&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;</description>
+      <guid isPermaLink="false">d343e722ed1b577e0bb106f33f15eeea</guid>
+      <pubDate>Wed, 27 May 2026 22:00:43 GMT</pubDate>
+    </item>
+    <item>
+      <title>Lilly Hires Peter Marks</title>
+      <link>https://www.google.com</link>
+      <description>&lt;ul&gt;
+  &lt;li&gt;&lt;b&gt;Summary:&lt;/b&gt; &lt;b&gt;Eli Lilly&lt;/b&gt; has hired &lt;b&gt;Dr. Peter Marks&lt;/b&gt;, the former top vaccine regulator at the FDA, to lead its regulatory strategy and bolster its pipeline. Marks brings deep expertise in biologics and gene therapies, and his appointment signals Lilly's ambition to accelerate approvals for its portfolio, including in RNA-based and cell therapies.&lt;/li&gt;
+  &lt;li&gt;&lt;b&gt;MoAs:&lt;/b&gt; N/A (executive hire; no specific drug)&lt;/li&gt;
+  &lt;li&gt;&lt;b&gt;Sources:&lt;/b&gt; &lt;a href="https://www.biospace.com/drug-development/lilly-just-bought-renowned-regulator-peter-marks-a-pipeline-to-play-with"&gt;BioSpace&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;</description>
+      <guid isPermaLink="false">739d75abf7dd2d98ffac3c25cdd742e1</guid>
+      <pubDate>Wed, 27 May 2026 22:00:43 GMT</pubDate>
+    </item>
+    <item>
+      <title>AstraZeneca Breast Cancer Pill ADAP Deal</title>
+      <link>https://www.google.com</link>
+      <description>&lt;ul&gt;
+  &lt;li&gt;&lt;b&gt;Summary:&lt;/b&gt; &lt;b&gt;AstraZeneca&lt;/b&gt; has struck a deal with Florida's &lt;b&gt;ADAP&lt;/b&gt; (AIDS Drug Assistance Program) to improve access to its breast cancer pill, likely a targeted therapy such as &lt;b&gt;Tagrisso&lt;/b&gt; (osimertinib) or &lt;b&gt;Lynparza&lt;/b&gt; (olaparib). The arrangement aims to reduce out-of-pocket costs for patients and expand reach in underserved populations.&lt;/li&gt;
+  &lt;li&gt;&lt;b&gt;MoAs:&lt;/b&gt; N/A (deals related to patient access; if drug specific, likely a kinase inhibitor or PARP inhibitor)&lt;/li&gt;
+  &lt;li&gt;&lt;b&gt;Sources:&lt;/b&gt; &lt;a href="https://www.statnews.com/pharmalot/2026/05/27/astrazeneca-breast-cancer-pill-adap-deal-in-florida/?utm_campaign=rss"&gt;STAT News&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;</description>
+      <guid isPermaLink="false">5a2917bd14d0f10e241928c05de61397</guid>
+      <pubDate>Wed, 27 May 2026 22:00:43 GMT</pubDate>
+    </item>
+    <item>
+      <title>Signos Health Plan Pharma Relationships</title>
+      <link>https://www.google.com</link>
+      <description>&lt;ul&gt;
+  &lt;li&gt;&lt;b&gt;Summary:&lt;/b&gt; Signos has raised $20 million to expand its health plan and pharmaceutical partnerships, aiming to leverage its digital health platform for broader market reach.&lt;/li&gt;
+  &lt;li&gt;&lt;b&gt;MoAs:&lt;/b&gt; N/A&lt;/li&gt;
+  &lt;li&gt;&lt;b&gt;Sources:&lt;/b&gt; &lt;a href="https://endpoints.news/signos-raises-20m-as-it-eyes-health-plan-pharma-relationships/"&gt;Endpoints News&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;</description>
+      <guid isPermaLink="false">fbeadf4db9541113c920a4b78d9cb25d</guid>
+      <pubDate>Wed, 27 May 2026 22:00:43 GMT</pubDate>
+    </item>
+    <item>
+      <title>Biogen Italian Regulator Investigation</title>
+      <link>https://www.google.com</link>
+      <description>&lt;ul&gt;
+  &lt;li&gt;&lt;b&gt;Summary:&lt;/b&gt; Biogen is under investigation by Italian regulators over allegations of market abuse in the multiple sclerosis treatment market, potentially impacting its commercial practices.&lt;/li&gt;
+  &lt;li&gt;&lt;b&gt;MoAs:&lt;/b&gt; N/A&lt;/li&gt;
+  &lt;li&gt;&lt;b&gt;Sources:&lt;/b&gt; &lt;a href="https://www.fiercepharma.com/marketing/biogen-investigated-italian-regulator-over-multiple-sclerosis-market-abuse-claims"&gt;Fierce Pharma&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;</description>
+      <guid isPermaLink="false">74dfa38356f1e10c4b5881bb96b3f648</guid>
+      <pubDate>Wed, 27 May 2026 22:00:43 GMT</pubDate>
+    </item>
+    <item>
+      <title>SK Bioscience Vecol Colombia Vaccine Manufacturing</title>
+      <link>https://www.google.com</link>
+      <description>&lt;ul&gt;
+  &lt;li&gt;&lt;b&gt;Summary:&lt;/b&gt; &lt;b&gt;SK Bioscience&lt;/b&gt;, a South Korean biopharmaceutical company, has partnered with &lt;b&gt;Vecol&lt;/b&gt;, a Colombian state-owned vaccine producer, to establish vaccine manufacturing capabilities in Colombia. This collaboration aims to enhance local production capacity and pandemic preparedness in Latin America.&lt;/li&gt;
+  &lt;li&gt;&lt;b&gt;MoAs:&lt;/b&gt; N/A&lt;/li&gt;
+  &lt;li&gt;&lt;b&gt;Sources:&lt;/b&gt; &lt;a href="https://www.pharmaceutical-technology.com/news/sk-bioscience-vecol-colombia-vaccine-manufacturing/"&gt;Pharmaceutical Technology&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;</description>
+      <guid isPermaLink="false">e0491604bcd9da2d8c3f7f3657a78cec</guid>
+      <pubDate>Wed, 27 May 2026 22:00:43 GMT</pubDate>
+    </item>
+    <item>
+      <title>Top 5 Highest Paid Pharma CEOs 2025</title>
+      <link>https://www.google.com</link>
+      <description>&lt;ul&gt;
+  &lt;li&gt;&lt;b&gt;Summary:&lt;/b&gt; A list and analysis of the top five highest paid pharmaceutical CEOs in 2025, highlighting compensation trends and shareholder returns.&lt;/li&gt;
+  &lt;li&gt;&lt;b&gt;MoAs:&lt;/b&gt; N/A&lt;/li&gt;
+  &lt;li&gt;&lt;b&gt;Sources:&lt;/b&gt; &lt;a href="https://www.biospace.com/business/the-top-5-highest-paid-pharma-ceos-in-2025"&gt;BioSpace&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;</description>
+      <guid isPermaLink="false">acefe788f7e682acab4635912f969f32</guid>
+      <pubDate>Wed, 27 May 2026 22:00:43 GMT</pubDate>
     </item>
   </channel>
 </rss>
