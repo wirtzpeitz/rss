@@ -6,81 +6,26 @@
     <description>News digest covering Other.</description>
     <atom:link href="https://www.google.com" rel="self" type="application/rss+xml"/>
     <item>
-      <title>Trump Medical Exam</title>
+      <title>GLP-1 Microdosing</title>
       <link>https://www.google.com</link>
       <description>&lt;ul&gt;
-  &lt;li&gt;&lt;b&gt;Summary:&lt;/b&gt; The article reports that former President Donald Trump stated his latest medical exam went perfectly, with no specific clinical details or relevance to the biopharma industry.&lt;/li&gt;
-  &lt;li&gt;&lt;b&gt;MoAs:&lt;/b&gt; N/A&lt;/li&gt;
-  &lt;li&gt;&lt;b&gt;Sources:&lt;/b&gt; &lt;a href="https://www.statnews.com/2026/05/27/health-news-trump-says-latest-medical-exam-went-perfectly/?utm_campaign=rss"&gt;STAT News&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;b&gt;Summary:&lt;/b&gt; GLP-1 microdosing is gaining popularity as a weight management strategy, but evidence supporting its efficacy and safety remains insufficient, raising concerns among clinicians.&lt;/li&gt;
+  &lt;li&gt;&lt;b&gt;MoAs:&lt;/b&gt; GLP-1 receptor agonist&lt;/li&gt;
+  &lt;li&gt;&lt;b&gt;Sources:&lt;/b&gt; &lt;a href="https://www.statnews.com/2026/05/29/glp-1-microdose-popular-but-unsupported-by-evidence/?utm_campaign=rss"&gt;STAT News&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;</description>
-      <guid isPermaLink="false">06cca8ef1ca98c344a3d6014a04ea4dc</guid>
-      <pubDate>Wed, 27 May 2026 22:00:43 GMT</pubDate>
+      <guid isPermaLink="false">86043f8f88f48b87a44aa295254fab60</guid>
+      <pubDate>Fri, 29 May 2026 22:00:52 GMT</pubDate>
     </item>
     <item>
-      <title>Science Replication Crisis</title>
+      <title>XPRIZE Healthspan</title>
       <link>https://www.google.com</link>
       <description>&lt;ul&gt;
-  &lt;li&gt;&lt;b&gt;Summary:&lt;/b&gt; The article from STAT News discusses the ongoing replication crisis in the scientific enterprise, highlighting issues of reproducibility and the need for reforms in academic research culture.&lt;/li&gt;
+  &lt;li&gt;&lt;b&gt;Summary:&lt;/b&gt; This Q&amp;A with Jamie Justice discusses the &lt;b&gt;XPRIZE Healthspan&lt;/b&gt; competition, which aims to accelerate breakthroughs in longevity science. The initiative incentivizes research into interventions that extend healthy human lifespan, with a focus on scalable and accessible solutions.&lt;/li&gt;
   &lt;li&gt;&lt;b&gt;MoAs:&lt;/b&gt; N/A&lt;/li&gt;
-  &lt;li&gt;&lt;b&gt;Sources:&lt;/b&gt; &lt;a href="https://www.statnews.com/2026/05/27/science-enterprise-replication-crisis-ivory-tower-community/"&gt;STAT News&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;b&gt;Sources:&lt;/b&gt; &lt;a href="https://www.statnews.com/2026/05/29/xprize-healthspan-longevity-science-jamie-justice-q-and-a/?utm_campaign=rss"&gt;STAT News&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;</description>
-      <guid isPermaLink="false">628894e72d9efd007c4c27bb5fa9633d</guid>
-      <pubDate>Wed, 27 May 2026 22:00:43 GMT</pubDate>
-    </item>
-    <item>
-      <title>Longevity Movement Business Growth</title>
-      <link>https://www.google.com</link>
-      <description>&lt;ul&gt;
-  &lt;li&gt;&lt;b&gt;Summary:&lt;/b&gt; The longevity movement is shifting from a fringe idea to a big business opportunity, with increasing investment and consumer interest in anti-aging interventions.&lt;/li&gt;
-  &lt;li&gt;&lt;b&gt;MoAs:&lt;/b&gt; N/A&lt;/li&gt;
-  &lt;li&gt;&lt;b&gt;Sources:&lt;/b&gt; &lt;a href="https://www.statnews.com/2026/05/27/longevity-movement-shift-fringe-idea-to-big-business/"&gt;STAT News&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;</description>
-      <guid isPermaLink="false">aba2b46d93c793c0de9c5032425fbafe</guid>
-      <pubDate>Wed, 27 May 2026 22:00:43 GMT</pubDate>
-    </item>
-    <item>
-      <title>Stanford Patient Panels AI Feedback</title>
-      <link>https://www.google.com</link>
-      <description>&lt;ul&gt;
-  &lt;li&gt;&lt;b&gt;Summary:&lt;/b&gt; &lt;b&gt;Stanford University&lt;/b&gt; is using patient panels to gather feedback on artificial intelligence applications in healthcare, aiming to shape the development of AI tools that meet patient needs.&lt;/li&gt;
-  &lt;li&gt;&lt;b&gt;MoAs:&lt;/b&gt; N/A&lt;/li&gt;
-  &lt;li&gt;&lt;b&gt;Sources:&lt;/b&gt; &lt;a href="https://www.statnews.com/2026/05/27/stanford-patient-panels-feedback-on-ai-shaping-health-care/"&gt;STAT News&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;</description>
-      <guid isPermaLink="false">dfee2bcc629125046b8a4e99564ac906</guid>
-      <pubDate>Wed, 27 May 2026 22:00:43 GMT</pubDate>
-    </item>
-    <item>
-      <title>Unvaccinated Blood Transfusions</title>
-      <link>https://www.google.com</link>
-      <description>&lt;ul&gt;
-  &lt;li&gt;&lt;b&gt;Summary:&lt;/b&gt; An interview explores the issue of directed blood donations from unvaccinated individuals, addressing concerns and policies surrounding blood transfusion safety.&lt;/li&gt;
-  &lt;li&gt;&lt;b&gt;MoAs:&lt;/b&gt; N/A&lt;/li&gt;
-  &lt;li&gt;&lt;b&gt;Sources:&lt;/b&gt; &lt;a href="https://www.statnews.com/2026/05/27/unvaccinated-blood-transfusions-directed-donation-interview/"&gt;STAT News&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;</description>
-      <guid isPermaLink="false">9c8f44f007a6275d2eecc52da00f1a77</guid>
-      <pubDate>Wed, 27 May 2026 22:00:43 GMT</pubDate>
-    </item>
-    <item>
-      <title>Flavored Vapes FDA Trump Durbin</title>
-      <link>https://www.google.com</link>
-      <description>&lt;ul&gt;
-  &lt;li&gt;&lt;b&gt;Summary:&lt;/b&gt; The &lt;b&gt;FDA&lt;/b&gt;'s regulation of flavored e-cigarettes is under political scrutiny, with Senator &lt;b&gt;Durbin&lt;/b&gt; and former President &lt;b&gt;Trump&lt;/b&gt; weighing in on the debate over youth vaping and public health.&lt;/li&gt;
-  &lt;li&gt;&lt;b&gt;MoAs:&lt;/b&gt; N/A&lt;/li&gt;
-  &lt;li&gt;&lt;b&gt;Sources:&lt;/b&gt; &lt;a href="https://www.statnews.com/2026/05/27/flavored-vapes-e-cigarettes-fda-trump-durbin/"&gt;STAT News&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;</description>
-      <guid isPermaLink="false">95fb90ac6734f0f575c6da63893f4c05</guid>
-      <pubDate>Wed, 27 May 2026 22:00:43 GMT</pubDate>
-    </item>
-    <item>
-      <title>Straight A Student Career Advice</title>
-      <link>https://www.google.com</link>
-      <description>&lt;ul&gt;
-  &lt;li&gt;&lt;b&gt;Summary:&lt;/b&gt; Career advice article discussing the challenges faced by high-achieving students (straight-A students) in transitioning from academia to the workplace.&lt;/li&gt;
-  &lt;li&gt;&lt;b&gt;MoAs:&lt;/b&gt; N/A&lt;/li&gt;
-  &lt;li&gt;&lt;b&gt;Sources:&lt;/b&gt; &lt;a href="https://www.biospace.com/career-advice/curse-of-the-straight-a-student"&gt;BioSpace&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;</description>
-      <guid isPermaLink="false">1ed310a4c2c77212dc349631e5eb7ffa</guid>
-      <pubDate>Wed, 27 May 2026 22:00:43 GMT</pubDate>
+      <guid isPermaLink="false">e123f61285016c6918b5dca801473240</guid>
+      <pubDate>Fri, 29 May 2026 22:00:52 GMT</pubDate>
     </item>
   </channel>
 </rss>
