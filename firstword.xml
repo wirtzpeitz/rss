@@ -6,32 +6,46 @@
     <description>Stories on FirstWord Pharma.</description>
     <atom:link href="https://firstwordpharma.com" rel="self" type="application/rss+xml"/>
     <item>
-      <title>Physician Views In-Depth: Non-invasive tools offer new diagnostic model for MASH</title>
-      <link>https://firstwordpharma.com/story/7506770</link>
-      <description>A new FirstWord survey indicates that blood-based tests and ultrasounds are overtaking liver biopsy as the most widely used diagnostic tools for MASH.</description>
-      <guid isPermaLink="false">e3bf7d854c034a339ce472fd36e7b16e</guid>
-      <pubDate>Mon, 01 Jun 2026 10:00:56 GMT</pubDate>
+      <title>Spotlight On: This weekend's big talking points from ASCO 2026</title>
+      <link>https://firstwordpharma.com/story/7516195</link>
+      <description>On the ground at this year’s ASCO meeting, executive editor of pharmaceutical news analysis Michael Flanagan highlights some of the key topics of conversation.</description>
+      <guid isPermaLink="false">0e68aeb31a59b82e5a9e6391b52035ba</guid>
+      <pubDate>Tue, 02 Jun 2026 10:01:10 GMT</pubDate>
     </item>
     <item>
-      <title>Physician Views Preview: Will Hepcludex unlock a hidden HDV population?</title>
-      <link>https://firstwordpharma.com/story/7505590</link>
-      <description>With the first US approval for a hepatitis D virus (HDV) treatment, Gilead Sciences has a new opportunity on its hands. FirstWord is polling doctors to gauge whether screening and diagnosis will improve enough to bring Hepcludex (bulevertide-gmod) to eligible patients.</description>
-      <guid isPermaLink="false">24184ee92c2e1b8cb5390fa445d79e50</guid>
-      <pubDate>Mon, 01 Jun 2026 10:00:56 GMT</pubDate>
+      <title>Spotlight On: Obesity's next battleground built on lessons from market disruptors</title>
+      <link>https://firstwordpharma.com/story/7515229</link>
+      <description>While nontraditional players in the obesity market have been a thorn in the side of big pharma, a silver lining emerging from the scuffles is the insight these companies have provided into patient preferences shaping the next wave of care.</description>
+      <guid isPermaLink="false">aa30561057b478beab2ffd4d7affb152</guid>
+      <pubDate>Tue, 02 Jun 2026 10:01:10 GMT</pubDate>
     </item>
     <item>
-      <title>Vital Signs: Who's getting the most bang out of their R&amp;D buck?</title>
-      <link>https://firstwordpharma.com/story/7489899</link>
-      <description>R&amp;D budgets are increasing ahead of pharma's looming patent cliff; FirstWord checks in on the companies that are getting the most and least revenue out of their R&amp;D efforts.</description>
-      <guid isPermaLink="false">90d99af1bf031e492a867b93368b31bc</guid>
-      <pubDate>Mon, 01 Jun 2026 10:00:56 GMT</pubDate>
+      <title>Vital Signs: Pfizer re-shuffles its ADC deck as Seagen assets sink</title>
+      <link>https://firstwordpharma.com/story/7515117</link>
+      <description>Ahead of its new antibody-drug conjugate (ADC)-focused deal with Innovent, Pfizer has been putting additional Seagen-derived ADCs on the chopping block. After spending $43 billion, is it in with Innovent, and out with Seagen for its ADC aspirations?</description>
+      <guid isPermaLink="false">f4c1618c3c0127f6fb349676e2953695</guid>
+      <pubDate>Tue, 02 Jun 2026 10:01:10 GMT</pubDate>
     </item>
     <item>
-      <title>Physician Views In-Depth: Wegovy favoured in moderate MASH cases </title>
-      <link>https://firstwordpharma.com/story/7487884</link>
-      <description>But according to a recent FirstWord survey, Rezdiffra will remain a backbone treatment for MASH, particularly among patients with more advanced disease.</description>
-      <guid isPermaLink="false">61f2d8ea4903bc52c9f53ebc4a22e28e</guid>
-      <pubDate>Mon, 01 Jun 2026 10:00:56 GMT</pubDate>
+      <title>ASCO ViewPoints: How Revolution plans to maintain its pan-RAS lead </title>
+      <link>https://firstwordpharma.com/story/7513313</link>
+      <description>FirstWord sat down with Revolution Medicines' Chief Development Officer Alan Sandler to discuss what's next for the biotech's RAS pipeline.</description>
+      <guid isPermaLink="false">0309337181698dd0764ad317c15d69b1</guid>
+      <pubDate>Tue, 02 Jun 2026 10:01:10 GMT</pubDate>
+    </item>
+    <item>
+      <title>ASCO Spotlight: Bispecific fast-followers accelerate into ivonescimab's slipstream</title>
+      <link>https://firstwordpharma.com/story/7510429</link>
+      <description>Akeso and Summit Therapeutics' drug remains the front-runner in the closely-watched class of novel cancer therapies, but ASCO discussant says it remains too early to be declared an outright winner.</description>
+      <guid isPermaLink="false">8957ddced33725099e1cee5ca46472f7</guid>
+      <pubDate>Tue, 02 Jun 2026 10:01:10 GMT</pubDate>
+    </item>
+    <item>
+      <title>Spotlight On: GSK delivers historic win for hepatitis B patients</title>
+      <link>https://firstwordpharma.com/story/7509114</link>
+      <description>GSK has described newly disclosed Phase III data for its investigational hepatitis B treatment bepirovirsen as "unprecedented."</description>
+      <guid isPermaLink="false">2e72efbbc20aa223658e6d7603dd3587</guid>
+      <pubDate>Tue, 02 Jun 2026 10:01:10 GMT</pubDate>
     </item>
   </channel>
 </rss>
