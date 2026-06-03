@@ -6,37 +6,70 @@
     <description>News digest covering Industry Events.</description>
     <atom:link href="https://www.google.com" rel="self" type="application/rss+xml"/>
     <item>
-      <title>FDA User Fee Deal</title>
+      <title>ASCO 2026 Highlights</title>
       <link>https://www.google.com</link>
       <description>&lt;ul&gt;
-  &lt;li&gt;&lt;b&gt;Summary:&lt;/b&gt; The next FDA user fee agreement, which funds the agency's drug review programs (including PDUFA, GDUFA, and BsUFA), is currently under review at the White House. The deal will set review timelines and fee structures for the next five years, impacting industry submissions and agency operations.&lt;/li&gt;
-  &lt;li&gt;&lt;b&gt;MoAs:&lt;/b&gt; N/A&lt;/li&gt;
-  &lt;li&gt;&lt;b&gt;Sources:&lt;/b&gt; &lt;a href='https://endpoints.news/next-fda-user-fee-deal-is-under-review-at-the-white-house/'&gt;Endpoints News&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;b&gt;Summary:&lt;/b&gt; The &lt;b&gt;ASCO 2026&lt;/b&gt; annual meeting showcased a new era of cancer innovation, but stock market gains were muted for most companies. Notable highlights included &lt;b&gt;daraxonrasib&lt;/b&gt; (KRAS G12C inhibitor) and data from &lt;b&gt;Celcuity&lt;/b&gt;, which fell despite practice-changing late-stage breast cancer results. Bispecific antibodies and RET fusion-targeting assets in NSCLC drew attention. Other winners included &lt;b&gt;RevMed&lt;/b&gt;, &lt;b&gt;Akeso&lt;/b&gt;, &lt;b&gt;Summit&lt;/b&gt;, and &lt;b&gt;Lilly&lt;/b&gt;, while Chinese ADCs continued to feature prominently.&lt;/li&gt;
+  &lt;li&gt;&lt;b&gt;MoAs:&lt;/b&gt; N/A (multi-asset conference summary)&lt;/li&gt;
+  &lt;li&gt;&lt;b&gt;Sources:&lt;/b&gt; &lt;a href="https://www.biospace.com/drug-development/ascos-biggest-winners-showcased-a-new-era-of-cancer-innovation"&gt;BioSpace&lt;/a&gt;, &lt;a href="https://www.apexonco.com/asco-2026-movers-few-stock-market-wins-despite-daraxonrasib"&gt;ApexOnco&lt;/a&gt;, &lt;a href="https://www.apexonco.com/asco-2026-celcuity-comes-short"&gt;ApexOnco&lt;/a&gt;, &lt;a href="https://www.biospace.com/drug-development/celcuity-slides-even-after-practice-changing-late-stage-breast-cancer-data"&gt;BioSpace&lt;/a&gt;, &lt;a href="https://www.biospace.com/drug-development/asco-wins-from-revmed-akeso-summit-more-plus-more-lilly-and-more-china-ada-on-deck"&gt;BioSpace&lt;/a&gt;, &lt;a href="https://www.pharmaceutical-technology.com/analyst-comment/asco26-bispecific-antibody-and-ret-fusion-targeting-assets-garner-attention-in-nsclc/"&gt;Pharmaceutical Technology&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;</description>
-      <guid isPermaLink="false">63e8d5ba55c61a19192c7417ca4f4de6</guid>
-      <pubDate>Fri, 29 May 2026 22:00:52 GMT</pubDate>
+      <guid isPermaLink="false">f2bd8467c9bd2cdd9da46429bbd48187</guid>
+      <pubDate>Wed, 03 Jun 2026 22:00:22 GMT</pubDate>
     </item>
     <item>
-      <title>FDA Chaos Impact on Pharma</title>
+      <title>FDA Actions and Guidance</title>
       <link>https://www.google.com</link>
       <description>&lt;ul&gt;
-  &lt;li&gt;&lt;b&gt;Summary:&lt;/b&gt; The article examines the impact of organizational chaos at the FDA on drug approval timelines and the broader pharmaceutical industry, including potential delays and regulatory uncertainty.&lt;/li&gt;
+  &lt;li&gt;&lt;b&gt;Summary:&lt;/b&gt; The &lt;b&gt;FDA&lt;/b&gt; issued a warning letter to &lt;b&gt;Medline&lt;/b&gt; over long-running contamination problems, published guidance for pharma on explaining unapproved drugs to payors, and sent an untitled letter to a company over eye-catching graphics in promotional emails. These actions reflect continued regulatory scrutiny across manufacturing, marketing, and communication.&lt;/li&gt;
   &lt;li&gt;&lt;b&gt;MoAs:&lt;/b&gt; N/A&lt;/li&gt;
-  &lt;li&gt;&lt;b&gt;Sources:&lt;/b&gt; &lt;a href="https://www.biopharmadive.com/news/fda-chaos-drug-approval-pharma-parexel/821431/"&gt;BioPharma Dive&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;b&gt;Sources:&lt;/b&gt; &lt;a href="https://www.biospace.com/fda/fda-hits-medline-with-warning-letter-over-long-running-contamination-problem"&gt;BioSpace&lt;/a&gt;, &lt;a href="https://endpoints.news/fda-guides-pharma-on-explaining-unapproved-drugs-to-payors/"&gt;Endpoints News&lt;/a&gt;, &lt;a href="https://www.fiercepharma.com/marketing/fda-issues-untitled-letter-after-finding-eye-catching-graphics-promotional-emails"&gt;Fierce Pharma&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;</description>
-      <guid isPermaLink="false">ab9c90d6b0bef1230c716fe429766aeb</guid>
-      <pubDate>Fri, 29 May 2026 22:00:52 GMT</pubDate>
+      <guid isPermaLink="false">274f64f1dacf08b868024b554e62e31d</guid>
+      <pubDate>Wed, 03 Jun 2026 22:00:22 GMT</pubDate>
     </item>
     <item>
-      <title>NIH Grant Guidance</title>
+      <title>Highmark Health/HaloMD No Surprises Act</title>
       <link>https://www.google.com</link>
       <description>&lt;ul&gt;
-  &lt;li&gt;&lt;b&gt;Summary:&lt;/b&gt; This article discusses a proposal by the National Institutes of Health (NIH) to implement uniform guidance for grant management, potentially influenced by political control. The changes could impact how research funding is allocated and administered across various therapeutic areas.&lt;/li&gt;
+  &lt;li&gt;&lt;b&gt;Summary:&lt;/b&gt; Highmark Health has sued HaloMD over arbitration disputes under the No Surprises Act, which aims to protect patients from unexpected out-of-network medical bills. The case highlights ongoing challenges in implementing the federal law.&lt;/li&gt;
   &lt;li&gt;&lt;b&gt;MoAs:&lt;/b&gt; N/A&lt;/li&gt;
-  &lt;li&gt;&lt;b&gt;Sources:&lt;/b&gt; &lt;a href="https://www.statnews.com/2026/05/29/nih-grants-uniform-guidance-proposal-political-control/?utm_campaign=rss"&gt;STAT News&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;b&gt;Sources:&lt;/b&gt; &lt;a href="https://www.statnews.com/2026/06/03/highmark-health-sues-halomd-no-surprises-act-arbitration-disputes/?utm_campaign=rss"&gt;STAT News&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;</description>
-      <guid isPermaLink="false">228df73389c5abf015e9bb8ebaa2124e</guid>
-      <pubDate>Fri, 29 May 2026 22:00:52 GMT</pubDate>
+      <guid isPermaLink="false">ed0d654dafe62c76348007b8248159f8</guid>
+      <pubDate>Wed, 03 Jun 2026 22:00:22 GMT</pubDate>
+    </item>
+    <item>
+      <title>China Biotech Deals and Competition</title>
+      <link>https://www.google.com</link>
+      <description>&lt;ul&gt;
+  &lt;li&gt;&lt;b&gt;Summary:&lt;/b&gt; Chinese biotech companies are facing both pressure and opportunities as dealmaking intensifies. While some US lawmakers express concerns over competition, NextGen biotech leaders argue that collaboration is beneficial. Premiums for Chinese biotech assets are rising as they become more competitive globally.&lt;/li&gt;
+  &lt;li&gt;&lt;b&gt;MoAs:&lt;/b&gt; N/A&lt;/li&gt;
+  &lt;li&gt;&lt;b&gt;Sources:&lt;/b&gt; &lt;a href="https://www.biopharmadive.com/news/binsa-china-biotech-deals-house-moolenaar-dingell/821841/"&gt;BioPharma Dive&lt;/a&gt;, &lt;a href="https://www.biospace.com/business/facing-pressure-from-china-biospaces-nextgen-biotech-leaders-say-bring-it-on"&gt;BioSpace&lt;/a&gt;, &lt;a href="https://www.biospace.com/business/no-longer-a-bargain-pool-chinese-biotechs-command-higher-premiums"&gt;BioSpace&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;</description>
+      <guid isPermaLink="false">9d23bebd5f93807cc52fbdd28427bd6d</guid>
+      <pubDate>Wed, 03 Jun 2026 22:00:22 GMT</pubDate>
+    </item>
+    <item>
+      <title>Pharma Manufacturing Jobs</title>
+      <link>https://www.google.com</link>
+      <description>&lt;ul&gt;
+  &lt;li&gt;&lt;b&gt;Summary:&lt;/b&gt; A new report projects that pharmaceutical manufacturing will create approximately 19,000 jobs in the US through 2034, driven by reshoring and expansion of domestic production capacity for small molecules and biologics.&lt;/li&gt;
+  &lt;li&gt;&lt;b&gt;MoAs:&lt;/b&gt; N/A&lt;/li&gt;
+  &lt;li&gt;&lt;b&gt;Sources:&lt;/b&gt; &lt;a href="https://www.biospace.com/business/pharma-manufacturing-projected-to-create-19-000-jobs-through-2034"&gt;BioSpace&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;</description>
+      <guid isPermaLink="false">b87048150ea09e1ed8d1a46dde6a3dfd</guid>
+      <pubDate>Wed, 03 Jun 2026 22:00:22 GMT</pubDate>
+    </item>
+    <item>
+      <title>ASCO 2026 Exhibit Floor</title>
+      <link>https://www.google.com</link>
+      <description>&lt;ul&gt;
+  &lt;li&gt;&lt;b&gt;Summary:&lt;/b&gt; The article previews the exhibit floor at the ASCO 2026 conference, noting the incorporation of coffee stations, racetracks, and beach-themed areas to attract attendees and foster networking beyond the standard booth displays.&lt;/li&gt;
+  &lt;li&gt;&lt;b&gt;MoAs:&lt;/b&gt; N/A&lt;/li&gt;
+  &lt;li&gt;&lt;b&gt;Sources:&lt;/b&gt; &lt;a href='https://www.fiercepharma.com/marketing/coffee-racetracks-beaches-and-more-coffee-inside-asco-2026-exhibit-floor'&gt;Fierce Pharma&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;</description>
+      <guid isPermaLink="false">70b7bf8a1c4e91ec998dccd8811a9675</guid>
+      <pubDate>Wed, 03 Jun 2026 22:00:22 GMT</pubDate>
     </item>
   </channel>
 </rss>
