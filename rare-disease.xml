@@ -6,26 +6,15 @@
     <description>News digest covering Rare Disease.</description>
     <atom:link href="https://www.google.com" rel="self" type="application/rss+xml"/>
     <item>
-      <title>AstraZeneca Rare Disease Drug</title>
+      <title>Zevra Miplyffa Launch</title>
       <link>https://www.google.com</link>
       <description>&lt;ul&gt;
-  &lt;li&gt;&lt;b&gt;Summary:&lt;/b&gt; &lt;b&gt;AstraZeneca&lt;/b&gt; presented subgroup data from a Phase 3 study that missed its primary endpoint, in an effort to support an approval application for an undisclosed rare disease drug. The company believes the data in a specific patient subset may be sufficient for regulatory filing.&lt;/li&gt;
-  &lt;li&gt;&lt;b&gt;MoAs:&lt;/b&gt; N/A (drug mechanism not specified)&lt;/li&gt;
-  &lt;li&gt;&lt;b&gt;Sources:&lt;/b&gt; &lt;a href='https://www.fiercebiotech.com/biotech/astrazeneca-after-phase-3-miss-posts-subgroup-data-behind-pitch-rare-disease-approval'&gt;Fierce Biotech&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;b&gt;Summary:&lt;/b&gt; Zevra Therapeutics is launching Miplyffa (arimoclomol) for Niemann-Pick disease type C, a rare neurodegenerative disorder. The CEO aims to foster a European-style market access model in the US to ensure patient access to the expensive therapy.&lt;/li&gt;
+  &lt;li&gt;&lt;b&gt;MoAs:&lt;/b&gt; Heat shock protein co-inducer; enhances protein folding and reduces cellular stress&lt;/li&gt;
+  &lt;li&gt;&lt;b&gt;Sources:&lt;/b&gt; &lt;a href="https://www.fiercepharma.com/pharma/amid-miplyffa-launch-zevra-ceo-aims-foster-eu-style-niemann-pick-market-us"&gt;Fierce Pharma&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;</description>
-      <guid isPermaLink="false">75b98815d41e95fcb06de606c30fec60</guid>
-      <pubDate>Fri, 29 May 2026 22:00:52 GMT</pubDate>
-    </item>
-    <item>
-      <title>Sanofi Venglustat NDA</title>
-      <link>https://www.google.com</link>
-      <description>&lt;ul&gt;
-  &lt;li&gt;&lt;b&gt;Summary:&lt;/b&gt; The FDA has granted priority review to Sanofi's New Drug Application for venglustat, an investigational therapy for a rare disease indication, potentially accelerating its approval.&lt;/li&gt;
-  &lt;li&gt;&lt;b&gt;MoAs:&lt;/b&gt; Glucosylceramide synthase inhibitor&lt;/li&gt;
-  &lt;li&gt;&lt;b&gt;Sources:&lt;/b&gt; &lt;a href="https://www.pharmaceutical-technology.com/news/fda-priority-review-sanofis-venglustat-nda/"&gt;Pharmaceutical Technology&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;</description>
-      <guid isPermaLink="false">a525addf1ae97637a9153cdf0bbbade4</guid>
-      <pubDate>Fri, 29 May 2026 22:00:52 GMT</pubDate>
+      <guid isPermaLink="false">a2fe9f9219887eaf157890504bd7e927</guid>
+      <pubDate>Wed, 03 Jun 2026 22:00:22 GMT</pubDate>
     </item>
   </channel>
 </rss>
