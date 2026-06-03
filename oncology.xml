@@ -6,92 +6,26 @@
     <description>News digest covering Oncology.</description>
     <atom:link href="https://www.google.com" rel="self" type="application/rss+xml"/>
     <item>
-      <title>ASCO 2026 - Multiple Myeloma</title>
+      <title>Legend Biotech CAR-T</title>
       <link>https://www.google.com</link>
       <description>&lt;ul&gt;
-  &lt;li&gt;&lt;b&gt;Summary:&lt;/b&gt; At &lt;b&gt;ASCO 2026&lt;/b&gt;, &lt;b&gt;Bristol Myers Squibb&lt;/b&gt; presented positive Phase 3 data for &lt;b&gt;mezigdomide&lt;/b&gt;, a next-generation CELMoD agent designed as a successor to &lt;b&gt;Pomalyst&lt;/b&gt; (pomalidomide) in multiple myeloma. Simultaneously, &lt;b&gt;Johnson &amp; Johnson&lt;/b&gt; showcased a comprehensive portfolio covering multiple myeloma with its approved and investigational agents, including &lt;b&gt;Darzalex&lt;/b&gt; (daratumumab) and &lt;b&gt;Kyprolis&lt;/b&gt; (carfilzomib). These presentations highlight the ongoing competition and innovation in the multiple myeloma treatment landscape.&lt;/li&gt;
-  &lt;li&gt;&lt;b&gt;MoAs:&lt;/b&gt; Mezigdomide: Cereblon E3 ligase modulator (CELMoD) that degrades Ikaros and Aiolos transcription factors, leading to anti-myeloma effects. Pomalidomide: Immunomodulatory drug (IMiD) that binds cereblon, also degrades Ikaros/Aiolos.&lt;/li&gt;
-  &lt;li&gt;&lt;b&gt;Sources:&lt;/b&gt; &lt;a href='https://www.statnews.com/2026/05/29/asco-news-day-1-multiple-myeloma-bristol-lung-cancer-pfizer/?utm_campaign=rss'&gt;STAT News&lt;/a&gt;, &lt;a href='https://www.biopharmadive.com/news/bristol-myers-mezigdomide-asco-2026-successor-results/821509/'&gt;BioPharma Dive&lt;/a&gt;, &lt;a href='https://www.apexonco.com/asco-2026-jj-looks-cover-all-multiple-myeloma-bases'&gt;ApexOnco&lt;/a&gt;, &lt;a href='https://endpoints.news/asco26-bristol-myers-details-phase-3-trial-win-for-pomalyst-successor/'&gt;Endpoints News&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;b&gt;Summary:&lt;/b&gt; At the &lt;b&gt;EHA 2026&lt;/b&gt; congress, &lt;b&gt;Legend Biotech&lt;/b&gt; presented promising early data for its &lt;i&gt;in vivo&lt;/i&gt; CAR-T candidate &lt;b&gt;LB2501&lt;/b&gt; in lymphoma. The therapy, designed to generate CAR-T cells directly in the body, demonstrated a best-in-class safety and efficacy profile, driving significant stock gains and positioning Legend as a rare market winner in a crowded field.&lt;/li&gt;
+  &lt;li&gt;&lt;b&gt;MoAs:&lt;/b&gt; &lt;i&gt;In vivo&lt;/i&gt; CAR-T: Uses a vector to program a patient's own T cells to express a chimeric antigen receptor targeting tumor antigens (e.g., CD19) without ex vivo manipulation.&lt;/li&gt;
+  &lt;li&gt;&lt;b&gt;Sources:&lt;/b&gt; &lt;a href="https://www.apexonco.com/eha-2026-preview-legends-vivo-car-t-reveal"&gt;ApexOnco&lt;/a&gt;, &lt;a href="https://www.biopharmadive.com/news/legend-in-vivo-car-t-LB2501-lymphoma-data-eha/821882/"&gt;BioPharma Dive&lt;/a&gt;, &lt;a href="https://www.statnews.com/2026/06/03/biotech-news-legend-biotech-emerges-as-rare-market-winner/?utm_campaign=rss"&gt;STAT News&lt;/a&gt;, &lt;a href="https://www.biospace.com/drug-development/legend-soars-on-best-in-class-best-in-disease-in-vivo-car-t-in-early-lymphoma-study"&gt;BioSpace&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;</description>
-      <guid isPermaLink="false">7d8b0253a24d288622dc05fca0146b04</guid>
-      <pubDate>Fri, 29 May 2026 22:00:52 GMT</pubDate>
+      <guid isPermaLink="false">75ff7069870cb3cc1911ed30fec92800</guid>
+      <pubDate>Wed, 03 Jun 2026 22:00:22 GMT</pubDate>
     </item>
     <item>
-      <title>ASCO 2026 - Lung Cancer</title>
+      <title>Roche Giredestrant FDA Priority Review</title>
       <link>https://www.google.com</link>
       <description>&lt;ul&gt;
-  &lt;li&gt;&lt;b&gt;Summary:&lt;/b&gt; At &lt;b&gt;ASCO 2026&lt;/b&gt;, &lt;b&gt;Merck &amp; Co.&lt;/b&gt; presented data for its TROP2-directed antibody-drug conjugate &lt;b&gt;sacituzumab tirumotecan&lt;/b&gt; (sac-TMT) in non-small cell lung cancer. Additionally, &lt;b&gt;AstraZeneca&lt;/b&gt; reported positive results in bladder cancer, outperforming &lt;b&gt;Pfizer&lt;/b&gt; in a head-to-head trial.&lt;/li&gt;
-  &lt;li&gt;&lt;b&gt;MoAs:&lt;/b&gt; Sacituzumab tirumotecan: Humanized anti-TROP2 monoclonal antibody conjugated to a topoisomerase I inhibitor payload, delivering cytotoxic drug to TROP2-expressing tumor cells.&lt;/li&gt;
-  &lt;li&gt;&lt;b&gt;Sources:&lt;/b&gt; &lt;a href='https://www.biopharmadive.com/news/merck-asco-2026-sac-tmt-lung-cancer-results/821500/'&gt;BioPharma Dive&lt;/a&gt;, &lt;a href='https://www.apexonco.com/astra-beats-pfizer-bladder-cancer'&gt;ApexOnco&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;b&gt;Summary:&lt;/b&gt; Roche's experimental oral selective estrogen receptor degrader (SERD) giredestrant has been granted FDA priority review for the treatment of estrogen receptor-positive breast cancer. The designation accelerates the review timeline, with a decision expected later this year.&lt;/li&gt;
+  &lt;li&gt;&lt;b&gt;MoAs:&lt;/b&gt; Selective estrogen receptor degrader (SERD)&lt;/li&gt;
+  &lt;li&gt;&lt;b&gt;Sources:&lt;/b&gt; &lt;a href="https://www.pharmaceutical-technology.com/news/roches-giredestrant-secures-fda-priority-review/"&gt;Pharmaceutical Technology&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;</description>
-      <guid isPermaLink="false">e4b48d0b004421713b71002a6d352bb5</guid>
-      <pubDate>Fri, 29 May 2026 22:00:52 GMT</pubDate>
-    </item>
-    <item>
-      <title>Replimune Melanoma Drug</title>
-      <link>https://www.google.com</link>
-      <description>&lt;ul&gt;
-  &lt;li&gt;&lt;b&gt;Summary:&lt;/b&gt; &lt;b&gt;Replimune&lt;/b&gt; announced it will resubmit its lead oncolytic immunotherapy, &lt;b&gt;RP1&lt;/b&gt;, for FDA approval in melanoma after previous rejections. The company is encouraged by changes in FDA leadership and hopes to address earlier concerns. RP1 is a genetically modified herpes simplex virus type 1 designed to infect and lyse tumor cells while stimulating a systemic immune response.&lt;/li&gt;
-  &lt;li&gt;&lt;b&gt;MoAs:&lt;/b&gt; RP1: Oncolytic herpes simplex virus type 1 engineered to express GM-CSF and a fusogenic glycoprotein (GALV-GP R-), promoting tumor cell lysis, antigen release, and dendritic cell activation to boost anti-tumor immunity.&lt;/li&gt;
-  &lt;li&gt;&lt;b&gt;Sources:&lt;/b&gt; &lt;a href='https://www.biopharmadive.com/news/replimune-fda-approval-application-talks-stock-biotech-melanoma/821496/'&gt;BioPharma Dive&lt;/a&gt;, &lt;a href='https://endpoints.news/replimune-will-again-submit-its-melanoma-drug-for-approval/'&gt;Endpoints News&lt;/a&gt;, &lt;a href='https://www.biospace.com/fda/replimune-gives-cancer-immunotherapy-a-third-try-after-fda-leadership-shakeup'&gt;BioSpace&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;</description>
-      <guid isPermaLink="false">a315050090e60fda2f93a2fa9fd56850</guid>
-      <pubDate>Fri, 29 May 2026 22:00:52 GMT</pubDate>
-    </item>
-    <item>
-      <title>Agios Tebapivat Failure</title>
-      <link>https://www.google.com</link>
-      <description>&lt;ul&gt;
-  &lt;li&gt;&lt;b&gt;Summary:&lt;/b&gt; &lt;b&gt;Agios Pharmaceuticals&lt;/b&gt; discontinued development of &lt;b&gt;tebapivat&lt;/b&gt; (AG-946) in low-risk myelodysplastic syndromes (MDS) after a Phase 3 trial failed to meet its primary endpoint. The drug, a pyruvate kinase R activator, was being investigated for anemia in MDS. Agios will continue to evaluate tebapivat in sickle cell disease, where it still holds promise.&lt;/li&gt;
-  &lt;li&gt;&lt;b&gt;MoAs:&lt;/b&gt; Tebapivat: Small-molecule activator of pyruvate kinase R (PKR), increasing ATP production and reducing hemolysis in red blood cells, thereby improving anemia.&lt;/li&gt;
-  &lt;li&gt;&lt;b&gt;Sources:&lt;/b&gt; &lt;a href='https://endpoints.news/agios-ends-development-of-tebapivat-in-low-risk-mds-following-subpar-results/'&gt;Endpoints News&lt;/a&gt;, &lt;a href='https://www.fiercebiotech.com/biotech/agios-next-gen-pk-drug-fails-blood-cancer-study-scd-ambitions-undimmed'&gt;Fierce Biotech&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;</description>
-      <guid isPermaLink="false">c557e796420c75d68a766820d1c14a90</guid>
-      <pubDate>Fri, 29 May 2026 22:00:52 GMT</pubDate>
-    </item>
-    <item>
-      <title>AstraZeneca Imfinzi Label Expansion</title>
-      <link>https://www.google.com</link>
-      <description>&lt;ul&gt;
-  &lt;li&gt;&lt;b&gt;Summary:&lt;/b&gt; AstraZeneca is pursuing a label expansion for Imfinzi (durvalumab) and its combination with tremelimumab following a failed trial outcome, seeking to broaden its use in oncology.&lt;/li&gt;
-  &lt;li&gt;&lt;b&gt;MoAs:&lt;/b&gt; PD-L1 inhibitor, CTLA-4 inhibitor&lt;/li&gt;
-  &lt;li&gt;&lt;b&gt;Sources:&lt;/b&gt; &lt;a href="https://endpoints.news/astrazeneca-seeks-path-for-failed-antibody-imfinzi-tremfya-label-expansions/"&gt;Endpoints News&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;</description>
-      <guid isPermaLink="false">3fe0ced28bfd76817abbad705fd46627</guid>
-      <pubDate>Fri, 29 May 2026 22:00:52 GMT</pubDate>
-    </item>
-    <item>
-      <title>Summit PD-1/VEGF at ASCO</title>
-      <link>https://www.google.com</link>
-      <description>&lt;ul&gt;
-  &lt;li&gt;&lt;b&gt;Summary:&lt;/b&gt; Summit's PD-1/VEGF bispecific antibody (ivonescimab) is set to take center stage at ASCO, potentially reshaping the competitive landscape for PD-1 therapies.&lt;/li&gt;
-  &lt;li&gt;&lt;b&gt;MoAs:&lt;/b&gt; PD-1 checkpoint inhibitor, VEGF inhibitor (bispecific antibody)&lt;/li&gt;
-  &lt;li&gt;&lt;b&gt;Sources:&lt;/b&gt; &lt;a href="https://www.biospace.com/drug-development/summits-pd-1-vegf-to-take-center-stage-at-asco-with-wide-impact-for-peers"&gt;BioSpace&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;</description>
-      <guid isPermaLink="false">889ab830860753e8960729eaca36fd2b</guid>
-      <pubDate>Fri, 29 May 2026 22:00:52 GMT</pubDate>
-    </item>
-    <item>
-      <title>Dizal Survival Benefit at ASCO</title>
-      <link>https://www.google.com</link>
-      <description>&lt;ul&gt;
-  &lt;li&gt;&lt;b&gt;Summary:&lt;/b&gt; Dizal's survival benefit data for sunvozertinib presented at ASCO 2026 may be confounded by crossover in the trial design, complicating interpretation of overall survival.&lt;/li&gt;
-  &lt;li&gt;&lt;b&gt;MoAs:&lt;/b&gt; EGFR tyrosine kinase inhibitor (irreversible, targeting exon20 insertion mutations)&lt;/li&gt;
-  &lt;li&gt;&lt;b&gt;Sources:&lt;/b&gt; &lt;a href="https://www.apexonco.com/asco-2026-crossover-eats-dizals-survival-benefit"&gt;ApexOnco&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;</description>
-      <guid isPermaLink="false">535b59a6dc9fd3bc859366c9a1a6f513</guid>
-      <pubDate>Fri, 29 May 2026 22:00:52 GMT</pubDate>
-    </item>
-    <item>
-      <title>Legend Scientific CAR-T</title>
-      <link>https://www.google.com</link>
-      <description>&lt;ul&gt;
-  &lt;li&gt;&lt;b&gt;Summary:&lt;/b&gt; Legend Scientific's founder returns to ASCO with a new ambition for high-yield, non-gene-edited CAR-T therapies, highlighting innovative approaches to cell therapy manufacturing.&lt;/li&gt;
-  &lt;li&gt;&lt;b&gt;MoAs:&lt;/b&gt; Chimeric antigen receptor T-cell therapy&lt;/li&gt;
-  &lt;li&gt;&lt;b&gt;Sources:&lt;/b&gt; &lt;a href="https://www.fiercebiotech.com/biotech/legend-scientific-founder-returns-asco-new-ambition-high-yield-non-gene-edited-car-t"&gt;Fierce Biotech&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;</description>
-      <guid isPermaLink="false">b89179b79cd3e00f452c21069958826a</guid>
-      <pubDate>Fri, 29 May 2026 22:00:52 GMT</pubDate>
+      <guid isPermaLink="false">ee60e314a96b916d2605bfd321c29871</guid>
+      <pubDate>Wed, 03 Jun 2026 22:00:22 GMT</pubDate>
     </item>
   </channel>
 </rss>
