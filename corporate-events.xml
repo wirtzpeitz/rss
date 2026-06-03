@@ -6,70 +6,103 @@
     <description>News digest covering Corporate Events.</description>
     <atom:link href="https://www.google.com" rel="self" type="application/rss+xml"/>
     <item>
-      <title>Pfizer/Innovent Deal</title>
+      <title>Alnylam/Inceptive Deal</title>
       <link>https://www.google.com</link>
       <description>&lt;ul&gt;
-  &lt;li&gt;&lt;b&gt;Summary:&lt;/b&gt; &lt;b&gt;Pfizer&lt;/b&gt; and &lt;b&gt;Innovent Biologics&lt;/b&gt; announced a large-scale partnership worth up to $10.5 billion. The deal involves a dozen early-stage cancer drug candidates, including multiple antibody-drug conjugates (ADCs). Pfizer paid $650 million upfront to access Innovent's pipeline, which spans various solid tumors. The collaboration reflects Pfizer's strategy to bolster its oncology portfolio through external innovation.&lt;/li&gt;
-  &lt;li&gt;&lt;b&gt;MoAs:&lt;/b&gt; N/A (multiple undisclosed mechanisms, predominantly ADCs)&lt;/li&gt;
-  &lt;li&gt;&lt;b&gt;Sources:&lt;/b&gt; &lt;a href='https://www.biopharmadive.com/news/pfizer-innovent-china-adc-cancer-drug-deal/821444/'&gt;BioPharma Dive&lt;/a&gt;, &lt;a href='https://www.biospace.com/business/pfizer-bets-up-to-10-5b-in-12-candidate-cancer-collab-with-chinas-innovent'&gt;BioSpace&lt;/a&gt;, &lt;a href='https://endpoints.news/pfizer-strikes-innovent-deal-worth-up-to-10-5b-for-a-dozen-cancer-programs/'&gt;Endpoints News&lt;/a&gt;, &lt;a href='https://www.pharmaceutical-technology.com/news/pfizer-innovent-biologics-10bn-deal/'&gt;Pharmaceutical Technology&lt;/a&gt;, &lt;a href='https://www.apexonco.com/pfizer-next-buy-innovent'&gt;ApexOnco&lt;/a&gt;, &lt;a href='https://www.fiercebiotech.com/biotech/pfizer-pays-innovent-650m-broad-bet-chinese-innovation-early-development-speed'&gt;Fierce Biotech&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;b&gt;Summary:&lt;/b&gt; &lt;b&gt;Alnylam&lt;/b&gt; has partnered with AI startup &lt;b&gt;Inceptive&lt;/b&gt; to advance RNA research and development. The deal includes $30 million upfront to leverage Inceptive's AI foundation models for RNA design, potentially accelerating Alnylam's pipeline.&lt;/li&gt;
+  &lt;li&gt;&lt;b&gt;MoAs:&lt;/b&gt; N/A&lt;/li&gt;
+  &lt;li&gt;&lt;b&gt;Sources:&lt;/b&gt; &lt;a href="https://endpoints.news/alnylam-to-pay-30m-upfront-to-ai-startup-inceptive-in-rna-rd-deal/"&gt;Endpoints News&lt;/a&gt;, &lt;a href="https://www.statnews.com/2026/06/03/alnylam-partner-with-inceptive-nucleics-ai-foundation-models/?utm_campaign=rss"&gt;STAT News&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;</description>
-      <guid isPermaLink="false">57f3b7a8ec0bfb45fda165e2cddc0881</guid>
-      <pubDate>Fri, 29 May 2026 22:00:52 GMT</pubDate>
+      <guid isPermaLink="false">34e2ad36859b0a7cd66d2844293f4b32</guid>
+      <pubDate>Wed, 03 Jun 2026 22:00:22 GMT</pubDate>
     </item>
     <item>
-      <title>Allogene CEO Change</title>
+      <title>Regeneron/Cytomx Deal</title>
       <link>https://www.google.com</link>
       <description>&lt;ul&gt;
-  &lt;li&gt;&lt;b&gt;Summary:&lt;/b&gt; &lt;b&gt;Allogene Therapeutics&lt;/b&gt; announced that CEO &lt;b&gt;David Chang&lt;/b&gt; has stepped down. The company appointed a new chief executive, previously the CEO of &lt;b&gt;Esperion&lt;/b&gt;, to lead its allogeneic CAR-T cell therapy programs. The leadership transition comes as Allogene works to advance its pipeline in hematologic malignancies.&lt;/li&gt;
+  &lt;li&gt;&lt;b&gt;Summary:&lt;/b&gt; &lt;b&gt;Regeneron&lt;/b&gt; has deepened its partnership with &lt;b&gt;CytomX Therapeutics&lt;/b&gt; with a $37 million upfront payment and up to $2 billion in biobucks. The expanded deal covers the development of next-generation Probody therapeutics, despite other pharma companies stepping away from similar agreements.&lt;/li&gt;
   &lt;li&gt;&lt;b&gt;MoAs:&lt;/b&gt; N/A&lt;/li&gt;
-  &lt;li&gt;&lt;b&gt;Sources:&lt;/b&gt; &lt;a href='https://www.statnews.com/2026/05/29/biotech-news-allogene-ceo-david-chang-steps-down/?utm_campaign=rss'&gt;STAT News&lt;/a&gt;, &lt;a href='https://endpoints.news/david-chang-to-hand-over-the-reins-at-allogene-ex-esperion-ceo-gets-started-at-phlow/'&gt;Endpoints News&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;b&gt;Sources:&lt;/b&gt; &lt;a href="https://endpoints.news/regeneron-doubles-down-on-cytomx-after-other-pharmas-walked-away/"&gt;Endpoints News&lt;/a&gt;, &lt;a href="https://www.fiercebiotech.com/biotech/regeneron-pays-37m-adds-2b-biobucks-expand-cytomx-pact"&gt;Fierce Biotech&lt;/a&gt;, &lt;a href="https://www.biopharmadive.com/news/newlimit-lilly-hanmi-haisco-praxis-cytomx-regeneron/821624/"&gt;BioPharma Dive&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;</description>
-      <guid isPermaLink="false">eae9baa6533abb7c377164ba94d78b51</guid>
-      <pubDate>Fri, 29 May 2026 22:00:52 GMT</pubDate>
+      <guid isPermaLink="false">997e81b8f9abb6ef7277dc9b1dd9c158</guid>
+      <pubDate>Wed, 03 Jun 2026 22:00:22 GMT</pubDate>
     </item>
     <item>
-      <title>Lilly Pipeline Secrecy</title>
+      <title>Lilly/Ascidian RNA Editing Deal</title>
       <link>https://www.google.com</link>
       <description>&lt;ul&gt;
-  &lt;li&gt;&lt;b&gt;Summary:&lt;/b&gt; &lt;b&gt;Eli Lilly&lt;/b&gt; has increased secrecy around its early-stage pipeline, no longer disclosing details of Phase 1 programs in its quarterly updates. The move is seen as an effort to protect competitive advantage and prevent rivals from tracking its most innovative assets.&lt;/li&gt;
-  &lt;li&gt;&lt;b&gt;MoAs:&lt;/b&gt; N/A&lt;/li&gt;
-  &lt;li&gt;&lt;b&gt;Sources:&lt;/b&gt; &lt;a href='https://endpoints.news/post-hoc-lilly-gets-more-secretive-and-hides-phase-1-pipeline/'&gt;Endpoints News&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;b&gt;Summary:&lt;/b&gt; &lt;b&gt;Eli Lilly&lt;/b&gt; has entered a deal with &lt;b&gt;Ascidian Therapeutics&lt;/b&gt; worth up to $1.9 billion to develop RNA exon editors for kidney diseases. The collaboration applies Ascidian's RNA editing platform to targets selected by Lilly, with the potential to treat multiple kidney conditions.&lt;/li&gt;
+  &lt;li&gt;&lt;b&gt;MoAs:&lt;/b&gt; RNA exon editing: Uses synthetic RNA molecules to correct splicing errors and restore normal protein function without altering DNA.&lt;/li&gt;
+  &lt;li&gt;&lt;b&gt;Sources:&lt;/b&gt; &lt;a href="https://www.biospace.com/deals/lilly-targets-kidney-disease-with-ascidians-rna-exon-editors-for-up-to-1-9b"&gt;BioSpace&lt;/a&gt;, &lt;a href="https://endpoints.news/lilly-strikes-deal-with-ascidian-worth-up-to-1-9b-for-rna-editing-in-kidney-diseases/"&gt;Endpoints News&lt;/a&gt;, &lt;a href="https://www.biopharmadive.com/news/ascidian-lilly-kidney-deal-rna-exon-editing/821749/"&gt;BioPharma Dive&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;</description>
-      <guid isPermaLink="false">8ad551e1c68f9aa14f34ca379cb290f9</guid>
-      <pubDate>Fri, 29 May 2026 22:00:52 GMT</pubDate>
+      <guid isPermaLink="false">50c2910cbdce919ca7a13e7701af0200</guid>
+      <pubDate>Wed, 03 Jun 2026 22:00:22 GMT</pubDate>
     </item>
     <item>
-      <title>Alchymars FDA Warning Letter</title>
+      <title>NewLimit Age Reversal</title>
       <link>https://www.google.com</link>
       <description>&lt;ul&gt;
-  &lt;li&gt;&lt;b&gt;Summary:&lt;/b&gt; The FDA issued a warning letter to Alchymars due to manufacturing deficiencies including cracked gaskets and rust-like residues, emphasizing quality control issues.&lt;/li&gt;
-  &lt;li&gt;&lt;b&gt;MoAs:&lt;/b&gt; N/A&lt;/li&gt;
-  &lt;li&gt;&lt;b&gt;Sources:&lt;/b&gt; &lt;a href="https://www.biospace.com/fda/cracked-gaskets-and-rust-like-residues-trigger-fda-warning-letter-to-alchymars"&gt;BioSpace&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;b&gt;Summary:&lt;/b&gt; &lt;b&gt;NewLimit&lt;/b&gt; secured $435 million in financing after demonstrating age reversal effects in human liver cells. The company, co-founded by &lt;b&gt;Patrick Collison&lt;/b&gt; and &lt;b&gt;David Sinclair&lt;/b&gt;, is developing epigenetic reprogramming approaches to combat aging-related diseases.&lt;/li&gt;
+  &lt;li&gt;&lt;b&gt;MoAs:&lt;/b&gt; N/A (no specific drug named; platform based on epigenetic reprogramming)&lt;/li&gt;
+  &lt;li&gt;&lt;b&gt;Sources:&lt;/b&gt; &lt;a href="https://www.biospace.com/business/newlimit-snags-435m-after-seeing-age-reversal-in-human-liver-cells"&gt;BioSpace&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;</description>
-      <guid isPermaLink="false">c18cf14762604ef23395b4aca7319bad</guid>
-      <pubDate>Fri, 29 May 2026 22:00:52 GMT</pubDate>
+      <guid isPermaLink="false">68890d5b7f8ffaba48c1b3b377d258d6</guid>
+      <pubDate>Wed, 03 Jun 2026 22:00:22 GMT</pubDate>
     </item>
     <item>
-      <title>Beren's Rare Disease Drug Delay</title>
+      <title>Axsome Patent Extension</title>
       <link>https://www.google.com</link>
       <description>&lt;ul&gt;
-  &lt;li&gt;&lt;b&gt;Summary:&lt;/b&gt; The FDA has delayed its decision on Beren's rare disease drug by three months, extending the review period for the investigational therapy.&lt;/li&gt;
-  &lt;li&gt;&lt;b&gt;MoAs:&lt;/b&gt; N/A&lt;/li&gt;
-  &lt;li&gt;&lt;b&gt;Sources:&lt;/b&gt; &lt;a href="https://www.biospace.com/fda/fda-delays-verdict-on-berens-rare-disease-drug-by-three-months"&gt;BioSpace&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;b&gt;Summary:&lt;/b&gt; &lt;b&gt;Axsome Therapeutics&lt;/b&gt; secured a patent extension for its narcolepsy drug &lt;b&gt;Sunosi&lt;/b&gt; (solriamfetol), pushing generic competition back until at least 2040. The move protects a key revenue driver from early generic erosion.&lt;/li&gt;
+  &lt;li&gt;&lt;b&gt;MoAs:&lt;/b&gt; &lt;b&gt;Solriamfetol&lt;/b&gt; (Sunosi): Dopamine and norepinephrine reuptake inhibitor (DNRI) that promotes wakefulness in narcolepsy and obstructive sleep apnea.&lt;/li&gt;
+  &lt;li&gt;&lt;b&gt;Sources:&lt;/b&gt; &lt;a href="https://endpoints.news/axsome-pushes-back-generic-entry-for-narcolepsy-drug-until-2040/"&gt;Endpoints News&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;</description>
-      <guid isPermaLink="false">8ca7412804a8249fd012f419a7a233de</guid>
-      <pubDate>Fri, 29 May 2026 22:00:52 GMT</pubDate>
+      <guid isPermaLink="false">e1be44850958f2fa5ad31806d0a1bf7e</guid>
+      <pubDate>Wed, 03 Jun 2026 22:00:22 GMT</pubDate>
     </item>
     <item>
-      <title>UnitedHealthcare Fraud Lawsuit</title>
+      <title>Bristol Myers AI Costs</title>
       <link>https://www.google.com</link>
       <description>&lt;ul&gt;
-  &lt;li&gt;&lt;b&gt;Summary:&lt;/b&gt; The Massachusetts Attorney General has sued &lt;b&gt;UnitedHealthcare&lt;/b&gt;, alleging the health insurance giant engaged in a systematic scheme to upcode claims, defrauding the Medicaid program of an estimated $100 million. The lawsuit focuses on improper billing practices that inflated reimbursement amounts.&lt;/li&gt;
+  &lt;li&gt;&lt;b&gt;Summary:&lt;/b&gt; &lt;b&gt;Bristol Myers Squibb&lt;/b&gt; is turning its focus to managing artificial intelligence costs after a broad rollout of AI tools across its workforce. The company aims to optimize efficiency while controlling spending on the technology.&lt;/li&gt;
   &lt;li&gt;&lt;b&gt;MoAs:&lt;/b&gt; N/A&lt;/li&gt;
-  &lt;li&gt;&lt;b&gt;Sources:&lt;/b&gt; &lt;a href="https://www.statnews.com/2026/05/29/united-healthcare-sued-massachusetts-ag-alleges-100-million-upcode-fraud-medicaid/?utm_campaign=rss"&gt;STAT News&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;b&gt;Sources:&lt;/b&gt; &lt;a href="https://endpoints.news/bristol-myers-turns-focus-to-ai-costs-after-broad-rollout-to-workers/"&gt;Endpoints News&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;</description>
-      <guid isPermaLink="false">40a5b252624e3de8c4a5090442037bd1</guid>
-      <pubDate>Fri, 29 May 2026 22:00:52 GMT</pubDate>
+      <guid isPermaLink="false">8f265ec44b82285b5fdeaed346d02b9f</guid>
+      <pubDate>Wed, 03 Jun 2026 22:00:22 GMT</pubDate>
+    </item>
+    <item>
+      <title>Travere Rare Kidney Disease Deal</title>
+      <link>https://www.google.com</link>
+      <description>&lt;ul&gt;
+  &lt;li&gt;&lt;b&gt;Summary:&lt;/b&gt; Travere Therapeutics announced a deal worth up to $1.1 billion to expand its rare kidney disease portfolio through a partnership with a Chinese company. The deal includes an upfront payment and milestones for rights to a candidate in Asia, aiming to strengthen Travere's pipeline in rare kidney diseases such as IgA nephropathy.&lt;/li&gt;
+  &lt;li&gt;&lt;b&gt;MoAs:&lt;/b&gt; N/A&lt;/li&gt;
+  &lt;li&gt;&lt;b&gt;Sources:&lt;/b&gt; &lt;a href="https://www.biospace.com/deals/travere-beefs-up-rare-kidney-disease-portfolio-with-up-to-1-1b-china-deal"&gt;BioSpace&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;</description>
+      <guid isPermaLink="false">4e976e8bcbe50bec056cf7a3fbc6aa23</guid>
+      <pubDate>Wed, 03 Jun 2026 22:00:22 GMT</pubDate>
+    </item>
+    <item>
+      <title>Cencora/Gilead CAR-T Network</title>
+      <link>https://www.google.com</link>
+      <description>&lt;ul&gt;
+  &lt;li&gt;&lt;b&gt;Summary:&lt;/b&gt; Cencora (formerly AmerisourceBergen) and Gilead Sciences are expanding their CAR-T treatment center network to improve patient access to cell therapies. The collaboration focuses on streamlining logistics and support for authorized treatment centers across the US.&lt;/li&gt;
+  &lt;li&gt;&lt;b&gt;MoAs:&lt;/b&gt; N/A&lt;/li&gt;
+  &lt;li&gt;&lt;b&gt;Sources:&lt;/b&gt; &lt;a href="https://www.fiercepharma.com/pharma/deal-cencora-gilead-expands-car-t-treatment-center-network"&gt;Fierce Pharma&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;</description>
+      <guid isPermaLink="false">e9bbe7786396a32c2c2ca173fa8b924a</guid>
+      <pubDate>Wed, 03 Jun 2026 22:00:22 GMT</pubDate>
+    </item>
+    <item>
+      <title>Lilly/Boehringer Germany Investment</title>
+      <link>https://www.google.com</link>
+      <description>&lt;ul&gt;
+  &lt;li&gt;&lt;b&gt;Summary:&lt;/b&gt; Eli Lilly and Boehringer Ingelheim are reportedly planning to reduce their investments in Germany, citing changing market conditions and regulatory pressures. The decision could impact manufacturing and R&amp;D operations in the country.&lt;/li&gt;
+  &lt;li&gt;&lt;b&gt;MoAs:&lt;/b&gt; N/A&lt;/li&gt;
+  &lt;li&gt;&lt;b&gt;Sources:&lt;/b&gt; &lt;a href="https://www.fiercepharma.com/pharma/lilly-boehringer-plan-slash-investment-germany-report"&gt;Fierce Pharma&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;</description>
+      <guid isPermaLink="false">c672b5ffce999c188d59fb0e491bca19</guid>
+      <pubDate>Wed, 03 Jun 2026 22:00:22 GMT</pubDate>
     </item>
   </channel>
 </rss>
