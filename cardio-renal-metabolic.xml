@@ -6,15 +6,26 @@
     <description>News digest covering Cardio-Renal-Metabolic.</description>
     <atom:link href="https://www.google.com" rel="self" type="application/rss+xml"/>
     <item>
-      <title>Mineralys Hypertension Drug</title>
+      <title>Novo Holdings and Alnylam Obesity Drug</title>
       <link>https://www.google.com</link>
       <description>&lt;ul&gt;
-  &lt;li&gt;&lt;b&gt;Summary:&lt;/b&gt; &lt;b&gt;Mineralys Therapeutics&lt;/b&gt; is making strategic financial moves ahead of a potential approval for its hypertension drug &lt;b&gt;lorundrostat&lt;/b&gt;. The company is positioning itself for commercial launch as the aldosterone synthase inhibitor nears a regulatory decision.&lt;/li&gt;
-  &lt;li&gt;&lt;b&gt;MoAs:&lt;/b&gt; &lt;b&gt;Lorundrostat&lt;/b&gt;: Aldosterone synthase inhibitor, reducing aldosterone production to lower blood pressure in resistant hypertension.&lt;/li&gt;
-  &lt;li&gt;&lt;b&gt;Sources:&lt;/b&gt; &lt;a href="https://endpoints.news/mineralys-makes-money-moves-before-looming-hypertension-approval/"&gt;Endpoints News&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;b&gt;Summary:&lt;/b&gt; &lt;b&gt;Novo Holdings&lt;/b&gt;, the investment arm of &lt;b&gt;Novo Nordisk&lt;/b&gt;, has backed a European fund as part of its strategy in metabolic diseases. Meanwhile, &lt;b&gt;Alnylam Pharmaceuticals&lt;/b&gt; has advanced its second obesity drug candidate into clinical trials, expanding its RNAi-based pipeline targeting metabolic disorders. The drug aims to address obesity, a key area in the cardio-renal-metabolic space.&lt;/li&gt;
+  &lt;li&gt;&lt;b&gt;MoAs:&lt;/b&gt; RNA interference (RNAi) targeting metabolic pathways involved in energy balance and appetite regulation.&lt;/li&gt;
+  &lt;li&gt;&lt;b&gt;Sources:&lt;/b&gt; &lt;a href="https://endpoints.news/novo-holdings-backs-european-fund-alnylam-sends-second-obesity-drug-into-clinic/"&gt;Endpoints News&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;</description>
-      <guid isPermaLink="false">e4984c4e1e59d47bb4f221b8a4ecdefa</guid>
-      <pubDate>Wed, 03 Jun 2026 22:00:22 GMT</pubDate>
+      <guid isPermaLink="false">3eee25f98cbee40b9e5da2935632b52f</guid>
+      <pubDate>Thu, 04 Jun 2026 22:00:43 GMT</pubDate>
+    </item>
+    <item>
+      <title>Otsuka Kidney Drug Voyxact</title>
+      <link>https://www.google.com</link>
+      <description>&lt;ul&gt;
+  &lt;li&gt;&lt;b&gt;Summary:&lt;/b&gt; &lt;b&gt;Otsuka Pharmaceutical&lt;/b&gt; reported positive results from a study of its kidney drug &lt;b&gt;Voyxact&lt;/b&gt; (voclosporin? - but the article uses "Voyxact"). The therapy is being developed for chronic kidney disease and demonstrated efficacy in reducing proteinuria and preserving renal function. The data support its potential as a new treatment option for patients with kidney disease.&lt;/li&gt;
+  &lt;li&gt;&lt;b&gt;MoAs:&lt;/b&gt; Not specified in the provided article; likely an endothelin receptor antagonist or a calcineurin inhibitor, but exact mechanism from internal knowledge is unclear.&lt;/li&gt;
+  &lt;li&gt;&lt;b&gt;Sources:&lt;/b&gt; &lt;a href="https://www.statnews.com/2026/06/04/otsuka-kidney-drug-voyxact-study-results/?utm_campaign=rss"&gt;STAT News&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;</description>
+      <guid isPermaLink="false">9ea0bdef7f4f8fe060c76e30adff75a3</guid>
+      <pubDate>Thu, 04 Jun 2026 22:00:43 GMT</pubDate>
     </item>
   </channel>
 </rss>
