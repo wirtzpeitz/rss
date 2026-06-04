@@ -6,15 +6,15 @@
     <description>News digest covering Immunology.</description>
     <atom:link href="https://www.google.com" rel="self" type="application/rss+xml"/>
     <item>
-      <title>Gilead Arthritis Drug Failure</title>
+      <title>Cabaletta Autoimmune CAR-T</title>
       <link>https://www.google.com</link>
       <description>&lt;ul&gt;
-  &lt;li&gt;&lt;b&gt;Summary:&lt;/b&gt; &lt;b&gt;Gilead Sciences&lt;/b&gt; has scrapped its lead arthritis drug, acquired through the $405 million buyout of &lt;b&gt;MiroBio&lt;/b&gt;, after disappointing clinical results. The candidate was a BTLA-targeted therapy for rheumatoid arthritis. The failure is a setback for the BTLA pathway in autoimmune diseases.&lt;/li&gt;
-  &lt;li&gt;&lt;b&gt;MoAs:&lt;/b&gt; BTLA (B- and T-lymphocyte attenuator) agonist; activates BTLA receptor to inhibit T-cell activation and reduce autoimmune inflammation.&lt;/li&gt;
-  &lt;li&gt;&lt;b&gt;Sources:&lt;/b&gt; &lt;a href='https://www.fiercebiotech.com/biotech/gilead-scraps-lead-arthritis-drug-405m-mirobio-buyout-latest-blow-btla-field'&gt;Fierce Biotech&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;b&gt;Summary:&lt;/b&gt; &lt;b&gt;Cabaletta Bio&lt;/b&gt; is a key player in the autoimmune CAR-T space, developing chimeric antigen receptor T-cell therapies for autoimmune diseases such as lupus and myositis. The company is focused on demonstrating durability of its therapies and business model, aiming to provide long-term remission for patients with B cell-driven autoimmune disorders.&lt;/li&gt;
+  &lt;li&gt;&lt;b&gt;MoAs:&lt;/b&gt; Chimeric antigen receptor (CAR) T-cell therapy targeting CD19 on B cells to eliminate autoreactive B cells.&lt;/li&gt;
+  &lt;li&gt;&lt;b&gt;Sources:&lt;/b&gt; &lt;a href="https://www.fiercebiotech.com/biotech/why-autoimmune-car-t-player-cabaletta-looking-have-durability-its-business-and-therapies"&gt;Fierce Biotech&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;</description>
-      <guid isPermaLink="false">0db9170d3b31c29a115c70e453b27103</guid>
-      <pubDate>Fri, 29 May 2026 22:00:52 GMT</pubDate>
+      <guid isPermaLink="false">172db37c99aa5153ca27455e6d540ee1</guid>
+      <pubDate>Thu, 04 Jun 2026 22:00:43 GMT</pubDate>
     </item>
   </channel>
 </rss>
