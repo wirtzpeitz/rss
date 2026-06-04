@@ -6,15 +6,26 @@
     <description>News digest covering Other TA.</description>
     <atom:link href="https://www.google.com" rel="self" type="application/rss+xml"/>
     <item>
-      <title>GSK Nucala COPD Endorsement</title>
+      <title>Cellares TSCAN Therapy</title>
       <link>https://www.google.com</link>
       <description>&lt;ul&gt;
-  &lt;li&gt;&lt;b&gt;Summary:&lt;/b&gt; GSK's Nucala (mepolizumab) has received NICE endorsement for use in chronic obstructive pulmonary disease within the NHS, expanding its indication beyond severe eosinophilic asthma.&lt;/li&gt;
-  &lt;li&gt;&lt;b&gt;MoAs:&lt;/b&gt; Anti-IL-5 monoclonal antibody, reduces eosinophil activity&lt;/li&gt;
-  &lt;li&gt;&lt;b&gt;Sources:&lt;/b&gt; &lt;a href="https://www.pharmaceutical-technology.com/news/gsk-nucala-copd-nice-endorsement-nhs/"&gt;Pharmaceutical Technology&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;b&gt;Summary:&lt;/b&gt; &lt;b&gt;Cellares&lt;/b&gt; has announced that its TSCAN platform will be used to assess &lt;b&gt;TSC101&lt;/b&gt;, a novel cell therapy candidate. The company specializes in automated cell therapy manufacturing, and TSCAN is a quality control system to evaluate potency and safety. The partnership or study aims to advance TSC101 toward clinical development, though the therapeutic indication is not explicitly stated in the article.&lt;/li&gt;
+  &lt;li&gt;&lt;b&gt;MoAs:&lt;/b&gt; Not specified in the provided article; likely a cell therapy (e.g., CAR-T or TCR-based) with mechanism dependent on target cells.&lt;/li&gt;
+  &lt;li&gt;&lt;b&gt;Sources:&lt;/b&gt; &lt;a href="https://www.pharmaceutical-technology.com/news/cellares-tscan-to-assess-tsc101-therapy/"&gt;Pharmaceutical Technology&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;</description>
-      <guid isPermaLink="false">dfdb72eaa06fb819b0f9f2b6dc208816</guid>
-      <pubDate>Fri, 29 May 2026 22:00:52 GMT</pubDate>
+      <guid isPermaLink="false">b38e41a04c1f2522a77b803cbbb1eb36</guid>
+      <pubDate>Thu, 04 Jun 2026 22:00:43 GMT</pubDate>
+    </item>
+    <item>
+      <title>Hair Loss Treatment</title>
+      <link>https://www.google.com</link>
+      <description>&lt;ul&gt;
+  &lt;li&gt;&lt;b&gt;Summary:&lt;/b&gt; A BioSpace article discusses rethinking hair loss treatment, exploring novel approaches beyond traditional therapies like minoxidil and finasteride. The piece examines emerging science in hair follicle biology, including stem cell therapies, Janus kinase (JAK) inhibitors, and other mechanisms that could offer new solutions for androgenetic alopecia and other forms of hair loss. This reflects a growing interest in expanding the therapeutic arsenal for a common condition.&lt;/li&gt;
+  &lt;li&gt;&lt;b&gt;MoAs:&lt;/b&gt; Potential mechanisms discussed may include androgen receptor modulation, JAK inhibition, and stem cell activation.&lt;/li&gt;
+  &lt;li&gt;&lt;b&gt;Sources:&lt;/b&gt; &lt;a href='https://www.biospace.com/drug-development/rethinking-hair-loss-treatment'&gt;BioSpace&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;</description>
+      <guid isPermaLink="false">8c9253dc0377f7ffbb9c5ad2f93332fd</guid>
+      <pubDate>Thu, 04 Jun 2026 22:00:43 GMT</pubDate>
     </item>
   </channel>
 </rss>
