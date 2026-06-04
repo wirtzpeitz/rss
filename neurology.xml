@@ -6,15 +6,15 @@
     <description>News digest covering Neurology.</description>
     <atom:link href="https://www.google.com" rel="self" type="application/rss+xml"/>
     <item>
-      <title>AbbVie Aquipta EC Approval</title>
+      <title>Autobahn Therapeutics Bipolar Depression</title>
       <link>https://www.google.com</link>
       <description>&lt;ul&gt;
-  &lt;li&gt;&lt;b&gt;Summary:&lt;/b&gt; AbbVie's oral CGRP receptor antagonist Aquipta (atogepant) has received European Commission approval for the preventive treatment of chronic and episodic migraine. This expands access to the drug in Europe, offering a once-daily oral option for migraine patients.&lt;/li&gt;
-  &lt;li&gt;&lt;b&gt;MoAs:&lt;/b&gt; Calcitonin gene-related peptide (CGRP) receptor antagonist&lt;/li&gt;
-  &lt;li&gt;&lt;b&gt;Sources:&lt;/b&gt; &lt;a href="https://www.pharmaceutical-technology.com/news/abbvie-ec-approval-aquipta/"&gt;Pharmaceutical Technology&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;b&gt;Summary:&lt;/b&gt; &lt;b&gt;Autobahn Therapeutics&lt;/b&gt; is advancing toward a pivotal trial after its thyroid hormone receptor agonist showed promise in easing symptoms of bipolar depression. The mid-stage study met its primary endpoint, providing a potential new treatment option for patients with bipolar disorder. The drug mimics thyroid hormone signaling in the brain, which is thought to modulate mood and cognition.&lt;/li&gt;
+  &lt;li&gt;&lt;b&gt;MoAs:&lt;/b&gt; Thyroid hormone receptor agonist (specifically targeting thyroid hormone signaling in the central nervous system).&lt;/li&gt;
+  &lt;li&gt;&lt;b&gt;Sources:&lt;/b&gt; &lt;a href="https://www.fiercebiotech.com/biotech/autobahn-races-toward-pivotal-trial-after-thyroid-hormone-mimic-eases-bipolar-depression-ph"&gt;Fierce Biotech&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;</description>
-      <guid isPermaLink="false">98b3d1760a9b01ebb61ddc4b99c2e544</guid>
-      <pubDate>Wed, 03 Jun 2026 22:00:22 GMT</pubDate>
+      <guid isPermaLink="false">06014ef4c685f300b6e9c04171819e98</guid>
+      <pubDate>Thu, 04 Jun 2026 22:00:43 GMT</pubDate>
     </item>
   </channel>
 </rss>
