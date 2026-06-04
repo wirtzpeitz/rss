@@ -6,26 +6,15 @@
     <description>News digest covering Infectious Disease.</description>
     <atom:link href="https://www.google.com" rel="self" type="application/rss+xml"/>
     <item>
-      <title>Kenya Ebola Quarantine</title>
+      <title>HIV Hiding Spot Discovery</title>
       <link>https://www.google.com</link>
       <description>&lt;ul&gt;
-  &lt;li&gt;&lt;b&gt;Summary:&lt;/b&gt; A Kenyan court has suspended a government plan to establish a quarantine facility for Americans amid the ongoing Ebola outbreak. The legal decision raises questions about public health measures and international cooperation in response to the infectious disease threat.&lt;/li&gt;
+  &lt;li&gt;&lt;b&gt;Summary:&lt;/b&gt; Scientists have uncovered a new hiding spot for HIV, as reported by STAT News. This discovery reveals previously unknown cellular reservoirs where the virus can persist despite antiretroviral therapy, complicating efforts to achieve a cure. Identifying these sanctuary sites is a critical step toward developing strategies to eliminate latent HIV and achieve long-term remission or eradication.&lt;/li&gt;
   &lt;li&gt;&lt;b&gt;MoAs:&lt;/b&gt; N/A&lt;/li&gt;
-  &lt;li&gt;&lt;b&gt;Sources:&lt;/b&gt; &lt;a href="https://www.statnews.com/2026/05/29/kenya-court-suspends-plan-ebola-quarantine-facility-americans/?utm_campaign=rss"&gt;STAT News&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;b&gt;Sources:&lt;/b&gt; &lt;a href='https://www.statnews.com/2026/06/04/health-news-scientists-uncover-new-hiding-spot-for-hiv/'&gt;STAT News&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;</description>
-      <guid isPermaLink="false">818ef407efee3b339c612cc3b6b9b5bf</guid>
-      <pubDate>Fri, 29 May 2026 22:00:52 GMT</pubDate>
-    </item>
-    <item>
-      <title>Ebola Vaccines</title>
-      <link>https://www.google.com</link>
-      <description>&lt;ul&gt;
-  &lt;li&gt;&lt;b&gt;Summary:&lt;/b&gt; This article examines the current landscape of vaccines available to curb the Ebola outbreak. It discusses the efficacy and deployment of approved vaccines such as &lt;b&gt;Ervebo&lt;/b&gt; (rVSV-ZEBOV) and other investigational candidates, highlighting the challenges in outbreak control and vaccine logistics.&lt;/li&gt;
-  &lt;li&gt;&lt;b&gt;MoAs:&lt;/b&gt; &lt;b&gt;Ervebo&lt;/b&gt; (rVSV-ZEBOV): A live attenuated recombinant vesicular stomatitis virus vector expressing the Zaire ebolavirus glycoprotein, eliciting an immune response. Other investigational vaccines may include adenovirus-based vectors or other platforms targeting Ebola virus glycoproteins.&lt;/li&gt;
-  &lt;li&gt;&lt;b&gt;Sources:&lt;/b&gt; &lt;a href="https://www.statnews.com/2026/05/29/health-news-which-vaccines-will-curb-ebola-outbreak/?utm_campaign=rss"&gt;STAT News&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;</description>
-      <guid isPermaLink="false">7edf245172fe456c748fabdba70df9db</guid>
-      <pubDate>Fri, 29 May 2026 22:00:52 GMT</pubDate>
+      <guid isPermaLink="false">0ccbc48e6d5fdff1223d81951e4a5b00</guid>
+      <pubDate>Thu, 04 Jun 2026 22:00:43 GMT</pubDate>
     </item>
   </channel>
 </rss>
