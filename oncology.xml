@@ -6,26 +6,59 @@
     <description>News digest covering Oncology.</description>
     <atom:link href="https://www.google.com" rel="self" type="application/rss+xml"/>
     <item>
-      <title>Legend Biotech CAR-T</title>
+      <title>Revolution Medicines Daraxonrasib</title>
       <link>https://www.google.com</link>
       <description>&lt;ul&gt;
-  &lt;li&gt;&lt;b&gt;Summary:&lt;/b&gt; At the &lt;b&gt;EHA 2026&lt;/b&gt; congress, &lt;b&gt;Legend Biotech&lt;/b&gt; presented promising early data for its &lt;i&gt;in vivo&lt;/i&gt; CAR-T candidate &lt;b&gt;LB2501&lt;/b&gt; in lymphoma. The therapy, designed to generate CAR-T cells directly in the body, demonstrated a best-in-class safety and efficacy profile, driving significant stock gains and positioning Legend as a rare market winner in a crowded field.&lt;/li&gt;
-  &lt;li&gt;&lt;b&gt;MoAs:&lt;/b&gt; &lt;i&gt;In vivo&lt;/i&gt; CAR-T: Uses a vector to program a patient's own T cells to express a chimeric antigen receptor targeting tumor antigens (e.g., CD19) without ex vivo manipulation.&lt;/li&gt;
-  &lt;li&gt;&lt;b&gt;Sources:&lt;/b&gt; &lt;a href="https://www.apexonco.com/eha-2026-preview-legends-vivo-car-t-reveal"&gt;ApexOnco&lt;/a&gt;, &lt;a href="https://www.biopharmadive.com/news/legend-in-vivo-car-t-LB2501-lymphoma-data-eha/821882/"&gt;BioPharma Dive&lt;/a&gt;, &lt;a href="https://www.statnews.com/2026/06/03/biotech-news-legend-biotech-emerges-as-rare-market-winner/?utm_campaign=rss"&gt;STAT News&lt;/a&gt;, &lt;a href="https://www.biospace.com/drug-development/legend-soars-on-best-in-class-best-in-disease-in-vivo-car-t-in-early-lymphoma-study"&gt;BioSpace&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;b&gt;Summary:&lt;/b&gt; Revolution Medicines' investigational RAS inhibitor daraxonrasib is generating heavy demand for pancreatic cancer treatment. The drug, which targets mutant RAS proteins, is under high anticipation as it advances in clinical development, with news outlets highlighting its potential to address a major unmet need in pancreatic cancer.&lt;/li&gt;
+  &lt;li&gt;&lt;b&gt;MoAs:&lt;/b&gt; Mutant-selective RAS(ON) inhibition, blocking aberrant RAS signaling in tumor cells.&lt;/li&gt;
+  &lt;li&gt;&lt;b&gt;Sources:&lt;/b&gt; &lt;a href='https://www.statnews.com/pharmalot/2026/06/04/revolution-medicines-pancreatic-cancer-drug-daraxonrasib-heavy-demand/?utm_campaign=rss'&gt;STAT News&lt;/a&gt;, &lt;a href='https://www.statnews.com/2026/06/04/revolution-medicines-daraxonrasib-pancreatic-cancer/?utm_campaign=rss'&gt;STAT News&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;</description>
-      <guid isPermaLink="false">75ff7069870cb3cc1911ed30fec92800</guid>
-      <pubDate>Wed, 03 Jun 2026 22:00:22 GMT</pubDate>
+      <guid isPermaLink="false">850d489e7878e589fd4b7bc89655d771</guid>
+      <pubDate>Thu, 04 Jun 2026 22:00:43 GMT</pubDate>
     </item>
     <item>
-      <title>Roche Giredestrant FDA Priority Review</title>
+      <title>ADC Therapeutics Zynlonta</title>
       <link>https://www.google.com</link>
       <description>&lt;ul&gt;
-  &lt;li&gt;&lt;b&gt;Summary:&lt;/b&gt; Roche's experimental oral selective estrogen receptor degrader (SERD) giredestrant has been granted FDA priority review for the treatment of estrogen receptor-positive breast cancer. The designation accelerates the review timeline, with a decision expected later this year.&lt;/li&gt;
-  &lt;li&gt;&lt;b&gt;MoAs:&lt;/b&gt; Selective estrogen receptor degrader (SERD)&lt;/li&gt;
-  &lt;li&gt;&lt;b&gt;Sources:&lt;/b&gt; &lt;a href="https://www.pharmaceutical-technology.com/news/roches-giredestrant-secures-fda-priority-review/"&gt;Pharmaceutical Technology&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;b&gt;Summary:&lt;/b&gt; ADC Therapeutics' shares plummeted after patient deaths were reported in a confirmatory trial for Zynlonta (loncastuximab tesirine) in lymphoma. The high death rates muddied the drug's efficacy data, casting doubt on its confirmatory path and future commercial prospects. Multiple outlets covered the negative outcome.&lt;/li&gt;
+  &lt;li&gt;&lt;b&gt;MoAs:&lt;/b&gt; CD19-directed antibody-drug conjugate (ADC) with pyrrolobenzodiazepine (PBD) dimer payload; binds CD19 on B-cells, internalized, releases PBD dimer that crosslinks DNA, inducing apoptosis.&lt;/li&gt;
+  &lt;li&gt;&lt;b&gt;Sources:&lt;/b&gt; &lt;a href='https://www.fiercepharma.com/pharma/adcs-shares-plummet-after-patient-deaths-trial-zynlonta'&gt;Fierce Pharma&lt;/a&gt;, &lt;a href='https://www.apexonco.com/zynlontas-confirmation-looks-doubt'&gt;ApexOnco&lt;/a&gt;, &lt;a href='https://endpoints.news/adc-therapeutics-confirmatory-data-for-zynlonta-muddied-by-death-rates/'&gt;Endpoints News&lt;/a&gt;, &lt;a href='https://www.biospace.com/drug-development/adc-therapeutics-nosedives-on-27-deaths-in-confirmatory-trial-for-lymphoma-drug'&gt;BioSpace&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;</description>
-      <guid isPermaLink="false">ee60e314a96b916d2605bfd321c29871</guid>
-      <pubDate>Wed, 03 Jun 2026 22:00:22 GMT</pubDate>
+      <guid isPermaLink="false">0c13e842d729e2729a136afc5a375c4e</guid>
+      <pubDate>Thu, 04 Jun 2026 22:00:43 GMT</pubDate>
+    </item>
+    <item>
+      <title>Innovent Claudin ADC</title>
+      <link>https://www.google.com</link>
+      <description>&lt;ul&gt;
+  &lt;li&gt;&lt;b&gt;Summary:&lt;/b&gt; Innovent reported a Phase 3 win for its Claudin18.2-targeting antibody-drug conjugate, possibly IBI343. The positive data come on the heels of a fresh $1.2 billion deal, underscoring the company's momentum in the ADC space. The therapy is designed for CLDN18.2-positive solid tumors.&lt;/li&gt;
+  &lt;li&gt;&lt;b&gt;MoAs:&lt;/b&gt; Anti-Claudin18.2 ADC with topoisomerase I inhibitor payload (exatecan derivative); binds CLDN18.2 on tumor cells, internalized, and releases cytotoxic payload causing DNA damage.&lt;/li&gt;
+  &lt;li&gt;&lt;b&gt;Sources:&lt;/b&gt; &lt;a href='https://www.apexonco.com/innovent-gets-claudin-conjugate-result'&gt;ApexOnco&lt;/a&gt;, &lt;a href='https://www.fiercebiotech.com/biotech/innovent-fresh-12b-deal-posts-phase-3-win-cldn182-adc'&gt;Fierce Biotech&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;</description>
+      <guid isPermaLink="false">77351d6e55b7d78b97a0d0a783602d34</guid>
+      <pubDate>Thu, 04 Jun 2026 22:00:43 GMT</pubDate>
+    </item>
+    <item>
+      <title>Ona Therapeutics ADC</title>
+      <link>https://www.google.com</link>
+      <description>&lt;ul&gt;
+  &lt;li&gt;&lt;b&gt;Summary:&lt;/b&gt; ADC biotech Ona Therapeutics raised $86.6 million in a Series B financing to advance its pipeline of antibody-drug conjugates for breast and colorectal cancer. The funding will support clinical development of its lead candidates targeting solid tumors.&lt;/li&gt;
+  &lt;li&gt;&lt;b&gt;MoAs:&lt;/b&gt; Antibody-drug conjugate targeting undisclosed tumor antigens; likely delivers a cytotoxic payload (specific payload not disclosed) to cancer cells after internalization.&lt;/li&gt;
+  &lt;li&gt;&lt;b&gt;Sources:&lt;/b&gt; &lt;a href='https://endpoints.news/adc-biotech-ona-therapeutics-secures-86-6m-in-series-b-raise/'&gt;Endpoints News&lt;/a&gt;, &lt;a href='https://www.biopharmadive.com/news/ona-antibody-drug-conjugate-breast-colorectal-cancer/821891/'&gt;BioPharma Dive&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;</description>
+      <guid isPermaLink="false">4e5e4ff36bd20b76cddaa1d4ff33e255</guid>
+      <pubDate>Thu, 04 Jun 2026 22:00:43 GMT</pubDate>
+    </item>
+    <item>
+      <title>Grail Multi-Cancer Test</title>
+      <link>https://www.google.com</link>
+      <description>&lt;ul&gt;
+  &lt;li&gt;&lt;b&gt;Summary:&lt;/b&gt; Grail's multi-cancer early detection (MCED) test has shown encouraging results in a recent trial, as reported by STAT News. The blood-based test aims to screen for multiple cancer types at earlier stages, potentially improving outcomes through earlier intervention. The trial results contribute to the growing evidence base for liquid biopsy technologies in oncology screening, though questions remain about clinical utility, cost-effectiveness, and integration into routine care.&lt;/li&gt;
+  &lt;li&gt;&lt;b&gt;MoAs:&lt;/b&gt; N/A&lt;/li&gt;
+  &lt;li&gt;&lt;b&gt;Sources:&lt;/b&gt; &lt;a href='https://www.statnews.com/2026/06/04/grail-multi-cancer-early-detection-test-trial-results/'&gt;STAT News&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;</description>
+      <guid isPermaLink="false">ad4716c2938fed8af193f87df6277e8c</guid>
+      <pubDate>Thu, 04 Jun 2026 22:00:43 GMT</pubDate>
     </item>
   </channel>
 </rss>
