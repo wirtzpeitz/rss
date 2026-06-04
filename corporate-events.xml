@@ -6,103 +6,81 @@
     <description>News digest covering Corporate Events.</description>
     <atom:link href="https://www.google.com" rel="self" type="application/rss+xml"/>
     <item>
-      <title>Alnylam/Inceptive Deal</title>
+      <title>Hikma Skinny Label Case</title>
       <link>https://www.google.com</link>
       <description>&lt;ul&gt;
-  &lt;li&gt;&lt;b&gt;Summary:&lt;/b&gt; &lt;b&gt;Alnylam&lt;/b&gt; has partnered with AI startup &lt;b&gt;Inceptive&lt;/b&gt; to advance RNA research and development. The deal includes $30 million upfront to leverage Inceptive's AI foundation models for RNA design, potentially accelerating Alnylam's pipeline.&lt;/li&gt;
+  &lt;li&gt;&lt;b&gt;Summary:&lt;/b&gt; The Supreme Court unanimously sided with Hikma in its skinny label case against Amarin, a significant legal victory for generic manufacturers. The ruling allows Hikma to market a generic version of Vascepa with a label that carves out patented indications. Additionally, Hikma announced it will funnel $267 million into Ohio operations, while Cingulate received a CRL for its ADHD drug.&lt;/li&gt;
   &lt;li&gt;&lt;b&gt;MoAs:&lt;/b&gt; N/A&lt;/li&gt;
-  &lt;li&gt;&lt;b&gt;Sources:&lt;/b&gt; &lt;a href="https://endpoints.news/alnylam-to-pay-30m-upfront-to-ai-startup-inceptive-in-rna-rd-deal/"&gt;Endpoints News&lt;/a&gt;, &lt;a href="https://www.statnews.com/2026/06/03/alnylam-partner-with-inceptive-nucleics-ai-foundation-models/?utm_campaign=rss"&gt;STAT News&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;b&gt;Sources:&lt;/b&gt; &lt;a href='https://www.fiercepharma.com/pharma/its-unanimous-scotus-agrees-hikma-skinny-label-case-vs-amarin'&gt;Fierce Pharma&lt;/a&gt;, &lt;a href='https://www.statnews.com/pharmalot/2026/06/04/hikma-amarin-generics-skinny-labeling-supreme-court/?utm_campaign=rss'&gt;STAT News&lt;/a&gt;, &lt;a href='https://endpoints.news/supreme-court-sides-with-hikma-in-skinny-label-case/'&gt;Endpoints News&lt;/a&gt;, &lt;a href='https://endpoints.news/hikma-to-funnel-267m-to-ohio-cingulate-gets-crl-for-adhd-drug/'&gt;Endpoints News&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;</description>
-      <guid isPermaLink="false">34e2ad36859b0a7cd66d2844293f4b32</guid>
-      <pubDate>Wed, 03 Jun 2026 22:00:22 GMT</pubDate>
+      <guid isPermaLink="false">7c14731cfd39a2b6a21e426045b01a4d</guid>
+      <pubDate>Thu, 04 Jun 2026 22:00:43 GMT</pubDate>
     </item>
     <item>
-      <title>Regeneron/Cytomx Deal</title>
+      <title>Alnylam-Inceptive AI Partnership</title>
       <link>https://www.google.com</link>
       <description>&lt;ul&gt;
-  &lt;li&gt;&lt;b&gt;Summary:&lt;/b&gt; &lt;b&gt;Regeneron&lt;/b&gt; has deepened its partnership with &lt;b&gt;CytomX Therapeutics&lt;/b&gt; with a $37 million upfront payment and up to $2 billion in biobucks. The expanded deal covers the development of next-generation Probody therapeutics, despite other pharma companies stepping away from similar agreements.&lt;/li&gt;
+  &lt;li&gt;&lt;b&gt;Summary:&lt;/b&gt; Alnylam has partnered with AI pioneer Inceptive to transform siRNA design, paying $30 million upfront with potential milestone payments up to $2 billion. The deal aims to leverage Inceptive's AI platform to enhance the discovery and development of RNAi therapeutics.&lt;/li&gt;
   &lt;li&gt;&lt;b&gt;MoAs:&lt;/b&gt; N/A&lt;/li&gt;
-  &lt;li&gt;&lt;b&gt;Sources:&lt;/b&gt; &lt;a href="https://endpoints.news/regeneron-doubles-down-on-cytomx-after-other-pharmas-walked-away/"&gt;Endpoints News&lt;/a&gt;, &lt;a href="https://www.fiercebiotech.com/biotech/regeneron-pays-37m-adds-2b-biobucks-expand-cytomx-pact"&gt;Fierce Biotech&lt;/a&gt;, &lt;a href="https://www.biopharmadive.com/news/newlimit-lilly-hanmi-haisco-praxis-cytomx-regeneron/821624/"&gt;BioPharma Dive&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;b&gt;Sources:&lt;/b&gt; &lt;a href='https://www.biopharmadive.com/news/alnylam-inceptive-ai-drug-discovery-rna-deal-artificial-intelligence/822008/'&gt;BioPharma Dive&lt;/a&gt;, &lt;a href='https://www.biospace.com/deals/alnylam-hops-on-ai-train-with-up-to-2b-inceptive-partnership'&gt;BioSpace&lt;/a&gt;, &lt;a href='https://www.fiercebiotech.com/biotech/alnylam-pays-inceptive-30m-transform-sirna-design-ai-pioneer'&gt;Fierce Biotech&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;</description>
-      <guid isPermaLink="false">997e81b8f9abb6ef7277dc9b1dd9c158</guid>
-      <pubDate>Wed, 03 Jun 2026 22:00:22 GMT</pubDate>
+      <guid isPermaLink="false">54ad363c12cd5ab37882529a526948be</guid>
+      <pubDate>Thu, 04 Jun 2026 22:00:43 GMT</pubDate>
     </item>
     <item>
-      <title>Lilly/Ascidian RNA Editing Deal</title>
+      <title>Parabilis Medicines IPO</title>
       <link>https://www.google.com</link>
       <description>&lt;ul&gt;
-  &lt;li&gt;&lt;b&gt;Summary:&lt;/b&gt; &lt;b&gt;Eli Lilly&lt;/b&gt; has entered a deal with &lt;b&gt;Ascidian Therapeutics&lt;/b&gt; worth up to $1.9 billion to develop RNA exon editors for kidney diseases. The collaboration applies Ascidian's RNA editing platform to targets selected by Lilly, with the potential to treat multiple kidney conditions.&lt;/li&gt;
-  &lt;li&gt;&lt;b&gt;MoAs:&lt;/b&gt; RNA exon editing: Uses synthetic RNA molecules to correct splicing errors and restore normal protein function without altering DNA.&lt;/li&gt;
-  &lt;li&gt;&lt;b&gt;Sources:&lt;/b&gt; &lt;a href="https://www.biospace.com/deals/lilly-targets-kidney-disease-with-ascidians-rna-exon-editors-for-up-to-1-9b"&gt;BioSpace&lt;/a&gt;, &lt;a href="https://endpoints.news/lilly-strikes-deal-with-ascidian-worth-up-to-1-9b-for-rna-editing-in-kidney-diseases/"&gt;Endpoints News&lt;/a&gt;, &lt;a href="https://www.biopharmadive.com/news/ascidian-lilly-kidney-deal-rna-exon-editing/821749/"&gt;BioPharma Dive&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;b&gt;Summary:&lt;/b&gt; Peptide biotech Parabilis Medicines is preparing for an IPO targeting up to $476 million to fund its Phase 3 desmoid tumor drug. The company aims to advance its pipeline of peptide-based therapeutics, with the lead candidate showing promise in desmoid tumors.&lt;/li&gt;
+  &lt;li&gt;&lt;b&gt;MoAs:&lt;/b&gt; Gamma-secretase inhibitor targeting the Notch pathway (AL102), disrupting tumor growth in desmoid tumors.&lt;/li&gt;
+  &lt;li&gt;&lt;b&gt;Sources:&lt;/b&gt; &lt;a href='https://www.biospace.com/business/peptide-biotech-parabilis-targets-up-to-476m-ipo'&gt;BioSpace&lt;/a&gt;, &lt;a href='https://www.fiercebiotech.com/biotech/parabilis-preps-413m-ipo-fuel-desmoid-tumor-drug-phase-3'&gt;Fierce Biotech&lt;/a&gt;, &lt;a href='https://endpoints.news/parabilis-medicines-charts-413m-ipo-to-back-peptide-pipeline/'&gt;Endpoints News&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;</description>
-      <guid isPermaLink="false">50c2910cbdce919ca7a13e7701af0200</guid>
-      <pubDate>Wed, 03 Jun 2026 22:00:22 GMT</pubDate>
+      <guid isPermaLink="false">ceee64726aaf0af793e5e365513c1d33</guid>
+      <pubDate>Thu, 04 Jun 2026 22:00:43 GMT</pubDate>
     </item>
     <item>
-      <title>NewLimit Age Reversal</title>
+      <title>Regeneron-Cytomx Partnership</title>
       <link>https://www.google.com</link>
       <description>&lt;ul&gt;
-  &lt;li&gt;&lt;b&gt;Summary:&lt;/b&gt; &lt;b&gt;NewLimit&lt;/b&gt; secured $435 million in financing after demonstrating age reversal effects in human liver cells. The company, co-founded by &lt;b&gt;Patrick Collison&lt;/b&gt; and &lt;b&gt;David Sinclair&lt;/b&gt;, is developing epigenetic reprogramming approaches to combat aging-related diseases.&lt;/li&gt;
-  &lt;li&gt;&lt;b&gt;MoAs:&lt;/b&gt; N/A (no specific drug named; platform based on epigenetic reprogramming)&lt;/li&gt;
-  &lt;li&gt;&lt;b&gt;Sources:&lt;/b&gt; &lt;a href="https://www.biospace.com/business/newlimit-snags-435m-after-seeing-age-reversal-in-human-liver-cells"&gt;BioSpace&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;</description>
-      <guid isPermaLink="false">68890d5b7f8ffaba48c1b3b377d258d6</guid>
-      <pubDate>Wed, 03 Jun 2026 22:00:22 GMT</pubDate>
-    </item>
-    <item>
-      <title>Axsome Patent Extension</title>
-      <link>https://www.google.com</link>
-      <description>&lt;ul&gt;
-  &lt;li&gt;&lt;b&gt;Summary:&lt;/b&gt; &lt;b&gt;Axsome Therapeutics&lt;/b&gt; secured a patent extension for its narcolepsy drug &lt;b&gt;Sunosi&lt;/b&gt; (solriamfetol), pushing generic competition back until at least 2040. The move protects a key revenue driver from early generic erosion.&lt;/li&gt;
-  &lt;li&gt;&lt;b&gt;MoAs:&lt;/b&gt; &lt;b&gt;Solriamfetol&lt;/b&gt; (Sunosi): Dopamine and norepinephrine reuptake inhibitor (DNRI) that promotes wakefulness in narcolepsy and obstructive sleep apnea.&lt;/li&gt;
-  &lt;li&gt;&lt;b&gt;Sources:&lt;/b&gt; &lt;a href="https://endpoints.news/axsome-pushes-back-generic-entry-for-narcolepsy-drug-until-2040/"&gt;Endpoints News&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;</description>
-      <guid isPermaLink="false">e1be44850958f2fa5ad31806d0a1bf7e</guid>
-      <pubDate>Wed, 03 Jun 2026 22:00:22 GMT</pubDate>
-    </item>
-    <item>
-      <title>Bristol Myers AI Costs</title>
-      <link>https://www.google.com</link>
-      <description>&lt;ul&gt;
-  &lt;li&gt;&lt;b&gt;Summary:&lt;/b&gt; &lt;b&gt;Bristol Myers Squibb&lt;/b&gt; is turning its focus to managing artificial intelligence costs after a broad rollout of AI tools across its workforce. The company aims to optimize efficiency while controlling spending on the technology.&lt;/li&gt;
+  &lt;li&gt;&lt;b&gt;Summary:&lt;/b&gt; Regeneron has expanded its relationship with Cytomx in a deal valued at up to $2 billion, adding eight new targets for cancer therapy. The collaboration will leverage Cytomx's Probody therapeutic platform to create conditionally activated antibodies for oncology.&lt;/li&gt;
   &lt;li&gt;&lt;b&gt;MoAs:&lt;/b&gt; N/A&lt;/li&gt;
-  &lt;li&gt;&lt;b&gt;Sources:&lt;/b&gt; &lt;a href="https://endpoints.news/bristol-myers-turns-focus-to-ai-costs-after-broad-rollout-to-workers/"&gt;Endpoints News&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;b&gt;Sources:&lt;/b&gt; &lt;a href='https://www.biospace.com/deals/regeneron-deepens-relationship-with-cytomx-adding-up-to-2b-and-eight-targets'&gt;BioSpace&lt;/a&gt;, &lt;a href='https://www.pharmaceutical-technology.com/news/regeneron-cytomx-cancer-therapy-partnership/'&gt;Pharmaceutical Technology&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;</description>
-      <guid isPermaLink="false">8f265ec44b82285b5fdeaed346d02b9f</guid>
-      <pubDate>Wed, 03 Jun 2026 22:00:22 GMT</pubDate>
+      <guid isPermaLink="false">566f0d76a5bb16b021a0b9886278a4a8</guid>
+      <pubDate>Thu, 04 Jun 2026 22:00:43 GMT</pubDate>
     </item>
     <item>
-      <title>Travere Rare Kidney Disease Deal</title>
+      <title>Axsome Sunosi Patent</title>
       <link>https://www.google.com</link>
       <description>&lt;ul&gt;
-  &lt;li&gt;&lt;b&gt;Summary:&lt;/b&gt; Travere Therapeutics announced a deal worth up to $1.1 billion to expand its rare kidney disease portfolio through a partnership with a Chinese company. The deal includes an upfront payment and milestones for rights to a candidate in Asia, aiming to strengthen Travere's pipeline in rare kidney diseases such as IgA nephropathy.&lt;/li&gt;
-  &lt;li&gt;&lt;b&gt;MoAs:&lt;/b&gt; N/A&lt;/li&gt;
-  &lt;li&gt;&lt;b&gt;Sources:&lt;/b&gt; &lt;a href="https://www.biospace.com/deals/travere-beefs-up-rare-kidney-disease-portfolio-with-up-to-1-1b-china-deal"&gt;BioSpace&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;b&gt;Summary:&lt;/b&gt; &lt;b&gt;Axsome Therapeutics&lt;/b&gt; has successfully defended its patent for &lt;b&gt;Sunosi&lt;/b&gt; (solriamfetol), a wakefulness-promoting agent for narcolepsy and obstructive sleep apnea, through 2040. The company fended off generic competition, ensuring market exclusivity for its blockbuster drug. Sunosi is a dual dopamine and norepinephrine reuptake inhibitor.&lt;/li&gt;
+  &lt;li&gt;&lt;b&gt;MoAs:&lt;/b&gt; Dopamine and norepinephrine reuptake inhibitor (DNRI).&lt;/li&gt;
+  &lt;li&gt;&lt;b&gt;Sources:&lt;/b&gt; &lt;a href="https://www.fiercepharma.com/pharma/axsome-fends-generic-competition-narcolepsy-med-sunosi-through-2040"&gt;Fierce Pharma&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;</description>
-      <guid isPermaLink="false">4e976e8bcbe50bec056cf7a3fbc6aa23</guid>
-      <pubDate>Wed, 03 Jun 2026 22:00:22 GMT</pubDate>
+      <guid isPermaLink="false">934bbece50a812ca4e3e264a2dd21d8b</guid>
+      <pubDate>Thu, 04 Jun 2026 22:00:43 GMT</pubDate>
     </item>
     <item>
-      <title>Cencora/Gilead CAR-T Network</title>
+      <title>Eli Lilly Ascidian Partnership</title>
       <link>https://www.google.com</link>
       <description>&lt;ul&gt;
-  &lt;li&gt;&lt;b&gt;Summary:&lt;/b&gt; Cencora (formerly AmerisourceBergen) and Gilead Sciences are expanding their CAR-T treatment center network to improve patient access to cell therapies. The collaboration focuses on streamlining logistics and support for authorized treatment centers across the US.&lt;/li&gt;
-  &lt;li&gt;&lt;b&gt;MoAs:&lt;/b&gt; N/A&lt;/li&gt;
-  &lt;li&gt;&lt;b&gt;Sources:&lt;/b&gt; &lt;a href="https://www.fiercepharma.com/pharma/deal-cencora-gilead-expands-car-t-treatment-center-network"&gt;Fierce Pharma&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;b&gt;Summary:&lt;/b&gt; &lt;b&gt;Eli Lilly&lt;/b&gt; has entered into a partnership with &lt;b&gt;Ascidian Therapeutics&lt;/b&gt; worth up to $1.9 billion to develop genetic medicines. The collaboration will leverage Ascidian's RNA exon editing platform to create therapies for a range of diseases. The deal includes an upfront payment and milestones.&lt;/li&gt;
+  &lt;li&gt;&lt;b&gt;MoAs:&lt;/b&gt; N/A (partnership-level news; no specific drug mechanism mentioned).&lt;/li&gt;
+  &lt;li&gt;&lt;b&gt;Sources:&lt;/b&gt; &lt;a href="https://www.pharmaceutical-technology.com/news/eli-lilly-ascidian-1-9bn-genetic-medicine-partnership/"&gt;Pharmaceutical Technology&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;</description>
-      <guid isPermaLink="false">e9bbe7786396a32c2c2ca173fa8b924a</guid>
-      <pubDate>Wed, 03 Jun 2026 22:00:22 GMT</pubDate>
+      <guid isPermaLink="false">ef42b21ba3d97d01d3cb74554276c0db</guid>
+      <pubDate>Thu, 04 Jun 2026 22:00:43 GMT</pubDate>
     </item>
     <item>
-      <title>Lilly/Boehringer Germany Investment</title>
+      <title>Dimension Life Sciences Fund</title>
       <link>https://www.google.com</link>
       <description>&lt;ul&gt;
-  &lt;li&gt;&lt;b&gt;Summary:&lt;/b&gt; Eli Lilly and Boehringer Ingelheim are reportedly planning to reduce their investments in Germany, citing changing market conditions and regulatory pressures. The decision could impact manufacturing and R&amp;D operations in the country.&lt;/li&gt;
+  &lt;li&gt;&lt;b&gt;Summary:&lt;/b&gt; &lt;b&gt;Dimension Life Sciences&lt;/b&gt; is seeking up to $750 million for its third life sciences fund, following a string of successful investments. The fund will focus on early-stage biotechnology and life sciences companies, providing capital for drug development and innovation.&lt;/li&gt;
   &lt;li&gt;&lt;b&gt;MoAs:&lt;/b&gt; N/A&lt;/li&gt;
-  &lt;li&gt;&lt;b&gt;Sources:&lt;/b&gt; &lt;a href="https://www.fiercepharma.com/pharma/lilly-boehringer-plan-slash-investment-germany-report"&gt;Fierce Pharma&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;b&gt;Sources:&lt;/b&gt; &lt;a href="https://endpoints.news/dimension-seeks-up-to-750m-for-third-life-sciences-fund-after-string-of-success/"&gt;Endpoints News&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;</description>
-      <guid isPermaLink="false">c672b5ffce999c188d59fb0e491bca19</guid>
-      <pubDate>Wed, 03 Jun 2026 22:00:22 GMT</pubDate>
+      <guid isPermaLink="false">4455e84b7c6f3e65169c01afada804b8</guid>
+      <pubDate>Thu, 04 Jun 2026 22:00:43 GMT</pubDate>
     </item>
   </channel>
 </rss>
